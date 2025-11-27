@@ -33,7 +33,7 @@ jobs:
         run: |
           echo "📥 Cloning data from ${{ env.SCRAPER_REPO }}..."
           git clone --depth 1 https://github.com/${{ env.SCRAPER_REPO }}.git scraper-data
-          
+
           # Check if _data folder exists
           if [ -d "scraper-data/_data/${{ env.STATE_CODE }}" ]; then
             echo "✅ Found scraped data in _data/${{ env.STATE_CODE }}"
