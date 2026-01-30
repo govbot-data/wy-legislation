@@ -17,7 +17,7 @@ on:
 
 env:
   STATE_CODE: wy
-  SCRAPER_REPO: chn-openstates-scrapers/wy-legislation
+  SCRAPER_REPO: govbot-openstates-scrapers/wy-legislation
 
 jobs:
   format:
@@ -33,7 +33,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run formatter action
-        uses: windy-civi/toolkit/actions/format@add-dcat-data-json-generation
+        uses: chihacknight/govbot/actions/format@main
         with:
           state: ${{ env.STATE_CODE }}
           scraper-repo: ${{ env.SCRAPER_REPO }}
