@@ -1,0 +1,92 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0190
+HOUSE BILL NO. HB0046
+Electricity from solar and nuclear resources-taxation.
+Sponsored by: Joint Revenue Interim Committee
+A BILL
+for
+1 AN ACT relating to taxes on electricity production;
+2 amending the tax on the production of electricity from wind
+3 resources to include a tax on the production of electricity
+4 from solar and nuclear generating resources; making
+5 conforming amendments; repealing the existing tax on
+6 electricity produced from nuclear reactors; and providing
+7 for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 39-22-101, 39-22-103, 39-22-105(b)
+12 and 39-22-107(a) are amended to read:
+13
+14 CHAPTER 22
+15 TAX UPON PRODUCTION OF ELECTRICITY FROM WIND, SOLAR
+16 AND NUCLEAR RESOURCES
+1 HB0046
+
+2026 STATE OF WYOMING 26LSO-0190
+1
+2 39-22-101. Definitions.
+3
+4 There are no specific applicable provisions for definitions
+5 for As used in this chapter, "generating facility" means
+6 any facility generating electricity from wind or solar
+7 resources in this state and any facility generating
+8 electricity from a nuclear reactor in this state.
+9
+10 39-22-103. Imposition.
+11
+12 There is levied an excise tax upon the privilege of
+13 producing electricity from wind, solar and nuclear
+14 generating resources in this state. The tax shall be
+15 imposed upon the production of any electricity produced
+16 from wind resources for sale or trade on or after January
+17 1, 2012, by the generating facility and shall be paid by
+18 the person producing such electricity. The tax shall be
+19 imposed on each megawatt hour of electricity produced from
+20 wind resources the generating facility at the point of
+21 interconnection with an electric transmission line.
+22
+23 39-22-105. Exemptions.
+2 HB0046
+
+2026 STATE OF WYOMING 26LSO-0190
+1
+2 (b) Electricity produced from a wind turbine the
+3 generating facility shall not be subject to the tax imposed
+4 under this chapter until the date three (3) years after the
+5 turbine generating facility first produced electricity for
+6 sale. After such date the production shall be subject to
+7 the tax, as provided by W.S. 39-22-103, regardless of
+8 whether production first commenced prior to or after
+9 January 1, 2012.
+10
+11 39-22-107. Compliance; collection procedures.
+12
+13 (a) Returns and reports. Any person producing
+14 electricity from wind resources within this state which is
+15 subject to the tax imposed by this chapter shall report the
+16 amount of megawatt hours produced in this state on or
+17 before February 1 of the year immediately following the
+18 year in which the electricity was produced.
+19
+20 Section 2. W.S. 39-23-101 through 39-23-111 are
+21 repealed.
+22
+3 HB0046
+
+2026 STATE OF WYOMING 26LSO-0190
+1 Section 3. This act shall apply to electricity
+2 generated from solar resources or from nuclear generating
+3 facilities on or after January 1, 2027.
+4
+5 Section 4. This act is effective January 1, 2027.
+6
+7 (END)
+4 HB0046

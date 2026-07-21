@@ -1,0 +1,88 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0001H2114 (2nd reading) - Representative Filer (Failed)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0001H2114
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 328. [ADDITIONS TO 300 SECTIONS]
+* * * * * * * * * *
+1 Page 141-after line 19 Insert the following new section and
+2 renumber as necessary:
+3
+4 "[TECHNOLOGY REPLACEMENT PROGRAM]
+5
+6 Section 328.
+7
+8 (a) For the period beginning July 1, 2026 and ending June 30,
+9 2028, there is appropriated to the state auditor for the technology
+10 replacement program four million ninety-eight thousand seven
+11 hundred twenty-eight dollars ($4,098,728.00) from the funds and to
+12 the departments specified in this section:
+13
+14 DEPARTMENT GF FF OF Total
+15 001 Office of the Governor 20,202 20,202
+16 002 Secretary of State 28,349 28,349
+17 004 State Treasurer 4,882 33,658 SR 38,540
+18 006 Administration and Information 141,825 17,814 IS
+19 3,440 SR 163,079
+20 007 Wyoming Military Department 45,813 45,813
+21 008 Office of the Public Defender 39,355 6,945 SR 46,300
+22 010 Department of Agriculture 72,836 72,836
+23 011 Department of Revenue 321,820 15,589 EF 337,409
+24 014 Miners' Hospital Board 4,930 T2 4,930
+25 015 Attorney General 438,121 1,642 2,190 S5
+26 4,380 SR
+27 730 TT 447,063
+28 018 Real Estate Commission 7,009 SR 7,009
+29 019 Professional Teaching Standards Board 11,120 SR 11,120
+30 020 Department of Environmental Quality 175,617 175,617
+31 021 Department of Audit 47,034 12,117 31,057 SR 90,208
+32 024 State Parks & Cultural Resources 92,190 15,966 SR 108,156
+33 027 State Construction Department 11,054 14,680 S5 25,734
+34 033 Board of Cosmetology 4,840 SR 4,840
+35 037 State Engineer 51,100 51,100
+36 038 Wyoming Gaming Commission 14,709 SR 14,709
+37 039 Wildlife/Natural Resource Trust 2,421 SR 2,421
+38 041 Fire Prevention & Elec Safety 21,857 21,857
+39 042 Geological Survey 48,517 48,517
+40 045 Department of Transportation 161,740 S7 161,740
+41 048 Department of Health 751,342 751,342
+42 049 Department of Family Services 40,487 7,145 47,632
+43 051 Livestock Board 15,344 36,622 SR 51,966
+44 052 Board of Medicine 6,185 SR 6,185
+1
+
+1 053 Department of Workforce Services 114,212 161,326 84,610 EF 360,148
+2 054 Board of Nursing 5,237 SR 5,237
+3 055 Oil and Gas Commission 16,289 SR 16,289
+4 057 Community College Commission 19,517 19,517
+5 060 State Lands and Investments 93,252 93,252
+6 066 Wyoming Tourism Board 11,310 S14 11,310
+7 072 Retirement System 33,647 PF 33,647
+8 075 Board of Outfitters and Guides 3,552 SR 3,552
+9 077 Enterprise Technology Services 110,647 50,332 IS
+10 3,770 S5 164,749
+11 080 Department of Corrections 461,930 461,930
+12 096 State Budget Department 12,161 12,161
+13 098 Office of Guardian ad Litem 4,472 1,118 SR 5,590
+14 103 Comm On Judicial Conduct & Ethics 1,259 1,259
+15 151 District Attorney/Jud Dist #1 54,500 54,500
+16 157 District Attorney/Jud Dist #7 17,735 17,735
+17 206 Department of Education 47,450 47,450
+18 220 Environmental Quality Council 2,565 2,565
+19 270 Office of Administrative Hearings 3,163 SR 3,163
+20 3,307,445 182,230 609,053 4,098,728
+21
+22 (b) Appropriations in subsection (a) of this section are exempt
+23 from the limitations on transfer of funds under Section 305 of
+24 this act in a total amount not to exceed four million ninety-eight
+25 thousand seven hundred twenty-eight dollars ($4,098,728.00).".
+26
+27 To the extent required by this amendment: adjust totals; and
+28 renumber as necessary. FILER, LARSEN, L, LARSON, JT
+2

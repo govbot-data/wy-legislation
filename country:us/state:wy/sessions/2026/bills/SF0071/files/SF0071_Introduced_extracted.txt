@@ -1,0 +1,796 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0228
+SENATE FILE NO. SF0071
+Wyoming department of homeland security.
+Sponsored by: Senator(s) Olsen, Crago and Kolb and
+Representative(s) Filer, Singh and Washut
+A BILL
+for
+1 AN ACT relating to the administration of the government;
+2 reconstituting the office of homeland security as the
+3 Wyoming department of homeland security; specifying duties
+4 and budget requirements for the department; specifying the
+5 transfer of assets, obligations and duties of the office of
+6 homeland security to the department of homeland security;
+7 making conforming amendments; requiring reports; specifying
+8 applicability; and providing for effective dates.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1.
+13
+14 (a) The Wyoming office of homeland security created
+15 in the Wyoming Homeland Security Act is hereby transferred
+1 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 from the office of the governor to the Wyoming department
+2 of homeland security, as created in this act, on July 1,
+3 2026. All property, equipment, obligations and unexpended
+4 funds of the office of homeland security are transferred to
+5 the department of homeland security, except as provided in
+6 this section.
+7
+8 (b) The following shall apply to the reorganization
+9 specified in subsection (a) of this section:
+10
+11 (i) No plan of reorganization under W.S.
+12 9-2-1707(a)(iii) for the transfer of the office of homeland
+13 security from the office of the governor to the department
+14 of homeland security shall be required;
+15
+16 (ii) Upon the creation of the department of
+17 homeland security in accordance with this act, the governor
+18 shall appoint a director of the department. Nothing in this
+19 paragraph shall prevent the governor from appointing the
+20 director who was appointed under W.S. 19-13-104(d) as the
+21 director of the department;
+22
+2 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (iii) Upon the transfer of the office of
+2 homeland security under this section, the department of
+3 homeland security shall assume all duties and authorities
+4 granted under Wyoming law.
+5
+6 (c) Nothing in this act shall be construed to impair
+7 any existing contracts, agreements or other obligations of
+8 the Wyoming office of homeland security executed before the
+9 effective date of this act. The Wyoming department of
+10 homeland security shall, to the greatest extent authorized
+11 by law, fulfill existing agreements, contracts and other
+12 obligations of the office of homeland security from funds
+13 transferred under this act or other funds appropriated to
+14 the department of homeland security for those purposes. To
+15 the extent that the office of homeland security has
+16 outstanding contracts, agreements or other obligations that
+17 cannot be assumed lawfully by the department of homeland
+18 security, the office of the governor shall assume those
+19 contracts, agreements or other obligations.
+20
+21 (d) The following shall be transferred to the Wyoming
+22 department of homeland security on July 1, 2026, subject to
+23 subsection (c) of this section:
+3 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1
+2 (i) Any unexpended, unobligated funds
+3 appropriated to the office of homeland security or to the
+4 office of the governor, homeland security division
+5 (department 001, division 1100) during the 2026 budget
+6 session;
+7
+8 (ii) Any full-time or part-time positions
+9 provided or granted to the office of homeland security or
+10 to the office of the governor, homeland security division
+11 (department 001, division 1100) during the 2026 budget
+12 session;
+13
+14 (iii) Any other unexpended, unobligated funds
+15 that the office of homeland security is authorized to
+16 maintain on and after July 1, 2026.
+17
+18 (e) Not later than October 1, 2026, the department of
+19 homeland security shall report to the joint judiciary
+20 interim committee on the transfer required under this act.
+21
+22 Section 2. W.S. 9-2-2022 is created to read:
+23
+4 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 9-2-2022. Wyoming department of homeland security
+2 created.
+3
+4 As part of the reorganization of Wyoming state government,
+5 there is created the Wyoming department of homeland
+6 security consisting of the Wyoming office of homeland
+7 security created in the Wyoming Homeland Security Act. The
+8 department of homeland security shall not be subject to a
+9 transition period as defined in W.S. 9-2-1703(a)(ix). A
+10 reorganization plan shall not be required of the director.
+11
+12 Section 3. W.S. 5-11-101(a)(intro), 7-19-106(a)(xiv),
+13 7-19-201(e), 9-2-1102(a)(xix), 18-3-402(a)(xxvi),
+14 19-13-102(a)(v), 19-13-103(a)(i), 19-13-104(a), (d)(intro),
+15 (i) and by creating a new paragraph (vii), 19-13-105(a),
+16 (b), (c)(intro), (i), (d) and (e), 19-13-113(c),
+17 19-13-117(a) through (c), (e)(intro), (ii) and (g),
+18 19-13-301(b) and (c)(intro), 19-13-302(a) and (b),
+19 19-13-303(a)(intro), 19-13-501(a)(iii) and (v),
+20 24-12-102(c)(intro) and (i)(A), 31-2-234(b),
+21 35-9-152(a)(viii), (x) and (xii), 35-9-153(a)(intro), (c),
+22 (e) and (g), 35-9-154(a)(intro), 35-9-155(d)(intro),
+23 35-9-156(a) and 35-9-157(c)(iii) are amended to read:
+5 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1
+2 5-11-101. Wyoming court security commission created;
+3 membership; powers and duties; compensation; report
+4 required.
+5
+6 (a) The Wyoming court security commission is created
+7 under the supervision of the Wyoming supreme court. The
+8 commission shall be composed of the director of the office
+9 department of homeland security or his the director's
+10 designee and nine (9) additional members who shall be
+11 appointed for a term of three (3) years commencing July 1,
+12 2008, who may be reappointed to serve subsequent terms.
+13 The nine (9) additional members shall include:
+14
+15 7-19-106. Access to, and dissemination of,
+16 information.
+17
+18 (a) Criminal history record information shall be
+19 disseminated by criminal justice agencies in this state,
+20 whether directly or through any intermediary, only to:
+21
+22 (xiv) The office department of homeland security
+23 for purposes of obtaining background information on
+6 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 prospective homeland security workers and regional
+2 emergency response team participants;
+3
+4 7-19-201. State or national criminal history record
+5 information.
+6
+7 (e) The Wyoming military department, any public fire
+8 department, ambulance service or regional emergency
+9 response team may as a condition of employment or other
+10 participation with the entity require all applicants for
+11 employee or volunteer positions with the entity to submit
+12 to fingerprinting in order to obtain state and national
+13 criminal history record information. In addition, the
+14 office department of homeland security may as a condition
+15 of participation in a regional emergency response team
+16 require all team participants to submit to fingerprinting
+17 in order to obtain state and national criminal history
+18 record information.
+19
+20 9-2-1102. Commission; composition; appointment of
+21 members; removal; terms; officers; vacancies; meetings.
+22
+7 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (a) The commission shall consist of thirteen (13)
+2 voting members to be appointed by the governor and who may
+3 be removed by the governor as provided in W.S. 9-1-202. The
+4 voting members shall be appointed from each of the
+5 following associations and agencies from their membership:
+6
+7 (xix) The Wyoming office department of homeland
+8 security.
+9
+10 18-3-402. Duties generally.
+11
+12 (a) The county clerk shall:
+13
+14 (xxvi) Report all conveyances, as defined by
+15 W.S. 19-13-501(a)(i), to the director of the office
+16 department of homeland security and the division of
+17 criminal investigation in accordance with W.S. 19-13-501
+18 and 19-13-502.
+19
+20 CHAPTER 13
+21 WYOMING DEPARTMENT OF HOMELAND SECURITY
+22
+23 19-13-102. Definitions.
+8 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1
+2 (a) As used in this act:
+3
+4 (v) "Director" means the director, office of the
+5 department of homeland security appointed pursuant to W.S.
+6 19-13-104;
+7
+8 19-13-103. Legislative determination; coordination
+9 with federal government and other states.
+10
+11 (a) Because of the possibility of the occurrence of
+12 disasters of unprecedented size and destructiveness
+13 resulting from enemy attack, sabotage, terrorism, civil
+14 disorder or other hostile action, or from fire, flood,
+15 earthquake, other natural causes and other technological
+16 disasters, and to insure that preparations of Wyoming will
+17 be adequate to deal with such disasters, and generally to
+18 provide for the common defense and to protect the public
+19 peace, health and safety, and to preserve the lives and
+20 property of the people of Wyoming, it is hereby found and
+21 declared to be necessary:
+22
+9 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (i) To create a Wyoming office department of
+2 homeland security, within the governor's office, and to
+3 authorize the creation of local homeland security programs
+4 in the political subdivisions of the state;
+5
+6 19-13-104. Powers of governor generally; director,
+7 department of homeland security.
+8
+9 (a) The governor has general direction and control of
+10 the office of homeland security, and is and, if delegated
+11 under this subsection, the director are responsible for the
+12 carrying out of the provisions of this act, and in the
+13 event of disaster beyond local control, the governor may
+14 assume direct operational control over all or any part of
+15 the homeland security functions within Wyoming. The
+16 governor may delegate such any powers specified in this
+17 section to the director established under subsection (d) of
+18 this section, or through the director to the deputy
+19 director to carry out this act.
+20
+21 (d) The position of the director, office of the
+22 department of homeland security is created in the
+23 governor's office and shall be appointed by the governor.
+10 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 He shall be responsible to the governor and The director
+2 may be removed by the governor as provided in W.S. 9-1-202.
+3 The director shall:
+4
+5 (i) Supervise the Wyoming office department of
+6 homeland security;
+7
+8 (vii) Prepare and submit a budget for the
+9 department of homeland security in accordance with W.S.
+10 9-2-1010 through 9-2-1014.3.
+11
+12 19-13-105. Homeland security program.
+13
+14 (a) The office department of homeland security within
+15 the governor's office is created. The governor director
+16 shall appoint a deputy director of the office department of
+17 homeland security, with the approval of the governor. The
+18 director may appoint such assistants as may be necessary.
+19 The director and his the director's assistants shall be
+20 compensated in an amount to be determined and fixed by the
+21 Wyoming human resources division of the department of
+22 administration and information. The deputy director shall
+11 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 serve at the pleasure of the governor and may be removed as
+2 provided in W.S. 9-1-202 director.
+3
+4 (b) The director may employ technical, clerical,
+5 stenographic and other personnel and make such expenditures
+6 within the appropriations or from other funds made
+7 available to him the director for purposes of homeland
+8 security as necessary to carry out this act. He The
+9 director shall be provided with necessary and appropriate
+10 office space, furniture, equipment, stationery and printing
+11 in the same manner as for personnel of other state
+12 agencies.
+13
+14 (c) The director is the administrative head of the
+15 Wyoming office department of homeland security. In addition
+16 to the duties described in W.S. 19-13-104(d), the director:
+17
+18 (i) Shall be responsible, to in consultation
+19 with the governor and in accordance with this act, for the
+20 implementation of the state program for homeland security
+21 for Wyoming;
+22
+12 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (d) The deputy director shall perform duties as
+2 assigned by the director and, in the absence of the
+3 director, he is the administrative head of the Wyoming
+4 office department of homeland security.
+5
+6 (e) The office department of homeland security may
+7 receive and share criminal identification, intelligence and
+8 criminal history information available to law enforcement
+9 agencies for the purposes provided by W.S. 19-13-103.
+10
+11 19-13-113. State and political subdivisions exempt
+12 from liability; exceptions; license to practice not
+13 required; homeland security worker defined; recognized
+14 educational programs; real estate owners exempt from
+15 liability; criminal history record information.
+16
+17 (c) As used in this section, "homeland security
+18 worker" includes any full or part-time paid, volunteer or
+19 auxiliary employee of any state, territories or possessions
+20 of the United States, the District of Columbia, any
+21 neighboring country, any political subdivision thereof, or
+22 any agency or program performing homeland security services
+23 at any place in this state subject to the order or control
+13 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 of or pursuant to a request of the state government or any
+2 political subdivision thereof and includes instructors and
+3 students in recognized educational programs where homeland
+4 security services are taught. A recognized educational
+5 program includes programs in educational institutions duly
+6 existing under the laws of this state and such other
+7 educational programs as are established by the office
+8 department of homeland security or otherwise under this
+9 act.
+10
+11 19-13-117. Lifesaver programs; process for grants;
+12 administration; account established; rules; grant criteria.
+13
+14 (a) The office department of homeland security shall
+15 administer a lifesaver program to provide grants to
+16 counties for search and rescue designed to quickly find a
+17 person suffering from Down syndrome, brain injuries,
+18 autism, Alzheimer's or other dementia related disorders who
+19 wanders and becomes lost and missing. The program shall
+20 operate on a county basis, under which participants wear
+21 transmitters to allow the county sheriff's departments to
+22 electronically locate participants if necessary.
+23
+14 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (b) The office department of homeland security shall
+2 establish by rule and regulation an application procedure
+3 and calendar for grants under this section and adopt other
+4 rules as necessary to implement this section.
+5
+6 (c) In administering this program, the office
+7 department of homeland security and counties shall
+8 establish a policy of including private sector participants
+9 to the fullest extent possible unless a viable private
+10 sector solution does not exist.
+11
+12 (e) The office department of homeland security shall
+13 provide grants, subject to the following:
+14
+15 (ii) The director of the office department of
+16 homeland security shall prioritize the grant awards in
+17 accordance with the respective needs of each county for
+18 tracking services and the availability of local funding
+19 sources, as documented in the applications submitted.
+20
+21 (g) The lifesaver program account is created. The
+22 account shall consist of those funds appropriated to the
+23 account by the legislature and all monies received from
+15 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 federal grants and other contributions, grants, gifts,
+2 transfers, bequests and donations to the account. The
+3 office department of homeland security is specifically
+4 empowered to accept grants, gifts, transfers, bequests and
+5 donations to the account. Funds in the account shall only
+6 be expended by the office department of homeland security
+7 for the purpose of providing grants under this section.
+8
+9 19-13-301. Search and rescue account; created;
+10 expenditures.
+11
+12 (b) Revenues deposited within the search and rescue
+13 account shall be expended by the Wyoming office department
+14 of homeland security to reimburse counties for costs
+15 directly incurred in a specific search and rescue
+16 operation, subject to W.S. 19-13-302 and rules and
+17 regulations adopted by the Wyoming search and rescue
+18 council. Expenditures for reimbursement pursuant to this
+19 subsection shall receive priority over all other authorized
+20 account expenditures. No revenues deposited within the
+21 account shall be used to reimburse counties for any salary
+22 or benefits normally paid to its employees.
+23
+16 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (c) Subject to subsection (b) of this section, the
+2 Wyoming office department of homeland security may expend
+3 revenues available within the search and rescue account for
+4 other search and rescue program purposes including:
+5
+6 19-13-302. Search and rescue account administration.
+7
+8 (a) Any county sheriff's office in this state may
+9 make a claim on the search and rescue account for
+10 reimbursement of costs directly incurred in the performance
+11 of search and rescue activities. Any claim made pursuant to
+12 this subsection shall be submitted to the Wyoming office
+13 department of homeland security. Upon receipt, the Wyoming
+14 office department of homeland security shall transmit the
+15 claim to the Wyoming search and rescue council for review
+16 and action in accordance with subsection (b) of this
+17 section.
+18
+19 (b) The Wyoming search and rescue council shall
+20 review and act upon all claims submitted under subsection
+21 (a) of this section no later than June 30 following the
+22 year in which expenses were incurred for the claim
+23 submitted. If there are insufficient funds to pay all
+17 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 approved claims, the Wyoming office department of homeland
+2 security shall prorate reimbursement among all approved
+3 claims. Payments authorized through the Wyoming office
+4 department of homeland security pursuant to this section
+5 shall be paid by the state treasurer by warrant issued by
+6 the state auditor upon vouchers signed by the director, of
+7 the Wyoming office department of homeland security or his
+8 the director's designee.
+9
+10 19-13-303. Search and rescue council; appointment;
+11 vacancies; compensation; duties.
+12
+13 (a) The Wyoming search and rescue council is
+14 established and shall consist of eleven (11) voting
+15 members. The director of the Wyoming office department of
+16 homeland security, or his the director's designee, shall
+17 serve as a voting member and the permanent executive
+18 secretary to the council. The governor shall appoint the
+19 remaining ten (10) members to serve four (4) year terms as
+20 follows:
+21
+22 19-13-501. Definitions.
+23
+18 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (a) As used in this article:
+2
+3 (iii) "Critical infrastructure zone" means an
+4 area of property, whether covering the surface estate,
+5 mineral estate, pore space estate or nonphysical property,
+6 designated by the governor in consultation with the
+7 director of the office department of homeland security as
+8 property encompassing critical infrastructure;
+9
+10 (v) "Director" means the director of the office
+11 department of homeland security appointed under W.S.
+12 19-13-104;
+13
+14 24-12-102. Duties generally; emergencies;
+15 coordination.
+16
+17 (c) The state highway patrol shall coordinate with
+18 local, tribal, state and federal law enforcement agencies,
+19 the Wyoming office department of homeland security and any
+20 other appropriate entity to operate an alert system under
+21 the integrated public alert and warning system or successor
+22 system, adhering to the United States department of justice
+23 criteria. The state highway patrol shall operate and
+19 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 integrate additional missing persons alert communications
+2 networks that enable and help facilitate search efforts for
+3 an adult at risk or other missing person of an age, needs
+4 or circumstances that may fall outside the scope of the
+5 America's missing: broadcast emergency response alert
+6 criteria. The state highway patrol shall report annually to
+7 the division of criminal investigation the number of times
+8 and dates that the alert systems were used, the age, race
+9 and gender of the abducted person, whether the abduction
+10 was thwarted and whether an alert system assisted in
+11 resolving the abduction. In addition:
+12
+13 (i) If the Eastern Shoshone Tribe, the Northern
+14 Arapaho Tribe or the cooperative tribal governing body:
+15
+16 (A) Operate or seek to operate an alert
+17 system under the integrated public alert and warning system
+18 or successor system on the Wind River Indian Reservation,
+19 adhering to the United States department of justice
+20 criteria, or operate or seek to operate an additional
+21 missing persons alert communications network also operated
+22 by the state, the Wyoming office department of homeland
+23 security and state highway patrol shall assist and
+20 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 coordinate with any tribal agency in establishing,
+2 integrating or operating that system;
+3
+4 31-2-234. Search and rescue license plates.
+5
+6 (b) The fees collected under subsection (a) of this
+7 section shall be payable to the department or county
+8 treasurer and shall be accounted for separately. Except as
+9 otherwise provided by law, the fees collected under
+10 subsection (a) of this section shall be distributed to the
+11 search and rescue account within the office department of
+12 homeland security as created in W.S. 19-13-301. Funds
+13 distributed to the search and rescue account under this
+14 section shall be administered in accordance with the
+15 following:
+16
+17 (i) The funds deposited in the search and rescue
+18 account under this section are continuously appropriated to
+19 the office department of homeland security and shall only
+20 be used for the purposes provided in W.S. 19-13-301(b) and
+21 19-13-301(c);
+22
+21 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (ii) The office department of homeland security
+2 may establish methods to accept voluntary contributions in
+3 support of search and rescue activities for deposit into
+4 the search and rescue account. The office department of
+5 homeland security may suggest and solicit specific
+6 contribution amounts;
+7
+8 (iii) The department, in consultation with the
+9 Wyoming office department of homeland security, is
+10 authorized to receive and credit to the search and rescue
+11 account, any money or property of any kind or character
+12 donated, granted or bequeathed to Wyoming search and rescue
+13 activities. The office department of homeland security
+14 shall have the authority to carry out the terms, if any, of
+15 the grant, donation or bequest, or in the absence of any
+16 terms or limitations, to expend the money or the proceeds
+17 of the property as it may deem advisable for search and
+18 rescue activities under the provisions of this section and
+19 W.S. 19-13-301.
+20
+21 35-9-152. Definitions.
+22
+23 (a) As used in this act:
+22 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1
+2 (viii) "Regional emergency response team" means
+3 any group of local government emergency responders brought
+4 together and supported by the state and confirmed by the
+5 director, office department of homeland security to assist
+6 an affected jurisdiction within the different regions of
+7 the state with the intent to protect life and property
+8 against the dangers of incidents and emergencies involving
+9 hazardous materials or weapons of mass destruction;
+10
+11 (x) "Director, office department of homeland
+12 security" means as defined in W.S. 19-13-102(a)(v);
+13
+14 (xii) "Weapons of mass destruction" means as
+15 defined in 18 U.S.C. 2332(a) as of April 1, 2004, or as
+16 subsequently defined by rules and regulations of the
+17 director, office department of homeland security;
+18
+19 35-9-153. State emergency response commission;
+20 creation; duties.
+21
+22 (a) There is created a state emergency response
+23 commission that shall consist of members appointed by the
+23 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 governor to advise the director, office department of
+2 homeland security and the department of homeland security
+3 with respect to activities under this act. The commission
+4 shall consist of not less than four (4) members
+5 representing the mining, trucking, manufacturing, energy
+6 and railroad industries, one (1) member each from the
+7 legislature, local government, local law enforcement, fire
+8 services, the Eastern Shoshone tribe, the Northern Arapaho
+9 tribe, homeland security, the media, the medical field,
+10 emergency medical services and the general public, and one
+11 (1) representative from each of the following state
+12 agencies:
+13
+14 (c) The commission shall appoint a chairman and other
+15 officers deemed necessary from among its members. The
+16 commission may meet as often as deemed necessary by a
+17 majority of the commission or at the request of the
+18 director, office department of homeland security.
+19 Commission members who are not state employees may be
+20 reimbursed for per diem and mileage for attending
+21 commission meetings in the same manner and amount as state
+22 employees.
+23
+24 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 (e) The commission shall review collection and
+2 disbursement of funds and advise the director, office
+3 department of homeland security on activities and
+4 responsibilities under this act.
+5
+6 (g) The commission shall perform all duties and acts
+7 prescribed by 42 U.S.C. 11001 et seq., and all other
+8 applicable law, with the assistance of the Wyoming office
+9 department of homeland security and other state agencies
+10 determined to be necessary by the commission.
+11
+12 35-9-154. Emergency response training, planning and
+13 reporting.
+14
+15 (a) After consultation with the commission and the
+16 state fire marshal, the director, office department of
+17 homeland security shall:
+18
+19 35-9-155. Regional response teams; rulemaking.
+20
+21 (d) The director, office department of homeland
+22 security, in consultation with the state fire marshal and
+25 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 subject to approval by the state emergency response
+2 commission, shall:
+3
+4 35-9-156. Local response authority.
+5
+6 (a) Every political subdivision of the state shall
+7 designate a local emergency response authority for
+8 responding to and reporting of hazardous material or
+9 weapons of mass destruction incidents that occur within its
+10 jurisdiction. The designation of a local emergency response
+11 authority and copies of any accompanying agreements and
+12 other pertinent documentation created pursuant to this
+13 section shall be filed with the director, office department
+14 of homeland security within seven (7) days of the agreement
+15 being reduced to writing and signed by all appropriate
+16 persons.
+17
+18 35-9-157. Right to claim reimbursement.
+19
+20 (c) Local emergency response authorities and regional
+21 emergency response teams shall be entitled to recover their
+22 reasonable and necessary costs incurred as a result of
+23 their response to a hazardous material or weapons of mass
+26 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 destruction incident. Costs subject to recovery under this
+2 act include, but are not limited to, the following:
+3
+4 (iii) A reasonable fee, as established through
+5 rules and regulations of the director, office department of
+6 homeland security, for the use of equipment, including
+7 rolling stock, in responding to a hazardous materials or
+8 weapons of mass destruction incident outside the
+9 responders' normal jurisdiction;
+10
+11 Section 4. W.S. 11-14-118(a), (b), (d) and (e)(ii) is
+12 amended to read:
+13
+14 11-14-118. Registration of ammonium nitrate.
+15
+16 2009 Wyoming Session Laws, Chapter 92, provides this
+17 section is effective on and after July 1, 2009 only upon
+18 certification of the governor to the secretary of state
+19 that the United States department of homeland security has
+20 published final federal rules under H.R. 2764, Subtitle J,
+21 Secure Handling of Ammonium Nitrate or its successor. As
+22 of the date of the publication of the 2009 Wyoming statutes
+23 no such certification had been made.
+27 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1
+2 (a) Any person who possesses ammonium nitrate or
+3 regulated ammonium nitrate materials shall be registered
+4 with the department. The registration application shall be
+5 on a form approved by the director in consultation with and
+6 upon the recommendation of the director of the office
+7 department of homeland security. The director shall charge
+8 an annual registration fee not to exceed fifty dollars
+9 ($50.00). Nothing in this section shall require the
+10 registration of any person who produces, sells or purchases
+11 ammonium nitrate exclusively for use in the production of
+12 an explosive under a license or permit issued under chapter
+13 40 of title 18, U.S.C.
+14
+15 (b) Ammonium nitrate and regulated ammonium nitrate
+16 materials shall be secured to provide reasonable protection
+17 against vandalism, theft or other unauthorized use.
+18 Reasonable protection may include, but not be limited to,
+19 ensuring that storage facilities are fenced and locked when
+20 unattended, and inspected daily for signs of attempted
+21 entry or vandalism to any storage facility. The director
+22 in consultation with or upon the recommendation of the
+23 director of the office department of homeland security, may
+28 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 recommend other security measures. The director shall work
+2 in consultation with or upon the recommendation of the
+3 director of the office department of homeland security to
+4 provide information to ammonium nitrate users on
+5 appropriate security measures.
+6
+7 (d) Registrants shall comply with all federal and
+8 state requirements regarding the dissemination of any
+9 information, providing the director and the director of the
+10 office department of homeland security access to the
+11 records.
+12
+13 (e) For the purposes of this section:
+14
+15 (ii) "Regulated ammonium nitrate materials"
+16 means regulated ammonium nitrate material fertilizer
+17 products which have been determined by the director in
+18 consultation with and upon the recommendation of the
+19 director of the office department of homeland security to
+20 warrant regulation based on the potential explosive
+21 capacity of the fertilizer material determined by the
+22 ammonium nitrate content.
+23
+29 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 Section 5. W.S. 31-1-202(d), as amended by 2025
+2 Wyoming Session Laws, Chapter 35, Section 2 and effective
+3 July 1, 2027, is amended to read:
+4
+5 31-1-202. Records.
+6
+7 (d) The department shall maintain records of vehicle
+8 registrations from all counties indexed by distinctive
+9 vehicle numbers assigned by the department, the name of the
+10 registered owner and vehicle identification numbers. The
+11 department shall maintain a record of all vehicle
+12 certificates of title from all counties in the electronic
+13 lien and title system established under W.S. 31-2-113.
+14 Records are public and open to inspection by the public
+15 during reasonable office hours. The department shall
+16 maintain a vehicle identification number index of all
+17 vehicles for which certificates of title have been issued.
+18 Upon receipt of a notice of issuance of a certificate of
+19 title from any county clerk the department may destroy all
+20 records relating to former transfers of title to the
+21 vehicle and shall retain only the notice of issuance of the
+22 certificate of title in effect at any time. The department
+23 may annually compile and publish a list of all registered
+30 SF0071
+
+2026 STATE OF WYOMING 26LSO-0228
+1 vehicles and supplements thereto which shall be furnished
+2 to Wyoming peace officers and the Wyoming office department
+3 of homeland security without charge.
+4
+5 Section 6.
+6
+7 (a) Except as provided in subsection (b) of this
+8 section, this act is effective July 1, 2026.
+9
+10 (b) Sections 1 and 6 of this act are effective
+11 immediately upon completion of all acts necessary for a
+12 bill to become law as provided by Article 4, Section 8 of
+13 the Wyoming Constitution.
+14
+15 (END)
+31 SF0071

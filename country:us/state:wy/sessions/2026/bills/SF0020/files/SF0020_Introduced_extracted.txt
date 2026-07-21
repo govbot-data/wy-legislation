@@ -1,0 +1,245 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0012
+SENATE FILE NO. SF0020
+Data privacy-government entities.
+Sponsored by: Select Committee on Blockchain, Financial
+Technology and Digital Innovation Technology
+A BILL
+for
+1 AN ACT relating to the administration of the government;
+2 requiring government entities to adopt policies for the
+3 collection, access, security and use of personal data as
+4 specified; requiring specific personal data policies;
+5 providing definitions; specifying applicability; and
+6 providing for effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 9-21-201 and 9-21-202 are created to
+11 read:
+12
+13 ARTICLE 2
+14 DATA PRIVACY-GOVERNMENT ENTITIES
+15
+1 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1 9-21-201. Definitions.
+2
+3 (a) As used in this article:
+4
+5 (i) "Deidentified data" means data that cannot
+6 reasonably be used to infer information about, or otherwise
+7 be linked to, an identified or identifiable natural person
+8 or personal digital identity or a device linked to a
+9 natural person or personal digital identity;
+10
+11 (ii) "Government entity" means the state and all
+12 its political subdivisions, agencies, instrumentalities and
+13 institutions and any local government entity. "Government
+14 entity" shall not include the judicial branch of government
+15 or any law enforcement agency in Wyoming;
+16
+17 (iii) "Identified or identifiable natural
+18 person" means a natural person who can be readily
+19 identified, directly or indirectly, by reference to an
+20 identifier such as a name, an identification number,
+21 specific geolocation data or an online identifier;
+22
+2 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1 (iv) "Law enforcement agency" means a county,
+2 municipal, college or university police force, Wyoming
+3 highway patrol, the division of criminal investigation, the
+4 department of corrections or any state or local agency or
+5 political subdivision or part of an agency or political
+6 subdivision to the extent that the primary purpose of the
+7 agency or political subdivision, or part thereof, is the
+8 prevention or investigation of crime or the enforcement of
+9 penal, traffic, regulatory or criminal laws. "Law
+10 enforcement agency" shall not include the office of any
+11 city, county or district attorney or other division of the
+12 attorney general;
+13
+14 (v) "Personal data" means information that is
+15 linked or reasonably linkable to an identified or
+16 identifiable natural person or personal digital identity
+17 and does not include deidentified data;
+18
+19 (vi) "Personal digital identity" means as
+20 defined in W.S. 8-1-102(a)(xviii).
+21
+22 9-21-202. Limitations on personal data by government
+23 entities; conflict of laws.
+3 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1
+2 (a) No government entity shall purchase, sell, trade
+3 or transfer personal data without the express written
+4 consent of the natural person whom the personal data
+5 references except as otherwise expressly provided by law
+6 and except that:
+7
+8 (i) A government entity may transfer personal
+9 data to another government entity provided that the other
+10 government entity complies with this article;
+11
+12 (ii) A government entity may transfer personal
+13 data to a nongovernment entity contracted by the government
+14 entity to provide or assist with government services
+15 provided by the government entity. Any contract for
+16 services with a nongovernment entity shall include
+17 requirements for the protection of personal data consistent
+18 with this article. Any personal data transferred pursuant
+19 to this paragraph shall be returned or destroyed by the
+20 nongovernment entity once the personal data is no longer
+21 necessary for the provision of the government service. No
+22 nongovernment entity shall maintain, sell, transfer,
+4 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1 process or otherwise use the personal data in any manner
+2 except as necessary to provide the contracted service;
+3
+4 (iii) A government entity may petition the
+5 elected governing person or body with authority over the
+6 government entity for an exception to this subsection on a
+7 case by case basis. The elected governing person or body,
+8 in the elected governing person's or body's discretion, may
+9 publicly approve in writing an exception to this subsection
+10 not to exceed a term of two (2) years per petition; and
+11
+12 (iv) Nothing in this subsection shall be
+13 construed to prohibit the transfer of personal data that is
+14 transferrable pursuant to the Health Insurance Portability
+15 and Accountability Act or the Family Education Rights and
+16 Privacy Act.
+17
+18 (b) Any current or former Wyoming resident or the
+19 resident's legally authorized representative may request a
+20 copy of their personal data from any government entity
+21 maintaining it. The government entity may charge a fee for
+22 production of the requested personal data consistent with
+5 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1 fees authorized to be charged under the Wyoming Public
+2 Records Act, W.S. 16-4-201 through 16-4-205.
+3
+4 (c) A current or former Wyoming resident or the
+5 resident's legally authorized representative who objects to
+6 the accuracy, completeness, pertinence, timeliness,
+7 relevance, retention, dissemination or denial of access to
+8 the resident's own personal data that is maintained by a
+9 government entity may, individually or through a duly
+10 authorized representative, file an objection with the
+11 government entity that maintains the data. The government
+12 entity maintaining the personal data shall, within sixty
+13 (60) days of the receipt of an objection:
+14
+15 (i) Investigate the validity of the objection;
+16
+17 (ii) If the objection is found to be meritorious
+18 after investigation, alter the contents of, or the methods
+19 for holding, or the dissemination or use of the personal
+20 data, or delete or grant access to it;
+21
+22 (iii) If the objection is found to lack merit
+23 after investigation, provide the resident the opportunity
+6 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1 to have a statement reflecting the resident's views
+2 maintained and disseminated with the personal data in
+3 question;
+4
+5 (iv) Notify the resident in writing of any
+6 decision regarding the resident's objection.
+7
+8 (d) To the extent that a provision of this article
+9 conflicts with another provision of state or federal law,
+10 the other provision shall control. Nothing in this article
+11 shall be construed to abrogate any disclosure of data or
+12 public records under the Wyoming Public Records Act, W.S.
+13 16-4-201 through 16-4-205.
+14
+15 Section 2. W.S. 9-21-203 is created to read:
+16
+17 9-21-203. Personal data collection and retention by
+18 government entities.
+19
+20 (a) In addition to the policies required under W.S.
+21 9-21-101, if applicable, each government entity that
+22 collects or retains personal data shall adopt, enforce and
+23 maintain a policy regarding the collection, access,
+7 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1 retention, security and use of personal data consistent
+2 with all applicable federal and state laws, including this
+3 article.
+4
+5 (b) No government entity shall collect or maintain
+6 more personal data than is reasonably necessary for the
+7 performance of the government entity's lawful functions.
+8 All personal data collected and maintained by government
+9 entities shall be necessary for a specific purpose
+10 identified in the adopted policies of the government
+11 entity.
+12
+13 (c) No government entity shall maintain personal data
+14 for longer than three (3) years without a written policy
+15 identifying the extended retention period and providing a
+16 reasonable justification for the extended retention period.
+17 Statutory retention requirements provided for in W.S.
+18 9-2-405 through 9-2-413 constitute a reasonable
+19 justification.
+20
+21 (d) A government entity to which the Health Insurance
+22 Portability and Accountability Act or the Family Education
+23 Rights and Privacy Act applies that is compliant with a
+8 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1 written data collection and retention policy that meets the
+2 requirements of the Health Insurance Portability and
+3 Accountability Act or the Family Education Rights and
+4 Privacy Act shall be deemed compliant with this section.
+5
+6 Section 3. Not later than January 1, 2027, the state
+7 chief information officer in consultation with the state
+8 archivist shall develop sample policies for use by all
+9 government entities as defined by W.S. 9-21-201(a)(ii).
+10
+11 Section 4. W.S. 9-2-203 as created by section 2 of
+12 this act shall be effective as to counties, cities, public
+13 institutions of higher education or towns on July 1, 2028
+14 and as to each political subdivision of the state other
+15 than state agencies, counties, cities, public institutions
+16 of higher education or towns on July 1, 2029. All
+17 government entities as defined by W.S. 9-21-201(a)(ii)
+18 shall adopt any necessary policies and procedures to meet
+19 the requirements of this act.
+20
+9 SF0020
+
+2026 STATE OF WYOMING 26LSO-0012
+1 Section 5.
+2
+3 (a) Section 2 of this act is effective July 1, 2027.
+4
+5 (b) Sections 1, 3, 4 and 5 of this act are effective
+6 immediately upon completion of all acts necessary for a
+7 bill to become law as provided by Article 4, Section 8 of
+8 the Wyoming Constitution.
+9
+10 (END)
+10 SF0020

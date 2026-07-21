@@ -1,0 +1,39 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0249
+HOUSE BILL NO. HB0084
+Falsifying election documents.
+Sponsored by: Management Audit Committee
+A BILL
+for
+1 AN ACT relating to elections; specifying that falsifying
+2 election documents includes submitting a false post-
+3 election ballot audit; and providing for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 22-26-107(a) by creating a new
+8 paragraph (v) is amended to read:
+9
+10 22-26-107. Falsifying election documents.
+11
+12 (a) Falsifying election documents consists of
+13 performing any of the following acts with the intent to
+14 deceive or mislead an elector or an election official:
+15
+1 HB0084
+
+2026 STATE OF WYOMING 26LSO-0249
+1 (v) Submitting a false post-election ballot
+2 audit to the secretary of state under W.S. 22-6-130.
+3
+4 Section 2. This act is effective July 1, 2026.
+5
+6 (END)
+2 HB0084

@@ -1,0 +1,95 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0001H3088 (3rd reading) - Representative Neiman (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+HB0001H3088
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 317. [DEAPPROPRIATION - BUSINESS READY COMMUNITY
+ACCOUNT]
+* * * * * * * * * *
+1 Page 125-line 13 Delete "DEAPPROPRIATION" and insert
+2 "REAPPROPRIATION"; after "ACCOUNT" insert
+3 "FUNDS DIRECTED TO COUNTY CONSENSUS GRANTS".
+4
+5 Page 125-lines 21 through 24 Delete entirely and insert:
+6
+7 "(b) All funds reverted under subsection (a) of this section
+8 are reappropriated to the office of state lands and investments to
+9 be expended for the purpose of grants for capital improvement
+10 projects and subject to subsection (c) of this section shall be
+11 allocated for each county as follows:
+12
+13 (i) To each county an amount equal to the amount
+14 allocated in this subsection multiplied by eighty percent (80%)
+15 divided by the three (3) year rolling average of the total
+16 estimated state population multiplied by the three (3) year rolling
+17 average of the county's estimated population; plus
+18
+19 (ii) To each county, an amount equal to the remainder of
+20 the amount allocated in this subsection multiplied by each county's
+21 inverse per capita assessed valuation factor computed as follows:
+22
+23 (A) Divide each county's tax year 2025 assessed
+24 valuation by that county's population to compute county assessed
+25 valuation per capita and the total state 2025 assessed valuation
+26 by the total state population to compute state assessed valuation
+27 per capita;
+28 (B) Divide the state assessed valuation per capita
+29 by each county's assessed valuation per capita to compute an
+30 inverse ratio for each county;
+31
+32 (C) Sum all the county inverse ratios computed in
+33 subparagraph (B) of this paragraph for a state total inverse ratio;
+34
+1
+
+1 (D) Divide each county's inverse ratio by the state
+2 total inverse ratio to compute each county's inverse per capita
+3 assessed valuation factor.
+4
+5 (c) Funds subject to subsection (a) of this section shall not
+6 be distributed until after July 1, 2026 and shall only be expended
+7 for capital projects and major maintenance and repair of existing
+8 public facilities and infrastructure, including projects
+9 undertaken by special districts. To be eligible for the grants,
+10 the board of county commissioners and the governing bodies of at
+11 least fifty percent (50%) of the incorporated municipalities
+12 within the county shall certify to the state loan and investment
+13 board that they have reached agreement on the projects for which
+14 the funds will be used.
+15
+16 (d) For purposes of this section, estimated population of a
+17 city, town or county shall be determined by resort to the most
+18 recently completed federal census population estimates as reported
+19 by the economic analysis division within the department of
+20 administration.
+21
+22 (e) This appropriation shall not be transferred or expended
+23 for any other purpose and any unexpended, unobligated funds
+24 remaining from this appropriation shall revert as provided by law
+25 on June 30, 2028, except as provided in subsection (f) of this
+26 section.
+27
+28 (f) Amounts granted for capital project funding under this
+29 section which are in excess of final project costs shall not revert
+30 upon project completion but may be applied by the recipient
+31 governing bodies to any remaining project agreed upon in the
+32 consensus process at the county level as determined by the
+33 governing bodies. To the extent excess funds are not sufficient to
+34 complete an additional project, those funds may be held by the
+35 county treasurer for future project use as authorized in this
+36 subsection. As determined by the governing body in each county,
+37 amounts granted to a recipient governing body for a future project
+38 for which the funds will not be formally encumbered during the
+39 period beginning July 1, 2026 and ending June 30, 2028, shall not
+40 revert.".
+41
+42 Page 125-line 26 Delete "(c)" and insert "(g)".
+43
+44 To the extent required by this amendment: adjust totals; and
+45 renumber as necessary. NEIMAN
+2

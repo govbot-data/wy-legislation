@@ -1,0 +1,1364 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+AN ACT relating to sales and use tax; revising the sales
+tax chapter to include the administration of the use tax;
+repealing duplicative provisions; making conforming
+amendments; specifying applicability; and providing for
+effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 5-9-128(a)(vi)(D), 9-1-507(j)(ii),
+9-4-604(g)(i)(A) and (h)(i)(A), 16-9-209(f),
+16-10-105(b)(iii), 18-5-509(a), 18-16-107(a)(xxii),
+31-2-103(d) through (f), 31-2-104(k), 31-2-201(k)(intro)
+and (o)(ii), 31-18-408, 35-12-105(c),
+39-15-101(a)(vii)(intro), (xv), (xxxix)(U)(VII) and by
+creating new paragraphs (xlviii) through (xlx),
+39-15-102(a) and by creating new subsections (g) and (h),
+39-15-103(a)(i)(A) and (K), (b)(i) through (iii) and
+(c)(ii), 39-15-104(a), (b) and (f)(intro),
+39-15-105(a)(intro), (vi) by creating a new subparagraph
+(F) and (vii)(B), 39-15-106(a), 39-15-107(a)(i), (vi),
+(b)(intro), (i), (iv), (xi) and by creating a new paragraph
+(xii), 39-15-108(b)(ii)(intro) and (d)(i), 39-15-109(d) by
+creating a new paragraph (v), 39-15-110 by creating a new
+subsection (c), 39-15-111(b)(iii)(intro), (c) and by
+creating a new subsection (s), 39-15-202(a),
+39-15-203(a)(i)(E)(III), (ii)(F)(III), (v)(E)(III) and
+(vi)(G)(III), 39-15-306(b)(v), 39-15-402(a)(vii),
+39-15-501(a)(intro), 39-15-502(a)(i), (g)(i), (ii)(A) and
+(iii), 39-17-209(c)(v)(C), 39-17-309(c)(vi)(C) and
+39-18-105(b) are amended to read:
+5-9-128. Civil jurisdiction.
+(a) Each circuit court has exclusive original civil
+jurisdiction within the boundaries of the state for:
+1
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(vi) Actions to foreclose and enforce the
+following statutory liens only, when the amount claimed on
+the lien does not exceed fifty thousand dollars
+($50,000.00), exclusive of court costs:
+(D) Liens for taxes as provided by W.S.
+39-15-108(d). and 39-16-108(d).
+9-1-507. Examination of books of state institutions,
+agencies and certain districts and entities; independent
+audit authorized; guidelines.
+(j) The director of the department of audit shall
+certify:
+(ii) To the director of the state department of
+revenue by October 5 of each year, a list of counties,
+cities and towns that failed to comply with paragraph
+(a)(vii) of this section. Notwithstanding any other
+provision of law, the director of the department of revenue
+shall withhold monthly disbursements of state and local
+sales, use and lodging tax revenues under W.S. 39-15-111,
+and 39-15-211, 39-16-111 and 39-16-211 to the noncompliant
+county, city or town for the period after October 15 until
+the noncompliant county, city or town has come into
+compliance unless good cause for noncompliance is shown to
+the director of the department of audit as described in
+W.S. 9-1-510(b). All withheld disbursements under this
+paragraph shall be retained by director of the department
+of revenue in the account from which the disbursement would
+be made until the county, city or town is in compliance
+with paragraph (a)(vii) of this section, or as otherwise
+provided by law. The director of the department of audit
+shall certify to the director of the department of revenue
+2
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+when a county, city or town comes into compliance with
+paragraph (a)(vii) of this section. The director of the
+department of revenue shall certify monthly to the
+department of audit, the legislature and the noncompliant
+county, city or town the amount of disbursements withheld
+until the noncompliant county, city or town has come into
+compliance;
+9-4-604. Distribution and use; capital construction
+projects and bonds; municipal, county and special district
+purposes.
+(g) Not to exceed forty million dollars
+($40,000,000.00) of the total proceeds of all bonds issued
+under subsection (b) of this section may be loaned or
+granted to incorporated cities and towns. Loans or grants
+shall be made only under the following conditions:
+(i) Loans may be made for municipal purposes
+with or without interest. If the state loan and investment
+board deems it necessary to secure the loan, no security
+other than pledges of specified revenue to repay a loan
+shall be required. Before a loan application is approved
+the board shall determine by proper investigation that:
+(A) The applicant will fully utilize all
+local revenue sources reasonably and legally available for
+repaying the loan for which an application is made
+excluding the local optional sales and use tax authorized
+by W.S. 39-15-204(a)(i) or (iii); and 39-16-204(a)(i) or
+(ii);
+(h) Not to exceed twenty million dollars
+($20,000,000.00) of the total proceeds of all bonds issued
+under subsection (b) of this section may be loaned or
+3
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+granted to counties or special districts. As used in this
+subsection "special districts" means hospital districts,
+fire protection districts, sanitary and improvement
+districts, solid waste disposal districts, service and
+improvement districts and water and sewer districts.
+Notwithstanding any other provision of law, no special
+district, either standing alone or as a member of a joint
+powers board, shall receive any grant or loan under this
+section until the special district's grant or loan
+application has received a written review from the board of
+county commissioners in any county in which the special
+district is located. The board of county commissioners
+shall review: (1) the ability of the special district to
+fund the project through bonds, (2) whether the project is
+adverse to the needs, plans or general welfare of the
+county, (3) whether the special district has utilized local
+funding resources, and (4) whether the special district has
+met county standards. If any part of the special district
+lies within five (5) miles of the corporate limits of any
+city or town, the special district's grant or loan
+application shall also receive a written review from the
+governing body of the city or town. The written review
+shall be submitted to the state loan and investment board
+by the special district with its grant or loan application.
+Loans or grants shall be made only under the following
+conditions:
+(i) Loans, with or without interest, may only be
+made for county or special district purposes which are
+permitted by law. If the state loan and investment board
+deems it necessary to secure the loan, no security other
+than pledges of specified revenue to repay a loan shall be
+required. Before a loan application is approved the board
+shall determine by proper investigation that:
+4
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(A) The applicant will fully utilize all
+local revenue sources reasonably and legally available for
+repaying the loan excluding the local optional sales and
+use tax under W.S. 39-15-204(a)(i) or (iii); and
+39-16-204(a)(i) or (ii);
+16-9-209. Special fee.
+(f) All special fees billed and collected by a local
+exchange company or radio communications service provider
+shall not be considered revenues of the local exchange
+company or radio communications service provider and are
+not subject to tax under W.S. 39-15-101 through 39-16-311
+39-15-502.
+16-10-105. Ordinance or resolution for construction;
+required and authorized provisions.
+(b) Subject to voter approval as provided by
+subsection (e) of this section, a city, town, county or
+joint powers board may fund the surface water drainage
+utility by general and special funds, revenue or other
+bonds and other forms of indebtedness, service charges or a
+combination of these sources. The resolution or ordinance
+establishing the utility, or a resolution or ordinance
+later adopted by the governing body, shall specify the
+means of financing the surface water drainage utility by
+one (1) or more of the following sources:
+(iii) Any other source of revenue including the
+capital facilities tax collected under W.S.
+39-15-203(a)(iii), and 39-16-203(a)(ii) if so dedicated.
+18-5-509. Referral.
+5
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(a) Any board of county commissioners which receives
+an application to permit a wind energy facility or solar
+energy facility which does not meet the definition of an
+industrial facility as defined in W.S. 35-12-102(a)(vii)(E)
+or (G) may refer the facility to the industrial siting
+council for additional permitting consistent with the
+requirements of the Industrial Development Information and
+Siting Act, W.S. 35-12-101 through 35-12-119, but the
+provisions of W.S. 39-15-111 and 39-16-111 shall not apply.
+A referral shall be made only when a board of county
+commissioners finds there are potentially significant
+adverse environmental, social or economic issues which the
+county board of commissioners does not have the expertise
+to consider or authority to address.
+18-16-107. Powers of district.
+(a) Each district may:
+(xxii) Impose an optional sales and use tax
+pursuant to W.S. 39-15-203; and 39-16-203;
+31-2-103. Contents of application; signature; vehicle
+identification number; issuance of certificate.
+(d) Upon receipt of an application and payment of
+fees any county clerk shall, if satisfied that the
+applicant is the owner of the vehicle for which application
+for certificate of title is made, issue a paper certificate
+of title or electronic certificate of title, if available,
+upon a form or electronic format, approved by and provided
+at cost to the county clerk by the department in the name
+of the owner bearing the signature and seal of the county
+clerk's office. The county clerk shall not deliver a
+certificate of title issued under this section until
+6
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+presentation of a receipt for payment of sales or use tax
+pursuant to W.S. 39-15-107(b) or 39-16-107(b) or
+presentation of a county treasurer receipt noting a valid
+exemption from paying the sales or use tax. If a lien is
+filed with respect to the vehicle, the county clerk shall,
+within three (3) business days, deliver a copy of the filed
+lien and a copy of the issued title to the financial
+institution and if available, such delivery may be made
+electronically. Each paper certificate of title or
+electronic version, shall bear a document control number
+with county designation and certificate of title number.
+The title shall be completely filled out giving a
+description of the vehicle including factory price in a
+manner prescribed by the department, indicate all
+encumbrances or liens on the vehicle and indicate the date
+of issue. Certificates of title shall contain forms for
+assignment of title or interest and warranty thereof by the
+owner with space for notation of liens and encumbrances at
+the time of transfer on the reverse side and contain space
+for the notarization of the seller's signature for a sale
+or transfer of title. Certificates of title are valid for
+the vehicle so long as the vehicle is owned or held by the
+person in whose name the title was issued. A certificate of
+title is prima facie proof of ownership of the vehicle for
+which the certificate was issued.
+(e) Notwithstanding subsection (d) of this section, a
+person regularly engaged in the business of making loans or
+a supervised financial institution, as defined in W.S.
+40-14-140(a)(xix), that repossesses a motor vehicle on
+which it has filed a lien shall not be liable for sales or
+use tax or for any penalties for nonpayment of the sales or
+use tax pursuant to W.S. 39-15-107(b) or 39-16-107(b) prior
+to obtaining a title from the county clerk for that
+vehicle.
+7
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(f) Notwithstanding subsection (d) of this section,
+an insurance company that acquires ownership of a motor
+vehicle pursuant to a damage settlement shall not be liable
+for sales or use tax or for any penalties for nonpayment of
+the sales or use tax pursuant to W.S. 39-15-107(b) or
+39-16-107(b) prior to obtaining a title from the county
+clerk for that vehicle.
+31-2-104. Transfer of ownership.
+(k) Notwithstanding the provisions of subsection (j)
+of this section, the surviving owner or owners of a vehicle
+held by joint tenants with the right of survivorship may
+transfer ownership without first obtaining a title in the
+name of the surviving owner or owners by complying with the
+requirements of subsection (a) of this section and
+providing the transferee with a certified copy of the death
+certificate of the deceased owner. Any applicable sales or
+use tax shall be paid pursuant to W.S. 39-15-107(b). or
+39-16-107(b).
+31-2-201. Registration required; timelines.
+(k) W.S. 31-2-225 notwithstanding, upon compliance
+with W.S. 39-15-107(b), and 39-16-107(b), if applicable, an
+owner of a commercial vehicle that is not a Wyoming based
+commercial vehicle as defined by W.S. 31-18-201(a)(vi), a
+nonresident owner of a vehicle not employed in this state,
+or any owner upon transfer of ownership or lease, may, as
+an alternative to registration, obtain one (1) temporary
+registration permit in a twelve (12) month period
+authorizing operation of the vehicle on the highways of
+this state for a period not to exceed ninety (90) days from
+the date of issuance of the temporary registration permit.
+8
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+Any registration issued under this section shall bear a
+distinctive number assigned to the vehicle, an expiration
+date and at all times be prominently displayed and clearly
+visible on the vehicle in the manner prescribed by the
+department. Application for a temporary registration permit
+shall be made to the county treasurer in the manner and
+form prescribed by the department. A temporary registration
+permit under this subsection shall be considered an initial
+registration under W.S. 31-1-101(a)(xxx). The fee for the
+temporary registration permit shall be an amount equal to
+the following fractions of the annual registration fees for
+the vehicle required under W.S. 31-3-101:
+(o) A resident found to be in control of a vehicle
+operated or driven upon any highway for which Wyoming
+vehicle registration is required shall be rebuttably
+presumed to be the actual owner of the vehicle, subject to
+the following:
+(ii) Upon a determination that a resident is in
+control of a vehicle operated or driven upon any highway in
+Wyoming for which Wyoming vehicle registration is required,
+the department shall notify the resident in writing that
+the resident is required to register the vehicle and to pay
+any sales or use taxes due on the purchase or use of the
+vehicle in accordance with W.S. 39-15-107(b)(i) or
+39-16-107(b)(ii) within thirty (30) days from the date of
+the notice;
+31-18-408. Provision of sales and use tax
+information; penalty.
+(a) Any person engaged in the business of selling
+tangible personal property, at retail, outside of this
+state, and operating any motor vehicle in this state
+9
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+delivering to the purchaser or the purchaser's agent in
+this state any goods sold by the vendor shall, upon
+entering this state, provide necessary information to the
+department of revenue for the purposes of the collection of
+any sales or use tax which may be due under the provisions
+of W.S. 39-15-101 through 39-16-311 39-15-502. The
+department shall provide forms furnished by the department
+of revenue for the operator to provide the necessary
+information for the department of revenue to collect any
+use tax due. The department of revenue shall promulgate
+necessary rules and regulations to implement this provision
+pursuant to W.S. 39-11-102.
+(b) Any person knowingly violating the provisions of
+this section or any rules promulgated under it shall, in
+addition to any penalty imposed under W.S. 31-18-701
+through 31-18-707, be liable for a civil penalty of not
+less than one hundred dollars ($100.00) and not to exceed
+an amount equal to three (3) times the amount of the sales
+or use tax due under the provisions of W.S. 39-15-101
+through 39-16-311 39-15-502.
+35-12-105. Appointment and duties of administrator;
+staff; rules and regulations.
+(c) The director, administrator and the staff of the
+division are authorized to the extent possible, at the
+request of local governments, to provide technical
+assistance to local governments in the preparation of
+anticipated impacts related to a proposed project
+consistent with W.S. 39-15-111(c) and (d) and 39-16-111(d)
+and (e) and negotiation of agreements with applicants as
+provided for in W.S. 35-12-107.
+CHAPTER 15
+10
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+SALES AND USE TAX
+ARTICLE 1
+STATE SALES AND USE TAX
+39-15-101. Definitions.
+(a) As used in this article:
+(vii) "Sale" means any transfer of title or
+possession in this state for a consideration. Including
+"Sale" includes a purchase by a person for storage, use or
+consumption in this state and includes the fabrication of
+tangible personal property when the materials are furnished
+by the purchaser. but excluding "Sale" does not include an
+exchange or transfer of tangible personal property upon
+which the seller or lessor has directly or indirectly paid
+sales or use tax incidental to:
+(xv) "Vendor" means any person engaged in the
+business of selling at retail or wholesale tangible
+personal property, admissions or services which are subject
+to taxation under this article. "Vendor" includes a vehicle
+dealer as defined by W.S. 31-16-101(a)(xviii), a remote
+seller to the extent provided by W.S. 39-15-501 and a
+marketplace facilitator to the extent provided by W.S.
+39-15-502. A person is not in the business of selling if
+selling tangible personal property, admissions or services
+which are subject to taxation under this article is not a
+habitual or regular activity of the person. Agents acting
+under the authority of the vendor include but are not
+limited to truckers, peddlers, canvassers, salespersons,
+representatives, employees, supervisors, distributors,
+delivery persons or any other persons performing services
+in this state. "Vendor" also includes every person who
+11
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+engages in regular or systematic solicitation by three (3)
+or more separate transmittances of an advertisement or
+advertisements in any twelve (12) month period in a
+consumer market in this state by the distribution of
+catalogs, periodicals, advertising flyers, or other
+advertising, or by means of print, radio, television or
+other electronic media, by mail, telegraph, telephone,
+computer data base, cable, optic, microwave, satellite or
+other communication system for the purpose of effecting
+retail sales of tangible personal property;
+(xxxix) Telecommunications definitions:
+(U) "Telecommunications service" means the
+electronic transmission, conveyance or routing of voice,
+data, audio, video or any other information or signals to a
+point, or between or among points. The term
+telecommunications service includes such transmission,
+conveyance or routing in which computer processing
+applications are used to act on the form, code or protocol
+of the content for purposes of transmission, conveyance or
+routing without regard to whether such service is referred
+to as voice over internet protocol services or is
+classified by the Federal Communications Commission as
+enhanced or value added. Telecommunications service shall
+not include:
+(VII) Radio and television audio and
+video programming services, regardless of the medium,
+including the furnishing of transmission, conveyance and
+routing of the services by the programming service
+provider. Radio and television audio and video programming
+services shall include but not be limited to cable service
+as defined in 47 U.S.C. 522(6) and audio and video
+12
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+programming services delivered by commercial mobile radio
+service providers, as defined in 47 C.F.R. 20.3;
+(xlviii) "Purchase price" means the sales price
+paid for property purchased for storage, use or consumption
+in this state;
+(xlix) "Storage" means the keeping or retention
+in this state of tangible personal property purchased from
+a vendor for any purpose except for sale in the course of
+business or subsequent use outside the state;
+(xlx) "Use" means the exercise of any right or
+power over tangible personal property incident to ownership
+or by any transaction where possession is given by lease or
+contract.
+39-15-102. Administration; confidentiality.
+(a) This article is known and may be cited as the
+"Selective Sales Tax Act of 1937" "Sales and Use Tax Act".
+(g) The state preempts the field of imposing tax upon
+sales and purchases of tangible personal property and
+storage, use and consumption of tangible personal property
+as provided by this article. No county, city, town or other
+political subdivision may impose, levy or collect taxes
+upon sales or storage, use or consumption of tangible
+personal property except as provided in this section.
+(h) The use tax imposed under this chapter shall be
+administered in the same manner as the sales tax imposed
+under this chapter and shall be distributed in the same
+manner as sales taxes collected under this chapter subject
+to the specific requirements of this chapter.
+13
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+39-15-103. Imposition.
+(a) Taxable event. The following shall apply:
+(i) Except as provided by W.S. 39-15-105, there
+is levied an excise tax upon:
+(A) The sales price of every retail sale of
+tangible personal property within the state and upon the
+purchase price of persons making first use of taxable
+services or storing, using or consuming taxable personal
+property or specified digital products in this state;
+(K) The sales price paid for all services
+and tangible personal property used in rendering services
+to real or tangible personal property within an oil or gas
+well site beginning with and including the setting and
+cementing of production casing, or if production casing is
+not set as in the case of an open hole completion, after
+the completion of the underreaming or the attainment of
+total depth of the oil or gas well and continuing with all
+activities sequentially required for the production of any
+oil or gas well regardless of the chronological occurrence
+of the activity. All services required during the entire
+productive life of the well, including recompletion, all
+the way through abandonment shall be subject to this
+subparagraph. The provisions of W.S. 39-15-301 through
+39-15-311 and W.S. 39-16-301 through 39-16-311 shall not
+apply to this subparagraph;
+(b) Basis of tax. The following shall apply:
+(i) Except as provided by W.S. 39-15-105, there
+is levied and shall be paid by the purchaser on all sales
+14
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+and purchases an excise tax upon all events as provided by
+subsection (a) of this section;
+(ii) For purposes of W.S. 39-15-107(b)(i), the
+sales price of motor vehicles, house trailers, trailer
+coaches, trailers or semitrailers as defined by W.S.
+31-1-101 shall be declared by the purchaser upon a copy of
+the original invoice from the vendor or upon an affidavit
+furnished by the department if not purchased from a vendor
+and the tax collected shall be based upon the declaration
+or invoice;
+(iii) Except for those vehicles specified under
+W.S. 39-15-107(b)(viii), the tax imposed by this article
+upon the sale of a motor vehicle, house trailer, trailer
+coach, trailer or semitrailer purchased inside or outside
+the state of Wyoming as a gift shall be collected from the
+donee prior to the first registration based upon the fair
+market value of the gift at the time of the gift;
+(c) Taxpayer. The following shall apply:
+(ii) Every person purchasing goods or services
+taxed by this article and every person making first use of
+taxable services or storing, using or consuming tangible
+personal property or specified digital products from a
+vendor who does not maintain a place of business in this
+state is liable for the taxes and shall pay any tax owed to
+the department unless the taxes have been paid to a vendor.
+Specified digital products are only subject to the tax
+imposed by this article as specified in subparagraph
+(a)(i)(P) of this section. The liability is not
+extinguished until the tax has been paid to the state
+except that a receipt given to the person by a registered
+vendor in accordance with paragraph (i) of this subsection
+15
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+is sufficient to relieve the purchaser from further
+liability;
+39-15-104. Taxation rate.
+(a) Except as provided by W.S. 39-15-105 there is
+levied and shall be paid by the purchaser on all sales and
+purchases an excise tax of three percent (3%) upon all
+events as provided by W.S. 39-15-103(a).
+(b) Effective July 1, 1993, in addition to the sales
+excise tax under subsection (a) of this section there is
+imposed an additional sales excise tax of one percent (1%)
+which shall be administered as if the sales tax rate under
+subsection (a) of this section was increased from three
+percent (3%) to four percent (4%). The revenue from these
+increases shall be distributed in the same manner as other
+sales excise tax revenue under those sections.
+(f) The tax rate imposed upon a transaction sale or
+purchase subject to this chapter shall be sourced as
+follows:
+39-15-105. Exemptions.
+(a) The following sales, purchases or leases are
+exempt from the excise tax imposed by this article:
+(vi) For the purpose of exempting sales of
+services and tangible personal property which are essential
+human goods and services, the following are exempt:
+(F) Tangible personal property sold by any
+person for delivery in this state is deemed sold for
+storage, use or consumption herein and is subject to the
+16
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+tax imposed by this article unless the person selling the
+property has received from the purchaser a signed
+certificate stating the property was purchased for resale
+and showing his name and address;
+(vii) For the purpose of exempting sales of
+services provided primarily to businesses, the following
+are exempt:
+(B) A person regularly engaged in the
+business of making loans or a supervised financial
+institution, as defined in W.S. 40-14-140(a)(xix), that
+forecloses a lien or repossesses a motor vehicle on which
+it has filed a lien shall not be liable for payment of
+sales or use tax, penalties or interest due under this
+section or W.S. 39-16-108 for that vehicle.
+39-15-106. Licenses; permits.
+(a) Every vendor shall obtain from the department a
+sales tax license to conduct business in the state. The
+license shall be granted only upon application stating the
+name and address of the applicant, the name and address of
+all agents operating in the state, the character of the
+business in which the applicant proposes to engage, the
+location of the proposed business and all places of
+business together with other information as the department
+may require. Effective July 1, 1997, a license fee of sixty
+dollars ($60.00) shall be required from each new vendor,
+except for any remote vendor who has no requirement to
+register in this state, or who is using one (1) of the
+technology models pursuant to the streamlined sales and use
+tax agreement. Failure of a vendor to timely file any
+return may result in forfeiture of the license granted
+under this section. The department shall charge sixty
+17
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+dollars ($60.00) for reinstatement of any forfeited
+license. The department shall send any vendor who reports
+no gross sales for three (3) consecutive years a form
+prescribed by the department to show cause why the vendor's
+license should not be revoked. The vendor shall complete
+and file the report with the department within thirty (30)
+days of receipt of the form. If the department finds just
+cause for the vendor to retain the license, no further
+action shall be taken. If the department finds just cause
+to revoke the license, the vendor shall be notified of the
+revocation. Any vendor whose license is revoked under this
+subsection may appeal the decision to the state board of
+equalization as provided in subsection (g) of this section.
+39-15-107. Compliance; collection procedures.
+(a) Returns, reports and preservation of records.
+The following shall apply:
+(i) Each vendor shall on or before the last day
+of each month file a true return showing the preceding
+month's gross sales and remit all taxes to the department.
+The returns shall contain such information and be made in
+the manner as the department by regulation prescribes. The
+department may provide an option for the return to be
+submitted and for any taxes to be remitted electronically.
+The department may allow extensions for filing returns and
+paying the taxes by regulation, but no extension may be for
+more than ninety (90) days. If the total tax to be remitted
+by a vendor during any month is less than one hundred fifty
+dollars ($150.00), a quarterly or annual return as
+authorized by the department, and remittance in lieu of the
+monthly return may be made on or before the last day of the
+month following the end of the quarter or year for which
+the tax is collected. If the accounting methods regularly
+18
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+used by any vendor are such that reports of sales made
+during a calendar month would impose unnecessary hardships,
+the department after receiving a formal request filed by
+the vendor may accept reports at intervals as would be more
+convenient to the taxpayer. Any vendor shall report whether
+the vendor sells nicotine products, as defined by W.S.
+39-18-101(a)(xi), in this state to the department in the
+form and manner required by the department. The department
+may reject any report required under this paragraph of any
+vendor who does not comply with the nicotine sales
+reporting requirements. Every person purchasing goods or
+services taxable by this article who does not pay the tax
+owed to a vendor and every person storing, using or
+consuming tangible personal property purchased from a
+vendor who does not maintain a place of business in this
+state is liable for the tax imposed by this article and
+shall, on or before the last day of each month, file a
+return showing the gross purchases made during the
+preceding month and remit all taxes due to the department
+as provided in this paragraph. The return shall contain
+such information and be made in the manner as the
+department shall prescribe by rule and regulation. The
+department, by rule and regulation, may allow an extension
+for filing a return and paying any tax due, but no
+extension shall be granted for more than ninety (90) days;
+(vi) The If any vendor discontinues his business
+or sells his stock of goods he shall file make a final
+return and payment within thirty (30) days after
+discontinuing or selling his thereafter. His successor in
+business shall withhold from the purchase price an amount
+equal to any taxes, penalty or interest due until the time
+the former owner produces a receipt from the department
+showing that all amounts due have been paid or a
+certificate that no taxes are due. If the successor fails
+19
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+to withhold from the purchase price the amount due the
+successor is liable for same;
+(b) Payment. Except as otherwise provided in this
+chapter, there is levied and shall be paid by the purchaser
+an excise tax at the rate applied under W.S. 39-15-104 upon
+sales and purchases in Wyoming. The vendor shall collect
+the tax and give the purchaser a receipt therefor
+displaying the tax paid separately. The following shall
+apply:
+(i) Except as provided by paragraph (viii) of
+this subsection, no vendor shall collect taxes imposed by
+this article upon the sale of motor vehicles, house
+trailers, trailer coaches, trailers or semitrailers. The
+taxes imposed shall be collected by the county treasurer
+prior to the first registration in Wyoming and not upon
+subsequent registration by the same applicant. The county
+treasurer may allow the taxes to be paid electronically
+after the amount of sales tax has been determined by the
+county treasurer. The county treasurer may charge a fee of
+not more than the costs of processing the transaction but
+not to exceed a fee of three percent (3%) as necessary to
+recoup fees incurred due to electronic payments. The county
+treasurer shall provide the applicant a receipt specifying
+the amount of sales tax collected and noting any valid
+exemption from sales tax. The county treasurer shall
+collect and remit to the department the tax in effect in
+the county of the owner's principal residence as indicated
+on the owner's driver's license or other government issued
+identification. The tax shall not be collected if the
+vehicle was previously registered by the same nonresident
+owner in another state;
+20
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(iv) A person regularly engaged in the business
+of making loans or a supervised financial institution, as
+defined in W.S. 40-14-140(a)(xix), that forecloses a lien
+or repossesses a motor vehicle on which it has filed a
+lien, or an insurance company that acquires ownership of a
+motor vehicle pursuant to a damage settlement, shall not be
+liable for payment of sales or use tax, penalties or
+interest due under this section or W.S. 39-16-107 for that
+vehicle;
+(xi) If a vendor or direct payer pays taxes due
+and payable under this chapter on or before the fifteenth
+day of the month that the taxes are due under paragraph (v)
+of this subsection, a credit shall be allowed against the
+taxes imposed by this chapter for expenses incurred by a
+vendor or direct payer for the accounting and reporting of
+taxes. The credit is equal to one and ninety-five
+hundredths percent (1.95%) of the amount of tax due,
+provided that the total credit under this paragraph and
+W.S. 39-16-107(b)(viii) shall not exceed five hundred
+dollars ($500.00) in any month. The vendor or direct payer
+shall deduct the credit for each tax period on forms
+prescribed and furnished by the department. The credit
+shall be deducted only from the share of the tax that is
+distributed to the general fund under W.S.
+39-15-111(b)(i);.
+(xii) The county treasurer may collect the tax
+due and any interest, penalties or costs of collection
+through the use of a collection agency or by the filing of
+a civil action.
+39-15-108. Enforcement.
+(b) Interest. The following shall apply:
+21
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(ii) If the sales or use tax on a vehicle,
+including local option sales or use tax, under W.S.
+39-15-101 through 39-15-211, or 39-16-101 through
+39-16-211, is not paid within sixty-five (65) days after
+the date of the sale, or in the case of a motor vehicle
+brought into this state, sixty-five (65) days after the
+vehicle is brought into the state if the owner submits to
+the county treasurer an affidavit and any other
+satisfactory proof as necessary to verify the date the
+vehicle was brought into the state:
+(d) Liens. The following shall apply:
+(i) Any tax due under this article constitutes a
+debt to the state from the persons who are parties to the
+transaction, other than any vendor or other seller who is
+prohibited or not authorized by law to collect any tax
+under this article, and is a lien from the date the tax is
+due on all the real and personal property of those persons.
+The lien does not apply to purchasers who paid the tax to
+the vendor. Notice of the lien shall be filed with the
+county clerk of the county in which the persons who are
+parties to the transaction reside or in which the vendor
+conducts business. The tax lien does not shall have
+preference over preexisting indebtedness but shall have
+priority from and after the date of filing or recording.
+all liens except any valid mortgage or other liens of
+record filed or recorded prior to the date the tax became
+due. The department shall cancel lien statements within
+sixty (60) days after taxes due are paid or collected. No
+other action by the department is required to perfect a
+lien under this paragraph regardless of the type of
+property involved;
+22
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+39-15-109. Taxpayer remedies.
+(d) Credits. The following shall apply:
+(v) The department shall allow a credit for
+sales tax legally imposed and paid to another state on a
+purchase equal to but not exceeding the liability for use
+tax under this article on that purchase. The department may
+require that any claim for a credit be substantiated in
+writing showing the sales tax paid.
+39-15-110. Statute of limitations.
+(c) Every vendor and person storing, using or
+consuming tangible personal property in this state shall
+preserve within this state for three (3) years suitable
+records and books as may be necessary to determine the
+amount of tax for which the vendor or person is liable
+under the provisions of this article, together with
+invoices and books showing all merchandise purchased. All
+records, books and invoices shall be available for
+examination by the department during regular business hours
+except as arranged by mutual consent.
+39-15-111. Distribution.
+(b) Revenues earned under W.S. 39-15-104 during each
+fiscal year shall be recognized as revenue during that
+fiscal year for accounting purposes. Except as otherwise
+provided in subsection (p) of this section, for all revenue
+collected by the department under W.S. 39-15-104 the
+department shall:
+(iii) From the remaining share, until June 30,
+2004, deduct an amount equivalent to one-half percent
+23
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(0.5%) and thereafter deduct an amount equivalent to one
+percent (1%) of the tax collected under W.S. 39-15-104.
+From this amount, the department shall distribute until
+June 30, 2004, twenty thousand dollars ($20,000.00) and
+thereafter forty thousand dollars ($40,000.00) of sales tax
+and ten thousand dollars ($10,000.00) of use tax annually
+to each county in equal monthly installments and then
+distribute the remainder to each county in the proportion
+that the total population of the county bears to the total
+population of the state. The balance shall then be paid
+monthly to the treasurers of the counties, cities and towns
+for payment into their respective general funds. The
+percentage of the balance that will be distributed to each
+county and its cities and towns will be determined by
+computing the percentage that net sales taxes collected
+attributable to vendors in each county including its cities
+and towns bear to total net sales taxes collected of
+vendors in all counties including their cities and towns.
+Subject to subsection (h) of this section, this percentage
+of the balance shall be distributed within each county as
+follows:
+(c) If any person commences after the effective date
+of this act to construct an industrial facility, as that
+term is defined in W.S. 35-12-102, under a permit issued
+pursuant to W.S. 35-12-106, or if the federal or state
+government commences to construct any project within this
+state with an estimated construction cost as specified in
+the definition of industrial facility in W.S. 35-12-102 the
+department of revenue shall thereafter pay to the county
+treasurer and the county treasurer will distribute to the
+county, cities and towns of that county in which the
+industrial facility or project is located, impact
+assistance payments from the monies available under
+paragraph (b)(i) of this section. Each payment to the
+24
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+county treasurer shall be equal to an amount determined by
+the industrial siting council under this subsection and
+shall continue during the period of construction except
+that in the case of an industrial facility or a federal or
+state government project which is expected to continue in
+phases for an indefinite period of time, the department of
+revenue shall discontinue payments under this section when
+construction of any phase has ceased or been substantially
+completed for twelve (12) consecutive months. The person
+constructing the industrial facility and the counties
+affected by the construction of the industrial facility
+shall provide evidence at the public hearing held pursuant
+to W.S. 35-12-110(f)(i) of the mitigated and unmitigated
+impacts that the construction will have on the counties,
+cities and towns determined by the industrial siting
+council to be affected by the construction of the
+industrial facility. The industrial siting council shall
+review the evidence of the impacts and determine, applying
+a preponderance of evidence standard, the dollar amount of
+the unmitigated impacts. The council shall state, in the
+order issued under W.S. 35-12-113(a), the total dollar
+amount of the impact assistance payment and include
+specific findings of fact detailing the basis for the total
+dollar amount determination and if requested by the
+affected county, city or town, its justification for
+rejecting, in whole or in part, an application for an
+impact assistance payment. The impact assistance payment
+shall be distributed by the department of revenue in an
+amount and on a schedule determined by the council, based
+on evidence presented at the hearing. Under no
+circumstances shall the total dollar amount of the impact
+assistance payment exceed the maximum allowable percentage
+specified in this subsection of the total estimated
+material costs of the facility, as those costs are
+determined by the council. The maximum allowable percentage
+25
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+shall be two and twenty-five hundredths percent (2.25%) for
+facilities with total estimated materials costs of three
+hundred fifty million dollars ($350,000,000.00) or less
+except as otherwise provided in this subsection, two
+percent (2%) for facilities with total estimated materials
+costs in excess of three hundred fifty million dollars
+($350,000,000.00) but less than eight hundred fifty million
+dollars ($850,000,000.00) and one and one-half percent
+(1.50%) for facilities with total estimated materials costs
+of eight hundred fifty million dollars ($850,000,000.00) or
+more. For facilities with total estimated materials costs
+of three hundred fifty million dollars ($350,000,000.00) or
+less, the council may increase the maximum allowable
+percentage to not more than two and seventy-six hundredths
+percent (2.76%) if the council includes in the specific
+findings required under this subsection that the maximum
+allowable percentage of two and twenty-five hundredths
+percent (2.25%) is insufficient to mitigate the identified
+impacts. The council shall submit a report to the joint
+appropriations committee and the joint minerals, business
+and economic development interim committee not later than
+ten (10) business days after increasing the maximum
+allowable percentage as specified in this subsection,
+including data to support the increase. The impact
+assistance payments shall be distributed to the county
+treasurer and the county treasurer will distribute to the
+county and to the cities and towns therein based on a ratio
+established by the industrial siting council during a
+public hearing held in accordance with W.S.
+35-12-110(f)(i). In determining the distribution ratio, the
+industrial siting council may consider the extent and
+location of the unmitigated impacts, the populations of the
+affected counties, cities and towns, including any
+disproportionate impacts on smaller communities, and any
+other equitable factor. The industrial siting council shall
+26
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+review the distribution ratio for construction projects on
+a regular basis and make appropriate adjustments. A
+governing body which is primarily affected by the facility,
+or any person issued a permit pursuant to W.S. 35-12-106,
+may petition the industrial siting council for review and
+adjustment of the distribution ratio or the amount of the
+impact assistance payment upon a showing of good cause. The
+impact assistance payment shall be in addition to all other
+distributions under this section, but no impact assistance
+payment shall be made for any period in which the county or
+counties are not imposing at least a one percent (1%) tax
+authorized by W.S. 39-15-204(a)(i) and 39-16-204(a)(i) or
+at least a total of a two percent (2%) sales tax authorized
+under W.S. 39-15-204(a)(i), (iii) and (vi). and at least a
+total of a two percent (2%) use tax authorized under W.S.
+39-16-204(a)(i), (ii) and (v). For purposes of this
+subsection, the industrial facility or federal or state
+government project will be deemed to be located in the
+county in which a majority of the construction costs will
+be expended, provided that upon a request from the county
+commissioners of any adjoining county to the industrial
+siting council, the council may determine that the social
+and economic impacts from construction of the industrial
+facility or federal or state government project upon the
+adjoining county are significant and establish the ratio of
+impacts between the counties and certify that ratio to the
+department of revenue who will thereafter distribute the
+impact assistance payment to the counties pursuant to that
+ratio. Each county, city and town that receives a
+distribution under this subsection shall provide an annual
+report to the industrial siting council describing how the
+impact assistance payment was expended. The report shall
+first be submitted not later than one (1) year after the
+impact assistance payment is approved and annually each
+year thereafter for the duration in which distributions are
+27
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+made and until all distributions are expended. The
+industrial siting council shall adopt rules as necessary to
+implement this subsection.
+(s) Taxes collected under subsections W.S.
+39-15-107(a)(i) and (ii) shall be remitted in full by the
+county treasurer to the department monthly or as required
+by the department together with reports as required by the
+department. County treasurers shall be reimbursed monthly
+in an amount equal to five percent (5%) of the amount of
+use tax remitted to the department in the preceding month
+for deposit into the county general fund.
+ARTICLE 2
+LOCAL SALES AND USE TAX
+39-15-202. Administration.
+(a) The state preempts the field of imposing tax upon
+retail sales of tangible personal property, admissions and
+services and purchases for storage, use or consumption in
+this state as provided by this article and no county, city,
+town or other political subdivision may impose, levy or
+collect taxes upon retail sales, admissions and services or
+purchases for storage, use or consumption in this state
+except as provided in this article. Any tax imposed under
+this article on retail sales of tangible personal property,
+admissions and services shall also impose an excise tax at
+the same rate on purchases for storage, use or consumption
+in this state as provided in this article.
+39-15-203. Imposition.
+(a) Taxable event. The following shall apply:
+28
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(i) The following provisions apply to imposition
+of the general purpose excise tax under W.S.
+39-15-204(a)(i):
+(E) If the proposition is approved by the
+qualified electors or under subparagraph (F) of this
+paragraph, the board of county commissioners shall by
+ordinance impose an excise tax upon retail sales of
+tangible personal property, admissions and services. The
+board of county commissioners or the city or town council
+shall adopt an ordinance for the tax authorized by W.S.
+39-15-204(a)(i). The ordinance shall include the following:
+(III) A provision that any amendments
+made to article 1 or to chapter 16 not in conflict with
+article 1 of this chapter or to chapter 16 shall
+automatically become a part of the sales tax ordinances of
+the county, city or town;
+(ii) The following provisions apply to
+imposition of the lodging excise tax under W.S.
+39-15-204(a)(ii):
+(F) If the proposition is approved by the
+qualified electors the board of county commissioners, city
+council or town council, as appropriate, shall by ordinance
+impose an excise tax upon the sales price for lodging
+services. Following approval of a proposition to impose the
+tax, the county, city or town shall within thirty (30) days
+following certification of the election results and
+annually thereafter each year the tax is in effect, notify
+the department of revenue of the ordinance or resolution
+imposing the lodging tax and shall submit a list to the
+department of all persons selling lodging services within
+their respective jurisdiction. The board of county
+29
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+commissioners or the city or town council shall adopt an
+ordinance for the tax authorized by this paragraph. The
+ordinance shall include the following:
+(III) A provision that any amendments
+made to article 1 or to chapter 16 not in conflict with
+article 1 of this chapter or to chapter 16 shall
+automatically become a part of the sales tax ordinances of
+the county, city or town;
+(v) The following provisions apply to imposition
+of the excise tax under W.S. 39-15-204(a)(vi) the purpose
+of which is economic development:
+(E) If the proposition is approved by the
+qualified electors, the board of county commissioners shall
+by ordinance impose an excise tax upon retail sales of
+tangible personal property, admissions and services. The
+board of county commissioners or the city or town council
+shall adopt an ordinance for the tax authorized by W.S.
+39-15-204(a)(vi). The ordinance shall include the
+following:
+(III) A provision that any amendments
+made to article 1 or to chapter 16 not in conflict with
+article 1 of this chapter or to chapter 16 shall
+automatically become a part of the sales tax ordinances of
+the county, city or town;
+(vi) The following provisions apply to
+imposition of the municipal tax under W.S.
+39-15-204(a)(vii):
+(G) If the proposition is approved by the
+qualified electors, the city or town council shall adopt an
+30
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+ordinance for the tax authorized by W.S. 39-15-204(a)(vii)
+consistent with the approved proposition. The ordinance
+shall include the following:
+(III) A provision that any amendments
+made to article 1 of this chapter or to chapter 16 of this
+title that are not in conflict with article 1 of this
+chapter or to chapter 16 of this title shall automatically
+become a part of the sales tax ordinances of the city or
+town;
+39-15-306. Licenses; permits; bonding.
+(b) Bonding. The following shall apply:
+(v) Whenever a nonresident general or prime
+contractor or nonresident subcontractor furnishes a surety
+bond for the faithful performance of his contract or
+subcontract there is imposed an additional obligation upon
+the surety company to the state of Wyoming and the
+department as its agent that the nonresident contractor
+shall pay all sales taxes which become due in the
+performance of the contract. In the case of a nonresident
+general or prime contractor this additional obligation
+includes liability to pay the department all sales taxes
+which have not been paid to a licensed vendor or the
+department by the nonresident contractor. The nonresident
+general or prime contractor or his surety company is
+authorized to recover from the nonresident subcontractor
+the amount of sales taxes accruing with respect to
+purchases made by the nonresident subcontractor which were
+paid to the department by the nonresident contractor or the
+surety company, or an amount equal to the sales taxes so
+paid by the nonresident contractor may be withheld from
+payments made under the contract. The liability of the
+31
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+surety company under this section is limited to three
+percent (3%), plus the increased rate under W.S.
+39-16-104(b) 39-15-104(b) if the tax under that section is
+in effect, of the contract price;
+39-15-402. Definitions.
+(a) As used in this article:
+(vii) "Sales tax," "use tax" or "sales and use
+tax" means the tax levied under W.S. 39-15-101 through
+39-15-311;
+39-15-501. Sales from remote sellers.
+(a) Notwithstanding any other provision of law, any
+seller of tangible personal property, admissions or
+services which are subject to taxation under this chapter
+15 or 16 of this title who does not have a physical
+presence in this state shall remit sales tax and follow all
+applicable procedures and requirements of this chapter as
+if the seller had a physical presence in this state once
+the seller meets the following requirements for the current
+calendar year or the immediately preceding calendar year:
+39-15-502. Marketplace facilitators.
+(a) A marketplace facilitator shall be considered the
+vendor for each sale that the facilitator facilitates on
+its marketplace for a marketplace seller. Each marketplace
+facilitator shall:
+(i) Be responsible for all obligations imposed
+under chapters 15 and 16 of this title this chapter;
+32
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(g) As used in this section:
+(i) "Marketplace" means any method through which
+a marketplace seller may sell or offer for sale tangible
+personal property, admissions or services which are subject
+to taxation under chapter 15 or 16 of this title this
+chapter for delivery into this state regardless of whether
+the marketplace seller has a physical presence in this
+state;
+(ii) "Marketplace facilitator" means any person
+that facilitates a sale for a marketplace seller through a
+marketplace by:
+(A) Offering for sale by a marketplace
+seller, by any means, tangible personal property,
+admissions or services which are subject to taxation under
+chapter 15 or 16 of this title this chapter for delivery
+into this state; and
+(iii) "Marketplace seller" means a vendor who
+sells or offers for sale tangible personal property,
+admissions or services which are subject to taxation under
+chapter 15 or 16 of this title this chapter for delivery
+into this state through a marketplace that is owned,
+operated or controlled by a marketplace facilitator.
+39-17-209. Taxpayer remedies.
+(c) Refunds. The following shall apply:
+(v) The license tax under W.S. 39-17-204(a)(i)
+is subject to refund on the following:
+33
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(C) Diesel fuel sold by a distributor,
+importer, supplier or dealer and used as heating fuel or to
+a person engaged in logging operations, mining operations,
+manufacturing, processing, drilling, exploration or well
+servicing, highway or other construction or railroad
+operations when the fuel is consumed directly in logging
+operations, mining operations, manufacturing, processing,
+drilling, exploration or well servicing, highway or other
+construction or railroad operations, or other nonhighway
+operations or uses is subject to a refund. The record of
+purchases under this paragraph shall be submitted quarterly
+on a form provided by or in a format required by the
+department, along with receipts detailing the gallons
+purchased and license taxes paid. The refund form and
+receipts shall be invalid if not submitted to the
+department within one (1) year following date of purchase.
+The department shall not deduct the state sales and use tax
+imposed by the provisions of W.S. 39-15-101 through
+39-16-311 39-15-502 from the refund to any person who
+possesses a valid sales or use tax license under W.S.
+39-15-106, or 39-16-106, or if the person is exempt from
+paying sales or use taxes under W.S. 39-15-105. or
+39-16-105. A copy of the most recent sales or use tax
+report or proof that the person is exempt from sales or use
+taxes shall accompany the claim for refund;
+39-17-309. Taxpayer remedies.
+(c) Refunds. The following shall apply:
+(vi) The license tax under W.S. 39-17-304(a)(i)
+is subject to refund as follows:
+(C) Liquefied natural gas, renewable diesel
+or compressed natural gas converted to liquefied natural
+34
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+gas at the point of delivery sold by a distributor,
+importer, supplier or dealer and used as heating fuel or to
+a person engaged in logging operations, mining operations,
+manufacturing, processing, drilling, exploration or well
+servicing, highway or other construction or railroad
+operations when the alternative fuel is consumed directly
+in logging operations, mining operations, manufacturing,
+processing, drilling, exploration or well servicing,
+highway or other construction or railroad operations, or
+other nonhighway operations or uses is subject to a refund.
+The record of purchases under this paragraph shall be
+submitted quarterly on a form provided by or in a format
+required by the department, along with receipts detailing
+the gallons, gasoline gallon equivalent or diesel gallon
+equivalent purchased and license taxes paid. The refund
+form and receipts shall be invalid if not submitted to the
+department within one (1) year following date of purchase.
+The department shall not deduct the state sales and use tax
+imposed by the provisions of W.S. 39-15-101 through
+39-16-211 39-15-502 from the refund to any person who
+possesses a valid sales or use tax license under W.S.
+39-15-106, or 39-16-106, or if the person is exempt from
+paying sales or use taxes under W.S. 39-15-105. or
+39-16-105. A copy of the most recent sales or use tax
+report or proof that the person is exempt from sales or use
+taxes shall accompany the claim for refund.
+39-18-105. Exemptions.
+(b) The sales and use tax exemptions specified in
+W.S. 39-15-105 and 39-16-105 are not applicable to this
+article.
+Section 2. W.S. 31-2-113(a)(iv) is amended to read:
+35
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+31-2-113. Electronic lien and title system.
+(a) As used in this section "electronic lien and
+title system" means a statewide electronic lien and title
+system implemented by the department to process through
+electronic means:
+(iv) Payment of sales or use tax pursuant to
+W.S. 39-15-107(b). or 39-16-107(b).
+Section 3. W.S. 39-15-402(a)(x) and 39-16-101 through
+39-16-311 are repealed.
+Section 4. Nothing in this act shall be deemed to
+affect any use tax imposed under W.S. 39-16-201 through
+39-16-211 prior to July 1, 2026 and the tax shall continue
+to be administered in the same manner as the sales tax
+under W.S. 39-15-201 through 39-15-211.
+36
+
+ORIGINAL SENATE
+FILE NO. SF0079
+ENROLLED ACT NO. 18, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+Section 5.
+(a) Except as otherwise provided in subsection (b) of
+this section, this act is effective July 1, 2026.
+(b) Section 2 of this act is effective July 1, 2027.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the Senate.
+Chief Clerk
+37

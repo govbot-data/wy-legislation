@@ -1,0 +1,22 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0097HS001 (Standing Committee)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0097HS001
+1 Page 2-line 6 After "(iv)" delete "," and insert "through".
+2
+3 Page 2-after line 20 Insert:
+4
+5 "(v) "Firearms code" means any code or other indicator
+6 that a merchant servicer assigns to a merchant or to a payment
+7 card transaction that identifies whether a merchant is a firearms
+8 retailer or whether the payment card transaction involves the
+9 purchase of a firearm, firearm accessories or components or
+10 ammunition. The term "firearms code" includes, but is not limited
+11 to, a merchant category code assigned to a retailer by a payment
+12 card network or other merchant servicer;". BEAR, CHAIRMAN
+1

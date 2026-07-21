@@ -1,0 +1,319 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0001H3015 (3rd reading) - Representative Harshman (Withdrawn)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0001H3015
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 027. STATE CONSTRUCTION DEPARTMENT
+(School Facilities Div.)
+Other Budget(s) Affected:
+Section 328. [ADDITIONS TO 300 SECTIONS]
+* * * * * * * * * *
+1 Page 25-line 4 After "School Facilities Div." insert "1."; under
+2 OTHER FUNDS increase amount by "237,865,123 S5".
+3
+4 Page 25-after line 6 Insert:
+5
+6 "1. Of this other funds appropriation, one million one hundred
+7 twenty-two thousand four hundred dollars ($1,122,400.00) S5 is
+8 effective immediately.".
+9
+10 Page 141-after line 19 Insert the following new section and
+11 renumber as necessary:
+12
+13 "[SCHOOL CAPITAL CONSTRUCTION]
+14
+15 Section 328.
+16
+17 (a) This section shall consist of funds appropriated for K-
+18 12 school building and facility needs.
+19
+20 (b) As used in this section, a "priority" identified by an
+21 Arabic numeral means the project ranking as submitted by the school
+22 facilities commission within its budget recommendations provided
+23 under W.S. 21-15-119.
+24
+25 (c) Except as specifically provided in this subsection,
+26 subsection (d) of this section or as otherwise provided by law,
+27 the amounts appropriated from the public school foundation program
+28 account under subsection (j) of this section are for the period
+29 beginning July 1, 2026 and ending upon project completion.
+30 Appropriations for projects denoted with an asterisk (*) within
+31 subsection (j) of this section are effective immediately, and end
+1
+
+1 upon project completion, unless otherwise provided by law. Upon
+2 completion of a project under this subsection, any unexpended,
+3 unobligated funds remaining from the appropriation for the project
+4 shall revert to the public school foundation program account.
+5
+6 (d) The amounts appropriated from the public school
+7 foundation program account under paragraphs (j)(ii) and (iv) of
+8 this section are for the period beginning July 1, 2026 and ending
+9 June 30, 2028. Any unexpended, unobligated funds remaining from
+10 any of these appropriations shall revert to the public school
+11 foundation program account on June 30, 2028, unless otherwise
+12 provided by law.
+13
+14 (e) As authorized under W.S. 21-15-119(a)(iii), the school
+15 facilities commission may submit a supplemental budget request for
+16 the period beginning July 1, 2027 and ending June 30, 2028, for
+17 any emergency or unanticipated need, or for any refinement or
+18 modification of a project funded under this section, subject to
+19 any constraints or other requirements imposed by the governor under
+20 W.S. 9-2-1013.
+21
+22 (f) An estimated schedule for deploying projects funded by
+23 amounts appropriated under subsection (j) of this section, as
+24 adopted by the school facilities commission and as contained within
+25 the 2027-2028 biennial budget submitted by the commission under
+26 W.S. 21-15-119, shall be used by the state construction department
+27 to the extent practicable to guide expenditure of appropriated
+28 funds. The estimated schedule shall be based upon information,
+29 processes, events and expenditures and shall not be binding upon
+30 the state construction department or the school facilities
+31 commission.
+32
+33 (g) Amounts appropriated under subsection (j) of this
+34 section shall not be construed to be an entitlement or guaranteed
+35 amount and shall be expended by the school facilities commission
+36 to ensure adequate, efficient and cost effective school buildings
+37 and facilities in accordance with W.S. 21-15-114(a)(vii).
+38
+39 (h) In addition to accounting and reporting requirements
+40 imposed under W.S. 28-11-301(c)(iv), the state construction
+41 department shall report at least one (1) time each year on the
+42 deployment of amounts to fund projects under this section in
+43 accordance with the deployment schedule, information on project
+44 progression and, if applicable, the rationale for any deviation
+45 from the estimated schedule. The reports, as approved by the
+46 commission, shall be submitted by the department to the select
+2
+
+1 committee on school facilities, the joint appropriations committee
+2 and the governor.
+3
+4 (j) For K-12 school facility projects, the following amounts
+5 are appropriated from the public school foundation program account
+6 to the school facilities commission for the following purposes:
+7
+8 (i) For component level major maintenance projects,
+9 thirty-one million six hundred sixty-one thousand three hundred
+10 twenty-two dollars ($31,661,322.00). The school facilities
+11 commission may modify prioritization of projects contained in this
+12 paragraph to optimize efficiency or based on project readiness.
+13 Expenditure of funds appropriated by this paragraph shall be
+14 subject to the following prescribed maximum amounts:
+15
+16 School Maximum
+17 Priority District Project Amount
+18
+19 04-01 Big Horn #3 High School $828,878*
+20 04-02 Johnson #1 High School $3,137,677*
+21 04-03 Sheridan #2 Junior High School $2,593,497*
+22 04-04 Laramie #2 Administration Building $114,196*
+23 04-05 Fremont #14 Middle School $1,456,696*
+24 04-06 Hot Springs #1 Elementary School $948,168*
+25 04-07 Converse #2 Junior High/High School $1,756,228*
+26 04-08 Big Horn #1 Elementary School $173,963*
+27 04-09 Crook #1 K-12 School $610,461*
+28 04-10 Carbon #1 Middle School $1,880,657*
+29 04-11 Sublette #1 High School $1,878,241*
+30 04-12 Weston #7 High School $833,192*
+31 04-13 Washakie #1 Middle School $1,799,497*
+32 04-14 Lincoln #1 Elementary School $3,296,500*
+33 04-15 Weston #1 High School $4,703,382*
+34 04-16 Big Horn #2 High School $1,988,099*
+35 04-17 Carbon #2 Junior High/High School $808,866*
+36 04-18 Fremont #6 Middle School $244,378*
+37 04-19 Park #16 K-12 School $2,608,746*
+38 04-20 Big Horn #3 Elementary School $ 531,164*
+39 04-21 Johnson #1 K-12 School $ 1,428,703*
+40 04-22 Fremont #14 Middle School $ 1,287,903*
+41
+42 (ii) For charter school leases, six million three
+43 hundred thirty-two thousand nine hundred twenty-eight dollars
+44 ($6,332,928.00). The funds appropriated under this paragraph shall
+45 be distributed for charter school lease expenses for school year
+46 2026-2027 and school year 2027-2028, are subject to W.S. 21-3-
+47 110(a)(x) and shall be subject to the following prescribed maximum
+3
+
+1 amounts:
+2
+3 School Maximum
+4 Priority District Project Amount
+5
+6 05-01 Albany #1 Elementary School $347,799
+7 05-02 Laramie #1 Elementary School $830,585
+8 05-03 Laramie #1 Secondary School $916,645
+9 05-04 Natrona #1 K-8 School $1,823,257
+10 05-05 Laramie #1 Elementary School $1,253,600
+11 05-06 Lincoln #2 Elementary School $416,150
+12 05-07 Platte #1 K-12 School $744,892
+13 Total $ 6,332,928
+14
+15 (iii) Subject to the requirements of W.S.
+16 21-3-110(a)(x), for future charter school leasing obligations
+17 (priority 07-01), one million seven hundred ninety-two thousand
+18 nine hundred seventy-six dollars ($1,792,976.00). The funds
+19 appropriated under this paragraph shall only be expended for
+20 leasing expenses for charter schools approved for operation
+21 pursuant to W.S. 21-3-301 et seq. The funds appropriated under
+22 this paragraph shall be separately accounted and the appropriation
+23 shall remain in effect and not lapse or revert at the end of the
+24 fiscal period except upon further legislative action. In addition
+25 to any other reporting requirements, not later than September 1,
+26 2026 and each September 1 thereafter until all funds appropriated
+27 under this paragraph are expended, the state construction
+28 department shall report expenditures of funds under this paragraph
+29 to the select committee on school facilities, the joint
+30 appropriations committee and the governor;
+31
+32 (iv) For modular buildings and leases, fifty-two
+33 thousand one hundred twenty-five dollars ($52,125.00), subject to
+34 the following prescribed maximum amounts:
+35
+36 School Maximum
+37 Priority District Project Amount
+38
+39 06-01 Laramie #1 Modular Lease $17,375
+40 06-02 Laramie #1 Modular Lease $17,375
+41 06-03 Laramie #1 Modular Lease $17,375
+42 Total $52,125
+43
+44 (v) For design of school building and facility
+45 projects, fifteen million seven hundred thirty-nine thousand eight
+46 hundred fifty-five dollars ($15,739,855.00), subject to the
+47 following prescribed maximum amounts:
+4
+
+1
+2 School Maximum
+3 Priority District Project Amount
+4
+5 09-01 Teton #1 High School $2,809,810*
+6 09-02 Crook #1 Secondary School $1,710,957
+7 09-03 Laramie #1 High School $4,346,602
+8 09-04 Laramie #1 Elementary School $3,675,736
+9 09-05 Fremont #25 Elementary School $3,196,750
+10 Total $15,739,855
+11
+12 (vi) For construction of school building and facility
+13 projects, seventy-seven million three hundred fifty-nine thousand
+14 seven hundred thirty-one dollars ($77,359,731.00), subject to the
+15 following prescribed maximum amounts:
+16
+17 School Maximum
+18 Priority District Project Amount
+19
+20 10-01 Crook #1 Secondary School $12,632,827
+21 10-02 Laramie #1 Elementary School $1,494,000
+22 10-03 Laramie #1 Elementary School $33,298,901
+23 10-04 Fremont #25 Elementary School $29,934,003
+24 Total $77,359,731
+25
+26 (vii) For demolition projects, two million six hundred
+27 twenty thousand six hundred seventy dollars ($2,620,670.00),
+28 subject to the following prescribed maximum amounts:
+29
+30 School Maximum
+31 Priority District Project Amount
+32
+33 11-01 Laramie #1 Elementary School $1,286,510*
+34 11-02 Albany #1 Elementary School $500,000
+35 11-03 Laramie #1 Elementary School $834,160
+36 Total $2,620,670
+37
+38 (viii) For unanticipated costs associated with the
+39 projects funded under paragraphs (j)(i) and (v) through (vii) of
+40 this section (priority 12-01), seven million six hundred forty-
+41 two thousand eight hundred ninety-five dollars ($7,642,895.00),
+42 subject to the following maximum amounts:
+43
+44 (A) For design projects contained in paragraph
+45 (j)(v) of this section, nine hundred forty-four thousand three
+46 hundred ninety-one dollars ($944,391.00);
+47
+5
+
+1 (B) For component level major maintenance and
+2 construction projects contained in paragraphs (j)(i) and (vi) of
+3 this section, six million five hundred forty-one thousand two
+4 hundred sixty-four dollars ($6,541,264.00);
+5
+6 (C) For demolition projects contained in paragraph
+7 (j)(vii) of this section, one hundred fifty-seven thousand two
+8 hundred forty dollars ($157,240.00).
+9
+10 (ix) To supplement previous appropriations for the
+11 construction and demolition of a transportation facility ancillary
+12 building in Campbell county school district #1 authorized under
+13 2025 Wyoming Session Laws, Chapter 118, Section 1(g)(ii)(A), two
+14 million six hundred fifty thousand dollars ($2,650,000.00)*,
+15 effective immediately. The original scope and design of the project
+16 shall not be modified as a result of the additional funds
+17 appropriated under this paragraph. It is the intent of the
+18 legislature that this appropriation and previous appropriations
+19 for this project be prioritized by the school facilities commission
+20 to ensure the expenditures for this project result in an adequate,
+21 efficient and cost effective project in accordance with W.S. 21-
+22 15-114(a)(vii).
+23
+24 (x) For K-12 school facility safety and security
+25 projects, ten million dollars ($10,000,000.00) is appropriated to
+26 the school facilities commission, from the public school
+27 foundation program account, for design of security vestibules and
+28 vehicle barricades and approved prioritized school district safety
+29 and security remedies. The funds appropriated under this
+30 subsection shall remain in effect beginning July 1, 2026, until
+31 the project is completed, unless otherwise provided by law. Upon
+32 completion of a remedy under this section, any unexpended,
+33 unobligated funds remaining from this appropriation for the remedy
+34 shall revert to the public school foundation program account. Prior
+35 to the expenditure of funds appropriated by this paragraph, for
+36 each safety and security remedy, the school facilities commission
+37 shall:
+38
+39 (A) Establish a prioritized list of K-12 school
+40 facility safety and security remedies utilizing national and
+41 regional best practices. The commission shall consider school
+42 safety and security needs identified by school districts in
+43 determining the prioritized list of remedies. Funds shall be
+44 distributed to school districts upon application to the state
+45 construction department, in the manner and form required by the
+46 commission, and as approved by the commission.
+47
+6
+
+1 (B) For each safety and security remedy, the
+2 commission shall include the remedy in the school district facility
+3 plan required pursuant to W.S. 21-15-116, ensure the remedy is a
+4 cost effective method to address the safety and security need and
+5 specify a maximum budget for each remedy
+6
+7 (xi) Not later than September 1, 2026, and each
+8 September 1 thereafter until the funds appropriated under
+9 paragraph (x) of this subsection are expended or have reverted
+10 upon completion of a remedy, in conjunction with the school
+11 facilities commission's annual budget recommendations required
+12 pursuant to W.S. 21-15-119, the commission and state construction
+13 department shall report to the select committee on school
+14 facilities, the joint appropriations committee and the governor
+15 any expenditures of funds appropriated under paragraph (x) of this
+16 subsection and shall include any request for funds necessary for
+17 the construction of security vestibules and vehicle barriers and
+18 to complete school district safety and security needs identified
+19 pursuant to subparagraph (x)(A) of this subsection.
+20
+21 (k) This section shall only be effective if neither 2026 House
+22 Bill 0105 or 2026 Senate File 0060 is not enacted into law.".
+23
+24 To the extent required by this amendment: adjust totals; and
+25 renumber as necessary. HARSHMAN
+7

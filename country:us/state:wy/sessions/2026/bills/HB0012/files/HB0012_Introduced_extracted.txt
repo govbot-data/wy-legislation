@@ -1,0 +1,347 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0211
+HOUSE BILL NO. HB0012
+Clean Air and Geoengineering Prohibition Act.
+Sponsored by: Joint Agriculture, State and Public Lands &
+Water Resources Interim Committee
+A BILL
+for
+1 AN ACT relating to environmental quality; prohibiting the
+2 release of atmospheric contaminants into the airspace above
+3 Wyoming as specified; providing legislative findings;
+4 providing definitions; authorizing the director of the
+5 department of environmental quality to monitor compliance
+6 with this act and issue cease and desist orders as
+7 specified; prohibiting retaliation against persons who
+8 report violations of this act; providing criminal
+9 penalties; providing positions; providing appropriations;
+10 requiring rulemaking; making conforming amendments; and
+11 providing for an effective date.
+12
+13 Be It Enacted by the Legislature of the State of Wyoming:
+14
+1 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 Section 1. W.S. 35-11-2201 through 35-11-2204 are
+2 created to read:
+3
+4 ARTICLE 22
+5 WYOMING CLEAN AIR AND GEOENGINEERING PROHIBITION ACT
+6
+7 35-11-2201. Short title.
+8
+9 This act shall be known and may be cited as the "Wyoming
+10 Clean Air and Geoengineering Prohibition Act."
+11
+12 35-11-2202. Legislative findings.
+13
+14 (a) The legislature finds and declares:
+15
+16 (i) Federal agencies, international bodies,
+17 corporations and research institutions have proposed,
+18 studied or in some cases undertaken atmospheric
+19 modification experiments intended to alter weather,
+20 temperature or solar radiation;
+21
+22 (ii) The risks to human health, agriculture,
+23 wildlife and environmental safety from atmospheric
+2 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 modification experiments and other atmospheric
+2 interventions are not well understood and may have harmful
+3 consequences;
+4
+5 (iii) It is the constitutional duty of state
+6 government to safeguard public health, defend private
+7 property, protect agricultural integrity and assert state
+8 sovereignty over activities conducted within its borders
+9 and above its skies under the tenth amendment of the United
+10 States constitution;
+11
+12 (iv) It is the intent of the legislature to
+13 prohibit atmospheric modification experiments, protect
+14 public health and ensure that the Wyoming department of
+15 environmental quality is empowered to monitor and enforce
+16 air quality protections.
+17
+18 35-11-2203. Definitions.
+19
+20 (a) As used in this act:
+21
+22 (i) "Atmospheric contaminant" means any
+23 substance intentionally released into the atmosphere for
+3 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 the purpose of altering climate, weather or solar
+2 radiation, including but not limited to sulfates, smart
+3 dust, perflouroalkyl and polyfluoroalkyl substances,
+4 genetically modified particles, chaff or radioactive
+5 materials. "Atmospheric contaminant" shall not mean exhaust
+6 from standard aviation using fuels permitted by law,
+7 emissions from agricultural or forestry operations
+8 permitted by law, fire suppression agents, cloud seeding
+9 agents or naturally occurring atmospheric particulates;
+10
+11 (ii) "Geoengineering" means the deliberate
+12 large-scale manipulation of environmental processes to
+13 affect climate conditions;
+14
+15 (iii) "Solar radiation management" means
+16 experimental techniques designed to reduce the amount of
+17 sunlight reaching the earth's surface through reflective
+18 particles or other methods;
+19
+20 (iv) "Stratospheric aerosol injection" means the
+21 release of reflective aerosols into the stratosphere by
+22 aircraft, balloons or other means;
+23
+4 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 (v) "Weather modification" means any action
+2 intended to change or interfere with the natural
+3 development of cloud forms, precipitation, barometric
+4 pressure, temperature or other atmospheric conditions.
+5 "Weather modification" shall not include cloud seeding;
+6
+7 (vi) "This act" means W.S. 35-11-2201 through
+8 35-11-2204.
+9
+10 35-11-2204. Atmospheric engineering prohibited;
+11 exemptions; enforcement; penalties.
+12
+13 (a) No person shall intentionally inject, release or
+14 disperse by any means any atmospheric contaminant within
+15 Wyoming or the airspace above Wyoming for the purpose of
+16 altering climate, weather or solar radiation.
+17
+18 (b) Prohibited activities under this section include,
+19 but are not limited to:
+20
+21 (i) Solar radiation management;
+22
+23 (ii) Stratospheric aerosol injection;
+5 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1
+2 (iii) Weather modification;
+3
+4 (iv) Atmospheric polluting interventions,
+5 including dispersal of atmospheric contaminants.
+6
+7 (c) Nothing in this act shall be construed to
+8 prohibit or restrict:
+9
+10 (i) Commercial aviation or satellite operations;
+11
+12 (ii) Weather observation and forecasting;
+13
+14 (iii) Agricultural chemical application
+15 conducted pursuant to law;
+16
+17 (iv) Fire suppression, including the aerial
+18 application of fire retardants or water for wildfire
+19 management;
+20
+21 (v) Snowmaking activities that are authorized
+22 under a lawfully permitted water right;
+23
+6 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 (vi) Cloud seeding authorized by law;
+2
+3 (vii) Lawful activities expressly authorized by
+4 state environmental laws.
+5
+6 (d) No person shall employ aircraft, drones,
+7 balloons, rockets, artillery, space-based platforms or
+8 ground-based facilities for the intentional release or
+9 dispersal of atmospheric contaminants. This prohibition
+10 shall not apply to aviation, space or ground activities
+11 unrelated to geoengineering, weather modification or solar
+12 radiation management, including commercial, agricultural,
+13 research, cloud seeding, defense or emergency operations
+14 permitted by state law.
+15
+16 (e) The director of the department of environmental
+17 quality shall:
+18
+19 (i) Study whether the atmospheric contaminants
+20 listed in this act pose a threat to human and environmental
+21 health or safety;
+22
+7 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 (ii) Monitor all aircraft, drones, balloons or
+2 rockets that enter the state's airspace to determine
+3 whether atmospheric contaminants are being dispersed;
+4
+5 (iii) Monitor all space-based platforms above
+6 the state and ground-based facilities within the state to
+7 determine whether atmospheric contaminants are being
+8 dispersed;
+9
+10 (iv) Petition a court of competent jurisdiction
+11 to issue a cease and desist order upon discovery of any
+12 prohibited activity under this act.
+13
+14 (f) The director of the department of environmental
+15 quality shall notify the federal government, other states
+16 or international entities who are committing prohibited
+17 activities under this act and assert that those activities
+18 are unlawful within Wyoming pursuant to this act and the
+19 tenth amendment to the United States constitution.
+20
+21 (g) No person shall retaliate against, harass,
+22 discipline or discriminate against any person on the basis
+23 that the person reported or provided evidence of a
+8 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 suspected violation of this act. Reports made in good faith
+2 shall not be considered defamatory, frivolous or
+3 retaliatory.
+4
+5 (h) Notwithstanding W.S. 35-11-901, any person who
+6 violates this act:
+7
+8 (i) For a first offense, commits a felony
+9 punishable by imprisonment for not more than two (2) years,
+10 a fine of not less than one hundred thousand dollars
+11 ($100,000.00) and not more than five hundred thousand
+12 dollars ($500,000.00), or both; or
+13
+14 (ii) For a second or subsequent offense, commits
+15 a felony punishable by imprisonment for not more than five
+16 (5) years, a fine of not less than five hundred thousand
+17 dollars ($500,000.00), or both. Each day where prohibited
+18 activity is conducted constitutes a separate offense.
+19
+20 Section 2. W.S. 9-1-905(a)(ii) and (iii), 9-1-906,
+21 9-1-907(a) and (d), 9-1-908 and 9-1-909 are amended to
+22 read:
+23
+9 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 9-1-905. Cloud seeding; legislative declarations.
+2
+3 (a) It is hereby declared that:
+4
+5 (ii) Although little is known regarding
+6 artificial weather modification, research and
+7 experimentation regarding cloud seeding shall be
+8 encouraged;
+9
+10 (iii) Although the ultimate use of modification
+11 cloud seeding methods is speculative, the application of
+12 such methods should have proper safeguards and provide
+13 sufficient data to protect life, property and public
+14 interest.
+15
+16 9-1-906. Duty of state engineer to gather information
+17 relative to cloud seeding in state.
+18
+19 The state engineer shall procure, compile and evaluate
+20 information relative to weather modification cloud seeding
+21 experiments and activities within the state boundaries. The
+22 term "weather modification" means attempting to change or
+10 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 control any of the weather phenomena by chemical,
+2 mechanical or physical methods.
+3
+4 9-1-907. Cloud seeding; permit required; issuance;
+5 duration; fee; report of activities; penalties for
+6 noncompliance.
+7
+8 (a) It is unlawful for anyone to engage in weather
+9 modification cloud seeding activities except by permit
+10 prescribed and issued by the state engineer.
+11
+12 (d) Any person engaging in a weather modification
+13 cloud seeding experiment without a permit is guilty of a
+14 misdemeanor and upon conviction is subject to a fine not to
+15 exceed five thousand dollars ($5,000.00) or by imprisonment
+16 for not more than ninety (90) days.
+17
+18 9-1-908. Cloud seeding; authority to receive and
+19 expend funds; purposes.
+20
+21 The state engineer is authorized to receive in the name of
+22 the state any funds offered or available from any source,
+23 and to expend such funds for the expenses of administering
+11 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 this act and for the encouragement of experimentation in
+2 weather modification cloud seeding by the University of
+3 Wyoming or any other appropriate state or public agency,
+4 either by direct grant, by contract or other cooperative
+5 means.
+6
+7 9-1-909. Cloud seeding; state not liable for
+8 activities of private persons or groups.
+9
+10 Nothing in W.S. 9-1-905 through 9-1-909 shall be construed
+11 to impose or accept any liability or responsibility on the
+12 part of the state, the board, or any state officials or
+13 employees, for any weather modification or cloud seeding
+14 activities of any private person or group, nor to affect in
+15 any way any contractual, tortious, or other legal rights,
+16 duties or liabilities between any private persons or
+17 groups.
+18
+19 Section 3.
+20
+21 (a) The department of environmental quality is
+22 authorized up to two (2) full-time positions for the period
+23 beginning July 1, 2026 and ending June 30, 2028 for the
+12 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 purposes of implementing this act. It is the intent of the
+2 legislature that the department of environmental quality
+3 include these full-time positions in its standard budget
+4 for the immediately succeeding fiscal biennium.
+5
+6 (b) There is appropriated five hundred thousand
+7 dollars ($500,000.00) from the general fund to the
+8 department of environmental quality to be expended only for
+9 the purpose of funding the positions authorized in
+10 subsection (a) of this section. This appropriation shall
+11 not be transferred or expended for any other purpose and
+12 any unexpended, unobligated funds remaining from this
+13 appropriation shall revert as provided by law on June 30,
+14 2028. It is the intent of the legislature that this
+15 appropriation be included in the standard budget for the
+16 department of environmental quality for the immediately
+17 succeeding fiscal biennium.
+18
+19 Section 4. The department of environmental quality
+20 shall promulgate all rules necessary to implement this act.
+21
+13 HB0012
+
+2026 STATE OF WYOMING 26LSO-0211
+1 Section 5. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+14 HB0012

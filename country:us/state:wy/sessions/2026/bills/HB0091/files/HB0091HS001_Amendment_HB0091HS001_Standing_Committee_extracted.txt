@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0091HS001 (Standing Committee)
+Media Type: application/pdf
+
+================================================================================
+
+HB0091HS001
+1 Page 4-after line 22 Insert:
+2
+3 "(b) This section does not apply to the development,
+4 deployment or use of an artificial intelligence system by any
+5 Wyoming law enforcement agency for the purpose of:
+6
+7 (i) Preventing, detecting, protecting against or
+8 responding to security threats, identity theft, fraud, harassment
+9 or any other violations of Wyoming criminal code;
+10
+11 (ii) Preserving the integrity or security of an agency's
+12 systems; or
+13
+14 (iii) Investigating, reporting or prosecuting a person
+15 responsible for a security threat or breach, identity theft, fraud,
+16 harassment or any other violations of Wyoming criminal code.".
+17
+18 Page 5-line 3 Before "No" insert "(a)".
+19
+20 Page 5-after line 11 Insert:
+21
+22 "(b) This section does not apply to the development,
+23 deployment or use of an artificial intelligence system by any
+24 Wyoming law enforcement agency for the purpose of:
+25
+26 (i) Preventing, detecting, protecting against or
+27 responding to security threats, identity theft, fraud, harassment
+28 or any other violations of Wyoming criminal code;
+29
+30 (ii) Preserving the integrity or security of an agency's
+31 systems; or
+32
+33 (iii) Investigating, reporting or prosecuting a person
+34 responsible for a security threat or breach, identity theft, fraud,
+35 harassment or any other violations of Wyoming criminal code.".
+36 WASHUT, CHAIRMAN
+1

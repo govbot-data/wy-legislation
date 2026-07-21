@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0048
+SENATE FILE NO. SF0029
+Elections-acceptable identification revisions.
+Sponsored by: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+A BILL
+for
+1 AN ACT relating to elections; specifying acceptable
+2 identification for voter identification; repealing school
+3 identification cards, Medicaid and Medicare insurance cards
+4 as forms of acceptable identification; and providing for an
+5 effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 22-1-102(a)(xxxix)(B)(intro) is
+10 amended to read:
+11
+12 22-1-102. Definitions.
+13
+14 (a) The definitions contained in this chapter apply
+15 to words and phrases used in this Election Code and govern
+1 SF0029
+
+2026 STATE OF WYOMING 26LSO-0048
+1 the construction of those words and phrases unless they are
+2 specifically modified by the context in which they appear.
+3 As used in this Election Code:
+4
+5 (xxxix) "Acceptable identification" means:
+6
+7 (B) For purposes of in person voter
+8 identification immediately before voting at a polling place
+9 or absentee polling place, any of the following, provided
+10 that the identification is not expired, is in the original
+11 form in which it was issued and includes a photograph of
+12 the person:
+13
+14 Section 2. W.S. 22-1-102(a)(xxxix)(B)(VII) through
+15 (IX) is repealed.
+16
+17 Section 3. This act is effective immediately upon
+18 completion of all acts necessary for a bill to become law
+19 as provided by Article 4, Section 8 of the Wyoming
+20 Constitution.
+21
+22 (END)
+2 SF0029

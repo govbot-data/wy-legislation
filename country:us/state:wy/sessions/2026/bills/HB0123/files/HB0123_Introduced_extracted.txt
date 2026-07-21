@@ -1,0 +1,834 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0321
+HOUSE BILL NO. HB0123
+Education savings accounts.
+Sponsored by: Representative(s) Clouston, Andrew, Davis and
+Larson, JT and Senator(s) Boner
+A BILL
+for
+1 AN ACT relating to education; authorizing education savings
+2 accounts; creating the Wyoming education savings account
+3 expenditure account; providing for a transfer of funds to
+4 the Wyoming education savings accounts expenditure account;
+5 providing for the use and administration of education
+6 savings accounts for education; specifying duties of the
+7 state superintendent of public instruction; providing
+8 rulemaking authority; making conforming amendments;
+9 providing appropriations; authorizing full-time positions;
+10 repealing provisions; providing a contingent effective date
+11 pending certification by the governor of actions of the
+12 Wyoming supreme court; and providing for an effective date.
+13
+14 Be It Enacted by the Legislature of the State of Wyoming:
+15
+1 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 Section 1. W.S. 21-2-1001 through 21-2-1010 are
+2 created to read:
+3
+4 ARTICLE 10
+5 WYOMING EDUCATION SAVINGS ACCOUNTS ACT
+6
+7 21-2-1001. Short title.
+8
+9 This act shall be known as the "Wyoming Education Savings
+10 Accounts Act." The program created by this act shall be
+11 known as the "ESA program."
+12
+13 21-2-1002. Definitions.
+14
+15 (a) As used in this act:
+16
+17 (i) "Curriculum" means a course of study for
+18 content areas or grade levels, including any supplemental
+19 materials required or recommended by the course of study;
+20
+21 (ii) "Education savings account" or "ESA" means
+22 the spending account for an eligible student's education
+23 where funds are allocated by the state superintendent of
+2 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 public instruction, where a parent of an ESA student enters
+2 into an agreement with the state superintendent to choose
+3 and pay for qualifying education expenses to educate the
+4 ESA student, subject to the requirements and conditions of
+5 this act;
+6
+7 (iii) "Education service provider" means a
+8 person or organization, including a qualified school, that
+9 receives payments authorized by a parent from education
+10 savings accounts to provide educational goods and services
+11 to ESA students;
+12
+13 (iv) "ESA student" means a student eligible for
+14 an ESA pursuant to W.S. 21-2-1004(a) who is participating
+15 in the ESA program;
+16
+17 (v) "Expenditure account" means the Wyoming
+18 education savings account expenditure account created by
+19 this act;
+20
+21 (vi) "Parent" means a resident of this state who
+22 is the parent or legal guardian of an eligible student or
+23 ESA student and may include an eligible student not less
+3 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 than eighteen (18) years of age or an ESA student who is an
+2 emancipated minor;
+3
+4 (vii) "Pre-kindergarten" means an educational
+5 program with the primary goal of preparing children for
+6 kindergarten that provides not more than one (1) school
+7 year of education prior to entry into kindergarten;
+8
+9 (viii) "Qualified school" means a
+10 pre-kindergarten or a nonpublic primary or secondary school
+11 certified by the state superintendent of public instruction
+12 pursuant to W.S. 21-2-1006(a) and located in or that
+13 provides education services in this state. "Qualified
+14 school" may include instruction provided through online
+15 means;
+16
+17 (ix) "This act" means W.S. 21-2-1001 through
+18 21-2-1010.
+19
+20 21-2-1003. Education savings accounts; Wyoming
+21 education savings accounts expenditure account.
+22
+4 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 (a) The total amount to be deposited in an education
+2 savings account for an ESA student each year shall be
+3 determined by the student's household income compared to
+4 the federal poverty levels, using the most recent federal
+5 poverty guidelines for the student's household size and
+6 income, as follows:
+7
+8 (i) Six thousand dollars ($6,000.00) for
+9 students whose household income is at or below one hundred
+10 fifty percent (150%) of the federal poverty level;
+11
+12 (ii) Four thousand eight hundred dollars
+13 ($4,800.00) for students whose household income is at or
+14 below two hundred percent (200%) of the federal poverty
+15 level but more than one hundred fifty percent (150%) of the
+16 federal poverty level;
+17
+18 (iii) Three thousand six hundred dollars
+19 ($3,600.00) for students whose household income is at or
+20 below two hundred fifty percent (250%) of the federal
+21 poverty level but more than two hundred percent (200%) of
+22 the federal poverty level;
+23
+5 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 (iv) Three thousand dollars ($3,000.00) for
+2 students whose household income is at or below three
+3 hundred percent (300%) of the federal poverty level but
+4 more than two hundred fifty percent (250%) of the federal
+5 poverty level.
+6
+7 (b) Payments to ESAs under this act shall be made by
+8 the state superintendent of public instruction from the
+9 expenditure account, which is hereby created. The
+10 expenditure account shall consist of funds transferred to
+11 it and other funds appropriated by the legislature. All
+12 earnings from investment of the expenditure account shall
+13 be credited to the expenditure account. Any unencumbered,
+14 unobligated balance of the expenditure account at the end
+15 of each fiscal year shall not revert but shall remain in
+16 the expenditure account and shall be expended to fund ESAs
+17 as provided by this act.
+18
+19 (c) Payments to each approved ESA shall be disbursed
+20 on a quarterly basis by the state superintendent.
+21
+22 21-2-1004. ESA program eligibility; parent agreement;
+23 ESA administration.
+6 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1
+2 (a) Subject to the availability and appropriation of
+3 funds as determined by the legislature, any child who is a
+4 Wyoming resident, who meets one (1) of the following
+5 qualifications, and subject to W.S. 21-2-1003(a), shall be
+6 eligible to receive an ESA subject to the provisions of
+7 this act:
+8
+9 (i) The child has not graduated from high school
+10 or received a high school equivalency certificate and is
+11 eligible to attend a public school in this state; or
+12
+13 (ii) The child is not less than four (4) years
+14 of age as of August 1 of the year in which the application
+15 for an ESA is made and is not yet eligible or ready to
+16 attend kindergarten in this state.
+17
+18 (b) To participate in the ESA program, the parent of
+19 an ESA student shall sign an agreement with the state
+20 superintendent that:
+21
+22 (i) Requires use of the ESA funds for the
+23 following qualifying expenses to educate the ESA student:
+7 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1
+2 (A) Tuition and fees at a qualified school;
+3
+4 (B) Tutoring services provided by a person
+5 or a tutoring facility. The tutoring services shall not be
+6 provided by an ESA student's immediate family;
+7
+8 (C) Services contracted for and provided by
+9 a public school district, including services provided by a
+10 public charter school. Services under this subparagraph may
+11 include, without limitation, individual classes and
+12 extracurricular activities and programs;
+13
+14 (D) Textbooks, curriculum and other
+15 instructional materials, including, but not limited to, any
+16 supplemental materials or associated online instruction
+17 required by either a curriculum or an education service
+18 provider;
+19
+20 (E) Computer hardware or other
+21 technological devices that are primarily used to help meet
+22 an ESA student's educational needs;
+23
+8 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 (F) Educational software and applications;
+2
+3 (G) School uniforms;
+4
+5 (H) Fees for nationally standardized
+6 assessments, advanced placement examinations, examinations
+7 related to college or university admission and tuition and
+8 fees for preparatory courses for the exams;
+9
+10 (J) Tuition and fees for summer education
+11 programs and specialized after school education programs;
+12
+13 (K) Tuition, fees, instructional materials
+14 and examination fees at a career or technical school;
+15
+16 (M) Educational services and therapies
+17 including, but not limited to, occupational, behavioral,
+18 physical, speech-language and audiology therapies;
+19
+20 (N) Tuition and fees at an institution of
+21 higher education;
+22
+9 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 (O) Fees for transportation paid to a
+2 fee-for-service transportation provider for the student to
+3 travel to and from an education service provider;
+4
+5 (P) Any other educational expense approved
+6 by the state superintendent.
+7
+8 (ii) For students found eligible for an ESA
+9 under paragraph (a)(i) of this section, the student shall:
+10
+11 (A) Receive instruction in, at minimum,
+12 reading, writing, mathematics, civics, including studies of
+13 the United States constitution and the constitution of the
+14 state of Wyoming, history, literature and science. No
+15 parent shall be required to allow their child to receive
+16 any instruction that conflicts with the parent's or child's
+17 religious doctrines;
+18
+19 (B) Take the statewide assessments
+20 administered pursuant to W.S. 21-2-304(a) or a nationally
+21 recognized achievement exam;
+22
+10 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 (C) Certify that the ESA student is not, or
+2 will not be, enrolled in a public school district upon
+3 receipt of the ESA and release the applicable school
+4 district from all obligations to educate the ESA student.
+5 This subparagraph shall not:
+6
+7 (I) Require an eligible student to
+8 withdraw from a public school district before applying for
+9 or receiving an ESA if the student withdraws from the
+10 public school district before receiving or expending any
+11 monies in the student's ESA;
+12
+13 (II) Prevent a qualified student from
+14 applying in advance for an ESA to be funded beginning the
+15 following school year; or
+16
+17 (III) Prevent a public school district
+18 from charging an ESA for any services provided to the
+19 qualified student to the extent authorized by law.
+20
+21 (c) Funds in an ESA shall not be refunded, rebated or
+22 shared with a parent of an ESA student in any manner. Any
+11 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 refund or rebate for goods or services purchased with ESA
+2 funds shall be credited directly to the student's ESA.
+3
+4 (d) Parents may make payments for costs of
+5 educational goods and services not covered by the funds in
+6 the ESA. Personal deposits into an ESA shall not be
+7 permitted.
+8
+9 (e) An ESA shall remain active and any unused funds
+10 shall not revert until the parent withdraws the ESA student
+11 from the ESA program or until the ESA student is no longer
+12 eligible for the ESA program, unless the ESA is closed
+13 because of a substantial misuse of funds. When an ESA is
+14 closed, any unused funds shall revert to the Wyoming
+15 education savings accounts expenditure account.
+16
+17 (f) Nothing in this act shall be construed to require
+18 an ESA student to be enrolled, full-time or part-time, in a
+19 nonpublic school. An ESA student receiving individualized
+20 instruction in a nonschool setting shall not be construed
+21 to be a student of a home-based educational program as
+22 defined in W.S. 21-4-101(a)(v).
+23
+12 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 21-2-1005. Application, award and allocation of ESAs.
+2
+3 (a) A parent may apply to the state superintendent of
+4 public instruction to establish an ESA for an eligible
+5 student.
+6
+7 (b) The state superintendent shall establish
+8 procedures for approving applications in an expeditious
+9 manner.
+10
+11 (c) The state superintendent shall create a standard
+12 form that parents may submit to establish their student's
+13 eligibility for the ESA program and shall ensure that the
+14 application form is publicly available and that completed
+15 applications may be submitted through various sources,
+16 including the internet.
+17
+18 (d) Except as provided under subsection (e) of this
+19 section, the state superintendent shall approve an
+20 application for an ESA if:
+21
+13 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 (i) The parent submits an application for an ESA
+2 in accordance with application procedures established by
+3 the state superintendent;
+4
+5 (ii) The student is an eligible student pursuant
+6 to W.S. 21-2-1004(a);
+7
+8 (iii) Funds are available for the ESA; and
+9
+10 (iv) The parent signs an agreement with the
+11 state superintendent as provided in W.S. 21-2-1004(b).
+12
+13 (e) Except as provided under this subsection, eighty
+14 percent (80%) of the ESAs shall be awarded to students
+15 eligible pursuant to W.S. 21-2-1004(a)(i) and the remaining
+16 twenty percent (20%) shall be awarded to students eligible
+17 pursuant to W.S. 21-2-1004(a)(ii) each year. Any funds
+18 allocated under this subsection for the award of ESAs to
+19 students eligible pursuant to W.S. 21-2-1004(a)(ii) that
+20 are not awarded in any school year may be awarded to
+21 students eligible pursuant to W.S. 21-2-1004(a)(i). If the
+22 number of applications for ESAs exceeds the available funds
+23 for any school year, the students shall be selected on a
+14 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 first-come, first-served basis, except preference shall be
+2 given to an eligible student who received funds under the
+3 ESA program in the immediately preceding school year.
+4
+5 (f) For students eligible for an ESA under W.S.
+6 21-2-1004(a)(i), the following shall apply:
+7
+8 (i) A signed agreement between the parent and
+9 state superintendent under W.S. 21-2-1004(b) shall satisfy
+10 the compulsory school attendance requirements of W.S.
+11 21-4-102 and the parent shall annually provide the
+12 student's resident public school district notice of intent
+13 to participate in the ESA program;
+14
+15 (ii) Upon notice to the state superintendent, an
+16 ESA student may choose to stop receiving an ESA and enroll
+17 full-time in a public school. Enrolling as a full-time
+18 student in a public school shall result in the immediate
+19 suspension of payment of additional funds to the student's
+20 ESA and the state superintendent may close the ESA. If an
+21 eligible student applies to the state superintendent to
+22 return to the ESA program, payments into the student's
+23 existing ESA may resume if the ESA is still open and
+15 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 active. A new ESA may be established if an eligible
+2 student's ESA was closed;
+3
+4 (iii) The state superintendent may adopt rules
+5 and policies to provide a process for ESA students who
+6 choose to withdraw from the ESA program and enroll
+7 full-time in a public school.
+8
+9 21-2-1006. Duties of the state superintendent of
+10 public instruction to administer the education savings
+11 accounts program.
+12
+13 (a) The state superintendent of public instruction
+14 shall:
+15
+16 (i) Establish a certification process for
+17 education service providers, that shall, at minimum, ensure
+18 ESA students attending qualified schools in kindergarten
+19 through grade twelve (12) receive instruction in reading,
+20 writing, mathematics, civics, including studies of the
+21 United States constitution and the constitution of the
+22 state of Wyoming, history, literature and science and for
+23 pre-kindergarten ensure ESA students at minimum receive
+16 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 instruction necessary for preparation to enter
+2 kindergarten;
+3
+4 (ii) Maintain a list of certified education
+5 service providers and ensure the list is available to
+6 parents of ESA students. The list shall enable the
+7 education service provider to indicate if the education
+8 service provider is accepting new ESA students;
+9
+10 (iii) Provide parents with a written explanation
+11 of the qualified expenses for ESA funds, the
+12 responsibilities of parents and the duties of the state
+13 superintendent related to administration of the ESA
+14 program;
+15
+16 (iv) For students eligible for an ESA under W.S.
+17 21-2-1004(a)(i), ensure that parents of ESA students with
+18 disabilities receive notice that participation in the ESA
+19 program is a parental placement under 20 U.S.C. § 1412,
+20 Individuals with Disabilities Education Act (IDEA), along
+21 with an explanation of the rights that parentally placed
+22 students possess under IDEA and any applicable state laws
+23 and regulations;
+17 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1
+2 (v) If determined necessary by the state
+3 superintendent, contract with one (1) or more private
+4 organizations to administer the ESA program or specific
+5 functions of the ESA program including, without limitation,
+6 contracting with private financial management firms to
+7 manage ESAs. The state superintendent shall comply with
+8 applicable procurement statutes and rules in securing
+9 services under this paragraph;
+10
+11 (vi) Implement a commercially viable,
+12 cost-effective and user-friendly system for payment of
+13 services from ESAs to education service providers by
+14 electronic or online funds transfer. The payment system
+15 shall not rely exclusively on requiring parents to be
+16 reimbursed for out-of-pocket expenses. The payment system
+17 shall provide maximum flexibility to parents by
+18 facilitating direct payments to education service providers
+19 as well as requests for pre-approval of and reimbursements
+20 for qualifying expenses listed in W.S. 21-2-1004(b)(i). The
+21 state superintendent may contract with private
+22 organizations to develop the payment system;
+23
+18 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 (vii) Continue certifying deposits into a
+2 student's ESA until:
+3
+4 (A) The state superintendent determines
+5 that the ESA student is no longer an eligible student;
+6
+7 (B) The state superintendent determines
+8 there was an intentional and substantial misuse of the
+9 funds in the ESA;
+10
+11 (C) The ESA student withdraws from the ESA
+12 program; or
+13
+14 (D) The ESA student enrolls full-time in a
+15 public school.
+16
+17 (viii) Conduct or contract for the auditing of
+18 individual ESAs and shall at a minimum conduct or contract
+19 for audits of not less than two percent (2%) of all ESAs,
+20 selected randomly, on an annual basis;
+21
+22 (ix) Investigate reports of intentional and
+23 substantial misuse of ESA funds and prohibit an eligible
+19 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 ESA student from receipt of ESA funds if the state
+2 superintendent determines that the ESA student or ESA
+3 student's parent intentionally and substantially misused
+4 ESA funds. The state superintendent shall by rule create
+5 procedures to ensure that a fair process exists to
+6 determine whether an intentional and substantial misuse of
+7 ESA funds has occurred. The state superintendent shall have
+8 the authority to refer suspected cases of intentional and
+9 substantial misuse of ESA funds to the attorney general for
+10 investigation if evidence of fraudulent use of ESA funds is
+11 obtained;
+12
+13 (x) Establish rules to prohibit an education
+14 service provider from accepting payments from ESAs if the
+15 state superintendent determines the education service
+16 provider has:
+17
+18 (A) Intentionally and substantially
+19 misrepresented information or failed to refund any
+20 overpayments in a timely manner; or
+21
+22 (B) Routinely failed to provide students
+23 with required educational goods or services.
+20 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1
+2 (xi) Notify parents and ESA students within ten
+3 (10) business days if the state superintendent prohibits an
+4 education service provider from receiving ESA funds under
+5 paragraph (x) of this subsection;
+6
+7 (xii) Students eligible for an ESA under W.S.
+8 21-2-1004(a)(i) shall participate in statewide assessments
+9 administered pursuant to W.S. 21-2-304(a). The results of
+10 the statewide assessments taken by ESA students shall be
+11 compiled to analyze student proficiency and academic
+12 progress, including an analysis of graduation rates,
+13 proficiency and progress based on grade level. The results
+14 of the analysis under this paragraph shall be included in
+15 the annual report required pursuant to W.S. 21—2-204(k).
+16
+17 (b) If an education service provider requires partial
+18 payment of tuition or fees prior to the start of the school
+19 year to reserve space for an ESA student admitted to the
+20 education service provider, the state superintendent may
+21 certify the partial payment prior to the start of the
+22 school year in which the ESA is awarded and deduct that
+23 amount from subsequent quarterly ESA deposits. If an ESA
+21 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 student decides not to use the education service provider,
+2 the partial payment made under this subsection shall be
+3 returned to the state superintendent by the education
+4 service provider and credited to the student's ESA.
+5
+6 (c) The state superintendent may adopt rules that are
+7 consistent with this act and that are necessary for its
+8 administration including rules:
+9
+10 (i) Establishing or contracting for the
+11 establishment of an online anonymous fraud reporting
+12 service;
+13
+14 (ii) Establishing an anonymous telephone hotline
+15 for fraud reporting;
+16
+17 (iii) Requiring a surety bond for education
+18 service providers receiving more than one hundred fifty
+19 thousand dollars ($150,000.00) in ESA funds; and
+20
+21 (iv) Establishing a procedure for refunding
+22 payments from education service providers to ESAs.
+23
+22 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 21-2-1007. Education service providers.
+2
+3 (a) Before receiving payment from an ESA, a
+4 prospective education service provider shall:
+5
+6 (i) Be certified by the state superintendent of
+7 public instruction pursuant to W.S. 21-2-1006(a) to receive
+8 payments from ESAs;
+9
+10 (ii) Agree not to refund, rebate or share ESA
+11 funds with parents or ESA students in any manner, except
+12 that funds may be remitted or refunded to an ESA in
+13 accordance with procedures established by the state
+14 superintendent.
+15
+16 (b) Nothing in this act shall be deemed to limit the
+17 independence or autonomy of an education service provider
+18 or to make the actions of an education service provider the
+19 actions of state government or public school district.
+20
+21 (c) Education service providers shall be given
+22 maximum freedom to provide instruction and services in
+23 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 their usual and customary manner to meet the educational
+2 needs of ESA students.
+3
+4 (d) An education service provider that accepts
+5 payment from an ESA pursuant to this act is not an agent of
+6 the state or federal government or a public school
+7 district.
+8
+9 (e) Nothing in this act shall be construed to expand
+10 the regulatory authority of the state, its officers or any
+11 school district to impose any additional regulation of
+12 education service providers beyond those necessary to
+13 enforce the requirements of the ESA program.
+14
+15 (f) Unless a direct conflict with this act exists, an
+16 education service provider shall not be required to alter
+17 its creed, practices, admission policy or curriculum to
+18 accept payments authorized by a parent from an ESA.
+19
+20 21-2-1008. Responsibilities of public schools and
+21 school districts.
+22
+24 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 A public school or school district that previously enrolled
+2 an ESA student shall provide an education service provider
+3 that has enrolled the ESA student with a complete copy of
+4 the ESA student's school records as necessary, while
+5 complying with 20 U.S.C. § 1232g, the Family Educational
+6 Rights and Privacy Act of 1974.
+7
+8 21-2-1009. Legal liability.
+9
+10 No liability shall arise on the part of the state
+11 superintendent of public instruction or the state or any
+12 public school or school district based on the award of or
+13 use of an ESA pursuant to this act.
+14
+15 21-2-1010. Contingent effective date; sunset date.
+16
+17 (a) This act shall be effective five (5) days after
+18 the date that the governor, on advice from the attorney
+19 general, certifies to the secretary of state that the
+20 Wyoming supreme court has found that monetary deposits
+21 provided to education savings accounts for ESA students
+22 pursuant to W.S. 21-2-903 are unconstitutional or
+23 unenforceable. After receiving certification from the
+25 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 governor under this subsection, the secretary of state
+2 shall report that fact to the management council of the
+3 legislature and the joint education interim committee and
+4 shall immediately publish the effective date of this act on
+5 the website of the secretary of state's office. The
+6 publication under this subsection shall also provide that
+7 W.S. 21-2-901 through 21-2-909 are repealed on that date.
+8
+9 (b) This act shall not be effective if the attorney
+10 general certifies to the governor that the Wyoming supreme
+11 court has found that the provisions of W.S. 21-2-901
+12 through 21-2-909 shall be upheld or are unconstitutional or
+13 unenforceable for a reason other than the monetary deposits
+14 provided to education savings accounts.
+15
+16 Section 2. W.S. 21-2-901, 21-4-102(d), 21-4-301(b)
+17 and 21-13-310(a)(ix) are amended to read:
+18
+19 21-2-901. Short title; sunset date.
+20
+21 (a) This act shall be known as the "Steamboat Legacy
+22 Scholarship Act." The program created by this act shall be
+23 known as the "ESA program."
+26 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1
+2 (b) This act shall be repealed five (5) days after
+3 the date that the governor, on advice of the attorney
+4 general, certifies to the secretary of state that the
+5 Wyoming supreme court has found that monetary deposits
+6 provided to education savings accounts for ESA students
+7 pursuant to W.S. 21-2-903 are unconstitutional or
+8 unenforceable.
+9
+10 21-4-102. When attendance required; exemptions;
+11 withdrawal.
+12
+13 (d) A child participating in the ESA program
+14 specified by pursuant to W.S. 21-2-901 or 21-2-1001 through
+15 21-2-1010, if effective, and who provides notice of
+16 participation in the ESA program to the child's school
+17 district shall be deemed to be in compliance with the
+18 compulsory attendance requirement under this section.
+19
+20 21-4-301. Schools to be free and accessible to all
+21 children; minimum school year.
+22
+27 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 (b) A parent, guardian or other person having control
+2 or charge of any child eligible to attend public school in
+3 Wyoming under subsection (a) of this section shall have the
+4 option to apply for the ESA program specified by under W.S.
+5 21-2-901 or 21-2-1001 through 21-2-1010, if effective, on
+6 behalf of the child.
+7
+8 21-13-310. Annual computation of district revenues.
+9
+10 (a) To ensure revenues available to each district are
+11 uniformly sufficient to enable compliance with the uniform
+12 standards for educational programs prescribed under W.S.
+13 21-9-101 and 21-9-102 and to secure state board
+14 accreditation of educational programs under W.S.
+15 21-2-304(a)(ii), the revenues specified under this
+16 subsection shall be deemed state revenues and shall be
+17 considered in determining the amount to be distributed to
+18 each district under W.S. 21-13-311. A district shall make
+19 an annual computation of the following revenues:
+20
+21 (ix) The amount of tuition paid to the district
+22 during the previous school year, including any amount
+23 charged under W.S. 21-4-501 and any amount assessed in
+28 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 excess of the costs incurred for adult education programs,
+2 summer school programs, programs provided under an
+3 agreement for cooperative educational programs under W.S.
+4 21-20-101 through 21-20-111 and any amount assessed for
+5 programs and services for children with disabilities, but
+6 excluding any tuition assessed by a district for the
+7 provision of virtual education programs to participating
+8 students pursuant to W.S. 21-13-330, any tuition assessed
+9 by a district for the provision of part-time educational
+10 programs to participating students pursuant to W.S.
+11 21-2-904(b)(i)(C) or 21-2-1004(b)(i)(C), if effective, and
+12 21-4-502(c), any revenues received by a district from post
+13 secondary education option programs provided under W.S.
+14 21-20-201 or for the provision of educational programs to a
+15 nonresident student placed in a juvenile detention facility
+16 pursuant to an agreement with the student's resident school
+17 district;
+18
+19 Section 3. There is appropriated forty million
+20 dollars ($40,000,000.00) from the general fund to the
+21 education savings accounts expenditure account created by
+22 W.S. 21-2-1003(b) for purposes of the Wyoming education
+23 savings accounts program. This appropriation shall be
+29 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 subject to the terms of W.S. 21-2-1003(b). If the state
+2 superintendent determines it is necessary, not more than
+3 three percent (3%) of the funds appropriated by this
+4 section may be withheld to pay for the costs of
+5 administering the ESA program. This appropriation shall
+6 not be transferred or expended for any other purpose. It
+7 is the intent of the legislature that this appropriation be
+8 included in the standard budget of the Wyoming department
+9 of education for the immediately succeeding fiscal
+10 biennium.
+11
+12 Section 4.
+13
+14 (a) The department of education is authorized two (2)
+15 full-time employees for the purposes of this act. There is
+16 appropriated four hundred eighty thousand dollars
+17 ($480,000.00) from the general fund to the department of
+18 education for the salary and benefits of the positions
+19 created by this subsection. This appropriation shall be for
+20 the period beginning with the effective date of this act
+21 and ending June 30, 2028. This appropriation shall not be
+22 transferred or expended for any other purpose and any
+23 unexpended, unobligated funds remaining from this
+30 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 appropriation shall revert as provided by law. If this act
+2 becomes effective, it is the intent of the legislature that
+3 this appropriation and these positions be included in the
+4 department of education's standard budget for the
+5 immediately succeeding fiscal biennium.
+6
+7 (b) There is appropriated four hundred thousand
+8 dollars ($400,000.00) from the general fund to the
+9 department of education for contractual services (900
+10 series) necessary to implement this act. This appropriation
+11 shall be for the period beginning with the effective date
+12 of this act and ending June 30, 2028. These funds shall not
+13 be transferred or expended for any other purpose and any
+14 unexpended, unobligated funds remaining from this
+15 appropriation shall revert as provided by law. If this act
+16 becomes effective, it is the intent of the legislature that
+17 this appropriation for contractual services (900 series)
+18 necessary to implement this act be included in the
+19 department of education's standard budget for the
+20 immediately succeeding fiscal biennium.
+21
+22 (c) The department of education shall report annually
+23 on or before September 1 to the joint education interim
+31 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 committee on the expenditures from the appropriation under
+2 subsection (b) of this section.
+3
+4 Section 5. The state superintendent of public
+5 instruction shall adopt rules and take other actions as
+6 necessary to enable students to enroll in the ESA program
+7 created by this act for school year 2027-2028. The state
+8 superintendent shall begin accepting applications for the
+9 ESA program not later than January 1, 2027.
+10
+32 HB0123
+
+2026 STATE OF WYOMING 26LSO-0321
+1 Section 6. This act shall be effective five (5) days
+2 after the date that the governor, on advice from the
+3 attorney general, certifies to the secretary of state that
+4 the Wyoming supreme court has found that monetary deposits
+5 provided to education savings accounts for ESA students
+6 pursuant to W.S. 21-2-903 are unconstitutional or
+7 unenforceable. After receiving certification from the
+8 governor under this subsection, the secretary of state
+9 shall report that fact to the management council of the
+10 legislature and the joint education interim committee and
+11 shall immediately publish the effective date of this act on
+12 the website of the secretary of state's office. The
+13 publication under this subsection shall also provide that
+14 W.S. 21-2-901 through 21-2-909 are repealed on that date.
+15
+16 (END)
+33 HB0123

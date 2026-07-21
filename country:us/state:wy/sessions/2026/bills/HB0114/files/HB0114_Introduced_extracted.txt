@@ -1,0 +1,311 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0207
+HOUSE BILL NO. HB0114
+Railroad safety.
+Sponsored by: Representative(s) Chestek, Posey and Styvar
+A BILL
+for
+1 AN ACT relating to public utilities; requiring trains to be
+2 not more than a specified length; providing operational
+3 requirements; requiring the implementation of wayside
+4 detection systems; requiring visual inspections; providing
+5 civil penalties; requiring a report; providing definitions;
+6 authorizing positions; providing an appropriation and
+7 providing for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 37-9-1401 through 37-9-1404 are
+12 created to read:
+13
+14 ARTICLE 14
+15 RAILROAD SAFETY
+16
+1 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 37-9-1401. Definitions
+2
+3 (a) As used in this article:
+4
+5 (i) "Branch line" means a secondary railroad
+6 track that branches off from a main line;
+7
+8 (ii) "Defect" includes, but is not limited to,
+9 hot wheel bearings, hot wheels, deficient bearings detected
+10 through acoustic means, dragging of equipment, excessive
+11 height, excessive weight, a shifted load, a loose hose,
+12 improper rail temperature or a deficient wheel condition;
+13
+14 (iii) "Director" means the director of the
+15 department of transportation;
+16
+17 (iv) "Dragging equipment detector" means an
+18 electronic device or other technology that monitors a
+19 passing train to actively detect and alert operators of the
+20 train of the existence of any objects dragging from the
+21 train;
+22
+2 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 (v) "Hot bearings detector" means an infrared
+2 detector located along railroad tracks that is designed to
+3 detect and alert the operators of a passing train about any
+4 overheating of a train's bearings, axles or wheels;
+5
+6 (vi) "Main line" means as defined by 49 C.F.R.
+7 part 236 or a successor regulation;
+8
+9 (vii) "Railroad" means any form of nonhighway
+10 ground transportation that runs on rails or electromagnetic
+11 guideways;
+12
+13 (viii) "Siding" or "passing track" means a
+14 sidetrack with switches at both ends;
+15
+16 (ix) "Train" means one (1) or more locomotives,
+17 coupled with or without cars, that require an air brake
+18 test in accordance with 49 C.F.R. part 232 or part 238;
+19
+20 (x) "Wayside detector" or "wayside detector
+21 system" means an electronic device or a series of connected
+22 devices that scans passing trains, rolling stock and
+3 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 on-track equipment, and their component equipment and
+2 parts, for defects.
+3
+4 37-9-1402. Train length; penalties.
+5
+6 (a) In addition to other administrative or criminal
+7 remedies authorized by law, the director, after notice and
+8 opportunity for hearing, shall assess a civil penalty
+9 against a railroad company, corporation or employer as
+10 provided in this section.
+11
+12 (b) No railroad company operating in the state of
+13 Wyoming shall run or permit to run any train that:
+14
+15 (i) Exceeds eight thousand five hundred (8,500)
+16 feet in length;
+17
+18 (ii) Exceeds the length of the shortest passing
+19 track or siding on which it travels on any main line or
+20 branch line; or
+21
+4 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 (iii) Routinely or repeatedly blocks any highway
+2 grade crossing for periods exceeding ten (10) minutes at
+3 one (1) time.
+4
+5 (c) Except as provided in subsection (d) of this
+6 section, any railroad company who willfully violates
+7 paragraph (b)(i) or (ii) of this section shall be subject
+8 to a civil penalty in an amount not less than five hundred
+9 dollars ($500.00) per foot nor more than one thousand
+10 dollars ($1,000.00) per foot of the amount of a train
+11 exceeding the limitation set forth in paragraph (b)(i) or
+12 (ii) of this section.
+13
+14 (d) Any railroad company who violates paragraph
+15 (b)(iii) of this section shall be subject to a civil
+16 penalty of not less than one thousand dollars ($1,000.00)
+17 and not more than five thousand dollars ($5,000.00) per
+18 violation. In assessing a penalty under this subsection,
+19 the director shall consider the factors specified in
+20 subsection (f) of this section.
+21
+22 (e) Any railroad company that commits a grossly
+23 negligent violation of subsection (b) of this section or
+5 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 that has a pattern of repeated violations of subsection (b)
+2 of this section and the violation caused an imminent threat
+3 of death or injury to any person or caused death or injury
+4 to any person shall be subject to a one (1) time civil
+5 penalty not to exceed two hundred fifty thousand dollars
+6 ($250,000.00).
+7
+8 (f) In determining the amount of any civil penalty
+9 under this section the director shall consider:
+10
+11 (i) The nature, circumstances, extent and
+12 gravity of the violation;
+13
+14 (ii) The degree of culpability, history of
+15 violations, ability to pay and any effect on the violator's
+16 ability to continue to do business;
+17
+18 (iii) Any other matters that justice requires.
+19
+20 (g) At the request of the director, the attorney
+21 general may initiate a civil action to collect any civil
+22 penalty imposed pursuant to this section. The attorney
+23 general may bring a civil action in any court of competent
+6 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 jurisdiction. A civil action under this section shall be
+2 commenced within three (3) years of the date of the
+3 violation or within three (3) years of the latest violation
+4 if a repeated offense is alleged.
+5
+6 37-9-1403. Wayside detection systems; report.
+7
+8 (a) A railroad company operating a train in Wyoming
+9 shall install and maintain wayside detectors at intervals
+10 of not less than every ten (10) miles on every main line it
+11 operates in Wyoming. The wayside detectors shall be capable
+12 of detecting defects as defined in W.S. 37-9-1401(a)(ii)
+13 and of providing alerts directly to the cab of the train as
+14 it passes the detector. Each wayside detector shall provide
+15 a signal to the operator of a passing train that either no
+16 defect was found or a report of any defect that was found.
+17 The wayside detector system shall be fully operational at
+18 all times when trains are being operated on the line.
+19
+20 (b) Each railroad company operating trains in Wyoming
+21 shall provide adequate training for all train operators on
+22 the proper use of wayside detectors, including remediation
+23 procedures to be followed when a wayside detector sends an
+7 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 alert to the cab of a train they are operating. The
+2 remediation procedures shall be specified in the railroad
+3 company's instruction manual.
+4
+5 (c) At the end of the shift of any train operator in
+6 Wyoming, the train operator shall file a report with the
+7 railroad company and with a local labor safety
+8 representative describing any of the following that
+9 occurred during the shift of the train operator:
+10
+11 (i) Each alert received from a wayside detector
+12 during the shift, including the nature of the alert and how
+13 the operator responded to the alert;
+14
+15 (ii) If the train passed a wayside detector that
+16 was not operational, the location of the wayside detector
+17 that was not operational.
+18
+19 (d) On or before January 31, 2027, and on or before
+20 January 31 of each year thereafter, a railroad operating a
+21 main line in Wyoming and a person recognized by a labor
+22 organization representing employees of the railroad as a
+23 local labor safety representative shall submit a report to
+8 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 the department that includes, at minimum, the following
+2 information:
+3
+4 (i) An overview of the types of, general
+5 locations of and spacing between wayside detectors on main
+6 lines in Wyoming;
+7
+8 (ii) Any improvements or upgrades to the wayside
+9 detector system that the railroad implemented during the
+10 year covered by the report;
+11
+12 (iii) A summary of:
+13
+14 (A) The number of alerts reported by train
+15 operators during the year, categorized by the type of alert
+16 reported;
+17
+18 (B) The responses to the alerts,
+19 categorized by the type of response;
+20
+21 (C) The number of reports of wayside
+22 detectors that were not operational at the time the train
+23 passed the detector; and
+9 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1
+2 (D) The number of derailments that occurred
+3 on the main line of the railroad company, categorized by
+4 the cause of the derailment.
+5
+6 (e) Each report submitted under this section shall be
+7 a public record.
+8
+9 37-9-1404. Visual track inspections.
+10
+11 (a) Each railroad company shall ensure that all main
+12 line track designated within Wyoming for operation at class
+13 3 speeds or higher under 49 C.F.R. part 213 is subject to
+14 human visual inspection not less than two times each week.
+15 Not less than one (1) calendar day shall elapse between
+16 visual inspections under this subsection. The inspector
+17 under this section shall be a person who is designated as a
+18 qualified person under 49 C.F.R. part 213.
+19
+20 (b) Any defect or unsafe condition on a main line
+21 track that is identified by an inspection under subsection
+22 (a) of this section or by any other inspection, detection
+23 or monitoring method shall be corrected, protected or
+10 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 removed from service immediately upon detection, consistent
+2 with the requirements of 49 C.F.R. part 213.
+3
+4 (c) If a person conducting an inspection under
+5 subsection (a) of this section finds any deviation from the
+6 requirements of 49 C.F.R. part 213, the person shall:
+7
+8 (i) Immediately initiate remedial action; and
+9
+10 (ii) Have sole authority to authorize any
+11 subsequent movements to facilitate repairs on track that is
+12 out of service.
+13
+14 (d) Any railroad company who violates subsection (a)
+15 of this section shall be subject to a civil penalty of not
+16 less than ten thousand dollars ($10,000.00) and not more
+17 than fifty thousand dollars ($50,000.00) for each week in
+18 which the required visual inspections did not occur.
+19
+20 Section 2.
+21
+22 (a) The department of transportation is authorized up
+23 to two (2) full-time positions for the period beginning
+11 HB0114
+
+2026 STATE OF WYOMING 26LSO-0207
+1 July 1, 2026 and ending June 30, 2028 for the purposes of
+2 implementing this act. It is the intent of the legislature
+3 that the department of transportation include these
+4 full-time positions in its standard budget for the
+5 immediately succeeding fiscal biennium.
+6
+7 (b) There is appropriated three hundred thousand
+8 dollars ($300,000.00) from the general fund to the
+9 department of transportation to be expended only for the
+10 purpose of funding the positions authorized in subsection
+11 (a) of this section. This appropriation shall not be
+12 transferred or expended for any other purpose and any
+13 unexpended, unobligated funds remaining from this
+14 appropriation shall revert as provided by law on June 30,
+15 2028. It is the intent of the legislature that this
+16 appropriation be included in the standard budget for the
+17 department of transportation for the immediately succeeding
+18 fiscal biennium.
+19
+20 Section 3. This act is effective July 1, 2026.
+21
+22 (END)
+12 HB0114

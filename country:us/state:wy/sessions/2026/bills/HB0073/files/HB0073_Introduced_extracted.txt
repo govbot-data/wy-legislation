@@ -1,0 +1,309 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0101
+HOUSE BILL NO. HB0073
+Residential real property-fair market value on transfer.
+Sponsored by: Joint Revenue Interim Committee
+A BILL
+for
+1 AN ACT relating to ad valorem taxation; establishing the
+2 value of residential real property for purposes of
+3 taxation; providing definitions; making conforming
+4 amendments; requiring rulemaking; and providing for
+5 effective dates.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 39-11-101(a)(vi) and (xvii)(C) and
+10 39-13-103(b)(iii)(intro), (C) and by creating a new
+11 paragraph (xviii) are amended to read:
+12
+13 39-11-101. Definitions.
+14
+15 (a) As used in this act unless otherwise specifically
+16 provided:
+1 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1
+2 (vi) "Fair market value" means the amount in
+3 cash, or terms reasonably equivalent to cash, a well
+4 informed buyer is justified in paying for a property and a
+5 well informed seller is justified in accepting, assuming
+6 neither party to the transaction is acting under undue
+7 compulsion, and assuming the property has been offered in
+8 the open market for a reasonable time, except, fair market
+9 value of agricultural land shall be determined as provided
+10 by W.S. 39-13-103(b)(x), fair market value of residential
+11 real property shall be determined as provided in W.S.
+12 39-13-103(b)(xviii) and fair market value of mine products
+13 shall be determined as provided by W.S. 39-14-103(b),
+14 39-14-203(b), 39-14-303(b), 39-14-403(b), 39-14-503(b),
+15 39-14-603(b) and 39-14-703(b);
+16
+17 (xvii) "Taxable value" means a percent of the
+18 fair market value of property in a particular class as
+19 follows:
+20
+21 (C) All other property, real and personal,
+22 including property valued and assessed under W.S.
+23 39-13-102(m)(vi) and (ix), nine and one-half percent
+2 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 (9.5%), provided that the value of residential real
+2 property shall be determined as provided in W.S.
+3 39-13-103(b)(xviii).
+4
+5 39-13-103. Imposition.
+6
+7 (b) Basis of tax. The following shall apply:
+8
+9 (iii) Beginning January 1, 1989, "Taxable value"
+10 means a percent of the fair market value of property in a
+11 particular class as follows:
+12
+13 (C) All other property, real and personal,
+14 nine and one-half percent (9.5%), provided that the value
+15 of residential real property shall be determined as
+16 provided in paragraph (xviii) of this subsection.
+17
+18 (xviii) The following shall apply to the
+19 valuation of residential real property, as made subject to
+20 taxation in subparagraph (iii)(C) of this subsection:
+21
+3 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 (A) Beginning January 1, 2028, the fair
+2 market value of residential real property shall be
+3 determined as follows:
+4
+5 (I) For any residential real property
+6 that was last acquired on or before December 31, 2019, the
+7 base year value for the residential real property shall be
+8 equal to the fair market value of the property on January
+9 1, 2019;
+10
+11 (II) For any residential real property
+12 that was last acquired between January 1, 2020 and December
+13 31, 2027, the base year value for the residential real
+14 property shall be equal to the fair market value of the
+15 property on January 1 of the year the property was last
+16 acquired;
+17
+18 (III) For any residential real
+19 property that is acquired on or after January 1, 2028,
+20 there shall be a rebuttable presumption that the price paid
+21 to acquire the property is the fair market value of the
+22 property. The fair market value determined under this
+23 subdivision shall be used as the base year value for the
+4 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 property, except as provided in subdivision (IV) of this
+2 subparagraph;
+3
+4 (IV) Notwithstanding subdivision (III)
+5 of this subparagraph, for any residential real property
+6 that is acquired on or after January 1, 2028, the fair
+7 market value of the property on January 1 of the year the
+8 property was acquired shall be used as the base year value
+9 of the property if:
+10
+11 (1) The presumption under
+12 subdivision (III) of this subparagraph is rebutted by a
+13 preponderance of the evidence showing that the price paid
+14 to acquire the property was not at fair market value
+15 because a party to the transaction was acting under undue
+16 influence or the terms of the transaction were not
+17 negotiated at arms-length between an informed buyer and
+18 seller; or
+19
+20 (2) The owner of the residential
+21 real property does not submit information that is
+22 sufficient to enable the assessor to establish the price
+5 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 paid to acquire the property under subdivision (III) of
+2 this subparagraph.
+3
+4 (B) The base year value determined under
+5 subparagraph (A) of this paragraph shall be annually
+6 adjusted to determine the fair market value of the property
+7 for that tax year as follows:
+8
+9 (I) The base year value shall be
+10 adjusted each year beginning in the first year after the
+11 base year value is determined under subparagraph (A) of
+12 this paragraph as provided in this subdivision. The
+13 department of revenue in coordination with the economic
+14 analysis division of the department of administration and
+15 information shall create an index that reviews residential
+16 real property values across the state in comparison to the
+17 prior year to determine if residential property values are
+18 increasing or decreasing. If residential real property
+19 values are decreasing under the index, the value of the
+20 property from the prior year shall be reduced at the same
+21 rate determined by the index. If residential real property
+22 values are increasing under the index, the value of the
+23 property shall be adjusted by an inflation factor that is
+6 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 the lesser of two percent (2%) or the rate of the consumer
+2 price index or its successor index of the United States
+3 department of labor, bureau of labor statistics, for the
+4 applicable year;
+5
+6 (II) The base year value shall be
+7 adjusted as necessary to account for increases in the value
+8 of the residential real property caused by new construction
+9 or significant additions to the property. The value of the
+10 new construction or significant additions shall be added to
+11 the base year value of the residential real property. The
+12 value of the new construction or significant additions
+13 shall be determined by the construction costs. Actual costs
+14 may be submitted to determine construction costs. If actual
+15 costs are not submitted or if the construction costs do not
+16 represent fair market value because a party to the
+17 transaction was acting under undue influence or the terms
+18 of the transaction were not negotiated at arms-length, the
+19 construction costs shall be determined based on average
+20 construction costs in the state for the applicable tax year
+21 for a comparable construction or addition.
+22
+7 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 (C) The amount determined pursuant to
+2 subparagraphs (A) and (B) of this paragraph shall be the
+3 fair market value of the residential real property until
+4 ownership of the property is transferred to a new person.
+5 Each time residential real property is transferred to a new
+6 person, the property shall be valued as provided in
+7 subparagraph (A) of this paragraph to determine the new
+8 base year value of the property. The new base year value of
+9 the property shall be subject to adjustment as provided in
+10 subparagraph (B) of this paragraph;
+11
+12 (D) The department shall adopt rules
+13 necessary to implement this paragraph. The rules shall
+14 include:
+15
+16 (I) Rules regarding the documentation
+17 and procedures required to establish the price paid to
+18 acquire the property under this paragraph;
+19
+20 (II) Rules specifying how construction
+21 costs are determined and reported;
+22
+8 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 (III) Rules specifying how significant
+2 additions to residential real property are determined and
+3 reported.
+4
+5 (E) As used in this paragraph:
+6
+7 (I) "Price paid to acquire the
+8 property" means the actual full amount paid or to be paid
+9 to acquire residential real property;
+10
+11 (II) "Residential real property" means
+12 real property improved by a dwelling designed to house not
+13 more than three (3) families and includes associated
+14 residential land where the dwelling is located if the land
+15 is owned by the owner of the dwelling. The dwelling may
+16 include any type of residence including a single family
+17 home or an individual condominium unit if the dwelling is
+18 used as a primary residence;
+19
+20 (III) "Significant addition" means any
+21 construction of residential real property that adds
+22 habitable square feet to the residential real property and
+23 includes construction where all or a portion of the
+9 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 dwelling is demolished and reconstructed. "Significant
+2 addition" shall not include finishing an unfinished portion
+3 of the existing dwelling;
+4
+5 (IV) "Transfer" or "acquisition" of
+6 residential real property does not include:
+7
+8 (1) A transfer of property
+9 between spouses or between a parent and the parent's child.
+10 Transfers to heirs by will or intestate succession shall
+11 not constitute a transfer under this subdivision, however
+12 subsequent sales or transfers of residential real property
+13 that are not otherwise excluded as a transfer under this
+14 subdivision shall be a transfer of residential real
+15 property;
+16
+17 (2) A transfer of property
+18 pursuant to a court order including to effectuate a
+19 settlement agreement or in compliance with a decree of
+20 divorce or judicial separation;
+21
+10 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 (3) A transfer of property to a
+2 trust established for the benefit of the immediately
+3 preceding owner;
+4
+5 (4) A transfer of property to a
+6 corporation, partnership or limited liability company if
+7 the immediately preceding owner of the property is a
+8 shareholder or owner of the corporation, partnership or
+9 limited liability company, provided that a change in more
+10 than fifty percent (50%) of the ownership interest of an
+11 entity holding residential real property under this
+12 subdivision within one (1) year shall constitute a transfer
+13 of residential real property;
+14
+15 (5) A donation of residential
+16 real property to a religious or charitable organization,
+17 including a nonprofit organization;
+18
+19 (6) Any other transfer of
+20 property that the department determines by rule should not
+21 be an acquisition of property due to the relationship of
+22 the parties or other factors.
+23
+11 HB0073
+
+2026 STATE OF WYOMING 26LSO-0101
+1 Section 2. The state board of equalization and the
+2 department of revenue shall promulgate all rules necessary
+3 to implement this act not later than January 1, 2028.
+4
+5 Section 3. This act shall be effective only upon
+6 certification by the secretary of state that the electors
+7 have adopted the amendment to the Wyoming constitution at
+8 the 2026 general election provided in 2026 House Joint
+9 Resolution 0004.
+10
+11 Section 4.
+12
+13 (a) Except as otherwise provided in subsection (b) of
+14 this section, this act is effective immediately upon
+15 completion of all acts necessary for a bill to become law
+16 as provided by Article 4, Section 8 of the Wyoming
+17 Constitution.
+18
+19 (b) Subject to section 3 of this act, section 1 of
+20 this act is effective January 1, 2028.
+21
+22 (END)
+12 HB0073

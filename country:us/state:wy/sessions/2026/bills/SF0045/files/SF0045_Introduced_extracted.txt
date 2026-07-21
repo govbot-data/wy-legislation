@@ -1,0 +1,351 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0145
+SENATE FILE NO. SF0045
+Local approval for simulcasting.
+Sponsored by: Management Council
+A BILL
+for
+1 AN ACT relating to pari-mutuel wagering; specifying
+2 requirements for simulcasting permits, including historic
+3 horse racing terminals; requiring approval by a city, town
+4 or county for the issuance of a simulcasting permit as
+5 specified; authorizing conditions and revocation of
+6 approval; authorizing appeals; amending enforcement
+7 requirements; conforming provisions; specifying
+8 applicability; and providing for an effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 11-25-210 is created to read:
+13
+14 11-25-210. Simulcasting permits; rulemaking; local
+15 approval; permit conditions; revocation; judicial review.
+16
+1 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 (a) Simulcasting shall be conducted only by a person
+2 holding a simulcasting permit issued by the commission and
+3 approved by the local approving authority under this
+4 section.
+5
+6 (b) The commission shall promulgate rules for
+7 simulcasting that are reasonably necessary to protect the
+8 public interest.
+9
+10 (c) A simulcasting permit is a type of pari-mutuel
+11 event permit and, except as specifically provided for in
+12 this section, is subject to the same terms and conditions,
+13 and shall be issued and renewed by the commission in the
+14 same manner as pari-mutuel event permits issued under this
+15 act.
+16
+17 (d) A simulcasting permit issued or renewed by the
+18 commission shall be subject to the following:
+19
+20 (i) If the simulcasting will be conducted within
+21 the corporate limits of any city or town the permit or
+22 renewal shall be subject to approval by the governing body
+2 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 of that city or town, subject to paragraph (iii) of this
+2 subsection;
+3
+4 (ii) If the simulcasting will be conducted
+5 outside the corporate limits of any city or town the permit
+6 or renewal shall be subject to approval by the board of
+7 county commissioners of the county in which the
+8 simulcasting will be conducted, subject to paragraph (iii)
+9 of this subsection;
+10
+11 (iii) If the simulcasting will be conducted
+12 within the corporate limits of any city or town, the permit
+13 or renewal application shall be subject to review and
+14 objection by the board of county commissioners of the
+15 county in which the simulcasting will be conducted. If the
+16 simulcasting will be conducted within one-half (1/2) mile
+17 of the corporate limits of any city that has exercised the
+18 authority granted under W.S. 15-3-202(b)(ii), the permit or
+19 renewal application shall be subject to review and
+20 objection by the governing body of that city or town. Any
+21 city, town or county that objects under this paragraph
+22 shall submit written findings stating the basis for the
+23 objection, including impacts on land use, public safety,
+3 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 taxation or other substantial interests. The objection
+2 shall be transmitted to the local approving authority
+3 within thirty (30) days of the objecting city, town or
+4 county receiving the permit or renewal application. An
+5 objection shall be deemed addressed once the local
+6 approving authority places it on a public agenda, considers
+7 the written findings and takes formal action to sustain,
+8 modify or overrule the objection. No permit or renewal
+9 shall be approved until all timely submitted objections
+10 have been addressed;
+11
+12 (iv) No simulcasting may be conducted within one
+13 hundred (100) miles of any live pari-mutuel event permitted
+14 under this act during the time the event is being held,
+15 except that the commission may waive the one hundred (100)
+16 mile limitation if the simulcasting permitholder obtains
+17 written approval from the live pari-mutuel event
+18 permitholder conducting the event;
+19
+20 (v) A simulcasting permit or renewal shall be
+21 issued by the commission only to an applicant authorized
+22 under this act to conduct a pari-mutuel event other than
+23 simulcasting.
+4 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1
+2 (e) An applicant for a simulcasting permit or renewal
+3 shall:
+4
+5 (i) File an application for approval with the
+6 local approving authority. Renewal applications shall be
+7 filed not later than ninety (90) days prior to expiration
+8 of the permit;
+9
+10 (ii) At the time of filing the application, pay
+11 an amount sufficient to reimburse the actual cost of
+12 publishing notice of the application;
+13
+14 (iii) Identify in the application the specific
+15 location in the city, town or county where simulcasting
+16 will be conducted and the number of historic horse racing
+17 terminals to be permitted at that location.
+18
+19 (f) After receipt of an approval or renewal
+20 application, the local approving authority shall promptly
+21 prepare and publish notice of the application in a
+22 newspaper of general circulation in the state once a week
+23 for two (2) consecutive weeks and shall post the notice on
+5 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 its official website. The notice shall state that the named
+2 applicant has applied for approval or renewal of a
+3 simulcasting permit, that protests against the issuance or
+4 renewal of the permit, if any, will be heard at a
+5 designated meeting of the local approving authority, and
+6 shall include the date, time and meeting place of the
+7 designated meeting. For a renewal application, the local
+8 approving authority shall hold the designated meeting not
+9 later than thirty (30) days prior to expiration of the
+10 permit.
+11
+12 (g) A local approving authority, in considering the
+13 approval or renewal of simulcasting permits issued by the
+14 commission:
+15
+16 (i) Shall not approve or deny an application
+17 before the date set for the designated meeting in the
+18 published notice of the application;
+19
+20 (ii) Shall not consider, modify or impose
+21 conditions that are solely within the jurisdiction of the
+22 commission;
+23
+6 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 (iii) May impose reasonable conditions on
+2 approval, which shall be negotiated in good faith with the
+3 applicant, including the following:
+4
+5 (A) A schedule of operating hours for the
+6 permitted premises, provided the hours of operation shall
+7 not be more restrictive than the hours of operation for
+8 alcohol sales set pursuant to W.S. 12-5-101 for the holder
+9 of a retail liquor license under W.S. 12-4-201;
+10
+11 (B) Designation of areas within the
+12 permitted premises where historic horse racing terminals
+13 may be located, to the extent the designations are not
+14 inconsistent with rules of the commission.
+15
+16 (iv) May modify any condition imposed under
+17 paragraph (iii) of this subsection only upon a showing of
+18 good cause;
+19
+20 (v) Shall grant approval for the same term as is
+21 granted by the commission for the simulcasting permit, if
+22 the application is approved;
+23
+7 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 (vi) Shall issue written findings and
+2 conclusions if the application is denied;
+3
+4 (vii) Shall have the right to revoke approval or
+5 deny a renewal only for good cause, which shall be limited
+6 to any of the following:
+7
+8 (A) A breach of a reasonable condition
+9 imposed by the local approving authority or the commission,
+10 if the permitholder fails to take reasonable steps to cure
+11 the breach within ten (10) business days after receiving
+12 written notice of the breach from the local approving
+13 authority or the commission, or a date agreed upon by the
+14 permitholder and the local approving authority or
+15 commission;
+16
+17 (B) Notification from the commission that
+18 the permitholder has acted in violation of any Wyoming
+19 gaming law specified in this chapter, W.S. 6-7-101 through
+20 6-7-104 or 9-24-101 through 9-24-106;
+21
+22 (C) Failure to demonstrate commencement of
+23 simulcasting at the permitted location within two (2) years
+8 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 after the permit is issued. Upon a showing of good cause by
+2 the permitholder, the local approving authority and
+3 commission may extend the period for commencement of
+4 simulcasting for one (1) additional year;
+5
+6 (D) The welfare of the people residing in
+7 the jurisdiction of the permitted premises is adversely and
+8 seriously affected by the permitted premises.
+9
+10 (h) A simulcasting permitholder may appeal a denial
+11 of renewal or revocation of approval by the local approving
+12 authority to the district court in the county where the
+13 permitted premises are located. During the pendency of the
+14 appeal, the approval of the local approving authority for
+15 the person to conduct simulcasting shall remain in full
+16 force and effect.
+17
+18 (j) An applicant for a new simulcasting permit may
+19 appeal a decision of the local approving authority to the
+20 district court in the county where the application is filed
+21 only if that authority has previously granted approval for
+22 a simulcasting permit within its jurisdiction. If the
+23 local approving authority has not previously granted an
+9 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 approval for a simulcasting permit, the applicant shall
+2 have no right of appeal from the decision of the local
+3 approving authority.
+4
+5 (k) A change in the location of simulcasting by an
+6 existing simulcasting permitholder shall be treated by the
+7 commission as a renewal of the simulcasting permit and
+8 shall require approval by the local approving authority
+9 under this section.
+10
+11 Section 2. W.S. 11-25-102(a)(vii)(intro) and by
+12 creating new paragraphs (xxiii) and (xxiv),
+13 11-25-104(g)(intro) and 11-25-201(a) are amended to read:
+14
+15 11-25-102. Definitions.
+16
+17 (a) As used in this act:
+18
+19 (vii) "Simulcasting" means the sale of
+20 pari-mutuel pools electronically transmitted live or
+21 historic on interstate or intrastate pari-mutuel events as
+22 prescribed by the commission;. The commission shall
+23 authorize simulcasting subject to the following conditions:
+10 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1
+2 (xxiii) "Local approving authority" means the
+3 local authority with responsibility to approve or deny an
+4 application or renewal for a simulcasting permit issued by
+5 the commission;
+6
+7 (xxiv) "Local authority" means the governing
+8 body of a city, town or county in Wyoming.
+9
+10 11-25-104. Gaming commission; officers; director;
+11 meetings; quorum; records; licenses generally; effect of
+12 financial interest in events.
+13
+14 (g) The commission may delegate authority to enforce
+15 rules of the commission and this act to three (3) stewards
+16 at each live pari-mutuel event, at least one (1) of whom
+17 shall be an employee of and selected by the commission. The
+18 commission shall require at least one (1) steward to
+19 supervise each simulcast location that is approved by the
+20 commission. Stewards shall exercise such reasonable and
+21 necessary authority as is designated by rules of the
+22 commission including the following:
+23
+11 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 11-25-201. Pari-mutuel permits; fees and reports;
+2 disposition of funds; enforcement of provisions.
+3
+4 (a) The commission may issue pari-mutuel permits for
+5 a specified period not to exceed three (3) years from the
+6 date of issuance to any Wyoming county, city, incorporated
+7 town, county fair board or any corporation or association
+8 which that has been approved by the board of county
+9 commissioners, except as provided for simulcasting permits
+10 in W.S. 11-25-210, and that provides a bond acceptable to
+11 the commission. No permit shall be granted to any city,
+12 town, county, county fair board or any corporation or
+13 association except upon the express condition that it shall
+14 not, by any lease, contract, understanding or arrangement
+15 of whatever kind or nature, grant, assign or turn over to
+16 any person, corporation or association the operation or
+17 management of the pari-mutuel event permitted under this
+18 act or of the pari-mutuel system of wagering or in any
+19 manner permit any person, corporation or association to
+20 retain any of the money received for admission to the race
+21 meeting or from the operations of the pari-mutuel system.
+22 The commission shall revoke the permit of any permittee for
+23 any violation of the foregoing condition and such acts are
+12 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 a violation of this act. The permit is effective only for
+2 the times and at the places for which issued. In addition
+3 to all other fees and charges, there shall be charged
+4 before issuance of a permit a daily fee established by the
+5 commission to defray expenses of enforcing this act.
+6
+7 Section 3. W.S. 11-25-102(a)(vii)(A) through (D) is
+8 repealed.
+9
+10 Section 4.
+11
+12 (a) Notwithstanding W.S. 11-25-210, as created by
+13 this act, a person holding a simulcasting permit as of the
+14 effective date of this act shall be authorized to continue
+15 operations through June 30, 2027, subject to the conditions
+16 of the existing permit and approval.
+17
+18 (b) Subject to this subsection, on and after July 1,
+19 2027, a person holding a simulcasting permit as of the
+20 effective date of this act shall be subject to the
+21 requirements of W.S. 11-25-210. A city, town or county may
+22 deny or withhold approval of a simulcasting facility
+23 permitted as of the effective date of this act, only upon a
+13 SF0045
+
+2026 STATE OF WYOMING 26LSO-0145
+1 showing of good cause, as specified in W.S.
+2 11‑25‑210(g)(vii).
+3
+4 Section 5. This act is effective July 1, 2026.
+5
+6 (END)
+14 SF0045

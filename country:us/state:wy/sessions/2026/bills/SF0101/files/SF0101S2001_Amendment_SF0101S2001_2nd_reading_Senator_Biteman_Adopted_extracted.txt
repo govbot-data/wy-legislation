@@ -1,0 +1,44 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0101S2001 (2nd reading) - Senator Biteman (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0101S2001
+1 Page 5-line 12 Delete "In addition:".
+2
+3 Page 5-lines 14 through 19 Delete entirely.
+4
+5 Page 5-line 21 Delete "(ii)".
+6
+7 Page 6-line 9 After "($50,000.00)" insert ": (i)"
+8
+9 Page 6-line 13 Delete "(i)" and insert "(A)".
+10
+11 Page 6-line 20 Delete "(ii)" and insert "(B)".
+12
+13 Page 7-after line 2 Insert and renumber as necessary:
+14
+15 "(ii) Which may be assessed in an action commenced by
+16 the state or an interested party seeking to enforce this section.
+17 For purposes of this paragraph, an interested party that
+18 successfully brings an action under this paragraph shall be
+19 entitled to reasonable attorney fees.
+20
+21 (e) An interested party may bring a civil action to enforce
+22 the provisions of this section. A court of competent jurisdiction
+23 may order injunctive or other equitable relief, recovery of damages
+24 or other legal remedies permitted by law and payment of reasonable
+25 attorney fees. Sovereign immunity shall not be an affirmative
+26 defense in any action brought under this section.".
+27
+28 Page 7-line 4 Delete "(e)" and insert "(f)".
+29
+30 Page 8-line 1 Delete "(f)" and insert "(g)".
+31
+32 Page 8-line 8 Delete "(g)" and insert "(h)".
+33
+34 Page 8-line 18 Delete "(h)" and insert "(j)". BITEMAN
+1

@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0110S3001 (3rd reading) - Senator Hicks (Withdrawn)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0110S3001
+1 Page 1-line 14 Delete "a new paragraph (xix)" and insert "new
+2 paragraphs (xix) and (xx)".
+3
+4 Page 1-line 14 Before "39-13-103(b)(iii)" insert "39-11-
+5 105(a)(xlvi)(B),".
+6
+7 Page 3-after line 15 Insert:
+8
+9 "39-11-105. Exemptions.
+10
+11 (a) The following property is exempt from property taxation:
+12
+13 (xlvi) A portion of a single family residential
+14 structure and the associated improved land as a homeowner tax
+15 exemption as provided in this paragraph. The following shall apply
+16 to this exemption:
+17
+18 (B) As used in this paragraph, "single family
+19 residential structure" means a structure intended for human
+20 habitation including a house, modular home, mobile home, townhouse
+21 or condominium that is a privately owned single family dwelling
+22 unit. Beginning with tax year 2026 and each tax year thereafter,
+23 "single family residential structure" shall mean a single family
+24 residential structure as defined in this subparagraph where the
+25 person claiming the exemption actually resides for not less than
+26 eight (8) months of the year. Beginning with tax year 2027, if a
+27 primary residence is sold and another property is purchased within
+28 the state of Wyoming, the months residing in both owner-occupied
+29 residences shall apply to the requirements of this exemption.
+30 Beginning with tax year 2026 and each tax year thereafter, if the
+31 person claiming the exemption or a member of that person's
+32 immediate family is an active duty member of the armed forces and
+33 service in the armed forces is the reason that the person claiming
+34 the exemption cannot meet the eight (8) month requirement specified
+35 in this subparagraph, the person shall qualify for the exemption
+36 if the single family residential structure is the legal domicile
+37 of the applicable member of the armed forces. For tax year 2026,
+38 the person claiming the exemption shall submit a claim to the
+39 county assessor not later than the second Monday in May in a manner
+40 provided by the department of revenue. For tax year 2027 and each
+41 tax year thereafter, the person claiming the exemption shall submit
+42 a claim to the county assessor not later than March 1 in a manner
+43 provided by the department of revenue;". HICKS
+1

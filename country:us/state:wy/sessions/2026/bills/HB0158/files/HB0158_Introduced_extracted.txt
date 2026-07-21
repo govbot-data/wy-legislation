@@ -1,0 +1,144 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0412
+HOUSE BILL NO. HB0158
+EV Charging Stations Transparency Act.
+Sponsored by: Representative(s) Byron, Banks, Brown, L,
+Davis, Erickson, Fornstrom, Haroldson,
+Larson, JT, Strock, Wharff, Williams and
+Wylie and Senator(s) Crago, Dockstader and
+Hicks
+A BILL
+for
+1 AN ACT relating to trade and commerce; requiring direct
+2 current fast charging stations to display labels
+3 identifying the primary energy resource categories used to
+4 supply electricity to the station; providing criminal
+5 penalties; providing definitions; and providing for an
+6 effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 40-32-101 and 40-32-102 are created
+11 to read:
+12
+13 CHAPTER 32
+14 LABELING FOR DIRECT CURRENT FAST CHARGING STATIONS
+1 HB0158
+
+2026 STATE OF WYOMING 26LSO-0412
+1
+2 40-32-101. Definitions.
+3
+4 (a) As used in this chapter:
+5
+6 (i) "DC fast charging station" means a device
+7 used to charge a motor vehicle that meets the definition of
+8 "DC Level 1," "DC Level 2" or "DC Level 3" as defined in
+9 Standard J1772 of the SAE International standards and any
+10 future updates to those standards, or an equivalent power
+11 output level;
+12
+13 (ii) "Energy resource category" means coal,
+14 natural gas, wind, solar, hydroelectric, nuclear,
+15 petroleum, biomass or biogas, geothermal or any other
+16 energy resource;
+17
+18 (iii) "Public utility" means as defined by W.S.
+19 37-1-101(a)(vi).
+20
+21 40-32-102. Labeling for direct current fast charging
+22 stations; penalty.
+23
+2 HB0158
+
+2026 STATE OF WYOMING 26LSO-0412
+1 (a) Each operator of a DC fast charging station
+2 operating within this state that receives electricity from
+3 a public utility and not from any other source shall
+4 display a clear and conspicuous label that is three (3)
+5 inches wide and three (3) inches long on the DC fast
+6 charging station identifying the single largest energy
+7 resource category provided to the DC fast charging station
+8 during the prior calendar year. The single largest energy
+9 resource category under this subsection shall be calculated
+10 by the public utility providing the electricity to the DC
+11 fast charging station and shall be disclosed to the
+12 operator of the DC fast charging station based on the
+13 energy resource mix used by the public utility in the
+14 certificated service territory where the DC fast charging
+15 station is located.
+16
+17 (b) Each operator of a DC fast charging station
+18 operating within this state that generates and uses on-site
+19 electricity and that also receives electricity from a
+20 public utility shall display a clear and conspicuous label
+21 that is three (3) inches wide and three (3) inches long on
+22 the DC fast charging station as follows:
+23
+3 HB0158
+
+2026 STATE OF WYOMING 26LSO-0412
+1 (i) If the electricity generated and used
+2 on-site constitutes the single largest energy resource
+3 category used to supply electricity to the DC fast charging
+4 station during the prior calendar year, then the label
+5 shall identify the on-site energy resource category;
+6
+7 (ii) If the electricity provided by the public
+8 utility constitutes the single largest energy resource
+9 category used to supply electricity to the DC fast charging
+10 station during the prior calendar year, then the label
+11 shall identify the single largest energy resource category
+12 provided by the public utility. The single largest energy
+13 resource category under this paragraph shall be calculated
+14 by the public utility providing the electricity to the DC
+15 fast charging station and shall be disclosed to the
+16 operator of the DC fast charging station based on the
+17 energy resource mix used by the public utility in the
+18 certificated service territory where the DC fast charging
+19 station is located.
+20
+21 (c) If the largest energy resource category under
+22 subsection (a) or (b) of this section constitutes less than
+23 fifty percent (50%) of the share of the electricity
+4 HB0158
+
+2026 STATE OF WYOMING 26LSO-0412
+1 provided to the DC fast charging station during the prior
+2 calendar year, then the label shall include the two (2)
+3 largest energy resource categories.
+4
+5 (d) Upon request, a public utility shall provide to
+6 the operator of a DC fast charging station the single
+7 largest energy resource category or if applicable under
+8 subsection (c) of this section, the two (2) largest energy
+9 resource categories as calculated based on the energy
+10 resource mix used by the public utility in the certificated
+11 service territory where the DC fast charging station is
+12 located. No public utility shall be required to provide the
+13 operator with the largest energy resource categories for
+14 each individual meter serving a DC fast charging station.
+15
+16 (e) Each operator of a DC fast charging station shall
+17 update the label required under subsections (a) and (b) of
+18 this section annually but not later than March 31 based on
+19 the prior calendar year.
+20
+21 (f) Any operator of a DC fast charging station
+22 violating this section is guilty of a misdemeanor
+5 HB0158
+
+2026 STATE OF WYOMING 26LSO-0412
+1 punishable by a fine of not more than seven hundred fifty
+2 dollars ($750.00).
+3
+4 Section 2. This act is effective July 1, 2026.
+5
+6 (END)
+6 HB0158

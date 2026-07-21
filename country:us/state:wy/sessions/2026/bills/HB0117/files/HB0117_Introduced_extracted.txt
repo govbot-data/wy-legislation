@@ -1,0 +1,542 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0445
+HOUSE BILL NO. HB0117
+Stop harm-empower women with informed notices.
+Sponsored by: Representative(s) Lawley, Andrew, Angelos and
+Neiman and Senator(s) Boner, Brennan, Olsen
+and Steinmetz
+A BILL
+for
+1 AN ACT relating to public health and safety; providing
+2 legislative findings; providing definitions; requiring
+3 informed consent be provided before the procurement or
+4 provision of an abortion; specifying requirements for the
+5 provision of informed consent; specifying exceptions;
+6 authorizing civil actions; specifying remedies; authorizing
+7 a right of intervention as specified; specifying
+8 applicability; making conforming amendments; and providing
+9 for an effective date.
+10
+11 Be It Enacted by the Legislature of the State of Wyoming:
+12
+13 Section 1.
+14
+15 (a) The legislature finds that:
+1 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1
+2 (i) Informed consent is foundational to medical
+3 treatment decisions. Some informed consent challenges are
+4 universal to medicine, while other challenges are specific
+5 to the practice of obstetrics and gynecology compared to
+6 other specialty areas;
+7
+8 (ii) It is essential to the psychological and
+9 physical well-being of a woman considering an abortion that
+10 the woman receives complete and accurate information on
+11 abortion and its alternatives;
+12
+13 (iii) The decision to have an abortion "is an
+14 important, and often a stressful one, and it is desirable
+15 and imperative that it be made with full knowledge of its
+16 nature and consequences." Planned Parenthood v. Danforth,
+17 428 U.S. 52, 67 (1976);
+18
+19 (iv) Adequate and legitimate informed consent
+20 includes information that relates "to the consequences to
+21 the fetus." Planned Parenthood v. Casey, 505 U.S. 833, 882
+22 (1992), overruled by Dobbs v. Jackson Women's Health Org.,
+23 597 U.S. 215, 231, 302 (2022);
+2 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1
+2 (v) A patient cannot agree to medical treatment
+3 unless the patient is competent, adequately informed and
+4 not coerced into giving informed consent;
+5
+6 (vi) Many women are coerced into having
+7 abortions. A 2017 study on women's abortion experiences
+8 reported that seventy-three and eight‑tenths percent (73.8%)
+9 of women said that they "disagreed that their decision to
+10 abort was entirely free from even subtle pressure from
+11 others to abort." Priscilla Coleman et al., Women Who
+12 Suffered Emotionally from Abortion: A Qualitative Synthesis
+13 of their Experiences, 22 J. Am. Physicians & Surgeons 113,
+14 115 (2017);
+15
+16 (vii) A 2023 national study found that over
+17 sixty percent (60%) of women who had abortions reported
+18 experiencing high levels of pressure to abort from one (1)
+19 or more sources. David C. Reardon et al., Effects of
+20 Pressure to Abort on Women's Emotional Responses and Mental
+21 Health, Cureus (Jan. 31, 2023).
+22
+3 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 (b) It is the purpose of this act to ensure that a
+2 woman who is harmed by the performance of an elective
+3 abortion may bring a civil action against any person who
+4 performs the abortion in situations where the harm was due
+5 to negligent, reckless or intentional conduct, voluntary
+6 informed written consent was not given or the abortion
+7 provider knew or should have known that the interested
+8 party was coerced into the abortion. The legislature
+9 declares that women deserve the right to seek and recover
+10 damages from the person who performed an abortion in these
+11 circumstances that resulted in harm to the woman.
+12
+13 Section 2. W.S. 35-6-401 through 35-6-403 are created
+14 to read:
+15
+16 35-6-401. Definitions.
+17
+18 (a) As used in this article:
+19
+20 (i) "Abortion-inducing drug" means a medicine,
+21 drug or other substance prescribed or dispensed with the
+22 intent of terminating the clinically diagnosable pregnancy
+23 of a woman, with knowledge that the termination will, with
+4 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 reasonable likelihood, cause the death of the unborn child.
+2 "Abortion-inducing drug":
+3
+4 (A) Includes the off-label use of drugs
+5 known to have abortion-inducing properties that are
+6 prescribed or dispensed:
+7
+8 (I) Specifically with the intent of
+9 causing an abortion, including mifepristone, misoprostol
+10 and methotrexate;
+11
+12 (II) Without a diagnosed pregnancy for
+13 the purpose of causing an abortion at some future date
+14 rather than contemporaneously with a clinically diagnosed
+15 pregnancy.
+16
+17 (B) Shall not include drugs that may be
+18 known to cause an abortion but are prescribed for other
+19 medical indications, provided that the medical indication
+20 is clearly indicated on the prescription.
+21
+5 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 (ii) "Abuser" means any person who attempts to,
+2 conspires to or successfully coerces or forces a woman to
+3 have an abortion;
+4
+5 (iii) "Chemical abortion" means the act of using
+6 or prescribing any abortion-inducing drug with the intent
+7 to terminate the pregnancy of a woman known or believed to
+8 be pregnant with knowledge that the termination by those
+9 means will, with reasonable likelihood, cause the death of
+10 the unborn child. The use or prescription of an
+11 abortion-inducing drug is not a chemical abortion if the
+12 use or prescription is provided with the intent to:
+13
+14 (A) Save the life or preserve the health of
+15 the unborn child;
+16
+17 (B) Remove a dead unborn child whose death
+18 was caused by a miscarriage or stillbirth;
+19
+20 (C) Remove an ectopic pregnancy;
+21
+6 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 (D) Treat a maternal disease or illness for
+2 which the prescribed drug is medically indicated without
+3 the intent to terminate the pregnancy; or
+4
+5 (E) Address a medical emergency.
+6
+7 (iv) "Coercing an abortion" or "forcing an
+8 abortion" means a person who knows of or suspects the
+9 pregnancy of a woman and engages or conspires with another
+10 to engage in any one (1) or more of the following conduct
+11 with the intent or purpose to cause or direct the pregnant
+12 woman to have an abortion, regardless of whether the
+13 abortion has been attempted or completed:
+14
+15 (v) "Coercion" means an action with purpose to
+16 restrict a pregnant woman's freedom of action to her
+17 detriment by engaging in conduct specified in paragraph
+18 (iv) of this subsection;
+19
+20 (A) Committing, attempting to commit or
+21 threatening to commit physical harm to the woman, unborn
+22 child or another person;
+23
+7 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 (B) Holding, attempting to hold or
+2 threatening to hold in confinement the woman or unborn
+3 child;
+4
+5 (C) Committing, attempting to commit or
+6 threatening to commit against the woman any act prohibited
+7 by the laws of this state;
+8
+9 (D) Revoking, attempting to revoke or
+10 threatening to revoke a scholarship awarded to the woman by
+11 a public or private institution of higher education;
+12
+13 (E) Discharging, attempting to discharge or
+14 threatening to discharge the woman or another person or
+15 changing, attempting to change or threatening to change the
+16 woman's or another person's compensation, terms, conditions
+17 or privileges of employment;
+18
+19 (F) Denying, attempting to deny or
+20 threatening to deny any social assistance for which a
+21 pregnant woman or another person has applied, has been
+22 approved for or has been receiving for which the woman or
+23 the other person is otherwise eligible;
+8 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1
+2 (G) Denying, removing or threatening to
+3 deny or remove financial support or housing from the
+4 pregnant woman or a dependent of the pregnant woman;
+5
+6 (H) Any other action intended to cause the
+7 pregnant woman to have an abortion.
+8
+9 (vi) "Complication" means any adverse physical
+10 or psychological condition arising from the performance of
+11 an abortion that the board of medicine may define,
+12 including but not limited to uterine perforation, cervical
+13 perforation, infection, bleeding, hemorrhage, blood clots,
+14 a failure to actually terminate the pregnancy, the
+15 retention of tissue from an incomplete abortion, pelvic
+16 inflammatory disease, endometritis, missed ectopic
+17 pregnancy, cardiac arrest, respiratory arrest, renal
+18 failure, metabolic disorder, shock, embolism, coma,
+19 placenta previa in subsequent pregnancies, preterm birth in
+20 subsequent pregnancies, free fluid in the abdomen, adverse
+21 reactions to anesthesia and other drugs, any psychological
+22 or emotional complications and any other adverse event as
+9 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 defined by the federal food and drug administration
+2 criteria provided in the MedWatch reporting system;
+3
+4 (vii) "Elective abortion" means the use of an
+5 instrument, medicine, drug or other substance or device,
+6 including a chemical abortion, with the intent to terminate
+7 the pregnancy of a woman known or believed to be pregnant.
+8 "Elective abortion" shall not include medical procedures
+9 performed to resolve a miscarriage, ectopic pregnancy or a
+10 medical emergency;
+11
+12 (viii) "Fertilization" means the fecundation of
+13 the ovum by the spermatozoa;
+14
+15 (ix) "Harm" means any complication, loss of
+16 consortium with the unborn child or any financial loss
+17 associated with an elective abortion or complication;
+18
+19 (x) "Informed consent" means, except in the case
+20 of a medical emergency:
+21
+22 (A) The pregnant woman receives:
+23
+10 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 (I) A written statement including:
+2
+3 (1) The name of the physician who
+4 will perform the elective abortion;
+5
+6 (2) Medically accurate
+7 information that a reasonable patient would consider
+8 material to the decision of whether to undergo the elective
+9 abortion, including:
+10
+11 a. Whether the pregnancy is
+12 ectopic or molar;
+13
+14 b. A description of the
+15 proposed abortion method;
+16
+17 c. The immediate and
+18 long-term medical risks associated with the proposed
+19 abortion method, including any potential complications;
+20
+21 d. Alternatives to the
+22 abortion, including adoption and parenting.
+23
+11 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 (3) The unborn child's probable
+2 gestational age at the time the elective abortion is to be
+3 performed;
+4
+5 (4) The unborn child's probable
+6 anatomical and physiological characteristics at the time
+7 the abortion is to be performed;
+8
+9 (5) The medical risks associated
+10 with carrying the child to term; and
+11
+12 (6) Any need for anti-Rh immune
+13 globulin therapy if the pregnant woman is Rh negative, the
+14 likely consequences for refusing the therapy and the cost
+15 of the therapy.
+16
+17 (II) A written explanation that:
+18
+19 (1) The pregnant woman is free to
+20 withhold or withdraw her consent to the abortion at any
+21 time without affecting:
+22
+12 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 a. The pregnant woman's
+2 right to future care and treatment; or
+3
+4 b. The status of any state
+5 or federally funded benefits to which the pregnant woman
+6 may otherwise be entitled.
+7
+8 (2) It is against the law for
+9 anyone, regardless of that person's relationship to the
+10 pregnant woman, to force or coerce the pregnant woman to
+11 have an elective abortion; and
+12
+13 (3) No payment was required or
+14 obtained for a service provided in relation to the elective
+15 abortion until the elective abortion was performed.
+16
+17 (B) In the case of an abortion being
+18 performed or induced utilizing abortion-inducing drugs, the
+19 pregnant woman also receives a written statement of the
+20 following:
+21
+22 (I) That mifepristone alone is not
+23 always effective in ending a pregnancy;
+13 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1
+2 (II) If after taking mifepristone the
+3 pregnant woman regrets her decision, she should consult a
+4 physician or health care provider immediately to determine
+5 if there are options available to assist her in continuing
+6 her pregnancy but that time is of the essence.
+7
+8 (C) Not later than twenty-four (24) hours
+9 before the performance or induction of an elective abortion
+10 and after the pregnant woman has been provided all of the
+11 information required under this paragraph, the pregnant
+12 woman provides her informed written consent to the elective
+13 abortion.
+14
+15 (xi) "Interested party" means a woman upon whom
+16 an elective abortion is performed or attempted or, in the
+17 case of the woman's:
+18
+19 (A) Death, the woman's spouse, personal
+20 representative or, if unmarried, the biological father of
+21 the unborn child or the woman's parent or guardian,
+22 provided that no person found to be an abuser shall be an
+23 interested party;
+14 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1
+2 (B) Incapacity, as determined by a court,
+3 the woman's court-appointed guardian.
+4
+5 (xii) "Medical emergency" means a condition
+6 that, based on the physician's reasonable medical judgment,
+7 so complicates a pregnant woman's medical condition as to
+8 necessitate the separation of the woman and her unborn
+9 child to avert the woman's death or to avert a
+10 delay-induced serious risk of substantial and irreversible
+11 impairment of a major bodily function;
+12
+13 (xiii) "Physician" means a person licensed to
+14 practice medicine in this state;
+15
+16 (xiv) "Pregnant" means the condition of a woman
+17 carrying a fetus or embryo within her body;
+18
+19 (xv) "Reasonable medical judgment" means a
+20 medical judgment that would be made by a reasonably prudent
+21 physician who is knowledgeable about the case and the
+22 treatment possibilities with respect to the medical
+23 conditions involved;
+15 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1
+2 (xvi) "Unborn child" means an individual
+3 organism of the species homo sapiens from fertilization
+4 until live birth.
+5
+6 35-6-402. Elective abortions; civil liability;
+7 requirements.
+8
+9 (a) Any interested party may bring a civil action
+10 against any person who performs an elective abortion where
+11 the interested party was harmed by the performance of an
+12 elective abortion, and the pregnant woman:
+13
+14 (i) Did not voluntarily provide informed written
+15 consent to the elective abortion;
+16
+17 (ii) Was coerced or forced into an elective
+18 abortion, and the person who performed the elective
+19 abortion knew or should have known of the coercion; or
+20
+21 (iii) Was harmed as a result of negligent,
+22 reckless or intentional conduct associated with the
+23 provision or induction of the elective abortion.
+16 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1
+2 (b) Upon prevailing in an action under subsection (a)
+3 of this section, the court shall award the interested
+4 party:
+5
+6 (i) Statutory damages of not less than
+7 twenty-five thousand dollars ($25,000.00) for each claim
+8 brought by the interested party in which the interested
+9 party prevailed;
+10
+11 (ii) Any compensatory damages determined by the
+12 finder of fact and deemed reasonable by the court;
+13
+14 (iii) Costs and reasonable attorney fees.
+15
+16 (c) Notwithstanding subsection (b) of this section,
+17 no damages shall be awarded in an action under this section
+18 if the defendant demonstrates that the defendant previously
+19 paid the full amount of statutory damages under paragraph
+20 (b)(i) of this section in a previous action for that
+21 elective abortion.
+22
+17 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 (d) Nothing in this act shall be construed to
+2 preclude or prohibit an interested party from:
+3
+4 (i) Bringing additional civil actions or claims
+5 arising out of the same or similar circumstances that are
+6 the basis for an action under this section;
+7
+8 (ii) Being awarded damages under a separate
+9 cause of action or claim brought in accordance with law.
+10
+11 (e) Notwithstanding W.S. 1-3-105(a), an interested
+12 party may bring an action under this section not later than
+13 five (5) years after the date the cause of action accrues.
+14
+15 (f) The following shall not be a defense to an action
+16 brought under this section:
+17
+18 (i) Ignorance or mistake of law;
+19
+20 (ii) A defendant's belief that the requirements
+21 of this article are unconstitutional or were
+22 unconstitutional;
+23
+18 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 (iii) A defendant's reliance on any state or
+2 federal court decision that is not binding on the court in
+3 which the action is brought;
+4
+5 (iv) Nonmutual issue preclusion or nonmutual
+6 claim preclusion; or
+7
+8 (v) Any claim that the enforcement of this
+9 article or the imposition of civil liability against the
+10 defendant will violate the constitutional rights of third
+11 parties.
+12
+13 (g) This section shall not be construed to impose
+14 liability on any speech or conduct protected by the first
+15 amendment to the United States constitution or article 1,
+16 section 20 of the Wyoming constitution.
+17
+18 (h) No court shall award attorney fees or costs to a
+19 defendant in an action brought under this section.
+20
+21 (j) In each action brought under this section and
+22 upon proper motion to the court, the court shall determine
+23 whether the anonymity of any woman upon whom an abortion
+19 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1 has been performed or induced shall be preserved from
+2 public disclosure. Upon a finding that the anonymity of the
+3 woman is necessary, the court shall issue appropriate
+4 orders to safeguard the woman's identity and shall detail
+5 the basis for the finding of the necessity of anonymity. An
+6 order denying a motion under this subsection shall be
+7 subject to an immediate interlocutory appeal. This section
+8 shall not be construed to conceal the identity of the
+9 plaintiff or of witnesses from the defendant or the
+10 defendant's counsel.
+11
+12 (k) No woman upon whom the elective abortion is
+13 performed or attempted shall be liable in an action brought
+14 under this section.
+15
+16 35-6-403. Right of intervention.
+17
+18 The legislature, by joint resolution, may appoint one (1)
+19 or more individuals who sponsored or cosponsored this act
+20 to intervene as a matter of right in any case in which the
+21 constitutionality of this article is challenged.
+22
+23 Section 3. W.S. 1-39-110(a) is amended to read:
+20 HB0117
+
+2026 STATE OF WYOMING 26LSO-0445
+1
+2 1-39-110. Liability; health care providers.
+3
+4 (a) A governmental entity is liable for damages
+5 resulting from bodily injury, wrongful death or property
+6 damage caused by the medical malpractice of health care
+7 providers who are employees of the governmental entity,
+8 including contract physicians, physician assistants,
+9 nurses, optometrists and dentists who are providing a
+10 service for state institutions or county jails, while
+11 acting within the scope of their duties. For purposes of
+12 this subsection, medical malpractice includes a violation
+13 of W.S. 35-6-401 through 35-6-403.
+14
+15 Section 4. This act shall apply to all abortions
+16 performed or induced on and after the effective date of
+17 this act.
+18
+19 Section 5. This act is effective July 1, 2026.
+20
+21 (END)
+21 HB0117

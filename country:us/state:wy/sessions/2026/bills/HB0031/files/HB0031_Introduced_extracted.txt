@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0225
+HOUSE BILL NO. HB0031
+Saddles, not steering wheels act.
+Sponsored by: Representative(s) Jarvis, Campbell, E, Davis,
+Filer, Wharff and Williams and Senator(s)
+Anderson, Driskill, Jones and Landen
+A BILL
+for
+1 AN ACT relating to motor vehicles; specifying that the
+2 definition of vehicle excludes horses and other equines
+3 being ridden for purposes of driving under the influence
+4 violations; and providing for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 31-5-233(a) by creating a new
+9 paragraph (ix) and 31-5-234(a) by creating a new paragraph
+10 (v) are amended to read:
+11
+12 31-5-233. Driving or having control of vehicle while
+13 under the influence of intoxicating liquor or controlled
+14 substances; penalties.
+15
+1 HB0031
+
+2026 STATE OF WYOMING 26LSO-0225
+1 (a) As used in this section:
+2
+3 (ix) "Vehicle" means as defined by W.S.
+4 31-5-102(a)(lviii). "Vehicle" does not include horses,
+5 mules or other equines when ridden by a person.
+6
+7 31-5-234. Unlawful operation of vehicle by youthful
+8 driver with detectable alcohol concentration; penalty.
+9
+10 (a) As used in this section:
+11
+12 (v) "Vehicle" means as defined by W.S.
+13 31-5-102(a)(lviii). "Vehicle" does not include horses,
+14 mules or other equines when ridden by a person.
+15
+16 Section 2. This act is effective July 1, 2026.
+17
+18 (END)
+2 HB0031

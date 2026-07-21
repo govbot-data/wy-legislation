@@ -1,0 +1,40 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0045SS001 (Standing Committee) - Senate Judiciary Committee (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0045SS001
+1 Page 2-line 18 After "commission" insert "off the permitted
+2 premises".
+3
+4 Page 7-line 2 After "approval" insert "or renewal".
+5
+6 Page 8-line 18 Delete "acted" and insert "been found".
+7
+8 Page 9-line 7 Delete "jurisdiction" and insert "vicinity".
+9
+10 Page 9-line 13 Delete "During the pendency of the".
+11
+12 Page 9-lines 14 through 16 Delete entirely.
+13
+14 Page 10-lines 5 through 9 Delete entirely and insert:
+15
+16 "(k) Subject to the approval of the local approving authority,
+17 the transfer of an existing simulcasting permit involving a change
+18 of location within the same local approving authority's area of
+19 jurisdiction shall be treated as a renewal of a simulcasting
+20 permit. A transfer involving a change of location outside of the
+21 current local approving authority's area of jurisdiction shall be
+22 treated as a new application and shall be subject to all
+23 application, review and approval requirements applicable to a new
+24 simulcasting permit.".
+25
+26 Page 11-line 3 Delete "or deny an" and insert ", deny or
+27 revoke a site-specific".
+28
+29 Page 13-line 15 Delete "June 30" and insert "December 31".
+30 OLSEN, CHAIRMAN
+1

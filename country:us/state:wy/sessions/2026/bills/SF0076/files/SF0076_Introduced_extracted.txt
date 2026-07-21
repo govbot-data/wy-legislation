@@ -1,0 +1,149 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0409
+SENATE FILE NO. SF0076
+Distribution of taxes on large electrical loads.
+Sponsored by: Senator(s) Case
+A BILL
+for
+1 AN ACT relating to sales tax; specifying the distribution
+2 of taxes on sales of very large electrical loads; providing
+3 a definition; providing reporting requirements; specifying
+4 applicability; and providing for an effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 39-15-101(a) by creating a new
+9 paragraph (xlviii), 39-15-107(a)(i), 39-15-111(b)(intro)
+10 and by creating a new subsection (s),
+11 39-15-211(a)(i)(intro), (d)(intro) and by creating a new
+12 subsection (e) are amended to read:
+13
+14 39-15-101. Definitions.
+15
+16 (a) As used in this article:
+1 SF0076
+
+2026 STATE OF WYOMING 26LSO-0409
+1
+2 (xlviii) "Very large electrical load" means an
+3 electrical load of not less than one hundred (100)
+4 megawatts for a single purchaser or customer.
+5
+6 39-15-107. Compliance; collection procedures.
+7
+8 (a) Returns, reports and preservation of records.
+9 The following shall apply:
+10
+11 (i) Each vendor shall on or before the last day
+12 of each month file a true return showing the preceding
+13 month's gross sales and remit all taxes to the department.
+14 The returns shall contain such information and be made in
+15 the manner as the department by regulation prescribes. The
+16 department may provide an option for the return to be
+17 submitted and for any taxes to be remitted electronically.
+18 The department may allow extensions for filing returns and
+19 paying the taxes by regulation, but no extension may be for
+20 more than ninety (90) days. If the total tax to be remitted
+21 by a vendor during any month is less than one hundred fifty
+22 dollars ($150.00), a quarterly or annual return as
+23 authorized by the department, and remittance in lieu of the
+2 SF0076
+
+2026 STATE OF WYOMING 26LSO-0409
+1 monthly return may be made on or before the last day of the
+2 month following the end of the quarter or year for which
+3 the tax is collected. If the accounting methods regularly
+4 used by any vendor are such that reports of sales made
+5 during a calendar month would impose unnecessary hardships,
+6 the department after receiving a formal request filed by
+7 the vendor may accept reports at intervals as would be more
+8 convenient to the taxpayer. Any vendor shall report whether
+9 the vendor sells nicotine products, as defined by W.S.
+10 39-18-101(a)(xi), in this state to the department in the
+11 form and manner required by the department. The department
+12 may reject any report required under this paragraph of any
+13 vendor who does not comply with the nicotine sales
+14 reporting requirements. Every person purchasing goods or
+15 services taxable by this article who does not pay the tax
+16 owed to a vendor shall, on or before the last day of each
+17 month, file a return showing the gross purchases made
+18 during the preceding month and remit all taxes due to the
+19 department. If the vendor sells electricity to serve a very
+20 large electrical load, all sales related to the very large
+21 electrical load shall be reported separately. The return
+22 shall contain such information and be made in the manner as
+23 the department shall prescribe by rule and regulation. The
+3 SF0076
+
+2026 STATE OF WYOMING 26LSO-0409
+1 department, by rule and regulation, may allow an extension
+2 for filing a return and paying any tax due, but no
+3 extension shall be granted for more than ninety (90) days;
+4
+5 39-15-111. Distribution.
+6
+7 (b) Revenues earned under W.S. 39-15-104 during each
+8 fiscal year shall be recognized as revenue during that
+9 fiscal year for accounting purposes. Except as otherwise
+10 provided in subsection (p) subsections (p) and (s) of this
+11 section, for all revenue collected by the department under
+12 W.S. 39-15-104 the department shall:
+13
+14 (s) All revenues collected by the department related
+15 to sales of very large electrical loads shall be deposited
+16 in the local government distribution account, which is
+17 hereby created. All funds within the account shall be
+18 invested by the state treasurer and all investment earnings
+19 from the account shall be deposited in the account. Funds
+20 in the account shall be distributed as determined by the
+21 legislature for direct distributions to cities, towns and
+22 counties.
+23
+4 SF0076
+
+2026 STATE OF WYOMING 26LSO-0409
+1 39-15-211. Distribution.
+2
+3 (a) For all revenue collected by the department from
+4 the taxes imposed under W.S. 39-15-204(a)(i), (ii), (v) and
+5 (vi) the department shall:
+6
+7 (i) Except as otherwise provided under
+8 subsection (e) of this section, for revenues collected
+9 under W.S. 39-15-204(a)(i):
+10
+11 (d) Except as otherwise provided under subsection (e)
+12 of this section, for all revenue collected by the
+13 department from the taxes imposed by W.S. 39-15-204(a)(vii)
+14 the department shall:
+15
+16 (e) All revenues collected by the department under
+17 W.S. 39-15-204(a)(i), or under W.S. 39-15-204(a)(vii) if
+18 the tax is imposed for general revenue, that is related to
+19 sales of very large electrical loads shall be deposited in
+20 the local government distribution account as created in
+21 W.S. 39-15-111(s).
+22
+5 SF0076
+
+2026 STATE OF WYOMING 26LSO-0409
+1 Section 2. The provisions of W.S. 39-15-211(e), as
+2 created by section 1 of this act, shall only apply to a tax
+3 under W.S. 39-15-204(a)(i) or 39-15-204(a)(vii) that is
+4 imposed or continued by approval of the voters on or after
+5 July 1, 2026. Any tax approved before July 1, 2026 shall
+6 not be subject to the provisions of W.S. 39-15-211(e) until
+7 the date the tax is continued by approval of the voters as
+8 provided by law.
+9
+10 Section 3. This act is effective July 1, 2026.
+11
+12 (END)
+6 SF0076

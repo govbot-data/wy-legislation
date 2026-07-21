@@ -1,0 +1,245 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0405
+SENATE FILE NO. SF0091
+Wyoming energy project accountability act.
+Sponsored by: Senator(s) Steinmetz, French and Pearson and
+Representative(s) Allemand, Bear, Campbell,
+K, Heiner, Neiman and Webber
+A BILL
+for
+1 AN ACT relating to the administration of the government;
+2 providing requirements for energy projects; requiring
+3 legislative approval for specified energy projects;
+4 providing definitions; providing for exceptions; making
+5 conforming amendments; requiring rulemaking; specifying
+6 applicability; and providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 9-30-101 through 9-30-105 are created
+11 to read:
+12
+13 CHAPTER 30
+14 ENERGY PROJECT FUNDING
+15
+1 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1 9-30-101. Short title.
+2
+3 This act shall be known and may be cited as the "Wyoming
+4 Energy Project Accountability Act."
+5
+6 9-30-102. Definitions.
+7
+8 (a) As used in this act:
+9
+10 (i) "Energy project" means a project that
+11 generates, stores, transmits, converts or delivers electric
+12 energy from sources including wind, solar, natural gas,
+13 coal, nuclear and hydrogen sources. "Energy project"
+14 includes associated infrastructure, transmission
+15 infrastructure and energy projects created pursuant to W.S.
+16 37-5-501 through 37-5-509;
+17
+18 (ii) "Industrial-scale generation facility"
+19 means a facility or project that produces electricity and
+20 that meets any one (1) or more of the following thresholds:
+21
+22 (A) Maintains not less than one hundred
+23 fifty (150) megawatts of nameplate generation capacity;
+2 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1
+2 (B) For a wind energy facility, maintains a
+3 project footprint of not less than five thousand (5,000)
+4 acres; or
+5
+6 (C) For a solar energy facility, maintains
+7 a project footprint of not less than five hundred (500)
+8 acres.
+9
+10 (iii) "Large industrial power load" means a new
+11 or expanded electric load, whether served at one (1) site
+12 or a related campus, that is reasonably expected to
+13 require:
+14
+15 (A) Not less than seventy-five (75)
+16 megawatts of peak demand;
+17
+18 (B) Not less than one hundred (100)
+19 megawatts of peak demand when aggregated across related
+20 facilities under common ownership or control that are
+21 served through the same substation, feeder or point of
+22 interconnection or that are part of a single integrated
+3 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1 development plan, phased or constructed within five (5)
+2 years.
+3
+4 (iv) "Legislative approval" means authorization
+5 by enactment of a bill or resolution containing no other
+6 subjects, solely for the purpose of approving a specific
+7 project or multiple projects or a specific appropriation of
+8 state funds, which may include conditions to protect
+9 ratepayers, grid reliability, land use and public
+10 transparency;
+11
+12 (v) "Project footprint" means the total acreage
+13 within the project boundary owned, under lease, easement,
+14 right-of-way or other control by the project owner or
+15 operator for turbines, panels, substations, collector
+16 systems, transmission, access roads, operations facilities
+17 and required setbacks;
+18
+19 (vi) "State action" means any grant, loan, loan
+20 guarantee, tax incentive, financing, bond, appropriation by
+21 the state that materially enables construction,
+22 interconnection or service of an industrial-scale
+4 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1 generation facility or large industrial power load covered
+2 by this section;
+3
+4 (vii) "State funds" means any money from the
+5 general fund, special revenue funds, permanent funds,
+6 revolving funds or any other funds under the control of the
+7 state or any state agency, including grants, loans, loan
+8 guarantees, tax expenditures, bonding authority or credit
+9 support;
+10
+11 (viii) "Uprates" means upgrades in power or
+12 increases in power output;
+13
+14 (ix) "This act" means W.S. 9-30-101 through
+15 9-30-105.
+16
+17 9-30-103. Legislative approval required for
+18 industrial-scale projects and large industrial power loads.
+19
+20 (a) Legislative approval through a bill or resolution
+21 as required in this act containing a specific or multiple
+22 projects must be approved by the legislature before
+23 construction may begin.
+5 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1
+2 (b) Notwithstanding any other provision of law, no
+3 public utility shall be required to serve a large
+4 industrial power load, but may do so upon legislative
+5 approval.
+6
+7 9-30-104. Bill required for state funds for any
+8 energy project.
+9
+10 (a) No state agency, instrumentality or political
+11 subdivision of the state shall obligate, expend, grant,
+12 loan, guarantee, pledge or otherwise allocate state funds
+13 for an energy project unless the legislature has approved
+14 that specific expenditure, appropriation, grant, loan,
+15 guarantee or pledge.
+16
+17 (b) Legislative approval shall require, at a minimum,
+18 a bill or resolution which shall identify:
+19
+20 (i) The project(s), sponsor(s) and project(s)
+21 location(s);
+22
+23 (ii) The amount, type and source of state funds;
+6 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1
+2 (iii) The intended use of funds;
+3
+4 (iv) Any conditions, performance requirements,
+5 reporting, clawback or repayment terms; and
+6
+7 (v) Whether and how the project(s) will ensure
+8 that incremental costs are not shifted to other ratepayers.
+9
+10 (c) Any documents provided to a state agency or
+11 instrumentality to gain approval for an energy project
+12 shall be provided to the legislature.
+13
+14 (d) This section applies regardless of project size
+15 and applies to any commitment made directly or indirectly
+16 through state funds in a cumulative amount not less than
+17 two hundred thousand dollars ($200,000.00) unless expressly
+18 exempted by W.S. 9-30-105.
+19
+20 (e) The joint minerals, business and economic
+21 development interim committee or the joint corporations,
+22 elections and political subdivisions interim committee
+7 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1 shall develop and introduce legislation as necessary to
+2 meet the requirements of this section.
+3
+4 9-30-105. Exceptions; emergency; routine.
+5
+6 (a) Legislative approval shall not be required in the
+7 following circumstances:
+8
+9 (i) Where the public service commission, due to
+10 unforeseen circumstances or emergency, declares that
+11 available energy production capacity is insufficient to
+12 meet energy demand. The public service commission may
+13 consult with appropriate agencies in making this
+14 determination;
+15
+16 (ii) Where routine maintenance, replacement in
+17 kind or uprates on an existing energy project do not exceed
+18 the thresholds in W.S. 9-30-102(a).
+19
+20 Section 2. W.S. 9-12-104 by creating a new subsection
+21 (c) and 37-5-502(g) by creating a new paragraph (iv) are
+22 amended to read:
+23
+8 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1 9-12-104. General powers and duties of the council.
+2
+3 (c) The council shall comply with the Wyoming energy
+4 project accountability act before awarding, granting,
+5 investing or lending any funds under this act for energy
+6 projects as defined by W.S. 9-30-102(a)(ii).
+7
+8 37-5-502. Wyoming energy authority.
+9
+10 (g) The authority is subject to the requirements of:
+11
+12 (iv) W.S. 9-30-101 through 9-30-105.
+13
+14 Section 3. The public service commission shall
+15 promulgate rules necessary to implement this act.
+16
+17 Section 4. Nothing in this act shall be construed to
+18 alter, amend or impair any contract or other agreement
+19 entered into before the effective date of this act.
+20
+21 Section 5. This act shall apply to any
+22 industrial-scale generation facility or large industrial
+9 SF0091
+
+2026 STATE OF WYOMING 26LSO-0405
+1 power load for which a state action is first sought on or
+2 after July 1, 2026.
+3
+4 Section 6. This act is effective July 1, 2026.
+5
+6 (END)
+10 SF0091

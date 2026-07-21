@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0125S3001 (3rd reading) - Senator Steinmetz (Failed)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0125S3001
+1 Page 6-line 6 After "creating" delete "a"; delete
+2 "subsection" and insert "subsections"; after
+3 "(c)" insert "and (d)".
+4
+5 Page 8-after line 19 Insert and renumber as necessary:
+6
+7 "(d) For any grant awarded by, administered by or passed
+8 through the council under this act or otherwise, the council shall
+9 ensure that all of the following is included in the terms,
+10 conditions, agreement or any other documentation associated with
+11 the grant between the council and the grant recipient:
+12
+13 (i) The public purpose or purposes that exist and will
+14 be achieved by the awarding or disbursement of grant funds to the
+15 recipient;
+16
+17 (ii) The consideration that the recipient will provide
+18 to benefit the state of Wyoming in exchange for the award or
+19 disbursement of grant funds.".
+20
+21 Page 14-line 14 After "article." insert "Grants awarded or
+22 disbursed under this article shall include the information
+23 required under W.S. 9-12-104(d).". STEINMETZ
+1

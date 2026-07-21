@@ -1,0 +1,413 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0274
+HOUSE BILL NO. HB0102
+Protecting kids from deepfakes and exploitative images.
+Sponsored by: Representative(s) Lien, Brady, Guggenmos,
+Heiner, Posey, Rodriguez-Williams and Webb
+and Senator(s) Kolb and Nethercott
+A BILL
+for
+1 AN ACT relating to crimes and offenses; specifying that
+2 using artificial intelligence to commit a criminal offense
+3 shall not be a defense to the offense; establishing
+4 criminal offenses concerning the use of synthetic sexual
+5 material or artificial intelligence against children;
+6 establishing criminal offenses concerning the use of
+7 artificial intelligence to promote self-harm or to censor
+8 political speech; providing immunity for developer of
+9 artificial intelligence systems as specified; specifying
+10 penalties; providing and amending definitions; providing
+11 causes of action; and providing for an effective date.
+12
+13 Be It Enacted by the Legislature of the State of Wyoming:
+14
+1 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 Section 1. W.S. 1-1-143, 6-1-206, 6-4-307, 6-4-308,
+2 6-4-701 and 40-12-801 are created to read:
+3
+4 1-1-143. Developers of artificial intelligence
+5 systems; liability; limitations.
+6
+7 (a) As used in this section, "artificial intelligence
+8 system" means as defined by W.S. 6-1-104(a)(xix).
+9
+10 (b) Except as provided in subsection (c) of this
+11 section, the developer of an artificial intelligence system
+12 shall not be liable for damages arising from the use of an
+13 artificial intelligence system when another person used the
+14 system with the intent to commit or engage in illegal or
+15 illicit activities or to cause harm.
+16
+17 (c) The immunity provided in subsection (b) of this
+18 section shall not apply if:
+19
+20 (i) The artificial intelligence system was
+21 developed with the knowledge or intent that the primary
+22 purpose of the system would be for illegal or illicit
+23 activities; or
+2 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1
+2 (ii) The developer of the artificial
+3 intelligence system should have known that the primary use
+4 of the system would be for illegal or illicit purposes.
+5
+6 6-1-206. Artificial intelligence; liability and
+7 defense.
+8
+9 (a) Nothing in the Wyoming Criminal Code shall be
+10 construed to prohibit the application of this code against
+11 activity facilitated by an artificial intelligence system.
+12
+13 (b) The use of an artificial intelligence system by a
+14 person to commit a criminal offense shall not be a defense
+15 to a criminal charge.
+16
+17 6-4-307. Unlawful distribution of nonconsensual
+18 synthetic sexual material.
+19
+20 (a) A person commits the offense of unlawful
+21 distribution of nonconsensual synthetic sexual material if:
+22
+23 (i) The person:
+3 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1
+2 (A) Distributes, transmits or otherwise
+3 makes available synthetic sexual material that
+4 realistically depicts another identifiable person without
+5 that person's knowledge or consent;
+6
+7 (B) At the time of the distribution or
+8 transmission, knows or should have known that the synthetic
+9 sexual material was created or altered without the
+10 knowledge or consent of the depicted person and under
+11 circumstances in which the depicted person had a reasonable
+12 expectation of privacy; and
+13
+14 (C) The distribution of the synthetic
+15 sexual material causes harm to the depicted person or is
+16 intended to cause harm to the depicted person.
+17
+18 (ii) The person promotes synthetic sexual
+19 material on an internet website, social media website or
+20 other digital platform knowing the character and content of
+21 the synthetic sexual material; or
+22
+4 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 (iii) The person intentionally threatens to
+2 distribute synthetic sexual material that depicts a
+3 person's intimate parts exposed or engaged in sexual
+4 conduct without that person's consent and makes the threat
+5 to obtain a benefit in:
+6
+7 (A) Return for not making the disclosure;
+8 or
+9
+10 (B) Connection with the threatened
+11 disclosure.
+12
+13 (b) It shall not be a defense to prosecution under
+14 this section that the person depicted in the synthetic
+15 sexual material:
+16
+17 (i) Created or consented to the creation of the
+18 synthetic sexual material, unless the depicted person is
+19 the person who distributes, transmits or otherwise makes
+20 the material available for lawful purposes; or
+21
+22 (ii) Voluntarily transmitted the synthetic
+23 sexual material to the defendant.
+5 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1
+2 (c) Unlawful distribution of synthetic sexual
+3 material is:
+4
+5 (i) Except as provided in paragraph (ii) of this
+6 subsection, a felony punishable by imprisonment for not
+7 more than ten (10) years, a fine of not more than ten
+8 thousand dollars ($10,000.00), or both;
+9
+10 (ii) For a second or subsequent conviction under
+11 this section or of a substantially similar law of any other
+12 jurisdiction, a felony punishable by imprisonment for not
+13 more than twelve (12) years, a fine of not more than ten
+14 thousand dollars ($10,000.00), or both.
+15
+16 6-4-308. Unlawful development or distribution of
+17 artificial intelligence system for child pornography.
+18
+19 (a) As used in this section, "child pornography"
+20 means as defined by W.S. 6-4-303(a)(ii).
+21
+6 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 (b) A person commits the offense of unlawful
+2 development or distribution of an artificial intelligence
+3 system for child pornography if the person:
+4
+5 (i) Knowingly develops or distributes an
+6 artificial intelligence system specifically designed to
+7 create, distribute or promote child pornography or to
+8 create, distribute or promote synthetic sexual material;
+9 and
+10
+11 (ii) Develops or distributes the artificial
+12 intelligence system with the intent that the system be used
+13 by other persons to create, distribute or promote child
+14 pornography or with knowledge that the system will be used
+15 to create, distribute or promote child pornography.
+16
+17 (c) This section shall not apply:
+18
+19 (i) To any artificial intelligence system that
+20 produces content that promotes child pornography solely as
+21 a result of user prompts or inputs and without the
+22 developer's intent to encourage or promote child
+23 pornography;
+7 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1
+2 (ii) To conduct taken in the course of bona fide
+3 school, college, university, museum or public library
+4 activities or in the course of employment of such an
+5 organization;
+6
+7 (iii) To conduct taken in the course of law
+8 enforcement and judicial activities.
+9
+10 (d) Unlawful development or distribution of an
+11 artificial intelligence system for child pornography is a
+12 felony punishable by imprisonment not to exceed ten (10)
+13 years, a fine not to exceed ten thousand dollars
+14 ($10,000.00), or both.
+15
+16 ARTICLE 7
+17 ARTIFICIAL INTELLIGENCE OFFENSES
+18
+19 6-4-701. Unlawful development or distribution of
+20 artificial intelligence systems intended to promote
+21 self-harm.
+22
+8 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 (a) As used in this section, "self-harm" means any
+2 behavior or action that is self-directed and that
+3 deliberately results in bodily injury, serious bodily
+4 injury or death or the potential of bodily injury, serious
+5 bodily injury or death to oneself.
+6
+7 (b) A person commits the offense of unlawful
+8 development or distribution of an artificial intelligence
+9 system intended to promote self-harm if the person:
+10
+11 (i) Knowingly develops or distributes an
+12 artificial intelligence system specifically designed to
+13 promote self-harm; and
+14
+15 (ii) Develops or distributes the system with the
+16 intent that the system will be used by others to promote
+17 self-harm or with knowledge that the system will be used to
+18 promote self-harm.
+19
+20 (c) This section shall not apply:
+21
+22 (i) To any artificial intelligence system that
+23 produces content that promotes self-harm solely as a result
+9 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 of user prompts or inputs and without the developer's
+2 intent to encourage or promote self-harm;
+3
+4 (ii) To conduct taken in the course of bona fide
+5 school, college, university, museum or public library
+6 activities or in the course of employment of such an
+7 organization;
+8
+9 (iii) To conduct taken in the course of law
+10 enforcement and judicial activities;
+11
+12 (iv) To licensed health care providers providing
+13 legitimate medical or therapeutic services.
+14
+15 (d) Unlawful development or distribution of an
+16 artificial intelligence system to promote self-harm is a
+17 felony punishable by imprisonment for not more than ten
+18 (10) years, a fine not to exceed ten thousand dollars
+19 ($10,000.00), or both.
+20
+21 ARTICLE 8
+22 ARTIFICIAL INTELLIGENCE SYSTEMS
+23
+10 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 40-12-801. Prohibition of censorship of political
+2 speech by interactive computer services using artificial
+3 intelligence.
+4
+5 (a) As used in this section:
+6
+7 (i) "Artificial intelligence system" means as
+8 defined by W.S. 6-1-104(a)(xix);
+9
+10 (ii) "Interactive computer service" means as
+11 defined by 47 U.S.C. § 230(f)(2), as that term was defined
+12 on July 1, 2025.
+13
+14 (b) No interactive computer service, through the use
+15 of an artificial intelligence system, shall:
+16
+17 (i) Block, ban, remove, de-platform, demonetize,
+18 de-boost, restrict or otherwise discriminate against a user
+19 of the interactive computer service based on the user's
+20 political speech;
+21
+22 (ii) Modify or manipulate a user's content or
+23 posts for the purpose of censoring political speech.
+11 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1
+2 (c) The prohibition in subsection (b) of this section
+3 shall apply regardless of whether the interactive computer
+4 service's actions are automated or manually conducted by
+5 persons for the interactive computer service.
+6
+7 (d) This section shall not apply to speech that would
+8 otherwise be political speech that:
+9
+10 (i) Violates federal or state law;
+11
+12 (ii) Constitutes a true and credible threat of
+13 violence or incitement of violence;
+14
+15 (iii) Contains material that is obscene as
+16 defined by W.S. 6-4-301(a)(iii); or
+17
+18 (iv) Violates intellectual property rights under
+19 federal or state law.
+20
+21 (e) The attorney general may:
+22
+12 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 (i) Bring an action against any person who
+2 violates this section in order to enforce this section;
+3
+4 (ii) Take any other action authorized under W.S.
+5 40-12-112 to enforce this section;
+6
+7 (iii) Seek and recover a civil penalty of not
+8 more than ten thousand dollars ($10,000.00) for each
+9 violation of this section.
+10
+11 Section 2. W.S. 6-1-104(a) by creating a new
+12 paragraph (xix) and by renumbering (xix) as (xx),
+13 6-4-301(a) by creating new paragraphs (vi) and (vii) and
+14 6-4-303(a)(ii)(intro), (b) by creating new paragraphs (v)
+15 and (vi) and (c) through (e) are amended to read:
+16
+17 6-1-104. Definitions.
+18
+19 (a) As used in this act, unless otherwise defined:
+20
+21 (xix) "Artificial intelligence system" means any
+22 machine learning-based system that can, for any given set
+23 of objectives, generate outputs that include images, audio
+13 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 content, video content, digitally generated text,
+2 three-dimensional models, predictions, recommendations or
+3 decisions influencing physical or virtual environments;
+4
+5 (xix)(xx) "This act" means title 6 of the
+6 Wyoming statutes.
+7
+8 6-4-301. Definitions.
+9
+10 (a) As used in this article:
+11
+12 (vi) "Intimate parts" means as defined by W.S.
+13 6-2-301(a)(ii);
+14
+15 (vii) "Synthetic sexual material" means material
+16 that has been created, altered or manipulated through the
+17 use of an artificial intelligence system or another digital
+18 method to realistically depict the intimate parts of a
+19 specific person.
+20
+21 6-4-303. Sexual exploitation of children; penalties;
+22 definitions.
+23
+14 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1 (a) As used in this section:
+2
+3 (ii) "Child pornography" means any visual
+4 depiction, including any photograph, film, video, picture,
+5 computer or computer-generated image, film, video or
+6 picture, whether or not made or produced by electronic,
+7 mechanical or other means, of explicit sexual conduct,
+8 where:
+9
+10 (b) A person is guilty of sexual exploitation of a
+11 child if, for any purpose, he knowingly:
+12
+13 (v) Uses an artificial intelligence system to
+14 generate or create child pornography;
+15
+16 (vi) Possesses child pornography that the person
+17 knows was generated by an artificial intelligence system.
+18
+19 (c) The sexual exploitation of a child pursuant to
+20 paragraphs (b)(i) through (iii) and (v) of this section is
+21 a felony punishable by imprisonment for not less than five
+22 (5) years nor more than twelve (12) years, a fine of not
+23 more than ten thousand dollars ($10,000.00), or both.
+15 HB0102
+
+2026 STATE OF WYOMING 26LSO-0274
+1
+2 (d) The sexual exploitation of a child by possession
+3 of sexually exploitive material pursuant to paragraph
+4 (b)(iv) of this section or by possession of child
+5 pornography generated by an artificial intelligence system
+6 under paragraph (b)(vi) of this section is a felony
+7 punishable by imprisonment for not more than ten (10)
+8 years, a fine of not more than ten thousand dollars
+9 ($10,000.00), or both.
+10
+11 (e) A second or subsequent conviction pursuant to
+12 paragraphs (b)(i) through (iv) (vi) of this section, or of
+13 a substantially similar law of any other jurisdiction, is a
+14 felony punishable by imprisonment for not less than seven
+15 (7) years nor more than twelve (12) years, a fine of not
+16 more than ten thousand dollars ($10,000.00), or both.
+17
+18 Section 3. This act is effective July 1, 2026.
+19
+20 (END)
+16 HB0102

@@ -1,0 +1,148 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0001H3100 (3rd reading) - Representative Brown, L (Corrected, Withdrawn)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0001H3100 (CORRECTED COPY)
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 328. [ADDITIONS TO 300 SECTIONS]
+* * * * * * * * * *
+1 Delete the Lien third reading amendment (HB0001H3084) and the
+2 Sherwood, et al. third reading amendment
+3 (HB0001H3099/A) entirely and further
+4 amend as follows:
+5
+6 Page 141-after line 19 Insert the following new section and
+7 renumber as necessary:
+8
+9 "[EMPLOYEE COMPENSATION]
+10
+11 Section 328.
+12
+13 (a) There is appropriated one hundred eleven million seven
+14 hundred eighty-nine thousand six hundred seventy dollars
+15 ($111,789,670.00) from the general fund to the state auditor for
+16 salary adjustments of generally funded employees whose salary is
+17 not prescribed by law for the fiscal period beginning July 1, 2026
+18 and ending June 30, 2028, as specified in this section. From this
+19 appropriation, the state auditor shall distribute the following
+20 amounts:
+21
+22 (i) Sixty‑four million one hundred ninety‑one thousand
+23 one hundred fifty‑three dollars ($64,191,153.00) for distribution
+24 among the executive branch agencies, including statewide elected
+25 officials, pursuant to subsection (b) of this section for employees
+26 of the executive branch, including the Wyoming community college
+27 commission but not including any agency or entity specified in
+28 paragraphs (ii) through (ix) of this subsection;
+29
+30 (ii) Seven hundred forty-eight thousand six hundred
+31 forty-two dollars ($748,642.00) to the Wyoming business council
+32 pursuant to subsection (b) of this section for employees of the
+33 Wyoming business council;
+34
+35 (iii) Twenty-one thousand seven hundred eighty-three
+36 dollars ($21,783.00) to the commission on judicial conduct and
+1
+
+1 ethics pursuant to subsection (b) of this section for employees of
+2 the commission on judicial conduct and ethics;
+3
+4 (iv) Forty-eight thousand seven hundred twenty-six
+5 dollars ($48,726.00) to the Wyoming energy authority pursuant to
+6 subsection (b) of this section for employees of the Wyoming energy
+7 authority;
+8
+9 (v) Twenty-seven million six hundred ninety-nine
+10 thousand six hundred thirty-one dollars ($27,699,631.00) to the
+11 University of Wyoming pursuant to subsection (b) of this section
+12 for employees of the University of Wyoming, the University of
+13 Wyoming medical education program and school of energy resources;
+14
+15 (vi) Three hundred seventy-seven thousand eight hundred
+16 seventy-two dollars ($377,872.00) to the University of Wyoming
+17 pursuant to subsection (b) of this section for employees of the
+18 enhanced oil recovery commission;
+19
+20 (vii) Fourteen million five hundred eighty-five thousand
+21 three hundred thirty-seven dollars ($14,585,337.00) to the
+22 community college commission to be allocated among the community
+23 colleges in proportion to the state funded payroll of each college
+24 relative to the total state funded payroll as submitted by the
+25 colleges to the state budget department and further distributed
+26 within each college pursuant to subsection (b) of this section for
+27 employees of the community colleges;
+28
+29 (viii) Two hundred eighty-three thousand five hundred
+30 ninety-eight dollars ($283,598.00) to the community college
+31 commission pursuant to subsection (b) of this section for employees
+32 of Wyoming public television;
+33
+34 (ix) Three million eight hundred thirty-two thousand
+35 nine hundred twenty-eight dollars ($3,832,928.00) to the supreme
+36 court to be further distributed pursuant to subsection (b) of this
+37 section among the employees of the supreme court, district courts,
+38 circuit courts and related subdivisions.
+39
+40 (b) Funds appropriated under subsection (a) of this section
+41 shall be distributed to employees of entities specified in
+42 paragraphs (a)(i) through (ix) of this section in accordance with
+43 an occupational market analysis.
+44
+45 (c) For state executive and judicial branch employees whose
+46 compensation is paid from nongeneral fund sources, to the extent
+47 funds are available, there is appropriated from those accounts and
+2
+
+1 funds amounts necessary to provide payment of comparable salary
+2 increases and employer paid benefits as that which is distributed
+3 to employees of entities specified in paragraphs (a)(i) through
+4 (ix) of this section and subject to the same distribution
+5 methodology that is applied by the entities specified in paragraphs
+6 (a)(i) through (ix) of this section, respectively. For state
+7 executive and judicial branch employees whose compensation is
+8 partially funded by general funds, general funds shall be expended
+9 for compensation increases in the same proportion as the employee's
+10 budgeted salary is paid by state general funds.
+11
+12 (d) In accordance with Section 310 of this act, it is the
+13 intent of the legislature that the total appropriation in
+14 subsection (a) of this section to each recipient agency be included
+15 as a cumulative total of the sum of the amounts within each of the
+16 recipient agencies' standard budget for the immediately succeeding
+17 fiscal biennium.
+18
+19 (e) Two-thirds (2/3) of the appropriation in subsection (a)
+20 of this section shall be effective July 1, 2026 for the period
+21 beginning July 1, 2026 and ending June 30, 2028 and the remainder
+22 of the appropriation in subsection (a) of this section shall be
+23 effective July 1, 2027 for the period beginning July 1, 2027 and
+24 ending June 30, 2028.
+25
+26 [SEVERANCE TAXES – DISTRIBUTION AMENDMENTS]
+27
+28 Section 329. W.S. 39-14-801(b)(v) is amended to read:
+29
+30 39-14-801. Severance tax distributions; distribution
+31 account created; formula.
+32
+33 (b) Before making distributions from the severance tax
+34 distribution account under subsections (c) through (e) of this
+35 section, an amount equal to two-thirds (2/3) of the amount of tax
+36 collected under W.S. 39-14-104(a)(i) and (b)(i) and 39-14-
+37 204(a)(i) for the same period shall be deposited as follows:
+38
+39 (v) For fiscal year 2023 through fiscal year 2028 2026
+40 these funds shall be deposited equally to the permanent Wyoming
+41 mineral trust fund and to the common school account within the
+42 permanent land fund and for fiscal year 2027 and fiscal year 2028
+43 these funds shall be deposited equally to the permanent Wyoming
+44 mineral trust fund and to the general fund;".
+45
+46 To the extent required by this amendment: adjust totals; and
+47 renumber as necessary. BROWN, L
+3

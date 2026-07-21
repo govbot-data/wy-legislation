@@ -1,0 +1,279 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0381
+SENATE FILE NO. SF0075
+Court automation fees-amendments.
+Sponsored by: Senator(s) Olsen, Crago and Nethercott and
+Representative(s) Lawley, Washut and
+Williams
+A BILL
+for
+1 AN ACT relating to courts; amending court automation fees;
+2 establishing a process by which the supreme court may
+3 change the amount of required court automation fees; making
+4 conforming amendments; requiring reports; specifying
+5 applicability; authorizing rulemaking; and providing for
+6 effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 2-2-401(a)(iii), 5-2-120 by creating
+11 a new subsection (e), 5-2-202, 5-3-206(a)(i), (vii) and
+12 (x), 5-6-108(a)(i), 5-9-135, 5-13-202, 6-10-102 and
+13 6-10-103 are amended to read:
+14
+15 2-2-401. Schedule; additional charges.
+1 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1
+2 (a) For probate matters filed or commenced, the clerk
+3 of the district court shall collect fees as follows:
+4
+5 (iii) In addition to the original filing fee
+6 under paragraph (a)(i) of this subsection, a court
+7 automation fee in the amount of forty dollars ($40.00)
+8 determined under W.S. 5-2-120(e), which shall be deposited
+9 into the judicial systems automation account established by
+10 W.S. 5-2-120;
+11
+12 5-2-120. Judicial systems automation account created;
+13 purposes; court information technology equipment;
+14 establishment of court automation fees.
+15
+16 (e) The supreme court shall promulgate rules to
+17 establish the amount of the court automation fee required
+18 to be collected under law, in accordance with all of the
+19 following:
+20
+21 (i) Fees shall be set at an amount necessary to
+22 ensure that, to the greatest extent practicable, the total
+23 revenue generated from the court automation fees collected
+2 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 is sufficient to address but does not exceed the direct and
+2 indirect costs for items specified in subsection (a) of
+3 this section;
+4
+5 (ii) Notwithstanding paragraph (i) of this
+6 subsection, the supreme court may establish a separate
+7 court automation fee for chancery courts under W.S.
+8 5-13-202;
+9
+10 (iii) The supreme court shall maintain records
+11 sufficient to demonstrate that the amount of the court
+12 automation fees established under this subsection comply
+13 with the requirements of this subsection;
+14
+15 (iv) Not later than October 1 of each year, the
+16 supreme court shall report to the joint judiciary interim
+17 committee and the joint appropriations committee on the
+18 amount of the court automation fee established under this
+19 subsection and the total amount of court automation fees
+20 collected in the immediately preceding fiscal year.
+21
+22 5-2-202. Collection of fees.
+23
+3 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 The clerk of the supreme court shall collect the following
+2 fees from the plaintiff in error or appellant, or in case
+3 of an original proceeding the plaintiff or relator shall,
+4 at the time of filing the petition in error or record on
+5 appeal or when commencing the cause in this court, the sum
+6 of seventy-five dollars ($75.00). At the time of filing,
+7 the clerk also shall collect a court automation fee in the
+8 amount of fifty-five dollars ($55.00) determined under W.S.
+9 5-2-120(e), which shall be deposited into the judicial
+10 systems automation account established by W.S. 5-2-120, and
+11 an indigent civil legal services fee in the amount of ten
+12 dollars ($10.00) which shall be deposited into the indigent
+13 civil legal services account established by W.S. 5-2-121.
+14 Other fees or charges to be assessed within the clerk's
+15 office are to be determined under rules of the supreme
+16 court.
+17
+18 5-3-206. Fees.
+19
+20 (a) For all civil matters filed or commenced, the
+21 clerk of each district court shall charge the following
+22 fees:
+23
+4 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 (i) For filing instruments or documents in each
+2 civil action and certifying one (1) copy of any order,
+3 decree or judgment at the time of its filing for each
+4 party, an original filing fee of one hundred sixty dollars
+5 ($160.00) one hundred twenty dollars ($120.00), plus a
+6 court automation fee in the amount determined under W.S.
+7 5-2-120(e), which shall be paid by the plaintiff. This fee
+8 shall apply to original actions commenced and to actions
+9 that are reopened after a final decree previously has been
+10 entered. Forty dollars ($40.00) The amount of the filing
+11 court automation fee determined under W.S. 5-2-120(e) shall
+12 be for court automation, ten dollars ($10.00) of the filing
+13 fee shall be for indigent civil legal services and both
+14 shall be remitted as provided in W.S. 5-3-205;
+15
+16 (vii) For all transcripts in cases appealed to
+17 the supreme court, one hundred dollars ($100.00) sixty
+18 dollars ($60.00), plus a court automation fee in the amount
+19 determined under W.S. 5-2-120(e), including certificates,
+20 seals and transmission. Forty dollars ($40.00) The court
+21 automation fee under this paragraph determined under W.S.
+22 5-2-120(e) shall be for court automation, ten dollars
+23 ($10.00) of the transcript fee shall be for indigent civil
+5 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 legal services and both shall be remitted as provided in
+2 W.S. 5-3-205;
+3
+4 (x) For docketing and in payment of clerk's fee
+5 after docketing incident to any appeal or bill of exception
+6 from a circuit court, one hundred dollars ($100.00) sixty
+7 dollars ($60.00), plus a court automation fee in the amount
+8 determined under W.S. 5-2-120(e), and for docketing any
+9 transcript of judgment from a circuit court upon the
+10 judgment and execution dockets, one hundred dollars
+11 ($100.00) sixty dollars ($60.00), plus a court automation
+12 fee in the amount determined under W.S. 5-2-120(e), which
+13 amount shall be paid by appellant, or by judgment holder to
+14 the clerk at time of docketing. Forty dollars ($40.00) The
+15 amount of any court automation fee imposed under this
+16 paragraph shall be for court automation, ten dollars
+17 ($10.00) of the filing fee shall be for indigent civil
+18 legal services and both shall be remitted as provided in
+19 W.S. 5-3-205.
+20
+21 5-6-108. Costs.
+22
+6 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 (a) Each city or town in the state of Wyoming may
+2 prescribe by ordinance such costs in all trials before
+3 municipal courts as may be necessary or deemed expedient.
+4 However, the costs shall not exceed ten dollars ($10.00).
+5 All costs collected shall be turned into the treasury of
+6 the city or town. By ordinance a city or town may
+7 prescribe:
+8
+9 (i) A court automation fee of forty dollars
+10 ($40.00) in the amount determined under W.S. 5-2-120(e) as
+11 a cost to be paid by every person guilty of a violation of
+12 a city or town ordinance;
+13
+14 5-9-135. Filing fee.
+15
+16 For all civil matters, the circuit court shall collect from
+17 the plaintiff an original filing fee of twenty dollars
+18 ($20.00), a court automation fee of forty dollars ($40.00),
+19 in the amount determined under W.S. 5-2-120(e) and an
+20 indigent civil legal services fee of ten dollars ($10.00)
+21 excluding small claims civil actions as provided in W.S.
+22 1-21-201 through 1-21-205, which shall have a filing fee of
+23 ten dollars ($10.00). The court automation fee shall be
+7 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 deposited into the judicial systems automation account and
+2 the indigent civil legal services fee shall be deposited
+3 into the indigent civil legal services account as provided
+4 by W.S. 5-9-144.
+5
+6 5-13-202. Collection of fees.
+7
+8 The clerk of the chancery court shall collect all fees and
+9 charges as required and set by the supreme court under W.S.
+10 5-13-104(b). At the time of the original filing, the clerk
+11 also shall collect a court automation fee in the amount of
+12 one hundred dollars ($100.00) determined under W.S.
+13 5-2-120(e) or (e)(ii), which shall be deposited into the
+14 judicial systems automation account established by W.S.
+15 5-2-120, and an indigent civil legal services fee in the
+16 amount of ten dollars ($10.00), which shall be deposited
+17 into the indigent civil legal services account established
+18 by W.S. 5-2-121.
+19
+20 6-10-102. Imposition of fine for any felony; maximum
+21 fine where not established by statute; court automation
+22 fee; indigent civil legal services fee.
+23
+8 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 The court may impose a fine as part of the punishment for
+2 any felony. If the statute does not establish a maximum
+3 fine, the fine shall be not more than ten thousand dollars
+4 ($10,000.00). The court shall impose a court automation fee
+5 of forty dollars ($40.00) in the amount determined under
+6 W.S. 5-2-120(e) in every criminal case wherein the
+7 defendant is found guilty, enters a plea of guilty or no
+8 contest or is placed on probation under W.S. 7-13-301. The
+9 fee shall be remitted as provided by W.S. 5-3-205. In
+10 addition to the court automation fee the court shall impose
+11 an indigent civil legal services fee of ten dollars
+12 ($10.00) in every criminal case wherein the defendant is
+13 found guilty, enters a plea of guilty or no contest or is
+14 placed on probation under W.S. 7-13-301 or 35-7-1037. The
+15 indigent civil legal services fee shall be remitted as
+16 provided in W.S. 5-3-205(a)(ii).
+17
+18 6-10-103. Penalties for misdemeanors where not
+19 prescribed by statute; court automation fee; indigent civil
+20 legal services fee.
+21
+22 Unless a different penalty is prescribed by law, every
+23 crime declared to be a misdemeanor is punishable by
+9 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 imprisonment in the county jail for not more than six (6)
+2 months, a fine of not more than seven hundred fifty dollars
+3 ($750.00), or both. The court shall impose a court
+4 automation fee of forty dollars ($40.00) in the amount
+5 determined under W.S. 5-2-120(e) in every criminal case
+6 wherein the defendant is found guilty, enters a plea of
+7 guilty or no contest or is placed on probation under W.S.
+8 7-13-301. The fee shall be remitted as provided by W.S.
+9 5-3-205. In addition to the court automation fee the court
+10 shall impose an indigent civil legal services fee of ten
+11 dollars ($10.00) in every criminal case wherein the
+12 defendant is found guilty, enters a plea of guilty or no
+13 contest or is placed on probation under W.S. 7-13-301. The
+14 indigent civil legal services fee shall be remitted as
+15 provided in W.S. 5-3-205(a)(ii).
+16
+17 Section 2. This act shall apply to all new cases,
+18 matters, proceedings and filings initially filed on and
+19 after July 1, 2026.
+20
+21 Section 3. The supreme court may take any action
+22 necessary to implement this act.
+23
+10 SF0075
+
+2026 STATE OF WYOMING 26LSO-0381
+1 Section 4.
+2
+3 (a) Except as provided in subsection (b) of this
+4 section, this act is effective July 1, 2026.
+5
+6 (b) Sections 3 and 4 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+11 SF0075

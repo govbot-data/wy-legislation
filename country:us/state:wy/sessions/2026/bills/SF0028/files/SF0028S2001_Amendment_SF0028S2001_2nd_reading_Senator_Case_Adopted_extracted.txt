@@ -1,0 +1,21 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0028S2001 (2nd reading) - Senator Case (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0028S2001
+1 Page 2-line 12 Delete "Members of the public" and insert "At
+2 the county clerk's discretion, not less than
+3 three (3) members of the public, but not more
+4 than a number that will ensure the orderly
+5 testing of machines,".
+6
+7 Page 6-line 6 Delete "Members of the public" and insert "At
+8 the county clerk's discretion, not less than
+9 three (3) members of the public, but not more
+10 than a number that will ensure the orderly
+11 testing of machines,". CASE
+1
