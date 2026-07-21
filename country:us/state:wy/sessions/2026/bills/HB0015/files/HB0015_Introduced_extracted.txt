@@ -1,0 +1,412 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0060
+HOUSE BILL NO. HB0015
+Right to repair digital electronic equipment.
+Sponsored by: Select Committee on Blockchain, Financial
+Technology and Digital Innovation Technology
+A BILL
+for
+1 AN ACT relating to consumer protection; establishing
+2 provisions related to repairing digital electronic
+3 equipment; requiring original equipment manufacturers to
+4 make documents, parts and tools available as specified;
+5 providing exceptions; providing definitions; providing for
+6 a penalty; providing a sunset date; making conforming
+7 amendments; specifying applicability; and providing for an
+8 effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 40-12-801 and 40-12-802 are created
+13 to read:
+14
+15 ARTICLE 8
+1 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 RIGHT TO REPAIR DIGITAL ELECTRONIC EQUIPMENT
+2
+3 40-12-801. Definitions.
+4
+5 (a) As used in this article:
+6
+7 (i) "Authorized repair provider" means:
+8
+9 (A) A person who has an agreement with an
+10 original equipment manufacturer where:
+11
+12 (I) The original equipment
+13 manufacturer grants the person a license to use a trade
+14 name, service mark or other proprietary identifier for
+15 purposes of providing or offering the services of
+16 diagnosing, maintaining or repairing digital electronic
+17 equipment; or
+18
+19 (II) The person provides or offers the
+20 services of diagnosing, maintaining or repairing digital
+21 electronic equipment on behalf of an original equipment
+22 manufacturer.
+23
+2 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 (B) An original equipment manufacturer who
+2 provides or offers the services of diagnosing, maintaining
+3 or repairing digital electronic equipment that the original
+4 equipment manufacturer makes or sells.
+5
+6 (ii) "Digital electronic equipment" means a
+7 product that functions in whole or in part on the basis of
+8 digital electronics that are embedded within or attached to
+9 the product;
+10
+11 (iii) "Documentation" means any manual, diagram,
+12 reporting output, service code description, schematic
+13 diagram, security code or password or other guidance or
+14 information that enables a person to diagnose, maintain or
+15 repair digital electronic equipment;
+16
+17 (iv) "Embedded software" means any programmable
+18 software delivered with or loaded onto digital electronic
+19 equipment and all relevant patches and fixes made by an
+20 original equipment manufacturer for purposes of diagnosing,
+21 maintaining or repairing the digital electronic equipment.
+22 "Embedded software" includes a basic internal operating
+3 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 system, a machine code, an assembly code, a root code, a
+2 microcode and any other similar components;
+3
+4 (v) "Fair and reasonable terms" means:
+5
+6 (A) With respect to obtaining
+7 documentation, parts, embedded software or tools for
+8 digital electronic equipment, terms that are equivalent to
+9 the most favorable terms that an original equipment
+10 manufacturer offers to an authorized repair provider and
+11 charges that are not more than the original equipment
+12 manufacturer's suggested retail price calculated by using
+13 the net charge less any discounts, rebates or other
+14 incentive programs;
+15
+16 (B) With respect to documentation that an
+17 original equipment manufacturer provides, documentation,
+18 including any relevant updates, provided at no charge
+19 except that the original equipment manufacturer may charge
+20 a fee for a copy of the documentation if the amount of the
+21 fee covers only the manufacturer's actual costs to prepare
+22 and send the copy of the documentation;
+23
+4 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 (C) With respect to tools that an original
+2 equipment manufacturer provides, tools provided:
+3
+4 (I) At no charge except that the
+5 original equipment manufacturer may charge a fee for a tool
+6 if the amount of the fee covers only the manufacturer's
+7 actual costs to prepare and send the tool;
+8
+9 (II) Without requiring authorization
+10 or otherwise imposing impediments to access or use the
+11 tools to diagnose, maintain or repair digital electronic
+12 equipment; and
+13
+14 (III) In a manner that does not impair
+15 the efficient and cost-effective performance of any
+16 diagnosis, maintenance or repair of the digital electronic
+17 equipment.
+18
+19 (D) With respect to parts that an original
+20 equipment manufacturer makes available either directly or
+21 indirectly through an authorized repair provider, terms
+22 that:
+23
+5 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 (I) Do not impose a substantial
+2 condition, obligation or restriction that is not reasonably
+3 necessary to enable the diagnosis, maintenance or repair of
+4 digital electronic equipment;
+5
+6 (II) Do not require the purchase of a
+7 minimum or maximum quantity of parts; and
+8
+9 (III) Do not condition access to parts
+10 on any additional agreement other than a purchase order.
+11
+12 (vi) "Independent repair provider" means a
+13 person who is not affiliated with an original equipment
+14 manufacturer or an authorized repair provider and who is
+15 engaged in the services of diagnosing, maintaining or
+16 repairing digital electronic equipment;
+17
+18 (vii) "Original equipment manufacturer" means a
+19 person that is primarily engaged in selling new digital
+20 electronic equipment;
+21
+6 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 (viii) "Owner" means a person that owns digital
+2 electronic equipment that the person purchased or used in
+3 this state;
+4
+5 (ix) "Part" means any replacement part, either
+6 new or used, made available or used by an original
+7 equipment manufacturer or authorized repair provider for
+8 purposes of maintaining or repairing digital electronic
+9 equipment;
+10
+11 (x) "Parts pairing" means an original equipment
+12 manufacturer's practice of using software to identify
+13 component parts through a unique identifier;
+14
+15 (xi) "Tools" means any software, hardware
+16 implement or other apparatus used for diagnosis,
+17 maintenance or repair of digital electronic equipment
+18 including software or other mechanisms that provide
+19 programs or pairs a new part, calibrates functionality or
+20 performs any other function required to return the digital
+21 electronic equipment or part to a fully functional
+22 condition;
+23
+7 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 (xii) "Trade secret" means as defined in W.S.
+2 40-24-101(a)(iv).
+3
+4 40-12-802. Right to repair digital electronic
+5 equipment.
+6
+7 (a) For digital electronic equipment manufactured for
+8 the first time and first sold or used in this state on or
+9 after July 1, 2026, an original equipment manufacturer
+10 shall, with fair and reasonable terms, make available to an
+11 independent repair provider and owner any documentation,
+12 embedded software, parts and tools required for diagnosing,
+13 maintaining or repairing the digital electronic equipment
+14 or any part of the digital electronic equipment.
+15
+16 (b) For digital electronic equipment manufactured for
+17 the first time and first sold or used in this state on or
+18 after July 1, 2026, no original equipment manufacturer
+19 shall use parts pairing or any other mechanism to:
+20
+21 (i) Prevent or inhibit an independent repair
+22 provider or owner from installing or enabling a function of
+23 an otherwise functional part of digital electronic
+8 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 equipment including a replacement part that an original
+2 equipment manufacturer has not approved;
+3
+4 (ii) Inhibit or reduce the functionality of any
+5 part of digital electronic equipment where the replacement
+6 by an independent repair provider or owner would cause the
+7 device to operate with reduced functionality or
+8 performance;
+9
+10 (iii) Create false, misleading or deceptive
+11 alerts or warnings about parts of digital electronic
+12 equipment;
+13
+14 (iv) Charge additional fees or increase prices
+15 for future repairs of digital electronic equipment; or
+16
+17 (v) Limit who can purchase parts or perform
+18 repair services for digital electronic equipment.
+19
+20 (c) For digital electronic equipment manufactured for
+21 the first time and first sold or used in this state on or
+22 after July 1, 2026 that contains an electronic security
+23 lock or other security related function, an original
+9 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 equipment manufacturer shall, with fair and reasonable
+2 terms, make available to an owner any documentation,
+3 embedded software, parts or tools required to disable and
+4 reset the lock or function while diagnosing, maintaining or
+5 repairing the digital electronic equipment. An original
+6 equipment manufacturer may make the documentation, embedded
+7 software, parts or tools available to an independent repair
+8 provider or owner through appropriate secure release
+9 systems.
+10
+11 (d) Nothing in this section shall be construed to:
+12
+13 (i) Require an original equipment manufacturer
+14 to divulge a trade secret except an original equipment
+15 manufacturer shall not refuse to make available, with fair
+16 and reasonable terms, any documentation, embedded software,
+17 part or tools necessary to diagnose, maintain or repair
+18 digital electronic equipment as required by this section
+19 and may redact trade secrets from any documentation or
+20 tools provided to an independent repair provider or owner;
+21
+22 (ii) Abrogate, interfere with, contradict or
+23 alter the terms of any contract or agreement executed and
+10 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 in force between an authorized repair provider and an
+2 original equipment manufacturer including, but not limited
+3 to, terms related to the performance or provision of
+4 warranty or recall repair work by an authorized repair
+5 provider on behalf of an original equipment manufacturer
+6 pursuant to a contract or agreement, except that any
+7 provision in a contract or agreement purporting to waive,
+8 avoid, restrict or limit an original equipment
+9 manufacturer's compliance with this section shall be void;
+10
+11 (iii) Impose any new type of liability upon an
+12 original equipment manufacturer for any bodily injury or
+13 damage to digital electronic equipment that an independent
+14 repair provider or owner causes while diagnosing,
+15 maintaining or repairing the digital electronic equipment
+16 using documentation, embedded software, parts or tools that
+17 the original equipment manufacturer made available, with
+18 fair and reasonable terms, to an authorized service
+19 provider, an independent repair provider or an owner before
+20 the date of the diagnosis, maintenance or repair;
+21
+22 (iv) Require an original equipment manufacturer
+23 to make available documentation, embedded software, parts,
+11 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 tools or other devices or implements that would disable or
+2 override, without an owner's authorization, anti-theft
+3 security measures that the owner sets for digital
+4 electronic equipment;
+5
+6 (v) Require an original equipment manufacturer
+7 to provide to an independent repair provider or owner any
+8 part that the original equipment manufacturer no longer
+9 makes or no longer provides to authorized service
+10 providers.
+11
+12 (e) This section shall not apply to:
+13
+14 (i) A manufacturer, distributor, importer or
+15 dealer that is engaged in the business of manufacturing or
+16 assembling new motor vehicles as defined by W.S.
+17 31-1-101(a)(xv) or in the business of selling or leasing
+18 new motor vehicles and offering the services of diagnosing,
+19 maintaining or repairing motor vehicles or motor vehicle
+20 engines under the terms of a franchise agreement or to the
+21 person's products or services;
+22
+12 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 (ii) A product, service or equipment that has
+2 never been made available for retail sale to a consumer;
+3
+4 (iii) A medical device as defined by 21 U.S.C. §
+5 321(h);
+6
+7 (iv) A product, service or equipment that
+8 provides heat, ventilation or air conditioning or recharges
+9 refrigerant gases;
+10
+11 (v) A product, service or equipment that is a
+12 system, mechanism or series of mechanisms that generates,
+13 stores or combines generation and storage of electrical
+14 energy from solar radiation;
+15
+16 (vi) A video game console;
+17
+18 (vii) A product, service or equipment that is a
+19 system that stores electrical energy for a period of time
+20 and transmits the energy after storage that is
+21 interconnected with a transmission or distribution system
+22 and that is approved by an electric utility or located on a
+23 customer's side of an electric utility meter in accordance
+13 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 with an applicable utility tariff or interconnection
+2 agreement;
+3
+4 (viii) A manufacturer, distributor, importer or
+5 dealer of industrial equipment, utility equipment,
+6 construction equipment, compact construction equipment,
+7 road-building equipment, mining equipment, farming
+8 equipment including farm and utility tractors, farm
+9 implements and farm machinery, forestry equipment, turf,
+10 yard and garden equipment and outdoor power equipment;
+11
+12 (ix) Electric toothbrushes;
+13
+14 (x) A manufacturer, distributor, importer or
+15 dealer of any off-road recreational vehicle as defined by
+16 W.S. 31-1-101(a)(xv)(K), any multipurpose vehicle as
+17 defined by W.S. 31-1-101(a)(xv)(M), marine vehicle,
+18 all-terrain sports vehicle and racing vehicle;
+19
+20 (xi) A manufacturer, distributor, importer or
+21 dealer of any power tools, stand-alone or integrated
+22 stationary or mobile combustion engines and power sources
+14 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 including generator sets, electric batteries and fuel cell
+2 power.
+3
+4 (f) Except for the rights extended to an owner by
+5 this article, a memorandum of understanding shall govern an
+6 original equipment manufacturer's duties and obligations to
+7 an owner if the memorandum of understanding would otherwise
+8 bind the owner to the terms of the memorandum of
+9 understanding.
+10
+11 (g) A person who violates subsections (a) through (c)
+12 of this section commits an unlawful deceptive trade
+13 practice under W.S. 40-12-105.
+14
+15 (h) This article shall be repealed on the date that
+16 the governor, on advice of the attorney general, certifies
+17 to the secretary of state that the United States congress
+18 enacted federal legislation establishing a right to repair
+19 digital electronic equipment.
+20
+21 (j) To the extent a provision of this article
+22 conflicts with federal law, federal law shall control.
+23
+15 HB0015
+
+2026 STATE OF WYOMING 26LSO-0060
+1 Section 2. W.S. 40-12-105(a) by creating a new
+2 paragraph (xviii) is amended to read:
+3
+4 40-12-105. Unlawful practices.
+5
+6 (a) A person engages in a deceptive trade practice
+7 unlawful under this act when, in the course of his business
+8 and in connection with a consumer transaction, he
+9 knowingly:
+10
+11 (xviii) Violates W.S. 40-12-802.
+12
+13 Section 3. This act shall only apply to digital
+14 electronic equipment manufactured, sold or used in Wyoming
+15 on or after July 1, 2026.
+16
+17 Section 4. This act is effective July 1, 2026.
+18
+19 (END)
+16 HB0015

@@ -1,0 +1,64 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0291
+HOUSE BILL NO. HB0134
+Disclosure of filtered legislator emails.
+Sponsored by: Representative(s) Bear, Allemand, Andrew,
+Heiner, Locke, Lucas, Neiman, Ottman,
+Pendergraft, Rodriguez-Williams, Smith,
+Wasserburger and Webb and Senator(s) Boner,
+French, Ide, Kolb, Laursen, D, McKeown and
+Steinmetz
+A BILL
+for
+1 AN ACT relating to the legislature; requiring the
+2 legislative service office to direct email correspondence
+3 to a legislators email inbox if requested after
+4 verification that the correspondence does not pose a
+5 security threat; and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 28-8-105 by creating a new subsection
+10 (e) is amended to read:
+11
+12 28-8-105. Duties of director and staff; prefiling
+13 bills; fiscal notes.
+1 HB0134
+
+2026 STATE OF WYOMING 26LSO-0291
+1
+2 (e) Upon request, the legislative service office
+3 shall confirm whether the requestor's email communications
+4 to a legislator were filtered by the legislature's email
+5 system to a folder other than the legislator's inbox. If
+6 the requestor's email communications were filtered to a
+7 folder other than a legislator's inbox by the legislature's
+8 email system, the person may request that the legislative
+9 service office direct all current and future email
+10 communications from the requestor's identified email
+11 addresses to a legislator's inbox. The legislative service
+12 office shall, after verification of the email addresses
+13 ensure the requestor's current and future email
+14 communications are directed to a legislator's inbox within
+15 two (2) business days of receipt of the request unless the
+16 delivery of the email communications pose an actual,
+17 articulable security threat to the legislature's email
+18 system. This subsection shall only apply to email
+19 communications that were filtered by the legislature's
+20 email system without intervention of the end-user through
+21 spam, security or other system-wide filtering.
+22
+2 HB0134
+
+2026 STATE OF WYOMING 26LSO-0291
+1 Section 2. This act is effective July 1, 2026.
+2
+3 (END)
+3 HB0134

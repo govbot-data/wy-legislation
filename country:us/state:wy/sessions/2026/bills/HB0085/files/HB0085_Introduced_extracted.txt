@@ -1,0 +1,73 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0250
+HOUSE BILL NO. HB0085
+Post-election audit procedures.
+Sponsored by: Management Audit Committee
+A BILL
+for
+1 AN ACT relating to elections; requiring minutes to be taken
+2 for the post-election ballot audit; requiring observation
+3 of the post-election ballot audit procedures and results;
+4 specifying requirements for observation by representatives
+5 of political parties and independent candidates; and
+6 providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 22-6-130(b) and by creating a new
+11 subsection (c) is amended to read:
+12
+13 22-6-130. Post-election ballot audit.
+14
+15 (b) Each county clerk shall conduct an audit of the
+16 election using the statistically significant ballot sample
+1 HB0085
+
+2026 STATE OF WYOMING 26LSO-0250
+1 size and the corresponding ballots for the contests
+2 selected for audit determined under subsection (a) of this
+3 section and shall cause minutes of the audit to be taken.
+4 Each county clerk shall provide the audit results and the
+5 minutes to the secretary of state not later than one (1)
+6 day before the meeting of the state canvassing board as
+7 provided in W.S. 22-16-118.
+8
+9 (c) The county clerk shall notify the county chairman
+10 of each political party having a candidate on the ballot
+11 and all independent candidates of the time and place of the
+12 audit required under this section. Not less than two (2)
+13 electors in the county, who shall be representatives of
+14 different political parties, shall be present during the
+15 audit to observe the audit procedures and the results of
+16 the audit. Additional political party representatives and
+17 representatives of independent candidates may be present
+18 while the audit is conducted. Each person present to
+19 observe the audit under this subsection shall take the oath
+20 for election officials as provided in W.S. 21-8-115. If an
+21 insufficient number of representatives are available as
+22 required under this subsection, the county clerk may
+23 appoint one (1) or more representatives of different
+2 HB0085
+
+2026 STATE OF WYOMING 26LSO-0250
+1 political parties as necessary to meet the audit
+2 observation requirements of this subsection.
+3 Representatives observing the audit under this section
+4 shall be given the opportunity to register any observed
+5 errors or other objections to the audit with the county
+6 clerk and the county clerk shall provide those registered
+7 statements, and any response to the statements, to the
+8 secretary of state at the time the audit results are
+9 submitted under subsection (b) of this section.
+10
+11 Section 2. This act is effective July 1, 2026.
+12
+13 (END)
+3 HB0085

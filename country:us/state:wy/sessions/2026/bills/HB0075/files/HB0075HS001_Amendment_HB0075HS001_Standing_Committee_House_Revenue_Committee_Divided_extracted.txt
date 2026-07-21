@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0075HS001 (Standing Committee) - House Revenue Committee (Divided)
+Media Type: application/pdf
+
+================================================================================
+
+HB0075HS001
+1 Page 2-after line 6 Insert and renumber as necessary:
+2
+3 "(ii) "Existing user" means a person who has completed
+4 not less than one (1) verified transaction at a virtual currency
+5 kiosk or with an operator of a virtual currency kiosk;".
+6
+7 Page 2-line 8 Delete "(ii)" and insert "(iii)".
+8
+9 Page 2-after line 9 Insert and renumber as necessary:
+10
+11 "(iv) "New user" means a person who has not previously
+12 completed a verified transaction at a virtual currency kiosk or
+13 with an operator of a virtual currency kiosk;".
+14
+15 Page 2-line 11 Delete "(iii)" and insert "(v)".
+16
+17 Page 2-line 14 Delete "(iv)" and insert "(vi)"; delete "an"
+18 and insert "a publicly accessible".
+19
+20 Page 2-line 16 After "to enable" delete "the person" and
+21 insert "members of the public".
+22
+23 Page 3-after line 20 Insert and renumber as necessary:
+24
+25 "(c) All transactions conducted through a virtual currency
+26 kiosk shall be subject to a mandatory waiting period before
+27 completion of the transaction. A user may cancel any transaction
+28 during a waiting period under this subsection without any penalties
+29 being imposed on the user. The waiting period under this subsection
+30 shall be not less than forty-eight (48) hours for new users of the
+31 virtual currency kiosk and shall be not less than twenty-four (24)
+32 hours for existing users of the virtual currency kiosk.".
+33
+34 Page 4-line 1 Delete "(c)" and insert "(d)". LOCKE, CHAIRMAN
+1

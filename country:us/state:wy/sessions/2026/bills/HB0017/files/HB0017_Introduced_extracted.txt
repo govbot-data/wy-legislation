@@ -1,0 +1,108 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0009
+HOUSE BILL NO. HB0017
+Select Committee on Blockchain and Emerging Technologies.
+Sponsored by: Select Committee on Blockchain, Financial
+Technology and Digital Innovation Technology
+A BILL
+for
+1 AN ACT relating to the legislature; amending the name and
+2 duties of the select committee on blockchain, financial
+3 technology and digital innovation technology; amending the
+4 sponsorship authority of the select committee; making
+5 conforming amendments; and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 28-11-701(a)(intro), (b)(i), (ii),
+10 (c)(intro) and (i) and 40-31-105(e) are amended to read:
+11
+12 ARTICLE 7
+13 SELECT COMMITTEE ON BLOCKCHAIN AND EMERGING TECHNOLOGIES
+14
+1 HB0017
+
+2026 STATE OF WYOMING 26LSO-0009
+1 28-11-701. Appointment of members; powers and duties;
+2 executive branch liaisons.
+3
+4 (a) Not later than March 15 following each general
+5 election, a select committee on blockchain, financial
+6 technology and digital innovation technology and emerging
+7 technologies shall be appointed subject to the following:
+8
+9 (b) The select committee shall:
+10
+11 (i) Develop knowledge and expertise among its
+12 members regarding issues pertaining to blockchain,
+13 financial technology and digital innovation technology and
+14 emerging technologies;
+15
+16 (ii) Develop and introduce legislation as
+17 necessary to promote blockchain, financial technology and
+18 digital innovation in Wyoming unless the legislation
+19 relates to Title 13 of the Wyoming statues, in which case
+20 the legislation shall be recommended to the joint minerals,
+21 business and economic development interim committee for
+22 consideration Wyoming's continued leadership in the digital
+23 economy by:
+2 HB0017
+
+2026 STATE OF WYOMING 26LSO-0009
+1
+2 (A) Reducing impediments to economic
+3 opportunities for technology and technology companies
+4 within the state;
+5
+6 (B) Developing policies that encourage
+7 technology companies to locate and remain in the state;
+8
+9 (C) Promoting further development of
+10 digital commercial activity in the state.
+11
+12 (c) Not later than March 15 following each general
+13 election, the governor shall appoint three (3) persons to
+14 serve as liaisons to the select committee on blockchain,
+15 financial technology and digital innovation technology and
+16 emerging technologies. The governor may, in a manner
+17 consistent with W.S. 9-1-202, remove any liaison to the
+18 select committee. The liaisons shall:
+19
+20 (i) Aid, assist and advise the select committee
+21 on issues pertaining to blockchain, financial technology
+22 and digital innovation technology and emerging
+23 technologies;
+3 HB0017
+
+2026 STATE OF WYOMING 26LSO-0009
+1
+2 40-31-105. Powers of the commission.
+3
+4 (e) Before publicly issuing any fully reserved
+5 Wyoming stable tokens, the director shall provide a
+6 comprehensive report to the select committee on blockchain,
+7 financial technology and digital innovation technology and
+8 emerging technologies and the joint minerals, business and
+9 economic development interim committee on all actions taken
+10 under this act.
+11
+12 Section 2. For all purposes the select committee on
+13 blockchain and emerging technologies, as renamed in this
+14 act, is a continuation of the select committee on
+15 blockchain, financial technology and digital innovation
+16 technology.
+17
+18 Section 3. This act is effective immediately upon
+19 completion of all acts necessary for a bill to become law
+20 as provided by Article 4, Section 8 of the Wyoming
+21 Constitution.
+22
+23 (END)
+4 HB0017

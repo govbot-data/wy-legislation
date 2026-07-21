@@ -1,0 +1,32 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0147SW001 (Committee of the Whole)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0147SW001
+1 Page 1-line 4 After "law;" insert "placing a limitation on
+2 the long-term homeowner tax exemption;".
+3
+4 Page 1-lines 9 and 10 Delete entirely and insert:
+5
+6 "Section 1. W.S. 39-11-105(a)(xlv) by creating a new
+7 subparagraph (D) and (xlvi) by creating a new subparagraph (D) is
+8 amended to read:".
+9
+10 Page 1-after line 15 Insert:
+11
+12 "(xlv) A portion of property used as a primary
+13 residence by long-term homeowners as provided in this paragraph.
+14 The following shall apply to this exemption:
+15
+16 (D) If the secretary of state certifies to the
+17 department of revenue that the voters have approved an initiative
+18 implementing a homeowner's property tax exemption and the
+19 exemption is enacted into law, an owner who qualifies for an
+20 exemption under this paragraph and the initiative shall only apply
+21 for one (1) of those exemptions.". MCKEOWN
+22
+1

@@ -1,0 +1,26 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0075HW002 (Committee of the Whole) - Representative Clouston (Corrected, Withdrawn)
+Media Type: application/pdf
+
+================================================================================
+
+HB0075HW002 (CORRECTED COPY)
+1 Page 2-after line 6 Delete the House standing committee
+2 amendment (HB0075HS001/A) to this line and
+3 renumber as necessary.
+4
+5 Page 3-after line 20 Delete the House standing committee
+6 amendment (HB0075HS001/A) to this line and
+7 insert and renumber as necessary:
+8
+9 "(c) Each virtual currency kiosk operator shall implement
+10 transaction limits for new users. For the first three (3) calendar
+11 days following a new user's initial transaction with the virtual
+12 currency kiosk operator, the operator shall not permit the new
+13 user to conduct transactions totaling more than two thousand
+14 dollars ($2,000.00) per calendar day through a virtual currency
+15 kiosk. After the three (3) calendar day period has elapsed, the
+16 limitation required by this subsection shall no longer apply.".
+17 CLOUSTON
+1

@@ -1,0 +1,152 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0145HS001 (Standing Committee) - House Transportation, Highways and Military Affairs Committee (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0145HS001
+1 Page 2-line 8 After "(iv)," delete balance of line.
+2
+3 Page 2-line 9 Delete line through "39-17-309(c)" and insert
+4 "39-17-307(a)(i) through (iv), (b)(i) and
+5 (iii), 39-17-308(c)(ii) and 39-17-309(c)(i),
+6 (ii), (iv) and".
+7
+8 Page 9-line 22 After "(i) On" strike balance of line and
+9 insert "a date required by department rule".
+10
+11 Page 10-line 5 Strike "during the".
+12
+13 Page 10-line 6 Strike "preceding calendar month".
+14
+15 Page 10-line 14 Strike "during the preceding calendar month".
+16
+17 Page 10-line 22 Strike "during the preceding calendar month".
+18
+19 Page 11-after line 2 Insert:
+20
+21 "(D) When alternative fuel is purchased in Wyoming
+22 from a Wyoming licensed refiner, the refiner shall report, using
+23 the appropriate equivalency formula, to the department all gallons
+24 used, sold or distributed during the preceding calendar month and
+25 remit all taxes due for fuel sold to an end user;".
+26
+27 Page 11-line 8 Strike "during the".
+28
+29 Page 11-line 9 Strike "preceding calendar month".
+30
+31 Page 11-line 15 Strike "during the preceding calendar".
+32
+33 Page 11-line 16 Strike "month".
+34
+35 Page 11-after line 18 Insert:
+36
+37 "(G) Any person acquiring biodiesel (B100),
+38 ethanol or other alcohols, methanol, butane or other blending
+39 components to blend with gasoline, diesel or alternative fuels
+40 shall report to the department all gallons of biodiesel (B100)
+41 ethanol or other alcohols, and methanol, butane or other blending
+42 components, purchased and blended during the preceding calendar
+43 month any period as required by department rule and remit all
+44 additional taxes due.".
+1
+
+1
+2 Page 12-line 3 Strike "the month" and insert "any period as
+3 required by department rule and".
+4
+5 Page 12-line 13 After "(iv) On" strike balance of line and
+6 insert "a date required by department rule:".
+7
+8 Page 12-line 22 Strike "during the preceding calendar month".
+9
+10 Page 12-after line 23 Insert:
+11
+12 "(B) Each distributor or importer shall, if
+13 applicable, submit a statement to the department in a format
+14 required by the department for the preceding calendar month for
+15 the purpose of obtaining a refund from the department for taxes
+16 paid pursuant to this section.
+17
+18 (b) Payment. The following shall apply:
+19
+20 (i) On or before the last day of each month a date
+21 required by department rule, every supplier, refiner, terminal
+22 operator, importer and dealer shall pay to the department all
+23 license taxes imposed by this article which are due based upon the
+24 statement submitted under W.S. 39-17-307(a)(i). Payment may be
+25 made by electronic funds transfer;
+26
+27 (iii) A distributor or importer who owns a bulk plant
+28 in this state may take a shrinkage credit of one percent (1%) on
+29 gross gallons, if applicable, of bulk alternative fuel purchased
+30 directly from a terminal and delivered in this state for use, sale
+31 or distribution. This credit may be claimed on the monthly any tax
+32 return required by department rule. A distributor or importer who
+33 does not own a bulk plant, but owns retail locations and
+34 distributes alternative fuel to those locations only shall be
+35 entitled to the shrinkage credit on gross gallons, if applicable,
+36 of bulk alternative fuel delivered. The shrinkage credit may not
+37 apply to some alternative fuels. The department shall promulgate
+38 rules which specify the applicability of the credit and provide an
+39 application process for the credit.
+40
+41 39-17-308. Enforcement.
+42
+43 (c) Penalties. The following shall apply:
+44
+45 (ii) If any person fails or refuses to file the monthly
+46 a statement as required by department rule and remit the tax as
+47 provided by W.S. 39-17-307(a)(i), the department shall make a
+2
+
+1 statement for that person from the best information available and
+2 from such statement shall determine the amount of license taxes
+3 required to be paid and add thereto a penalty of ten percent (10%)
+4 of the taxes due. The department shall notify the delinquent
+5 taxpayer of the total amount due by serving written notice upon
+6 such person personally or by United States mail to the last known
+7 address as shown on the records of the department. If the
+8 delinquent taxpayer proves to the department that the delinquency
+9 was due to a reasonable cause, the department shall waive the
+10 penalty provided in this paragraph. If the delinquent taxpayer
+11 after receiving the statement prepared by the department later
+12 renders to the department a true statement covering the same
+13 calendar month period, the department shall use such statement,
+14 adding the penalty of ten percent (10%) and interest of one percent
+15 (1%) per month on the license taxes from the due date until
+16 payment. The penalty shall be waived by the department upon
+17 satisfactory written proof the delinquency was due to a reasonable
+18 cause;".
+19
+20 Page 13-after line 4 Insert:
+21
+22 "(i) On or before the last day of each month a date
+23 required by department rule, every distributor shall, if
+24 applicable, submit a statement to the department on forms furnished
+25 by or in a format required by the department for the preceding
+26 calendar month for the purpose of obtaining a refund from the
+27 department for taxes paid pursuant to W.S. 39-17-307(a)(i);
+28
+29 (ii) Any person exporting alternative motor vehicle
+30 fuel from Wyoming for which the license tax has been paid is
+31 subject to a refund of the license tax paid. The refund request
+32 shall be submitted on or before the last day of the month a date
+33 required by department rule on forms provided by or in a format
+34 required by the department. The refund request is invalid if not
+35 submitted within one (1) year of the date of purchase;
+36
+37 (iv) The department shall by rule promulgated pursuant
+38 to W.S. 39-17-302(a) prescribe procedures under which an
+39 alternative fuel user who is entitled to at least a two hundred
+40 fifty dollar ($250.00) refund of tax under this article for
+41 purchases and use of alternative fuel to propel a motor vehicle in
+42 any calendar month may apply for and receive the refund at any
+43 time after the last day of that month according to a timeline
+44 required by the department pursuant to department rule;".
+45
+46 Page 14-line 8 After "transportation" insert "and the
+47 department of revenue". BROWN, L, CHAIRMAN
+3

@@ -1,0 +1,37 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0018H2002 (2nd reading) - Representative Harshman (Failed)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0018H2002
+1 Page 1-line 4 After "basis;" insert "decreasing the
+2 percentage of days in school required for full
+3 time status; amending definitions;"
+4
+5 Page 1-line 9 Delete "is" and insert "and 21-13-101(a)(i)
+6 are".
+7
+8 Page 3-after line 6 Insert:
+9
+10 "21-13-101. Definitions.
+11
+12 (a) As used in this chapter:
+13
+14 (i) "Average daily membership" or "ADM" means the
+15 aggregate number of pupils present plus the aggregate number of
+16 pupils absent, divided by the actual number of days the school is
+17 in session for the year. Pupils who attend at least eighty percent
+18 (80%) seventy-five percent (75%) of a full time equivalency basis
+19 shall be considered full time. For pupils enrolled in school on
+20 less than eighty percent (80%) seventy-five percent (75%) of a
+21 full time equivalency basis, the school district shall calculate
+22 the pupil's contribution to the ADM on a prorated basis with the
+23 hours or class periods of enrollment being the numerator and the
+24 hours or class periods of full time equivalency being the
+25 denominator. Pupils who have withdrawn from school or who have
+26 been absent for more than ten (10) consecutive calendar days shall
+27 not be counted as members;". HARSHMAN
+1

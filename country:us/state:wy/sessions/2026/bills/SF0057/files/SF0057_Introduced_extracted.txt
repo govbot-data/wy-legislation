@@ -1,0 +1,397 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0333
+SENATE FILE NO. SF0057
+Transparency in hospital service pricing.
+Sponsored by: Senator(s) Brennan, Boner, Dockstader,
+Landen, Love, Nethercott and Scott and
+Representative(s) Clouston, Davis, Filer and
+Geringer
+A BILL
+for
+1 AN ACT relating to public health and safety; requiring
+2 hospitals to list prices for medical items and services as
+3 specified; requiring the department of health to monitor
+4 and enforce the provisions of this act; providing
+5 penalties; providing definitions; requiring recommendations
+6 for future legislation; requiring rulemaking; making
+7 conforming amendments; and providing for effective dates.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 35-2-1501 through 35-2-1507 are
+12 created to read:
+13
+14 ARTICLE 15
+1 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 HOSPITAL PRICE TRANSPARENCY ACT
+2
+3 35-2-1501. Short title; purpose.
+4
+5 (a) This act shall be known and may be cited as the
+6 "Hospital Price Transparency Act."
+7
+8 (b) The purpose of this act is to require hospitals
+9 to disclose prices for certain items and services and to
+10 provide civil penalties.
+11
+12 35-2-1502. Definitions.
+13
+14 (a) As used in this act:
+15
+16 (i) "Department" means the department of health;
+17
+18 (ii) "De-identified maximum negotiated charge"
+19 means the highest charge a facility has negotiated with any
+20 third party payors for a facility item or service;
+21
+2 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 (iii) "De-identified minimum negotiated charge"
+2 means the lowest charge a facility has negotiated with any
+3 third party payors for a facility item or service;
+4
+5 (iv) "Discounted cash price" means the charge
+6 that applies to a person who pays cash, or a cash
+7 equivalent, for a facility item or service;
+8
+9 (v) "Facility" means a hospital located within
+10 the state and licensed under title 35, chapter 2, article 9
+11 of the Wyoming statutes;
+12
+13 (vi) "Facility item or service" means all items
+14 and services, including individual items and services and
+15 service packages, that may be provided by a facility to a
+16 patient in connection with an inpatient admission or an
+17 outpatient department visit, including:
+18
+19 (A) Supplies and procedures;
+20
+21 (B) Room and board;
+22
+3 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 (C) Use of the facility and other areas,
+2 generally referred to as facility fees;
+3
+4 (D) Services of health care providers,
+5 generally referred to as professional charges;
+6
+7 (E) Any other item or service offered by
+8 the facility.
+9
+10 (vii) "Gross charge" means the charge for a
+11 facility item or service that is reflected on a facility's
+12 list, less any discounts;
+13
+14 (viii) "Machine-readable format" means a digital
+15 representation of information that can be imported or read
+16 into a computer system for processing;
+17
+18 (ix) "Payor-specific negotiated charge" means
+19 the charge that a facility has negotiated with a third
+20 party payor for a facility item or service;
+21
+22 (x) "Shoppable service" means a facility item or
+23 service that may be scheduled by a patient in advance;
+4 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1
+2 (xi) "Standard charge" means the regular rate
+3 established by the facility for a facility item or service
+4 provided to a specific group of paying patients. The term
+5 includes all of the following:
+6
+7 (A) The gross charge;
+8
+9 (B) The payor-specific negotiated charge;
+10
+11 (C) The de-identified minimum negotiated
+12 charge;
+13
+14 (D) The de-identified maximum negotiated
+15 charge;
+16
+17 (E) The discounted cash price.
+18
+19 (xii) "Third party payor" means a person who is,
+20 by statute, contract or agreement, legally responsible for
+21 payment of a claim for a facility item or service;
+22
+5 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 (xiii) "This act" means W.S. 35-2-1501 through
+2 35-2-1507.
+3
+4 35-2-1503. List of standard charges required.
+5
+6 (a) A facility shall:
+7
+8 (i) Maintain a list of all standard charges for
+9 facility items or services in accordance with this section;
+10
+11 (ii) Maintain a list of the standard charges
+12 required under paragraph (i) of this subsection for not
+13 less than three hundred (300) shoppable services provided
+14 by the facility, or as many of the shoppable services the
+15 facility provides, in accordance with this section; and
+16
+17 (iii) Make the lists required by paragraphs (i)
+18 and (ii) of this subsection available to the public at all
+19 times.
+20
+21 (b) The lists required to be maintained by a facility
+22 under subsection (a) of this section shall reflect the
+6 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 standard charges applicable to each location as required by
+2 federal rules and regulations.
+3
+4 (c) The lists required under subsection (a) of this
+5 section shall include the following items, if applicable:
+6
+7 (i) A description of each facility item or
+8 service provided by the facility;
+9
+10 (ii) The following charges, expressed in dollar
+11 amounts, for each individual facility item or service:
+12
+13 (A) All standard charges;
+14
+15 (B) Any code used by the facility for
+16 purposes of accounting or billing; and
+17
+18 (C) A list of charges for shoppable
+19 services as required by paragraph (a)(ii) of this section,
+20 including but not limited to:
+21
+7 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 (I) The charges for shoppable services
+2 specified by the centers for Medicare and Medicaid services
+3 in 45 C.F.R. part 180; or
+4
+5 (II) If the facility does not provide
+6 all of the shoppable services described by subdivision (I)
+7 of this subparagraph, then the facility shall provide as
+8 many of the charges for those shoppable services as the
+9 facility does provide.
+10
+11 (d) The lists required by subsection (a) of this
+12 section shall be displayed in a prominent location on the
+13 home page of the facility's publicly accessible website or
+14 accessible through a link on that website.
+15
+16 (e) The lists required under subsection (a) of this
+17 section shall:
+18
+19 (i) Be available:
+20
+21 (A) Free of charge;
+22
+8 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 (B) Without having to establish a user
+2 account or password;
+3
+4 (C) Without having to submit personal
+5 identifying information;
+6
+7 (D) Without having to enter a code to
+8 access the list.
+9
+10 (ii) Be accessible to a common commercial
+11 operator of an internet search engine to the extent
+12 necessary for the search engine to index and display the
+13 lists as a result in response to a search query of a user
+14 of the search engine;
+15
+16 (iii) Be digitally searchable;
+17
+18 (iv) Use the naming convention specified by the
+19 centers for Medicare and Medicaid services.
+20
+21 (f) Each facility shall update the lists required by
+22 subsection (a) of this section not less than annually. Each
+9 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 facility shall clearly indicate on its website the date
+2 that the lists were updated.
+3
+4 35-2-1504. Monitoring.
+5
+6 (a) The department may monitor each facility's
+7 compliance with the requirements of this act using any of
+8 the following methods:
+9
+10 (i) Evaluating complaints made by persons to the
+11 department regarding noncompliance with the act;
+12
+13 (ii) Reviewing any analysis prepared regarding
+14 noncompliance with this act;
+15
+16 (iii) Auditing the websites of facilities for
+17 compliance with this act.
+18
+19 (b) Notwithstanding any provision of law to the
+20 contrary, in considering an application for renewal of a
+21 facility's license or certificate, the department may
+22 consider whether a facility is or has been in substantial
+23 compliance with this act.
+10 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1
+2 35-2-1505. Material violation; corrective action
+3 plan.
+4
+5 (a) A facility materially violates this act if the
+6 facility fails to comply with the requirements of W.S.
+7 35-2-1503.
+8
+9 (b) If the department determines that a facility has
+10 materially violated this act, the department shall issue a
+11 material violation notice to the facility and require that
+12 the facility submit a corrective action plan. The notice
+13 shall indicate the form and manner that the corrective
+14 action plan shall be submitted to the department and shall
+15 clearly state the date by which the facility shall submit
+16 the plan.
+17
+18 (c) The facility that receives a notice under
+19 subsection (b) of this section shall:
+20
+21 (i) Submit a corrective action plan in the form
+22 and manner, and by the specified date, prescribed by the
+23 notice of violation; and
+11 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1
+2 (ii) Act to comply with the corrective action
+3 plan by the date required by paragraph (d)(ii) of this
+4 section.
+5
+6 (d) A corrective action plan submitted to the
+7 department shall:
+8
+9 (i) Describe in detail the corrective action the
+10 facility will take to address any violation identified by
+11 the department in the notice provided under subsection (b)
+12 of this section; and
+13
+14 (ii) Provide a date that corresponds with
+15 federal rules and regulations by which the facility will
+16 complete the corrective action plan.
+17
+18 (e) A corrective action plan is subject to review and
+19 approval by the department. After the department reviews
+20 and approves a facility's corrective action plan, the
+21 department shall monitor and evaluate the facility's
+22 compliance with the plan.
+23
+12 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 35-2-1506. Civil penalty for violations.
+2
+3 (a) The department may impose a civil penalty on a
+4 facility if a facility fails to:
+5
+6 (i) Respond to the department's notice to submit
+7 a corrective action plan within the timeframe specified by
+8 federal rules and regulations; or
+9
+10 (ii) Comply with the requirements of a
+11 corrective action plan submitted to the department within
+12 the timeframe specified by federal rules and regulations.
+13
+14 (b) A civil penalty imposed under subsection (a) of
+15 this section shall be:
+16
+17 (i) For facilities categorized as critical
+18 access hospitals:
+19
+20 (A) For a first offense within any twelve
+21 (12) month period, one hundred dollars ($100.00) per day
+22 for each day the department imposes a civil penalty under
+23 subsection (a) of this section;
+13 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1
+2 (B) For a second offense within any twelve
+3 (12) month period, five hundred dollars ($500.00) per day
+4 for each day the department imposes a civil penalty under
+5 subsection (a) of this section;
+6
+7 (C) For a third or subsequent offense
+8 within any twelve (12) month period, one thousand dollars
+9 ($1,000.00) per day for each day the department imposes a
+10 civil penalty under subsection (a) of this section.
+11
+12 (ii) For hospitals with prospective payment
+13 systems, one thousand dollars ($1,000.00) per day for each
+14 day within any twelve (12) month period the department
+15 imposes a civil penalty under subsection (a) of this
+16 section.
+17
+18 35-2-1507. Legislative recommendations.
+19
+20 The department may propose to the legislature any necessary
+21 recommendations for amending this act, including
+22 recommendations in response to amendments by the centers
+23 for Medicare and Medicaid services to 45 C.F.R. part 180.
+14 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1
+2 Section 2. W.S. 35‑2‑905(a) by creating a new
+3 paragraph (vi) is amended to read:
+4
+5 35-2-905. Conditions, monitoring or revoking a
+6 license.
+7
+8 (a) The division may place conditions upon a license,
+9 install a division approved monitor or manager at the
+10 owner's or operator's expense, suspend admissions, or deny,
+11 suspend or revoke a license issued under this act if a
+12 licensee:
+13
+14 (vi) Violates any provision of W.S. 35-2-1501
+15 through 35-2-1507.
+16
+17 Section 3. The department of health shall promulgate
+18 all rules necessary to implement this act.
+19
+15 SF0057
+
+2026 STATE OF WYOMING 26LSO-0333
+1 Section 4.
+2
+3 (a) Except as otherwise provided by subsection (b) of
+4 this section, this act is effective July 1, 2026.
+5
+6 (b) Sections 3 and 4 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+16 SF0057

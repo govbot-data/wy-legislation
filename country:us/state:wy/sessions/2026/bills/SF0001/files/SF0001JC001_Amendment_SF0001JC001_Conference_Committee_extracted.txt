@@ -1,0 +1,677 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0001JC001 (Conference Committee)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0001JC001/SADOPTED (TO ENGROSSED COPY)
+Adopt the following Senate amendments:
+SF0001S2011/A
+SF0001S2018/A
+SF0001S3006/A
+SF0001S3008/A
+SF0001S3013/A
+SF0001S3019/A
+SF0001S3034/A
+SF0001S3037/A
+SF0001S3038/A
+SF0001S3045/A
+Adopt the following House amendments:
+HB0001H2028/A
+HB0001H2036/A
+HB0001H2049/A
+HB0001H2113/A
+HB0001H3004/A
+HB0001H3007/ACC
+HB0001H3029/A
+HB0001H3035/A
+HB0001H3041/A
+HB0001H3059/A
+HB0001H3095/A
+HB0001H3098/A
+HB0001H3116/A
+HB0001H3121/A
+Delete the following Senate amendments:
+SF0001S2001/A
+SF0001S2006/A
+SF0001S2008/A
+SF0001S2010/A
+SF0001S2017/A
+SF0001S3003/A
+SF0001S3004/ACC
+SF0001S3009/A
+SF0001S3010/A
+SF0001S3011/A
+SF0001S3012/A
+SF0001S3014/A
+SF0001S3015/A
+SF0001S3016/A
+SF0001S3017/A
+SF0001S3021/AC
+
+SF0001S3022/A
+SF0001S3025/A
+SF0001S3033/A
+SF0001S3035/A
+SF0001S3036/ACC
+SF0001S3039/A
+SF0001S3040/A
+SF0001S3049/A
+SF0001S3050/A
+SF0001S3052/A
+SF0001S3053/A
+Delete the following House amendments:
+HB0001H2018/A
+HB0001H2021/A
+HB0001H2022/A
+HB0001H2068/A
+HB0001H2104/A
+HB0001H2110/AC
+HB0001H3009/A
+HB0001H3011/A
+HB0001H3018/AC
+HB0001H3031/A
+HB0001H3060/A
+HB0001H3066/AC
+HB0001H3078/A
+HB0001H3079/AC
+HB0001H3088/A
+HB0001H3090/A
+HB0001H3093/A
+HB0001H3099/AC
+HB0001H3120/A
+HB0001H3122/AC
+HB0001H3123/A
+HB0001H3124/A
+HB0001H3125/A
+Further amend as follows:
+Page 1-line 9 Delete "amending".
+Page 1-line 10 Delete line through "budget;".
+Page 1-line 11 After "authorizing" insert "grants and";
+delete "increasing higher".
+Page 1-line 12 Delete entirely.
+2
+
+Page 1-line 13 Delete the line through "2028;".
+Page 5-line 8 Under GENERAL FUND increase amount by
+"1,000,000".
+Page 6-line 3 Delete "is appropriated" and insert "shall be
+expended".
+Page 8-line 21 After "provided" insert "by law".
+Page 11-line 11 After "Services" delete "1.,"; under GENERAL
+FUND increase amount by "500,000".
+Page 12-lines 6 through 12 Delete entirely.
+Page 12-lines 14 through 20 Delete entirely and insert:
+"2. Of this general fund appropriation, one million twelve thousand
+two hundred thirty-three dollars ($1,012,233.00) shall be reduced
+by one dollar ($1.00) for each one dollar ($1.00) distributed to
+the trades management unit (unit 3055) to provide compensation
+adjustments up to, but not to exceed, the 2024 market pay tables
+under Section 329 of this act. Any unexpended, unobligated funds
+from this appropriation shall revert to the general fund not later
+than September 30, 2026.".
+Page 18-line 18 Delete "relief" and insert "refund".
+Page 20-line 3 After "1." insert ", 4.".
+Page 20-line 6 Under GENERAL FUND decrease amount by
+"1,400,000".
+Page 21-line 4 Delete "three million dollars
+($3,000,000.00)"; and insert "one million six
+hundred thousand dollars ($1,600,000.00)".
+Page 21-line 7 After "purpose." insert "This appropriation
+shall not be effective if 2026 Senate File
+0085 is enacted into law.".
+Page 21-after line 7 Insert:
+"4. Of this general fund appropriation, five million dollars
+($5,000,000.00) is appropriated for avoiding, preparing for or
+participating in water litigation within the law office unit (unit
+3
+
+0101) and shall be expended only for the purpose of resolving legal
+issues pertaining to protecting Wyoming interstate water rights
+and obligations, Wyoming water rights associated with the Colorado
+river compact of 1922 and the upper Colorado river compact of 1948.
+This appropriation shall not be transferred or expended for any
+other purpose. All proposed expenditures under this footnote shall
+be reported to the management council of the legislature and the
+joint appropriations committee with a description of the desired
+actions and outcomes of the expenditure not less than ten (10)
+days before the expenditure.".
+Page 31-line 8 Delete "1."; under OTHER FUNDS decrease amount
+by "5,000,000 S7".
+Page 32-lines 6 through 22 Delete entirely.
+Page 33-lines 1 through 13 Delete entirely.
+Page 36-line 3 Delete "2."; under GENERAL FUND decrease
+amount by "1,895,448".
+Page 37-lines 16 through 20 Delete entirely.
+Page 38-lines 1 through 21 Delete entirely.
+Page 40-line 20 After "Services" delete "1.,".
+Page 41-lines 6 through 11 Delete entirely.
+Page 43-line 3 After "($131,040.00)" delete ",".
+Page 46-line 20 Delete "." and insert ";".
+Page 48-line 10 After "3." delete ", 4."; under GENERAL FUND
+increase amount by "1,949,522".
+Page 49-line 1 After "EMPLOYEES" insert "2.,"; after "3."
+delete ", 4.".
+Page 49-line 2 Increase Full Time positions by "2".
+Page 49-line 3 Increase Part Time positions by "10".
+Page 49-line 17 Delete "two million three hundred forty-one".
+Page 49-line 18 Delete "thousand six hundred forty-four
+dollars ($2,341,644.00)" and insert "four
+4
+
+million six hundred eighty-one thousand one
+hundred sixty-six dollars ($4,681,166.00)".
+Page 49-line 19 Delete "two (2)" and insert "four (4)"; delete
+"ten (10)" and insert "twenty (20)".
+Page 49-line 20 Delete "one".
+Page 49-line 21 Delete "(1)" and insert "two (2)"; delete
+"crew" and insert "crews"; delete
+"authorized".
+Page 49-line 22 After "positions" insert "specified in this
+footnote"; after "immediately." delete
+balance of line.
+Page 49-line 23 Delete entirely and insert "Of this general
+fund appropriation, four million six hundred
+eighty-one thousand one hundred sixty-six
+dollars ($4,681,166.00) shall be reduced by
+one dollar ($1.00) for every one dollar
+($1.00) up to four million six hundred eighty-
+one thousand one hundred sixty-six dollars
+($4,681,166.00) appropriated from any source
+to the office of state lands and investments
+in 2026 House Bill 0036, if enacted into law.
+One (1) full-time employee position or one (1)
+part-time employee position shall be reduced
+from the full-time employee positions and
+part-time employee positions specified in this
+footnote for each one (1) full-time employee
+position or one (1) part-time employee
+position authorized in 2026 House Bill 0036,
+if enacted into law.".
+Page 50-lines 5 through 8 Delete entirely.
+Page 52-line 3 After "Aid" delete "2., 3.,"; after "4.,"
+delete "5., 6.,".
+Page 52-line 4 After "8." insert ", 12.".
+Page 52-line 8 After "11." insert ", 13."; under GENERAL FUND
+increase amount by "250,000".
+Page 53-lines 2 through 16 Delete entirely.
+5
+
+Page 54-lines 7 through 22 Delete entirely.
+Page 55-lines 1 through 6 Delete entirely.
+Page 58-after line 5 Insert:
+"12. (a) A portion of this general fund appropriation shall be
+expended by the University of Wyoming to conduct a comprehensive
+review of its organizational structure and staffing patterns
+across all divisions, colleges, administrative units, auxiliaries
+and support functions. The review under this footnote shall, at
+a minimum:
+(i) Identify any positions or organizational units that
+are duplicative, overlapping or functionally redundant;
+(ii) Assess opportunities to consolidate, streamline or
+otherwise restructure administrative and academic operations in
+order to improve efficiency;
+(iii) Evaluate staffing levels relative to similarly
+situated postsecondary institutions and industry standards;
+(iv) Develop recommendations to reduce the overall
+number of positions while simultaneously considering the
+operational needs, service levels and institutional priorities of
+the University of Wyoming;
+(v) Identify any potential cost savings and reinvestment
+opportunities that result from any recommended staffing or
+structural changes;
+(vi) Compile an inventory and recommend opportunities to
+eliminate degree programs with consideration of course
+participation and the number of recent graduates;
+(vii) Compile an inventory and recommend opportunities
+to further restrict any diversity, equity and inclusion program,
+activity or function.
+(b) The University of Wyoming board of trustees shall submit
+an operational plan to the governor and the joint appropriations
+committee not later than December 1, 2026. If the operational plan
+under this subsection does not identify at least five million
+dollars ($5,000,000.00) in cost savings for the University of
+Wyoming by December 1, 2026, of this general fund appropriation,
+ten million dollars ($10,000,000.00) shall not be effective. If at
+6
+
+least five million dollars ($5,000,000.00) in cost savings for the
+University of Wyoming is identified by December 1, 2026, of this
+general fund appropriation, ten million dollars ($10,000,000.00)
+is effective March 15, 2027.
+13. Of this general fund appropriation, two hundred fifty thousand
+dollars ($250,000.00) shall be for the University of Wyoming family
+residency program to be expended only for purposes of a rural
+medicine training track program in a critical access hospital.
+This appropriation is conditioned upon matching funds in the ratio
+of one dollar ($1.00) of appropriated general funds to not less
+than one dollar ($1.00) of matching funds from any nonstate source.
+It is the intent of the legislature that this appropriation be
+included in the University of Wyoming's standard budget for the
+immediately succeeding fiscal biennium. This appropriation shall
+not be transferred or expended for any other purpose.".
+Page 64-line 20 Under GENERAL FUND increase amount by
+"4,931,832"; under OTHER FUNDS increase amount
+by "145,002 SR".
+Page 64-line 21 After "Divers." insert "2."; under GENERAL
+FUND increase amount by "7,027,270"; under
+FEDERAL FUNDS increase amount by "157,787";
+under OTHER FUNDS increase amount by "846,741
+SR".
+Page 65-line 6 After "appropriation," delete balance of line.
+Page 65-lines 7 through 11 Delete entirely and insert "six
+million nine hundred thirty-one thousand eight
+hundred thirty-two dollars ($6,931,832.00),
+and of this other funds appropriation, one
+hundred forty-five thousand two dollars
+($145,002.00)SR, shall be for the period
+beginning July 1, 2026 and ending June 30,
+2027. It is the intent of the legislature that
+the Wyoming business council include any
+requested amount for the Wyoming business
+council and any of its programs for the period
+beginning July 1, 2027 and ending June 30,
+2028 in any budget request submitted under
+W.S. 9-2-1013.".
+Page 65-after line 11 Insert:
+7
+
+"2. Of this general fund appropriation, not less than one million
+four hundred thirteen thousand eight hundred dollars
+($1,413,800.00) is appropriated for strategic partnership with
+manufacturing works, not less than one million two hundred eighty-
+eight thousand seven hundred sixty dollars ($1,288,760.00) is
+appropriated for strategic partnership with the Wyoming small
+business development center network and not less than six hundred
+thousand dollars ($600,000.00) is appropriated for a strategic
+partnership with the Wyoming women's business center. Of the
+remaining general fund appropriations, three million seven hundred
+twenty-four thousand seven hundred ten dollars ($3,724,710.00)
+shall be for the period beginning July 1, 2026 and ending June 30,
+2027 and any reductions to funding for strategic partners from
+this amount shall be proportionately applied to all strategic
+partners.".
+Page 66-line 3 After "1." insert ", 2."; under GENERAL FUND
+increase amount by "4,000,000".
+Page 66-after line 13 Insert:
+"2. It is the intent of the legislature that, of this general fund
+appropriation, four million dollars ($4,000,000.00) shall not be
+included in the Wyoming stable token commission's standard budget
+for the immediately succeeding fiscal biennium, and that any budget
+request for the Wyoming stable token commission be included as an
+exception budget request for the immediately succeeding fiscal
+biennium.".
+Page 66-line 22 Decrease Full Time positions by "2".
+Page 67-line 19 Delete "1.".
+Page 68-lines 6 through 10 Delete entirely.
+Page 70-line 14 Delete "1.".
+Page 70-lines 22 through 24 Delete entirely.
+Page 103-line 14 Delete "exempt" and insert "subtracted".
+Page 103-line 15 After "from the" insert "calculation of the";
+after "funds" insert "from the budget reserve
+account".
+Page 103-after line 21 Insert:
+8
+
+"(d) The state auditor shall transfer two hundred twenty-
+eight million six hundred thousand dollars ($228,600,000.00), or
+as much thereof as is available, from the unexpended, unobligated
+balance of the strategic investments and projects account to the
+general fund. This subsection shall not be effective if Senate
+File 0119 is enacted into law.".
+Page 110-line 7 After "2028" insert ",".
+Page 114-lines 8 through 11 Delete entirely.
+Page 115-lines 9 through 12 Delete entirely.
+Page 121-line 9 Delete "LOAN" and insert "GRANT".
+Page 121-line 14 Delete "enter into one (1) or".
+Page 121-line 15 Delete "more loans" and insert "provide funds
+for grants for energy matching projects
+related to rare earth resources".
+Page 121-line 20 Delete "loans" and insert "grants".
+Page 121-line 23 Delete "loans" and insert "grants".
+Page 121-line 24 After "construction" insert "or operation".
+Page 121-line 25 After "processing" insert "or separation".
+Page 122-line 1 Delete "loaned" and insert "granted".
+Page 122-line 3 Delete "loaned" and insert "granted".
+Page 122-lines 6 through 9 Delete entirely and insert:
+"(iv) The Wyoming energy authority and the state
+treasurer shall recommend other terms and conditions for grants
+awarded under this section. The governor shall determine all terms
+and conditions for grants under this section;".
+Page 122-line 11 Delete "loan" and insert "grant".
+Page 122-line 16 After "construction" insert "or operation";
+after "processing" insert "or separation".
+Page 122-line 17 Delete "earths" and insert "earth resources".
+9
+
+Page 122-line 18 After "construction" insert "or operation".
+Page 122-line 20 Delete "loans" and insert "grants".
+Page 122-line 21 Delete "loan" and insert "grant".
+Page 122-line 23 Delete "loan" and insert "grant".
+Page 122-line 25 Delete entirely and insert "[RESERVED]".
+Page 122-line 27 Delete entirely.
+Page 123-lines 1 through 5 Delete entirely and insert:
+"Section 313. [Reserved.]".
+Page 123-line 7 Delete entirely and insert "[RESERVED]".
+Page 123-lines 9 and 10 Delete entirely and insert:
+"Section 314. [Reserved.]".
+Page 123-lines 12 through 25 Delete entirely.
+Page 123-line 27 Delete entirely and insert "[RESERVED]".
+Page 124-lines 2 and 3 Delete entirely and insert:
+"Section 315. [Reserved.]".
+Page 124-lines 5 through 17 Delete entirely.
+Page 124-line 19 Delete entirely and insert "[RESERVED]".
+Page 124-lines 21 through 23 Delete entirely and insert:
+"Section 316. [Reserved.]".
+Page 124-lines 25 and 26 Delete entirely.
+Page 125-lines 1 through 11 Delete entirely.
+Page 125-line 22 Delete "exempt" and insert "subtracted"; after
+"from the" insert "calculation of the"; after
+"funds" insert "from the budget reserve
+account".
+10
+
+Page 127-line 12 Delete entirely and insert "[RESERVED]".
+Page 127-lines 14 and 15 Delete entirely and insert:
+"Section 319. [Reserved.]".
+Page 127-lines 17 through 27 Delete entirely.
+Pages 128 and 129 Delete entirely.
+Page 130-lines 1 through 10 Delete entirely.
+Page 135-line 18 Delete entirely and insert "[RESERVED]".
+Page 135-lines 20 through 24 Delete entirely and insert:
+"Section 325. [Reserved.]".
+Page 135-line 26 Delete entirely and insert "[RESERVED]".
+Page 136-line 1 After "Section 326." insert "[Reserved.]".
+Page 136-lines 3 through 27 Delete entirely.
+Pages 137 and 138 Delete entirely.
+Page 139-lines 2 through 22 Delete entirely.
+Page 141-after line 19 Insert the following new sections and
+renumber as necessary:
+"[GOVERNOR'S BIENNIAL BUDGET DEVELOPMENT RECOMMENDATIONS –
+RESTORATION]
+Section 328.
+(a) For the period beginning July 1, 2026 and ending June 30,
+2028, there is appropriated from the accounts and funds specified
+in this section one hundred seventy-two million two hundred twenty-
+one thousand three hundred fifty-four dollars ($172,221,354.00) to
+the state auditor to restore the governor's biennial budget
+recommendations to the departments specified in this section:
+DEPARTMENT GF FF OF Total
+001 Office of the Governor 1. 5,795,794 20,702 5,816,496
+004 State Treasurer 4,882 353,658 SR 358,540
+006 Administration and Information 2. 1,305,753 4,517,814 IS
+33,276 SR 5,856,843
+007 Wyoming Military Department 45,813 45,813
+11
+
+008 Office of the Public Defender 39,355 6,945 SR 46,300
+010 Department of Agriculture 368,774 368,774
+011 Department of Revenue 321,820 15,589 EF 337,409
+014 Miners' Hospital Board 4,930 T2 4,930
+015 Attorney General 1,308,447 1,642 2,190 S5
+4,380 SR
+730 TT 1,317,389
+016 Board of Barber Examiners 3,000 SR 3,000
+018 Real Estate Commission 7,009 SR 7,009
+019 Professional Teaching Standards Board 11,120 SR 11,120
+020 Department of Environmental Quality 1,277,083 500,000 SR 1,777,083
+021 Department of Audit 47,034 12,117 577,109 SR 636,260
+023 Public Service Commission 600,000 SR 600,000
+024 State Parks & Cultural Resources 141,190 15,966 SR 157,156
+027 State Construction Department 11,054 388,580 S5 399,634
+033 Board of Cosmetology 4,840 SR 4,840
+037 State Engineer 51,100 51,100
+038 Wyoming Gaming Commission 14,709 SR 14,709
+039 Wildlife/Natural Resource Trust 3. 9,000,000 2,421 SR 9,002,421
+041 Fire Prevention & Elec Safety 21,857 21,857
+042 Geological Survey 48,517 48,517
+045 Department of Transportation 161,740 S7 161,740
+048 Department of Health 4. 38,836,481 30,094,123 68,930,604
+049 Department of Family Services 5. 3,185,487 562,145 3,747,632
+051 Livestock Board 15,344 36,622 SR 51,966
+052 Board of Medicine 6,185 SR 6,185
+053 Department of Workforce Services 114,212 161,326 84,610 EF 360,148
+054 Board of Nursing 5,237 SR 5,237
+055 Oil and Gas Commission 16,289 SR 16,289
+057 Community College Commission 6., 7. 3,019,517 3,019,517
+060 State Lands and Investments 475,500 475,500
+066 Wyoming Tourism Board 11,310 S14 11,310
+067 University of Wyoming 7., 8. 60,933,867 60,933,867
+070 Enhanced Oil Recovery Comm 152,802 152,802
+072 Retirement System 735,823 PF 735,823
+075 Board of Outfitters and Guides 18,552 SR 18,552
+077 Enterprise Technology Services 9. 4,105,392 1,926,261 IS
+3,770 S5 6,035,423
+080 Department of Corrections 461,930 461,930
+096 State Budget Department 12,161 12,161
+098 Office of Guardian ad Litem 4,472 1,118 SR 5,590
+102 Board of Law Examiners 23,000 SR 23,000
+103 Comm on Judicial Conduct & Ethics 1,259 1,259
+151 District Attorney/Jud Dist #1 54,500 54,500
+157 District Attorney/Jud Dist #7 17,735 17,735
+206 Department of Education 47,450 47,450
+220 Environmental Quality Council 36,135 36,135
+270 Office of Administrative Hearings 11,799 SR 11,799
+131,262,717 30,852,055 10,106,582 172,221,354
+1. Of this general fund appropriation, one hundred eight thousand one hundred
+ninety dollars ($108,190.00) is appropriated for local cybersecurity grant
+program matching. It is the intent of the legislature that this appropriation
+not be included in the office of the governor's standard budget for the
+immediately succeeding fiscal biennium. This appropriation shall not be
+transferred or expended for any other purpose.
+2. Of this general fund appropriation, eighteen thousand two hundred sixty-two
+dollars ($18,262.00) is appropriated for stormwater fees in Cheyenne. It is the
+intent of the legislature that this appropriation not be included in the
+department of administration and information's standard budget for
+the immediately succeeding fiscal biennium. This appropriation shall not be
+12
+
+transferred or expended for any other purpose. This appropriation is effective
+immediately.
+3. Of this general fund appropriation, nine million dollars ($9,000,000.00) is
+continuously appropriated from the general fund for deposit into the Wyoming
+wildlife and natural resource trust income account and continuously appropriated
+from the Wyoming wildlife and natural resource trust income account to the
+Wyoming wildlife and natural resource trust account board to provide grants for
+preventing the introduction and spread of invasive plants and grasses with a
+focus on private and state lands across Wyoming, wildfire prevention measures,
+or to Wyoming conservation districts, weed and pest districts and the game and
+fish commission for purposes of restoring grass, hay and other vegetation
+destroyed by wildfires on private and state lands, preventing the establishment
+of nonnative, invasive terrestrial vegetation on private and state lands
+affected by wildfires and replacing and restoring habitats on private and state
+lands destroyed by wildfires. This appropriation shall not be subject to the
+requirements of the Wyoming Wildlife and Natural Resource Funding Act.
+4. Of this general fund appropriation, six hundred seven thousand two hundred
+twenty-seven dollars ($607,227.00) is appropriated for public laboratory
+services and operations. It is the intent of the legislature that this
+appropriation not be included in the department of health's standard budget for
+the immediately succeeding fiscal biennium. This appropriation shall not be
+transferred or expended for any other purpose.
+5. Of this general fund appropriation, three million one hundred forty-five
+thousand dollars ($3,145,000.00), and of this federal funds appropriation, five
+hundred fifty-five thousand dollars ($555,000.00) is appropriated for
+information technology system modernization, licenses and product support.
+6. Of this general fund appropriation, three million dollars ($3,000,000.00) is
+appropriated for Wyoming public television operations and nineteen thousand
+five hundred seventeen dollars ($19,517.00) is appropriated for expenditures
+under the technology replacement program.
+7. Of this general fund appropriation, no funds shall be expended to pay student
+athlete salaries or endorsement compensation for participation in athletic
+activities sponsored by a community college or the University of Wyoming.
+8. (a) Of this general fund appropriation, twelve million five hundred thousand
+dollars ($12,500,000.00) is appropriated to provide a state match for funds
+received by the University of Wyoming or donated funds in accordance with all
+of the following:
+(i) Ten million dollars ($10,000,000.00) is conditioned upon a match
+for a permanent endowment under W.S. 21-16-901 through 21-16-904. All state
+matching distributions from the challenge account created in W.S. 21-16-903 are
+appropriated solely to support endowments for priorities identified and approved
+by the University of Wyoming board of trustees;
+(ii) Two million five hundred thousand dollars ($2,500,000.00) is
+conditioned upon a match for purposes of expenditures for the college of
+agriculture governor's agriculture initiative.
+(b) Distribution of the appropriation specified in subsection (a) of this
+footnote is conditioned upon a match of funds in the ratio of one dollar ($1.00)
+of appropriated general funds to not less than one dollar ($1.00) of matching
+13
+
+funds from any nonstate source. This appropriation shall be retained by the
+state treasurer for distribution in accordance with W.S. 21-16-904, regardless
+of whether the match is for purposes of a permanent endowment under paragraph
+(a)(i) of this footnote or for expenditure by the University of Wyoming under
+paragraph (a)(ii) of this footnote.
+9. Of this other funds appropriation, eight hundred seventy-five thousand nine
+hundred twenty-nine dollars ($875,929.00)IS is appropriated for cloud services.
+(b) In addition to the appropriations in subsection (a) of this
+section, there is authorized fifteen (15) full-time employee
+positions to restore the governor's biennial budget development
+recommendations to the departments specified in this subsection:
+(i) Three (3) full-time employee positions to the
+department of administration and information for facility
+management;
+(ii) Two (2) full-time employee positions to the
+department of agriculture for the state fair;
+(iii) One (1) full-time employee position to the office
+of the attorney general for a federal natural resource policy
+account attorney;
+(iv) Three (3) full-time employee positions to the
+department of audit for entry-level bank examiners;
+(v) One (1) full-time employee position to the state
+construction department for a senior policy and planning analyst;
+(vi) Two (2) full-time employee positions to the
+department of health for long-term care eligibility workers;
+(vii) One (1) full-time employee position to the office
+of state lands and investments for a fire business assistant;
+(viii) One (1) full-time employee position to the office
+of state lands and investments for a public information officer;
+(ix) One (1) full-time employee position to the Wyoming
+retirement system for an investment analyst.
+(c) The appropriations in subsection (a) of this section shall
+be exempt from the limitations on the transfer of funds under
+Section 305 of this act in a total amount not to exceed one hundred
+seventy-two million two hundred twenty-one thousand three hundred
+fifty-four dollars ($172,221,354.00).
+14
+
+(d) The appropriations in subsection (a) of this section, and
+the full-time employee positions and part-time employee positions
+authorized in subsection (b) of this section, are subject to
+Section 311 of this act.
+[EMPLOYEE COMPENSATION]
+Section 329.
+(a) There is appropriated one hundred eleven million seven
+hundred eighty-nine thousand six hundred seventy dollars
+($111,789,670.00) from the general fund to the state auditor for
+salary adjustments of generally funded employees whose salary is
+not prescribed by law for the fiscal period beginning July 1, 2026
+and ending June 30, 2028, as specified in this section. From this
+appropriation, the state auditor shall distribute the following
+amounts:
+(i) Sixty-four million one hundred ninety-one thousand
+one hundred fifty-three dollars ($64,191,153.00) for distribution
+among the executive branch agencies, including statewide elected
+officials, pursuant to subsection (b) of this section, for
+employees of the executive branch, including the Wyoming community
+college commission but not including any agency or entity specified
+in paragraphs (ii) through (ix) of this subsection;
+(ii) Seven hundred forty-eight thousand six hundred
+forty-two dollars ($748,642.00) to the Wyoming business council
+pursuant to subsection (b) of this section, for employees of the
+Wyoming business council;
+(iii) Twenty-one thousand seven hundred eighty-three
+dollars ($21,783.00) to the commission on judicial conduct and
+ethics pursuant to subsection (b) of this section, for employees
+of the commission on judicial conduct and ethics;
+(iv) Forty-eight thousand seven hundred twenty-six
+dollars ($48,726.00) to the Wyoming energy authority, pursuant to
+subsection (b) of this section, for employees of the Wyoming energy
+authority;
+(v) Twenty-seven million six hundred ninety-nine
+thousand six hundred thirty-one dollars ($27,699,631.00) to the
+University of Wyoming, pursuant to subsection (b) of this section,
+for employees of the University of Wyoming, the University of
+Wyoming medical education program and school of energy resources;
+15
+
+(vi) Three hundred seventy-seven thousand eight hundred
+seventy-two dollars ($377,872.00) to the University of Wyoming
+pursuant to subsection (b) of this section, for employees of the
+enhanced oil recovery commission;
+(vii) Fourteen million five hundred eighty-five thousand
+three hundred thirty-seven dollars ($14,585,337.00) to the
+community college commission to be allocated among the community
+colleges in proportion to the state funded payroll of each college
+relative to the total state funded payroll as submitted by the
+colleges to the state budget department and further distributed
+within each college, pursuant to subsection (b) of this section,
+among the community colleges for employees of the community
+colleges;
+(viii) Two hundred eighty-three thousand five hundred
+ninety-eight dollars ($283,598.00) to the community college
+commission, pursuant to subsection (b) of this section, for
+employees of Wyoming public television;
+(ix) Three million eight hundred thirty-two thousand
+nine hundred twenty-eight dollars ($3,832,928.00) to the supreme
+court to be further distributed, pursuant to subsection (b) of
+this section, among the employees of the supreme court, district
+courts, circuit courts and related subdivisions.
+(b) Funds appropriated under subsection (a) of this section
+shall be distributed to employees of entities specified in
+paragraphs (a)(i) through (ix) of this section in accordance with
+an occupational market analysis.
+(c) For state executive and judicial branch employees whose
+compensation is paid from nongeneral fund sources, to the extent
+funds are available, there is appropriated from those accounts and
+funds amounts necessary to provide payment of comparable salary
+increases and employer-paid benefits as that which is distributed
+to employees of entities specified in paragraphs (a)(i) through
+(ix) of this section and subject to the same distribution
+methodology that is applied by the entities specified in paragraphs
+(a)(i) through (ix) of this section. For state executive and
+judicial branch employees whose compensation is partially funded
+by general funds, general funds shall be expended for compensation
+increases in the same proportion as the employee's budgeted salary
+is paid by state general funds.
+(d) In accordance with Section 310 of this act, it is the
+intent of the legislature that the total appropriation in
+16
+
+subsection (a) of this section to each recipient agency be included
+as a cumulative total of the sum of the amounts within each of the
+recipient agencies' standard budget for the immediately succeeding
+fiscal biennium.
+[OUTDOOR TRAILS – MATCHING FUNDS]
+Section 330.
+(a) Notwithstanding W.S. 39-15-111(p)(i)(A), there is
+appropriated eight hundred thousand dollars ($800,000.00)S14 from
+the Wyoming tourism account to the department of state parks and
+cultural resources for purposes of entering into a contract with
+a trail organization with demonstrated professional trail
+construction experience and capacity to serve as a project manager
+and fiscal agent for the construction or operation of one (1) or
+more trails, subject to all of the following:
+(i) The department of state parks and cultural resources
+shall solicit applications for grants under this section and shall
+approve or deny the applications;
+(ii) The funds expended under this section shall be
+matched at a ratio of one dollar ($1.00) of appropriated funds to
+not less than one dollar ($1.00) of nonstate funds;
+(iii) This appropriation shall not be transferred or
+expended for any other purpose;
+(iv) It is the intent of the legislature that this
+appropriation not be included in the department of state parks and
+cultural resources' standard budget for the immediately succeeding
+fiscal biennium.".
+Page 141-line 23 After "Section 398." insert "(a)".
+Page 142-after line 2 Insert:
+"(b) The state auditor shall transfer up to three hundred
+twenty-five million dollars ($325,000,000.00) from the legislative
+stabilization reserve account to the general fund at times and in
+amounts as the state auditor determines necessary.".
+To the extent required by this amendment: adjust totals; and
+renumber as necessary. BITEMAN, CRUM, GIERAU, NETHERCOTT,
+SALAZAR, BEAR, ANGELOS, HEINER, NEIMAN, PENDERGRAFT
+17

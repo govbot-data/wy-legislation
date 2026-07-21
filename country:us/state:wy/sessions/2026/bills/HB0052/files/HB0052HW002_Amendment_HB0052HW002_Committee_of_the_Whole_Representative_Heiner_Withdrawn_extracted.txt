@@ -1,0 +1,114 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0052HW002 (Committee of the Whole) - Representative Heiner (Withdrawn)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0052HW002
+1 Delete the Yin committee of the whole amendment (HB0052HW001/A)
+2 entirely and further amend as follows:
+3
+4 Page 1-line 3 After "votes;" insert "requiring counties to
+5 use pen and paper as the default method to
+6 mark ballots for elections in Wyoming;
+7 providing an exception to the use of pen and
+8 paper ballots;".
+9
+10 Page 1-after line 11 Insert and renumber as necessary:
+11
+12 "Section 1. W.S. 22-13-119 is created to read:
+13
+14 22-13-119. Paper ballots required; exceptions.
+15
+16 (a) Notwithstanding any other provision of law, each county
+17 shall provide paper ballots and pens as the default method to mark
+18 ballots for all in-person voting in all elections in Wyoming. The
+19 county clerk shall provide all voters with a paper ballot and a
+20 pen to mark the ballot secretly as provided in this Election Code.
+21
+22 (b) Subsection (a) of this section shall not prohibit any
+23 county clerk from providing electronic ballot marking devices for
+24 use by persons with disabilities. Electronic ballot marking
+25 devices shall comply with all federal accessibility requirements,
+26 including under the Help America Vote Act of 2002, P.L. 107-252,
+27 and shall conform with the requirements of this Election Code for
+28 voting machines and electronic voting systems. Nothing in this
+29 subsection shall authorize any county to use electronic ballot
+30 marking devices as the default method of marking ballots in the
+31 county.
+32
+33 (c) As used in this section:
+34
+35 (i) "Disability" has the meaning stated in the
+36 Americans with Disabilities Act of 1990, as amended by the
+37 Americans with Disabilities Amendments Act of 2008;
+38
+39 (ii) "Electronic ballot marking device" means any
+40 electronic device that assists voters in marking ballots,
+41 including, without limitation, any voting machine that uses a touch
+42 screen to produce a marked paper ballot or ballot card.".
+43
+44 Page 1-line 13 Delete "Section 1." and insert "Section 2.".
+1
+
+1
+2 Page 1-line 14 After "(e)," insert "22-10-102, 22-11-102,".
+3
+4 Page 2-line 2 After "(b)" delete "and" and insert ",".
+5
+6 Page 2-line 3 After "(c)" insert ", 22-21-109 and 22-22-
+7 203(b)".
+8
+9 Page 4-after line 21 Insert:
+10
+11 "22-10-102. Selection by county commissioners.
+12
+13 Subject to the limitations of W.S. 22-13-119, the board of county
+14 commissioners may adopt for use in any precinct in the county a
+15 type of voting machine meeting the standards specified in W.S.
+16 22-10-101.
+17
+18 22-11-102. Use authorized; purchase or lease.
+19
+20 Subject to the limitations of W.S. 22-13-119, the board of county
+21 commissioners of each county may adopt for use, either
+22 experimentally or permanently, in any election in any or all
+23 polling places within the county, any electronic voting system
+24 authorized by law.".
+25
+26 Page 15-after line 5 Insert:
+27
+28 "22-21-109. Supplies; regulations; costs.
+29
+30 Subject to the limitations of W.S. 22-13-119, the county clerk may
+31 utilize voting machines or electronic voting systems at any bond
+32 election and may prescribe the form of the ballot, the duties of
+33 election officials, and other reasonable regulations pertaining
+34 thereto. The political subdivision holding the bond election shall
+35 pay the actual costs of the election or an equitably proportioned
+36 share of a concurrent election, as determined by the county clerk.
+37
+38 22-22-203. Determining validity of application; placement on
+39 ballot; procedure for multi-county districts.
+40
+41 (b) Subject to the limitations of W.S. 22-13-119, each
+42 county clerk in each election involving a school or community
+43 college district which crosses county boundaries shall determine
+44 whether voting machines, electronic voting system, paper ballots,
+45 or a combination thereof, shall be used to insure ensure that each
+46 qualified elector votes only for the candidate or candidates from
+47 the school district and trustee residence area, if any, and from
+2
+
+1 the community college district and subdistrict, if any, for which
+2 he is entitled to vote.".
+3
+4 Page 15-line 7 Delete "Section 2." and insert "Section 3.".
+5
+6 Page 15-line 10 Delete "Section 3." and insert "Section 4.".
+7
+8 Page 15-line 15 Delete "Section 4." and insert "Section 5.".
+9 HEINER
+3

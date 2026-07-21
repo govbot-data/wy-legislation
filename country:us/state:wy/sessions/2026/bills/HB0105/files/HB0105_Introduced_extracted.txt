@@ -1,0 +1,399 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0366
+HOUSE BILL NO. HB0105
+K-12 school facilities appropriations-2.
+Sponsored by: Joint Appropriations Committee
+A BILL
+for
+1 AN ACT relating to school buildings and facilities;
+2 providing appropriations for the fiscal biennium commencing
+3 July 1, 2026 through June 30, 2028; providing for
+4 appropriations for the remainder of the current biennium
+5 ending June 30, 2026; providing an appropriation that shall
+6 not revert; specifying conditions for expenditures;
+7 requiring reports; establishing a grant program for school
+8 facility safety and security projects; specifying
+9 requirements for school districts to receive safety and
+10 security grant funds; and providing for an effective date.
+11
+12 Be It Enacted by the Legislature of the State of Wyoming:
+13
+14
+15 Section 1.
+16
+1 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 (a) This section shall consist of funds appropriated
+2 for K-12 school building and facility needs.
+3
+4 (b) As used in this section, a "priority" identified
+5 by an Arabic numeral means the project ranking as submitted
+6 by the school facilities commission within its budget
+7 recommendations provided under W.S. 21-15-119.
+8
+9 (c) Except as specifically provided in this
+10 subsection, subsection (d) of this section or as otherwise
+11 provided by law, the amounts appropriated from the public
+12 school foundation program account under subsection (j) of
+13 this section are for the period beginning July 1, 2026 and
+14 ending upon project completion. Appropriations for
+15 projects denoted with an asterisk (*) within subsection (j)
+16 of this section are effective immediately, and end upon
+17 project completion, unless otherwise provided by law. Upon
+18 completion of a project under this subsection, any
+19 unexpended, unobligated funds remaining from the
+20 appropriation for the project shall revert to the public
+21 school foundation program account.
+22
+2 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 (d) The amounts appropriated from the public school
+2 foundation program account under paragraphs (j)(ii) and
+3 (iv) of this section are for the period beginning July 1,
+4 2026 and ending June 30, 2028. Any unexpended, unobligated
+5 funds remaining from any of these appropriations shall
+6 revert to the public school foundation program account on
+7 June 30, 2028, unless otherwise provided by law.
+8
+9 (e) As authorized under W.S. 21-15-119(a)(iii), the
+10 school facilities commission may submit a supplemental
+11 budget request for the period beginning July 1, 2027 and
+12 ending June 30, 2028, for any emergency or unanticipated
+13 need, or for any refinement or modification of a project
+14 funded under this section, subject to any constraints or
+15 other requirements imposed by the governor under W.S.
+16 9-2-1013.
+17
+18 (f) An estimated schedule for deploying projects
+19 funded by amounts appropriated under subsection (j) of this
+20 section, as adopted by the school facilities commission and
+21 as contained within the 2027-2028 biennial budget submitted
+22 by the commission under W.S. 21-15-119, shall be used by
+23 the state construction department to the extent practicable
+3 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 to guide expenditure of appropriated funds. The estimated
+2 schedule shall be based upon information, processes, events
+3 and expenditures and shall not be binding upon the state
+4 construction department or the school facilities
+5 commission.
+6
+7 (g) Amounts appropriated under subsection (j) of this
+8 section shall not be construed to be an entitlement or
+9 guaranteed amount and shall be expended by the school
+10 facilities commission to ensure adequate, efficient and
+11 cost effective school buildings and facilities in
+12 accordance with W.S. 21-15-114(a)(vii).
+13
+14 (h) In addition to accounting and reporting
+15 requirements imposed under W.S. 28-11-301(c)(iv), the state
+16 construction department shall report at least one (1) time
+17 each year on the deployment of amounts to fund projects
+18 under this section in accordance with the deployment
+19 schedule, information on project progression and, if
+20 applicable, the rationale for any deviation from the
+21 estimated schedule. The reports, as approved by the
+22 commission, shall be submitted by the department to the
+4 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 select committee on school facilities, the joint
+2 appropriations committee and the governor.
+3
+4 (j) For K-12 school facility projects, the following
+5 amounts are appropriated from the public school foundation
+6 program account to the school facilities commission for the
+7 following purposes:
+8
+9 (i) For component level major maintenance
+10 projects, thirty-one million six hundred sixty-one thousand
+11 three hundred twenty-two dollars ($31,661,322.00). The
+12 school facilities commission may modify prioritization of
+13 projects contained in this paragraph to optimize efficiency
+14 or based on project readiness. Expenditure of funds
+15 appropriated by this paragraph shall be subject to the
+16 following prescribed maximum amounts:
+17
+18 School Maximum
+19 Priority District Project Amount
+20
+21 04-01 Big Horn #3 High School $828,878*
+22 04-02 Johnson #1 High School $3,137,677*
+23 04-03 Sheridan #2 Junior High School $2,593,497*
+5 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 04-04 Laramie #2 Administration Building $114,196*
+2 04-05 Fremont #14 Middle School $1,456,696*
+3 04-06 Hot Springs #1 Elementary School $948,168*
+4 04-07 Converse #2 Junior High/High School $1,756,228*
+5 04-08 Big Horn #1 Elementary School $173,963*
+6 04-09 Crook #1 K-12 School $610,461*
+7 04-10 Carbon #1 Middle School $1,880,657*
+8 04-11 Sublette #1 High School $1,878,241*
+9 04-12 Weston #7 High School $833,192*
+10 04-13 Washakie #1 Middle School $1,799,497*
+11 04-14 Lincoln #1 Elementary School $3,296,500*
+12 04-15 Weston #1 High School $4,703,382*
+13 04-16 Big Horn #2 High School $1,988,099*
+14 04-17 Carbon #2 Junior High/High School $808,866*
+15 04-18 Fremont #6 Middle School $244,378*
+16 04-19 Park #16 K-12 School $2,608,746*
+17 04-20 Big Horn #3 Elementary School $ 531,164*
+18 04-21 Johnson #1 K-12 School $ 1,428,703*
+19 04-22 Fremont #14 Middle School $ 1,287,903*
+20
+21 (ii) For charter school leases, six million
+22 three hundred thirty-two thousand nine hundred twenty-eight
+23 dollars ($6,332,928.00). The funds appropriated under this
+6 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 paragraph shall be distributed for charter school lease
+2 expenses for school year 2026-2027 and school year
+3 2027-2028, are subject to W.S. 21-3-110(a)(x) and shall be
+4 subject to the following prescribed maximum amounts:
+5
+6 School Maximum
+7 Priority District Project Amount
+8
+9 05-01 Albany #1 Elementary School $347,799
+10 05-02 Laramie #1 Elementary School $830,585
+11 05-03 Laramie #1 Secondary School $916,645
+12 05-04 Natrona #1 K-8 School $1,823,257
+13 05-05 Laramie #1 Elementary School $1,253,600
+14 05-06 Lincoln #2 Elementary School $416,150
+15 05-07 Platte #1 K-12 School $744,892
+16 Total $ 6,332,928
+17
+18 (iii) Subject to the requirements of W.S.
+19 21-3-110(a)(x), for future charter school leasing
+20 obligations (priority 07-01), one million seven hundred
+21 ninety-two thousand nine hundred seventy-six dollars
+22 ($1,792,976.00). The funds appropriated under this
+23 paragraph shall only be expended for leasing expenses for
+7 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 charter schools approved for operation pursuant to W.S.
+2 21-3-301 et seq. The funds appropriated under this
+3 paragraph shall be separately accounted and the
+4 appropriation shall remain in effect and not lapse or
+5 revert at the end of the fiscal period except upon further
+6 legislative action. In addition to any other reporting
+7 requirements, not later than September 1, 2026 and each
+8 September 1 thereafter until all funds appropriated under
+9 this paragraph are expended, the state construction
+10 department shall report expenditures of funds under this
+11 paragraph to the select committee on school facilities, the
+12 joint appropriations committee and the governor;
+13
+14 (iv) For modular buildings and leases, fifty-two
+15 thousand one hundred twenty-five dollars ($52,125.00),
+16 subject to the following prescribed maximum amounts:
+17
+18 School Maximum
+19 Priority District Project Amount
+20
+21 06-01 Laramie #1 Modular Lease $17,375
+22 06-02 Laramie #1 Modular Lease $17,375
+23 06-03 Laramie #1 Modular Lease $17,375
+8 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 Total $52,125
+2
+3 (v) For design of school building and facility
+4 projects, fifteen million seven hundred thirty-nine
+5 thousand eight hundred fifty-five dollars ($15,739,855.00),
+6 subject to the following prescribed maximum amounts:
+7
+8 School Maximum
+9 Priority District Project Amount
+10
+11 09-01 Teton #1 High School $2,809,810*
+12 09-02 Crook #1 Secondary School $1,710,957
+13 09-03 Laramie #1 High School $4,346,602
+14 09-04 Laramie #1 Elementary School $3,675,736
+15 09-05 Fremont #25 Elementary School $3,196,750
+16 Total $15,739,855
+17
+18 (vi) For construction of school building and
+19 facility projects, seventy-seven million three hundred
+20 fifty-nine thousand seven hundred thirty-one dollars
+21 ($77,359,731.00), subject to the following prescribed
+22 maximum amounts:
+23
+9 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 School Maximum
+2 Priority District Project Amount
+3
+4 10-01 Crook #1 Secondary School $12,632,827
+5 10-02 Laramie #1 Elementary School $1,494,000
+6 10-03 Laramie #1 Elementary School $33,298,901
+7 10-04 Fremont #25 Elementary School $29,934,003
+8 Total $77,359,731
+9
+10 (vii) For demolition projects, two million six
+11 hundred twenty thousand six hundred seventy dollars
+12 ($2,620,670.00), subject to the following prescribed
+13 maximum amounts:
+14
+15 School Maximum
+16 Priority District Project Amount
+17
+18 11-01 Laramie #1 Elementary School $1,286,510*
+19 11-02 Albany #1 Elementary School $500,000
+20 11-03 Laramie #1 Elementary School $834,160
+21 Total $2,620,670
+22
+23 (viii) For unanticipated costs associated with
+10 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 the projects funded under paragraphs (j)(i) and (v) through
+2 (vii) of this section (priority 12-01), seven million six
+3 hundred forty-two thousand eight hundred ninety-five
+4 dollars ($7,642,895.00), subject to the following maximum
+5 amounts:
+6
+7 (A) For design projects contained in
+8 paragraph (j)(v) of this section, nine hundred forty-four
+9 thousand three hundred ninety-one dollars ($944,391.00);
+10
+11 (B) For component level major maintenance
+12 and construction projects contained in paragraphs (j)(i)
+13 and (vi) of this section, six million five hundred forty-
+14 one thousand two hundred sixty-four dollars
+15 ($6,541,264.00);
+16
+17 (C) For demolition projects contained in
+18 paragraph (j)(vii) of this section, one hundred fifty-seven
+19 thousand two hundred forty dollars ($157,240.00).
+20
+21 (ix) To supplement previous appropriations for
+22 the construction and demolition of a transportation
+23 facility ancillary building in Campbell county school
+11 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 district #1 authorized under 2025 Wyoming Session Laws,
+2 Chapter 118, Section 1(g)(ii)(A), seven million four
+3 hundred twenty thousand dollars ($7,420,000.00)*, effective
+4 immediately. The original scope and design of the project
+5 shall not be modified as a result of the additional funds
+6 appropriated under this paragraph. It is the intent of the
+7 legislature that this appropriation and previous
+8 appropriations for this project be prioritized by the
+9 school facilities commission to ensure the expenditures for
+10 this project result in an adequate, efficient and cost
+11 effective project in accordance with W.S. 21-15-
+12 114(a)(vii).
+13
+14 Section 2.
+15
+16 (a) For K-12 school facility safety and security
+17 projects, two million dollars ($2,000,000.00) is
+18 appropriated to the school facilities commission, from the
+19 public school foundation program account, for design of
+20 security vestibules and vehicle barricades and approved
+21 prioritized school district safety and security remedies.
+22 The funds appropriated under this subsection shall remain
+23 in effect beginning July 1, 2026, until the project is
+12 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 completed, unless otherwise provided by law. Upon
+2 completion of a remedy under this section, any unexpended,
+3 unobligated funds remaining from this appropriation for the
+4 remedy shall revert to the public school foundation program
+5 account.
+6
+7 (b) The school facilities commission shall establish
+8 a prioritized list of K-12 school facility safety and
+9 security remedies utilizing national and regional best
+10 practices. The commission shall consider school safety and
+11 security needs identified by school districts in
+12 determining the prioritized list of remedies. Funds shall
+13 be distributed to school districts upon application to the
+14 state construction department, in the manner and form
+15 required by the commission, and as approved by the
+16 commission.
+17
+18 (c) Prior to the expenditure of funds appropriated by
+19 subsection (a) of this section, for each safety and
+20 security remedy, the commission shall include the remedy in
+21 the school district facility plan required pursuant to W.S.
+22 21-15-116, ensure the remedy is a cost effective method to
+23 address the safety and security need and specify a maximum
+13 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 budget for each remedy.
+2
+3 (d) Not later than September 1, 2026, and each
+4 September 1 thereafter until the funds appropriated under
+5 subsection (a) of this section are expended or have
+6 reverted upon completion of a remedy, in conjunction with
+7 the school facilities commission's annual budget
+8 recommendations required pursuant to W.S. 21-15-119, the
+9 commission and state construction department shall report
+10 to the select committee on school facilities, the joint
+11 appropriations committee and the governor any expenditures
+12 of funds appropriated under subsection (a) of this section
+13 and shall include any request for funds necessary for the
+14 construction of security vestibules and vehicle barriers
+15 and to complete school district safety and security needs
+16 identified pursuant to subsection (b) of this section.
+17
+18 Section 3.
+19
+20 (a) There is appropriated two hundred thirty-seven
+21 million eight hundred sixty-five thousand one hundred
+22 twenty-three dollars ($237,865,123.00) from the public
+23 school foundation program account to the state construction
+14 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 department for major maintenance payments to school
+2 districts in accordance with W.S. 21-15-109. This
+3 appropriation shall be subject to the following:
+4
+5 (i) One million one hundred twenty-two thousand
+6 four hundred dollars ($1,122,400.00) shall be for the
+7 period beginning on the effective date of this section and
+8 ending June 30, 2028;
+9
+10 (ii) Two hundred thirty-six million seven
+11 hundred forty-two thousand seven hundred twenty-three
+12 dollars ($236,742,723.00) shall be for the period beginning
+13 July 1, 2026 and ending June 30, 2028;
+14
+15 (iii) This appropriation shall not be
+16 transferred or expended for any other purpose and any
+17 unexpended, unobligated funds remaining from this
+18 appropriation shall revert as provided by law on June 30,
+19 2028.
+20
+15 HB0105
+
+2026 STATE OF WYOMING 26LSO-0366
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+16 HB0105

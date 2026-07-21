@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0364
+HOUSE BILL NO. HB0056
+Carbon capture mandate-repeal.
+Sponsored by: Representative(s) Knapp
+A BILL
+for
+1 AN ACT relating to public utilities; repealing low-carbon
+2 energy standard requirements; repealing conflicting
+3 provisions; making conforming amendments; specifying
+4 applicability; requiring rulemaking; and providing for an
+5 effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 37-1-101(a)(intro) and 37-2-134(a)(i)
+10 and (iv) are amended to read:
+11
+12 37-1-101. Definitions.
+13
+14 (a) As used in chapters 1, 2, 3, 12, and 17 and 18 of
+15 this title:
+16
+1 HB0056
+
+2026 STATE OF WYOMING 26LSO-0364
+1 37-2-134. Electric generation facility closures;
+2 presumption; commission review.
+3
+4 (a) As used in this section:
+5
+6 (i) "Dispatchable" means as defined in W.S.
+7 37-18-101(a)(ii) a source of electricity that is available
+8 for use on demand and that can be dispatched upon request
+9 of a power grid operator or that can have its power output
+10 adjusted, according to market needs and includes
+11 dispatchability;
+12
+13 (iv) "Reliable" means as defined in W.S.
+14 37-18-101(a)(iv) generated electricity that is not subject
+15 to intermittent availability.
+16
+17 Section 2. W.S. 37-1-101(a)(vi)(N), 37-18-101 and
+18 37-18-102 are repealed.
+19
+20 Section 3. The public service commission shall
+21 promulgate all rules necessary to implement this act.
+22
+2 HB0056
+
+2026 STATE OF WYOMING 26LSO-0364
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+3 HB0056

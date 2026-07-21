@@ -1,0 +1,484 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0217
+SENATE FILE NO. SF0059
+K-12 language and literacy program.
+Sponsored by: Joint Education Interim Committee
+A BILL
+for
+1 AN ACT relating to language and literacy competency;
+2 providing definitions; specifying screeners, assessments,
+3 diagnostics and screening requirements; requiring
+4 professional development; establishing school district
+5 duties; requiring parental notice; requiring individual
+6 reading plans for students with reading difficulties or at
+7 risk for poor reading outcomes; specifying additional
+8 duties for the professional teaching standards board;
+9 modifying licensure and renewal requirements for teachers;
+10 requiring reports; establishing additional duties for the
+11 department of education; authorizing the state
+12 superintendent of public instruction to create a language
+13 and literacy division; requiring rulemaking; repealing
+14 provisions; making conforming amendments; and providing for
+15 an effective date.
+16
+1 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 Be It Enacted by the Legislature of the State of Wyoming:
+2
+3 Section 1. W.S. 21-3-402 through 21-3-405 are created
+4 to read:
+5
+6 ARTICLE 4
+7 LANGUAGE AND LITERACY
+8
+9 21-3-402. Wyoming language and literacy program;
+10 purpose.
+11
+12 (a) The Wyoming language and literacy program is
+13 created.
+14
+15 (b) The purpose of this act is to ensure that every
+16 student in kindergarten through grade twelve (12) develops
+17 strong language and literacy skills by establishing a
+18 comprehensive system of evidence based language and
+19 literacy instruction, assessment, intervention and
+20 professional development that supports educators, engages
+21 families and promotes literacy proficiency for all Wyoming
+22 students.
+23
+2 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 21-3-403. Definitions.
+2
+3 (a) As used in this article:
+4
+5 (i) "Department" means the state department of
+6 education created pursuant to W.S. 21-2-104;
+7
+8 (ii) "Developmental language disorder" or "DLD"
+9 means a primary language disorder that is not attributable
+10 to a known biomedical condition and is characterized by
+11 persistent difficulties learning, understanding or using
+12 language that cause functional impairment in everyday
+13 activities. The disorder may affect speaking, listening,
+14 reading and writing, may co-occur with other
+15 neurodevelopmental conditions and typically persists from
+16 early childhood into adulthood;
+17
+18 (iii) "Diagnostic assessment" means a valid and
+19 reliable specialized assessment used to evaluate specific
+20 areas of language and literacy for students with reading
+21 difficulties or at risk for poor reading outcomes and
+22 provide data to inform individualized reading plans and
+3 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 evidence based language and literacy instruction and
+2 intervention;
+3
+4 (iv) "District language and literacy plan" or
+5 "DLLP" means a school district's written comprehensive
+6 strategy, including professional development, progress
+7 monitoring and family engagement and intervention, to
+8 identify students with reading difficulties and deliver
+9 evidence based language and literacy instruction through a
+10 multitiered system of support for students with reading
+11 difficulties or at risk for poor reading outcomes;
+12
+13 (v) "Dyslexia" means a specific learning
+14 disability neurobiological in origin, characterized by
+15 difficulties with accurate or fluent word recognition and
+16 by poor spelling and decoding abilities, typically
+17 resulting from a deficit in the phonological component of
+18 language and often unexpected in relation to other
+19 cognitive abilities and the provision of effective
+20 classroom instruction. Secondary consequences may include
+21 problems in reading comprehension and reduced reading
+22 experience that may impede growth of vocabulary and
+23 background knowledge;
+4 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1
+2 (vi) "Dyslexia screener" means a valid and
+3 reliable brief assessment used to identify students who may
+4 have characteristics associated with dyslexia and aligned
+5 with evidence based language and literacy instruction. A
+6 dyslexia screener does not diagnose dyslexia;
+7
+8 (vii) "Evidence based language and literacy
+9 instruction" means explicit, systematic, cumulative and
+10 diagnostic instruction grounded in the science of reading
+11 that develops accurate and fluent word recognition and
+12 language comprehension. Instruction includes, as
+13 appropriate to developmental level, phonological and
+14 phonemic awareness, sound–symbol association, decoding and
+15 encoding, syllable structure, morphology, syntax,
+16 semantics, vocabulary development, oral reading fluency,
+17 background knowledge and discourse-level comprehension,
+18 coordinated to support fluent word recognition, deep
+19 comprehension and effective written expression;
+20
+21 (viii) "Grade level reading proficiency" means
+22 as defined by the state superintendent and adopted in rule;
+23
+5 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 (ix) "High quality instructional materials and
+2 practices" means curriculum, instructional methods and
+3 teaching tools aligned with evidence based language and
+4 literacy instruction and supported by strong or moderate
+5 evidence of effectiveness;
+6
+7 (x) "Individualized reading plan" or "IRP" means
+8 a written plan developed for an individual student
+9 identified as having reading difficulties or at risk for
+10 poor reading outcomes that includes evidence based language
+11 and literacy instruction and intervention, measurable goals
+12 and progress monitoring;
+13
+14 (xi) "Literacy proficiency" means the ability to
+15 read, write, speak and understand language with accuracy,
+16 automaticity and effective expression in order to
+17 comprehend and communicate across content areas. Literacy
+18 proficiency includes reading fluency, which consists of
+19 rate, accuracy and expression, and integration of
+20 vocabulary knowledge, background knowledge and language
+21 comprehension that support proficient reading and written
+22 expression;
+23
+6 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 (xii) "Multitiered system of support" or "MTSS"
+2 means a tiered framework that provides universal, targeted
+3 and intensive levels of academic and behavioral support and
+4 evidence based language and literacy instruction, and uses
+5 screeners and diagnostic assessments, data-based decision
+6 making and progress monitoring to improve outcomes for all
+7 students;
+8
+9 (xiii) "Reading difficulties" means conditions
+10 or patterns of learning that interfere with the development
+11 of accurate and fluent word recognition, spelling or
+12 comprehension, including but not limited to dyslexia and
+13 developmental language disorder, as demonstrated by a
+14 student's performance on a screener or diagnostic
+15 assessment;
+16
+17 (xiv) "State superintendent" means the state
+18 superintendent of public instruction;
+19
+20 (xv) "Three-cueing system" means any model of
+21 teaching students to read based on meaning, structure and
+22 syntax and visual cues;
+23
+7 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 (xvi) "Universal screener" means a valid and
+2 reliable brief assessment used to identify students with
+3 reading difficulties or at risk for poor reading outcomes
+4 that is aligned with evidence based language and literacy
+5 instruction.
+6
+7 21-3-404. School district language and literacy
+8 plans; administration of screeners and diagnostic
+9 assessments; multitiered system of support; individualized
+10 reading plans.
+11
+12 (a) Each school district shall adopt and implement a
+13 DLLP to ensure language and literacy competency and
+14 literacy proficiency for students in kindergarten through
+15 grade twelve (12). The DLLP shall, at a minimum:
+16
+17 (i) Use universal and dyslexia screeners and
+18 diagnostic assessments to assess and identify students with
+19 reading difficulties and students at risk for poor reading
+20 outcomes. After administration of a screener or diagnostic
+21 assessment, each school district shall provide the results
+22 of the student's performance on the screener or assessment
+23 administered pursuant to this paragraph to the student's
+8 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 parent or guardian. Screeners and diagnostic assessments
+2 shall be approved by the state superintendent pursuant to
+3 W.S. 21-3-405(a)(i) and shall be administered as follows:
+4
+5 (A) A dyslexia screener, once each fall,
+6 for all students in kindergarten through grade two (2);
+7
+8 (B) A universal screener, three (3) times
+9 each school year, for all students in kindergarten through
+10 grade three (3);
+11
+12 (C) A universal screener, once each school
+13 year, for all students in grades four (4) through twelve
+14 (12) who have not demonstrated grade level reading
+15 proficiency, for any student transferring into an
+16 elementary or secondary public school in the state and for
+17 any student identified as not proficient or at risk for
+18 poor reading outcomes through district procedures or recent
+19 assessments;
+20
+21 (D) Diagnostic assessments as appropriate
+22 for any student identified with a reading difficulty or at
+23 risk for poor reading outcomes.
+9 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1
+2 (ii) Use high quality instructional materials
+3 and practices aligned with the science of reading to
+4 deliver evidence based language and literacy instruction;
+5
+6 (iii) Deploy an MTSS that ensures comprehensive
+7 and effective evidence based language and literacy
+8 instruction and intervention to improve the literacy
+9 proficiency of all students. The MTSS shall, at a minimum,
+10 include:
+11
+12 (A) Tier I, to provide explicit and
+13 systematic evidence based language and literacy instruction
+14 for all students in kindergarten through grade twelve (12);
+15
+16 (B) Tier II, to provide supplemental
+17 evidence based language and literacy instruction with
+18 targeted assistance and ongoing progress monitoring for
+19 students with reading difficulties;
+20
+21 (C) Tier III, to deliver intensive and
+22 individualized evidence based language and literacy
+10 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 instruction and intervention for students with significant
+2 and persistent reading difficulties.
+3
+4 (iv) Implement an IRP for each student
+5 identified as having reading difficulties or at risk for
+6 poor reading outcomes. An individualized education program
+7 (IEP) prepared for a student pursuant to the federal
+8 Individuals with Disabilities in Education Act shall be
+9 deemed an IRP for purposes of this paragraph. The IRP
+10 shall:
+11
+12 (A) Specify evidence based language and
+13 literacy instruction specific to the student's reading
+14 difficulties;
+15
+16 (B) Identify measurable language, literacy
+17 and reading goals and progress monitoring methods;
+18
+19 (C) Be integrated into the student's
+20 educational record;
+21
+22 (D) Be developed in collaboration with the
+23 student's parent or guardian and implemented within thirty
+11 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 (30) calendar days after identification of a student with
+2 reading difficulties or at risk for poor reading outcomes
+3 pursuant to paragraph (i) of this subsection. The school
+4 district shall notify the student's parent or guardian of
+5 the student's progress quarterly during the applicable
+6 school year.
+7
+8 (v) Prohibit the use of the three-cueing system
+9 as the only basis for teaching word recognition or
+10 decoding.
+11
+12 (b) Each school district with sixty percent (60%) or
+13 more students not demonstrating grade level reading
+14 proficiency, as defined by rule of the state
+15 superintendent, shall offer summer literacy camps or
+16 extended supports, including after school support and
+17 tutoring, for all students in grades one (1) through three
+18 (3) with an IRP. The instruction required pursuant to this
+19 subsection shall consist of appropriate, evidence based
+20 language and literacy instruction aligned with each
+21 student's IRP and shall include age and district
+22 appropriate hours additional instruction beyond that
+23 delivered during the regular course of the school year.
+12 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1
+2 (c) Each school district shall ensure any person
+3 employed by the school district receives job embedded,
+4 practice based and ongoing literacy related professional
+5 development appropriate to their role and level of
+6 responsibility. The minimum professional development shall
+7 include opportunities for literacy coaching and leadership
+8 development to support effective implementation of evidence
+9 based language and literacy instruction. The hours and
+10 content requirements shall be as defined by rule of the
+11 state superintendent pursuant to W.S. 21-3-405(a)(ii).
+12
+13 (d) Not later than August 15 each year, for the prior
+14 school year, each school district shall report to the
+15 department:
+16
+17 (i) The percentage of students not achieving
+18 grade level reading proficiency;
+19
+20 (ii) The average growth, by grade, for the
+21 lowest performing ten percent (10%) of students in relation
+22 to grade level reading proficiency;
+23
+13 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 (iii) A list of the evidence based language and
+2 literacy instruction and high quality instructional
+3 materials and practices utilized by the school district;
+4
+5 (iv) The qualifications, as defined by rule of
+6 the state superintendent, of any person employed by the
+7 school district that delivers language and literacy
+8 instruction to students.
+9
+10 21-3-405. Additional duties of the state
+11 superintendent; rulemaking authority.
+12
+13 (a) The state superintendent shall, by rule:
+14
+15 (i) In consultation with school districts,
+16 identify universal and dyslexia screeners, diagnostic
+17 assessments, evidence based language and literacy
+18 instruction and high quality instructional materials and
+19 practices to be utilized by school districts. School
+20 districts may request the state superintendent approve use
+21 of alternatives not incorporated in rule in the manner and
+22 form required by the state superintendent;
+23
+14 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 (ii) Establish professional development
+2 requirements related to effective language and literacy
+3 instruction for all school district personnel,
+4 differentiated by their role, level of responsibility and
+5 grade level in supporting literacy proficiency;
+6
+7 (iii) Define terms necessary for the
+8 administration and implementation of this act, including
+9 but not limited to, "grade level reading proficiency",
+10 "qualifications", "significant and persistent reading
+11 difficulties", the "science of reading", "progress
+12 monitoring" and "at risk for poor reading outcomes";
+13
+14 (iv) Ensure school districts comply with the
+15 requirements of this act through monitoring and providing
+16 technical assistance to school districts. The rules shall
+17 identify policies and procedures for imposition of
+18 corrective action plans for school districts failing to
+19 adhere to the requirements of this act.
+20
+21 (b) The state superintendent shall post the
+22 information reported by school districts pursuant to W.S.
+23 21-3-404(d) to the department's website.
+15 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1
+2 Section 2. W.S. 21-2-802(a)(intro), (ii)(intro) and
+3 by creating new subparagraphs (E) and (F) and
+4 21-3-110(a)(xxiii) are amended to read:
+5
+6 21-2-802. Powers and duties; teacher certification;
+7 suspension and revocation; certification fees; disposition
+8 of collected fees; required data submissions to department
+9 of education.
+10
+11 (a) The board shall promulgate rules: and
+12 regulations:
+13
+14 (ii) In addition to paragraph (a)(i) of this
+15 section, the board shall by rule and regulation provide
+16 for:
+17
+18 (E) Teachers licensed after July 1, 2027,
+19 shall demonstrate literacy competency appropriate to their
+20 instructional role and grade band as a condition of initial
+21 licensure. Teachers licensed on or before July 1, 2027,
+22 shall demonstrate literacy competency appropriate to their
+23 instructional role and grade band upon renewal of a
+16 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 license. For purposes of this subparagraph, "literacy
+2 competency" shall be as defined by rule of the board. The
+3 board may issue provisional licenses for a limited period
+4 of time to comply with the requirements of this
+5 subparagraph;
+6
+7 (F) A reading specialist endorsement
+8 aligned with evidence based language and literacy
+9 instruction as defined by W.S. 21-3-403(a)(vii).
+10
+11 21-3-110. Duties of boards of trustees.
+12
+13 (a) The board of trustees in each school district
+14 shall:
+15
+16 (xxiii) Implement and administer the reading
+17 screening and intervention Wyoming language and literacy
+18 program for students in kindergarten through grade three
+19 (3) twelve (12) as required by W.S. 21-3-401 21-3-402 et
+20 seq.;
+21
+22 Section 3.
+23
+17 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 (a) The state superintendent of public instruction
+2 may utilize resources as necessary to establish a literacy
+3 division within the department of education and contract
+4 for services to support the literacy division to administer
+5 the Wyoming language and literacy program as created by
+6 section 1 of this act. The literacy division shall:
+7
+8 (i) Maintain a list of approved universal and
+9 dyslexia screeners, diagnostic assessments, evidence based
+10 language and literacy instruction and high quality
+11 instructional materials and practices and review requests
+12 by school districts to utilize alternative screeners,
+13 assessments, instructional material or high quality
+14 instructional materials and practices;
+15
+16 (ii) Provide technical assistance to school
+17 districts;
+18
+19 (iii) Support research efforts;
+20
+21 (iv) Publish data and reports collected pursuant
+22 to W.S. 21-3-404(d);
+23
+18 SF0059
+
+2026 STATE OF WYOMING 26LSO-0217
+1 (v) Monitor school districts' compliance with
+2 the Wyoming language and literacy program, as created by
+3 section 1 of this act and take corrective action as
+4 necessary.
+5
+6 Section 4. W.S. 21-3-401 is repealed.
+7
+8 Section 5. This act is effective July 1, 2026.
+9
+10 (END)
+19 SF0059

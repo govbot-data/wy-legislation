@@ -1,0 +1,53 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0041
+HOUSE BILL NO. HB0049
+Ballot drop boxes-prohibition.
+Sponsored by: Joint Corporations, Elections & Political
+Subdivisions Interim Committee
+A BILL
+for
+1 AN ACT relating to elections; prohibiting the use of drop
+2 boxes for the delivery of ballots as specified; and
+3 providing for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 22-9-113 is amended to read:
+8
+9 22-9-113. Completing and return of ballot.
+10
+11 Upon receipt, a qualified elector shall mark the ballot and
+12 sign the affidavit. The ballot shall then be sealed in the
+13 inner ballot envelope and mailed or hand delivered to the
+14 clerk. No county clerk, election staff of the county clerk,
+15 public employee or election official shall establish or use
+1 HB0049
+
+2026 STATE OF WYOMING 26LSO-0041
+1 a drop box for the purpose of collecting absentee ballots
+2 and no person shall deliver an absentee ballot through any
+3 drop box. If a ballot is improperly delivered to the county
+4 clerk in violation of this section, the clerk may provide
+5 notice to the qualified elector that the qualified
+6 elector's ballot is spoiled. As used in this section, "drop
+7 box" means any receptacle designed for the receipt of
+8 absentee ballots, or for receipt of any other type of
+9 filing, payment or other document, that would in any way
+10 permit the delivery of an absentee ballot in a manner other
+11 than through mail or hand delivery as required by this
+12 section.
+13
+14 Section 2. This act is effective immediately upon
+15 completion of all acts necessary for a bill to become law
+16 as provided by Article 4, Section 8 of the Wyoming
+17 Constitution.
+18
+19 (END)
+2 HB0049

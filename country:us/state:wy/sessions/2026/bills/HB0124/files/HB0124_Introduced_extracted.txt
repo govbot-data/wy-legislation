@@ -1,0 +1,67 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0418
+HOUSE BILL NO. HB0124
+Property tax exemption reduction.
+Sponsored by: Representative(s) Locke, Allemand, Bear,
+Brown, G, Pendergraft, Riggins and Styvar
+and Senator(s) Ide
+A BILL
+for
+1 AN ACT relating to taxation; amending a property tax
+2 exemption for single family residential structures based on
+3 the prior year assessed value; amending a property tax
+4 exemption for land associated with a single family
+5 residential structure based on the prior year assessed
+6 value; and providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 39-11-105(a)(xliii)(A) and (xliv)(A)
+11 is amended to read:
+12
+13 39-11-105. Exemptions.
+14
+1 HB0124
+
+2026 STATE OF WYOMING 26LSO-0418
+1 (a) The following property is exempt from property
+2 taxation:
+3
+4 (xliii) A portion of a single family residential
+5 structure. The following shall apply to the exemption under
+6 this paragraph:
+7
+8 (A) Subject to subparagraph (B) of this
+9 paragraph, the amount of the exemption under this paragraph
+10 shall be any assessed value of the single family
+11 residential structure that is in excess of the prior year
+12 assessed value less any exemption authorized under this
+13 paragraph in the prior year, plus four percent (4%) two
+14 percent (2%);
+15
+16 (xliv) A portion of improved land associated
+17 with a single family residential structure. The following
+18 shall apply to the exemption under this paragraph:
+19
+20 (A) Subject to subparagraph (B) of this
+21 paragraph, the amount of the exemption under this paragraph
+22 shall be any assessed value of improved land associated
+23 with a residential structure that is in excess of the prior
+2 HB0124
+
+2026 STATE OF WYOMING 26LSO-0418
+1 year assessed value less any exemption authorized under
+2 this paragraph in the prior year, plus four percent (4%)
+3 two percent (2%);
+4
+5 Section 2. This act is effective July 1, 2026.
+6
+7 (END)
+3 HB0124

@@ -1,0 +1,480 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0421
+HOUSE BILL NO. HB0132
+Nicotine products manufacturer licensing and reporting.
+Sponsored by: Representative(s) Davis, Clouston, Connolly
+and Lawley and Senator(s) Jones and Schuler
+A BILL
+for
+1 AN ACT relating to nicotine products; requiring
+2 manufacturers of nicotine products to obtain a license;
+3 requiring manufacturers of electronic cigarettes and vapor
+4 material to file certifications as specified; placing
+5 restrictions on the sale and advertising of electronic
+6 cigarettes and vapor material; requiring the department of
+7 revenue to publish a directory of electronic cigarettes and
+8 vapor material offered for sale in Wyoming by licensed
+9 nicotine product manufacturers; prohibiting the sale of
+10 nicotine products not included in the directory; requiring
+11 biannual inspections of retailers, distributors and
+12 wholesalers of electronic cigarettes and vapor material;
+13 providing penalties; providing definitions; providing
+14 rulemaking; making conforming amendments; and providing for
+15 an effective date.
+1 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1
+2 Be It Enacted by the Legislature of the State of Wyoming:
+3
+4 Section 1. W.S. 14-3-311 and 39-18-112 through
+5 39-18-115 are created to read:
+6
+7 14-3-311. Advertising and design restrictions; vapor
+8 products.
+9
+10 (a) No person shall market, advertise, sell or cause
+11 to be sold an electronic cigarette or vapor material if the
+12 electronic cigarette or vapor material's container,
+13 packaging or advertising:
+14
+15 (i) Depicts a cartoon-like fictional character
+16 that is primarily aimed at entertaining or enticing minors;
+17
+18 (ii) Imitates or mimics trademarks or images of
+19 products that are typically marketed to minors;
+20
+21 (iii) Includes a symbol that is primarily used
+22 to market products to minors; or
+23
+2 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 (iv) Includes an image of a celebrity in a
+2 manner that entices minors to purchase the product.
+3
+4 (b) No person shall market, advertise, sell or cause
+5 to be sold an electronic cigarette or vapor material that
+6 has entertainment features, such as the ability to play
+7 games, play music or other audio, display photographs or
+8 video or any similar electronic entertainment features.
+9
+10 (c) Any person who violates subsection (a) or (b) of
+11 this section is guilty of a misdemeanor punishable by a
+12 fine or not more than seven hundred fifty dollars ($750.00)
+13 for a first violation, and by a fine of not more than one
+14 thousand five hundred dollars ($1,500.00) for each
+15 subsequent violation. Each sale of an electronic cigarette
+16 or vapor material that violates subsection (a) or (b) of
+17 this section shall constitute a separate offense under this
+18 subsection.
+19
+20 39-18-112. Certification by manufacturers of
+21 electronic cigarettes or vapor material.
+22
+3 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 (a) Each nicotine product manufacturer that
+2 manufactures electronic cigarettes or vapor material sold
+3 at retail or to a consumer in this state, whether directly
+4 or through a wholesaler, distributor, retailer or similar
+5 intermediary, shall file a certification as required by
+6 this section as a condition precedent to obtaining a
+7 nicotine products manufacturer license under W.S.
+8 39-16-106. The manufacturer shall not be issued a nicotine
+9 product manufacturer license and shall not sell its
+10 electronic cigarettes or vapor material in this state
+11 unless the certification is filed as required by this
+12 section.
+13
+14 (b) A certification filed under this section shall be
+15 made on a form and in a manner prescribed by the
+16 department. The certification shall include all of the
+17 following:
+18
+19 (i) The name and address of the applicant, the
+20 name and address of each of its members if the applicant is
+21 a firm, partnership, limited liability company or
+22 association or the name and address of each of its officers
+4 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 and the address of its principal place of business if the
+2 applicant is a corporation;
+3
+4 (ii) The location of the applicant's principal
+5 place of business if different from the address required by
+6 paragraph (i) of this subsection. If the applicant has
+7 multiple establishments, the applicant shall provide a list
+8 of all establishments operated by the applicant;
+9
+10 (iii) A copy of the federal Prevent All
+11 Cigarette Trafficking Act registration form as submitted by
+12 the applicant to the bureau of alcohol, tobacco, firearms
+13 and explosives within the United States department of
+14 justice and an attestation that the applicant is in
+15 compliance with, and will continue to comply with, all
+16 applicable requirements of 15 U.S.C. §§ 375 and 376, or a
+17 statement explaining why the federal Prevent All Cigarette
+18 Trafficking Act is not applicable to the applicant and its
+19 products;
+20
+21 (iv) An attestation that the applicant will
+22 comply with all applicable laws of Wyoming and of the
+5 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 county and municipality of the applicant's principal place
+2 of business;
+3
+4 (v) A list of each type or model of electronic
+5 cigarette and vapor material that the applicant sells in
+6 this state, including each product name, product category,
+7 nicotine content and total volume of the product;
+8
+9 (vi) An attestation that the electronic
+10 cigarettes and vapor material the applicant is selling
+11 within the state, as well as all components or parts of the
+12 products, were manufactured within the United States or
+13 imported, regardless of whether the importation was
+14 accomplished by the manufacturer or another entity. The
+15 applicant shall also obtain and submit copies of:
+16
+17 (A) All customs and border patrol entry
+18 forms submitted in the six (6) months immediately preceding
+19 the date of the application for each import entry of the
+20 products or any components or parts of the products;
+21
+22 (B) If requested by the department,
+23 commercial invoices, cargo release results reports, bills
+6 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 of lading and any other relevant document deemed necessary
+2 by the department.
+3
+4 (vii) For an applicant with a principal place of
+5 business outside the United States, a declaration and
+6 notarized statement from each of the applicant's importers
+7 that import electronic cigarettes and vapor material into
+8 Wyoming that each importer accepts joint and several
+9 liability with the applicant for all liability imposed
+10 pursuant to this chapter, including any fees, costs,
+11 attorney's fees and penalties. An importer who provides a
+12 declaration and notarized statement under this paragraph
+13 shall be provided the opportunity to consult with counsel
+14 before providing the declaration and statement;
+15
+16 (viii) A list of any warning letters issued by
+17 the United States food and drug administration during the
+18 five (5) calendar years immediately preceding the date of
+19 application that identified any electronic cigarette or
+20 vapor material manufactured by the applicant as being
+21 adulterated or misbranded under state or federal law and a
+22 description of how and when each warning letter was
+23 resolved;
+7 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1
+2 (ix) Records reflecting the youth access
+3 prevention policies the applicant has implemented with
+4 respect to distributors and retailers that sell its
+5 electronic cigarettes and vapor material in the state; and
+6
+7 (x) Any other information the department
+8 requires for the purpose of administering this chapter or
+9 any other applicable law.
+10
+11 (c) The applicant shall pay a one (1) time
+12 nonrefundable fee of one hundred dollars ($100.00) for each
+13 type or model of electronic cigarette and vapor material
+14 the first time it is included in the list of products
+15 required by paragraph (b)(v) of this section.
+16
+17 (d) A nicotine product manufacturer shall not cause
+18 to be sold at retail or to be consumed in this state any
+19 electronic cigarette or vapor material not included in the
+20 product list provided pursuant to paragraph (b)(v) of this
+21 section.
+22
+8 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 (e) Each nicotine product manufacturer that obtains a
+2 license under this chapter shall submit to the department:
+3
+4 (i) Notice of any changes to its product list
+5 required under paragraph (b)(v) of this section not later
+6 than thirty (30) days after making the changes;
+7
+8 (ii) Not less than one (1) time every six (6)
+9 months:
+10
+11 (A) Confirmation that the information
+12 submitted in its license application remains accurate; and
+13
+14 (B) All customs and border protection entry
+15 forms submitted in the previous six (6) months.
+16
+17 (f) Submission of a false certification under this
+18 section constitutes a deceptive, misleading or unfair
+19 business practice prohibited by the Wyoming Consumer
+20 Protection Act and the attorney general may seek any remedy
+21 available under that act.
+22
+9 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 (g) The department may notify appropriate federal and
+2 state agencies regarding false information submitted on a
+3 certification form.
+4
+5 (h) A nicotine product manufacturer shall not be
+6 certified under this section unless the manufacturer also
+7 complies with the requirements of W.S. 39-18-113 through
+8 39-18-115.
+9
+10 (j) Fees collected pursuant to this section are
+11 continuously appropriated to the department to be expended
+12 on the administration of this act.
+13
+14 39-18-113. Agent for service of process.
+15
+16 (a) Any nonresident manufacturer of electronic
+17 cigarettes or vapor material that has not registered to do
+18 business in this state as a foreign corporation or business
+19 entity shall, as a condition precedent to receiving a
+20 license under W.S. 39-18-106 and in addition to any
+21 requirements under the Wyoming Business Corporation Act,
+22 appoint and continually engage the services of an agent in
+23 this state to act as agent for the service of process for
+10 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 legal actions concerning or arising out of the enforcement
+2 of this chapter and who may be served in any manner
+3 authorized by law. Service to an agent appointed under this
+4 subsection shall constitute legal and valid service of
+5 process on the manufacturer. The manufacturer shall provide
+6 the agent's name, address, telephone number and proof of
+7 the appointment and availability to the department and the
+8 secretary of state.
+9
+10 (b) The manufacturer shall provide notice to the
+11 department not less than thirty (30) calendar days before
+12 the termination of the authority of an agent. The
+13 manufacturer shall also provide proof to the department of
+14 the appointment of a new agent not less than five (5)
+15 calendar days before the termination of an existing agent
+16 appointment.
+17
+18 39-18-114. Bond requirement; nonresident or foreign
+19 manufacturers.
+20
+21 (a) Any nonresident or foreign manufacturer of
+22 electronic cigarettes or vapor material that has not
+23 registered to do business in this state as a foreign
+11 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 corporation or business entity shall, as a condition of
+2 receiving a license under W.S. 39-18-106, submit to the
+3 department a surety bond or other cash security payable to
+4 the state in the amount of twenty-five thousand dollars
+5 ($25,000.00). The bond or cash security shall be posted by
+6 a corporate surety located within the United States.
+7
+8 (b) The bond required by subsection (a) of this
+9 section shall be conditioned on the manufacturer's
+10 performance of all requirements and obligations imposed by
+11 this chapter. A corporate surety on a manufacturer's bond
+12 shall be liable up to the amount of the bond, and the
+13 department may execute the surety bond, for the payment of
+14 fines and penalties imposed on the manufacturer under this
+15 chapter and for the cost of seizure and destruction of
+16 products sold in violation of this chapter. If the
+17 department executes on the surety bond, it may require the
+18 manufacturer to provide an additional bond as a condition
+19 of retaining the manufacturer or its products in the
+20 directory created by W.S. 39-18-115.
+21
+22 (c) A corporate surety shall be released and
+23 discharged from liability to the state sixty (60) days from
+12 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 the date after the corporate surety lodges a written
+2 request to be released and discharged from its duties with
+3 the department. This provision shall not apply to relieve,
+4 release or discharge the corporate surety from liability
+5 already accrued or that shall accrue before the expiration
+6 of the sixty (60) day period. The department shall, upon
+7 receiving a request under this subsection, notify the
+8 manufacturer who furnished the bond. Unless the
+9 manufacturer files a new bond and a new corporate surety
+10 with the department before the sixty (60) day period has
+11 expired, the department shall cancel the manufacturer's
+12 nicotine product manufacturer license.
+13
+14 39-18-115. Directory of electronic cigarette or vapor
+15 material.
+16
+17 (a) Beginning on October 1, 2026, the department
+18 shall maintain and make publicly available on the
+19 department's official website a directory that lists all
+20 electronic cigarettes and vapor material included in the
+21 product lists submitted by licensed nicotine product
+22 manufacturers pursuant to W.S. 39-18-112.
+23
+13 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 (b) Beginning on January 1, 2027, electronic
+2 cigarettes and vapor material not included in the directory
+3 shall not be sold for retail sale or to a consumer in this
+4 state, either directly or through an importer, distributor,
+5 wholesaler, retailer or similar intermediary.
+6
+7 (c) Any person who sells an electronic cigarette or
+8 vapor material in violation of this section is guilty of a
+9 misdemeanor punishable by a fine of not more than seven
+10 hundred fifty dollars ($750.00) for a first violation, and
+11 by a fine of not more than one thousand five hundred
+12 dollars ($1,500.00) for each subsequent violation. Each
+13 sale of an electronic cigarette or vapor material in
+14 violation of this section shall constitute a separate
+15 offense under this subsection.
+16
+17 (d) A second or subsequent violation of this section
+18 shall constitute a deceptive, misleading or unfair trade
+19 practice prohibited by the Wyoming Consumer Protection Act
+20 and the attorney general may seek any remedy available
+21 under that act. Each sale of an electronic cigarette or
+22 vapor material shall constitute a separate offense under
+23 this subsection.
+14 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1
+2 Section 2. W.S. 39-18-101(a)(v)(D) and by creating a
+3 new paragraph (xii), 39-18-106(a) and by creating new
+4 subsections (d) through (g) and 39-18-108(c) by creating a
+5 new paragraph (xiii) and by creating a new subsection (f)
+6 are amended to read:
+7
+8 39-18-101. Definitions.
+9
+10 (a) As used in this article chapter:
+11
+12 (v) "Wholesaler" means any person who:
+13
+14 (D) Sells or distributes for sale or resale
+15 cigarettes or nicotine products over the internet or
+16 through any other means of direct or indirect mail
+17 solicitation or delivery to any person in this state.
+18
+19 (xii) "Nicotine product manufacturer" means any
+20 person who manufactures, fabricates, assembles, processes
+21 or labels a finished nicotine product for sale in this
+22 state. "Nicotine product manufacturer" shall not include a
+23 cigarette manufacturer.
+15 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1
+2 39-18-106. Licensing; permits.
+3
+4 (a) Every wholesaler, cigarette importer, nicotine
+5 manufacturer and cigarette manufacturer who sells or offers
+6 to sell nicotine products in this state must shall have a
+7 license to do so issued by the department. No license or
+8 renewal of a license shall be granted under this section
+9 unless the wholesaler states in writing, under penalty for
+10 false swearing, that he shall comply fully with W.S.
+11 9-4-1201 through 9-4-1209. The license fee is ten dollars
+12 ($10.00) per year or fraction thereof and is valid through
+13 June 30 in each year. The license will be granted only to
+14 wholesalers who own or operate the place from which sales
+15 are made and additional licenses must be obtained for each
+16 separate location. The licenses are transferable pursuant
+17 to rules and regulations promulgated by the department.
+18
+19 (d) No license for a nicotine product manufacturer
+20 who manufactures electronic cigarettes or vapor material
+21 shall be granted, maintained or renewed unless the
+22 manufacturer satisfies the requirements of W.S. 39-18-112
+23 through 39-18-115.
+16 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1
+2 (e) Retailers shall purchase cigarettes and nicotine
+3 products only from a wholesaler, nicotine product
+4 manufacturer or cigarette importer who is licensed under
+5 this chapter.
+6
+7 (f) Wholesalers and cigarette importers shall
+8 purchase cigarettes and nicotine products only from a
+9 wholesaler or cigarette manufacturer who is licensed under
+10 this chapter.
+11
+12 (g) A person licensed under this chapter shall be
+13 deemed to have sufficient minimum contacts with the state
+14 pursuant to W.S. 5-1-107 and shall consent to the exercise
+15 of personal jurisdiction over the manufacturer in the
+16 courts of this state in any matter or issue arising under
+17 this chapter or related to the sale of cigarettes or a
+18 nicotine product.
+19
+20 39-18-108. Enforcement.
+21
+22 (c) Penalties. The following shall apply:
+23
+17 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 (xiii) Beginning January 1, 2027, any nicotine
+2 product held or offered for retail sale in this state that
+3 is manufactured by a person that has not received a
+4 nicotine product manufacturer license as provided by this
+5 chapter shall be considered contraband goods and may be
+6 seized without a warrant by the department or any law
+7 enforcement officer in this state when directed to do so by
+8 the department. The cost of the seizure and destruction or
+9 disposal shall be borne by the person from whom the
+10 products are confiscated.
+11
+12 (f) Each retailer, distributor and wholesaler that
+13 sells or distributes electronic cigarettes or vapor
+14 material in this state is subject to unannounced compliance
+15 checks for the purpose of enforcing this section.
+16 Unannounced follow-up compliance checks of all noncompliant
+17 retailers, distributors and wholesalers shall be conducted
+18 within thirty (30) days after any violation of this
+19 chapter. The department shall publish the results of all
+20 compliance checks on its website not less than annually and
+21 shall make the results available to the public upon
+22 request.
+23
+18 HB0132
+
+2026 STATE OF WYOMING 26LSO-0421
+1 Section 3. The department of revenue shall promulgate
+2 all rules necessary to implement this act.
+3
+4 Section 4. This act is effective immediately upon
+5 completion of all acts necessary for a bill to become law
+6 as provided by Article 4, Section 8 of the Wyoming
+7 Constitution.
+8
+9 (END)
+19 HB0132

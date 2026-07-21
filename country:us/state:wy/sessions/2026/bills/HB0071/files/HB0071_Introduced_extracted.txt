@@ -1,0 +1,122 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0309
+HOUSE BILL NO. HB0071
+No more pennies-rounding cash payments.
+Sponsored by: Representative(s) Yin, Larson, JT, Wharff and
+Williams and Senator(s) Boner and Landen
+A BILL
+for
+1 AN ACT relating to trade and commerce; specifying rounding
+2 requirements for cash payments; specifying exclusions;
+3 specifying applicability; specifying duties of the director
+4 of the Wyoming department of agriculture; and providing for
+5 an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 40-10-137 is created to read:
+10
+11 40-10-137. Penny rounding; rounding requirements for
+12 cash payments; exclusions; applicability.
+13
+14 (a) Notwithstanding any other provision of this
+15 chapter, if a person makes a sale in commerce and the
+1 HB0071
+
+2026 STATE OF WYOMING 26LSO-0309
+1 purchaser offers to pay in cash, the final amount of the
+2 sale may be rounded if the seller cannot make exact change
+3 for the purchase due to the unavailability of pennies. Any
+4 rounding conducted under this subsection shall be as
+5 follows:
+6
+7 (i) Except as provided in paragraph (iii) of
+8 this subsection, if the final amount of the sale ends in
+9 one cent ($0.01), two cents ($0.02), six cents ($0.06) or
+10 seven cents ($0.07), the amount of the sale shall be
+11 rounded down to the nearest five cents ($0.05);
+12
+13 (ii) If the final amount of the sale ends in
+14 three cents ($0.03), four cents ($0.04), eight cents
+15 ($0.08) or nine cents ($0.09), the final amount of the sale
+16 shall be rounded up to the nearest five cents ($0.05);
+17
+18 (iii) If the final amount of the sale is a total
+19 of exactly one cent ($0.01) or two cents ($0.02), the final
+20 amount of the sale shall be rounded up to five cents
+21 ($0.05);
+22
+2 HB0071
+
+2026 STATE OF WYOMING 26LSO-0309
+1 (iv) If the final amount of the sale ends in
+2 zero cents ($0.00) or five cents ($0.05), the final amount
+3 of the sale shall not be rounded.
+4
+5 (b) The amount of any sales tax, use tax or any other
+6 tax applicable to the transaction shall be added to the
+7 amount of the sale before any rounding under this section
+8 to determine the final amount of the sale. No rounding of
+9 the final amount of the sale under this section shall
+10 affect the amount of tax due on the transaction.
+11
+12 (c) If a seller operating out of a commercial
+13 premises that is open to the public is rounding
+14 transactions as provided in this section, the seller shall
+15 display a sign in the commercial premises indicating that
+16 cash payments that are not in exact change will be subject
+17 to rounding.
+18
+19 (d) Except as otherwise provided in this subsection,
+20 nothing in this section shall be construed to permit any
+21 rounding for purchases by credit, debit, check, cash paid
+22 in exact change or any other payment that is not a cash
+23 payment or that does not require change to be paid in cash.
+3 HB0071
+
+2026 STATE OF WYOMING 26LSO-0309
+1 Supplemental nutrition assistance program purchases shall
+2 only be rounded to the extent necessary to comply with
+3 federal law.
+4
+5 (e) This section shall not apply to the extent it
+6 conflicts with any rounding requirements that are enacted
+7 by federal law.
+8
+9 Section 2. W.S. 40-10-117(b)(xxxi) and
+10 40-10-122(a)(xviii)(A) are amended to read:
+11
+12 40-10-117. Definitions.
+13
+14 (b) As used in this chapter:
+15
+16 (xxxi) "This act" or "this chapter" means W.S.
+17 40-10-117 through 40-10-136 40-10-137.
+18
+19 40-10-122. Powers and duties of the director.
+20
+21 (a) The director shall:
+22
+4 HB0071
+
+2026 STATE OF WYOMING 26LSO-0309
+1 (xviii) Verify advertised prices, price
+2 representations and point-of-sale systems, as necessary to
+3 determine:
+4
+5 (A) The accuracy of prices and
+6 computations, including computations for rounding of cash
+7 transactions as provided by W.S. 40-10-137, and proper use
+8 of the equipment; and
+9
+10 Section 3. This act is effective July 1, 2026.
+11
+12 (END)
+5 HB0071

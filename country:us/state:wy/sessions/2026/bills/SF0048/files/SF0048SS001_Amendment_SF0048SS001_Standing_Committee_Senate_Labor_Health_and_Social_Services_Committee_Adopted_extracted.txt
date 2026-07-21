@@ -1,0 +1,41 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0048SS001 (Standing Committee) - Senate Labor, Health and Social Services Committee (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0048SS001
+1 Page 5-after line 3 Insert:
+2
+3 "(iv) The physician is registered with the Wyoming state
+4 board of medicine to provide stem cell therapy pursuant to this
+5 act;".
+6
+7 Page 5-line 5 Delete "(iv)" and insert "(v)".
+8
+9 Page 7-line 11 After "care" insert "and that the physician
+10 is registered with the Wyoming state board of
+11 medicine to provide stem cell therapy under
+12 this act.".
+13
+14 Page 8-line 2 Delete "an eligible" and insert "any".
+15
+16 Page 8-after line 5 Insert:
+17
+18 "Section 2. W.S. 33-26-202(b) by creating a new paragraph
+19 (xx) is amended to read:
+20
+21 33-26-202. Board; duties; general powers.
+22
+23 (b) The board is empowered and directed to:
+24
+25 (xx) Operate and publish a public registry of qualified
+26 physicians registered to perform stem cell therapy pursuant to the
+27 Stem Cell Freedom Act.".
+28
+29 Page 8-line 7 Delete "Section 2." and insert "Section 3.".
+30 BRENNAN, CHAIRMAN
+31
+1

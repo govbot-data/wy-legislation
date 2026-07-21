@@ -1,0 +1,4076 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0436
+SENATE FILE NO. SF0001
+General government appropriations.
+Sponsored by: Joint Appropriations Committee
+A BILL
+for
+1 AN ACT to make appropriations for the fiscal biennium commencing July 1, 2026
+2 and ending June 30, 2028; providing definitions; providing for appropriations
+3 and transfers of funds for the period of the budget and for the remainder of
+4 the current biennium ending June 30, 2026 as specified; providing for
+5 carryover of certain funds beyond the biennium as specified; providing for
+6 employee positions as specified; providing for duties, terms and conditions
+7 and other requirements relating to appropriations for the remainder of the
+8 current biennium ending June 30, 2026 and the period of the budget as
+9 specified; providing for position and other budgetary limitations; amending
+10 existing law by redirecting revenues for the period of the budget; continuing
+11 an account; authorizing loans; discharging interfund loans; increasing higher
+12 education scholarship amounts for the fiscal biennium commencing July 1, 2026
+13 and ending June 30, 2028; making conforming amendments; amending and
+14 repealing prior appropriations; and providing for effective dates.
+15
+16 Be It Enacted by the Legislature of the State of Wyoming:
+17
+18 Section 1. As used in this act:
+19
+1 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (a) "Agency" means any governmental unit or branch of government
+2 receiving an appropriation under this act;
+3
+4 (b) "Appropriation" means the authorizations granted by the
+5 legislature under this act to make expenditures from and to incur obligations
+6 against the general and other funds as specified;
+7
+8 (c) "Approved budget" means as defined by W.S. 9-2-1002(a)(xxiii);
+9
+10 (d) "A4" means an agency trust account;
+11
+12 (e) "EF" means the agency's account within the enterprise fund;
+13
+14 (f) "FF" means federal funds;
+15
+16 (g) "IS" means the agency's account within the internal service fund;
+17
+18 (h) "PF" means the retirement account created by W.S. 9-3-407(a);
+19
+20 (j) "PR" means private funding sources;
+21
+22 (k) "P2" means the deferred compensation account referenced in W.S.
+23 9-3-507;
+24
+25 (m) "SR" means an agency's account within the special revenue fund;
+26
+2 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (n) "S1" means water development account I created by W.S.
+2 41-2-124(a)(i);
+3
+4 (o) "S2" means water development account II created by W.S.
+5 41-2-124(a)(ii);
+6
+7 (p) "S4" means the local government capital construction account
+8 funded by W.S. 9-4-601(a)(vi) and (b)(i)(A) and 39-14-801(e)(ix);
+9
+10 (q) "S5" means the "school foundation program account" or "public
+11 school foundation program account" created by W.S. 21-13-306(a);
+12
+13 (r) "S7" means the highway fund;
+14
+15 (s) "S10" means the legislative stabilization reserve account;
+16
+17 (t) "S13" means the strategic investments and projects account;
+18
+19 (u) "S14" means the Wyoming tourism account;
+20
+21 (w) "S0" means other funds identified by footnote;
+22
+23 (y) "T2" means the miners' hospital permanent land income fund;
+24
+25 (z) "T3" means the state hospital account within the permanent land
+26 fund;
+27
+3 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (aa) "T4" means the poor farm account within the permanent land fund
+2 as established by W.S. 9-4-310(a)(v);
+3
+4 (bb) "T0" means other expendable trust funds administered by an agency
+5 for specific functions within the agency's authority;
+6
+7 (cc) "TT" means the tobacco settlement trust income account;
+8
+9 (dd) "This appropriation," when used in a footnote, shall be construed
+10 as a reference to that portion of the appropriated funds identified in the
+11 footnote.
+12
+13 Section 2. The sums of money, or so much thereof as is necessary,
+14 appropriated in this act are to be expended during the two (2) years
+15 beginning July 1, 2026 and ending June 30, 2028, or as otherwise specified,
+16 for the purposes, programs and number of employees specified in this act and
+17 the approved budget of each agency. Unless otherwise specifically provided,
+18 the conditions, terms and other requirements on appropriations in this act
+19 are effective until June 30, 2028, subject to accrual accounting principles.
+20
+4 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 001. OFFICE OF THE GOVERNOR
+2 PROGRAM
+3 Administration 1., 2. 9,112,786 9,112,786
+4 Tribal Liaison 430,121 430,121
+5 Commission on Uniform Laws 94,903 94,903
+6 Special Contingency 1,000,000 1,000,000
+7 Homeland Security 6,007,818 22,895,512 867,990 SR 29,771,320
+8 Natural Resource Policy 3. 850,000 SR 850,000
+9 Endangered Species Admin. 675,000 675,000
+10 Baseline Scientific Assess. 307,150 307,150
+11 Asia Pacific Trade 4. 400,000 400,000
+12 TOTALS 18,027,778 22,895,512 1,717,990 42,641,280
+13
+14 AUTHORIZED EMPLOYEES
+15 Full Time 42
+16 Part Time 2
+17 TOTAL 44
+18
+19 1. Of this general fund appropriation, two hundred fifty thousand dollars
+20 ($250,000.00) shall only be available for expenditure if there is a change of
+21 governor as a result of the 2026 general election. This appropriation is for
+22 transition staff salaries, travel, expenses incurred in relocating to and
+23 from the governor's mansion and other related office expenses, except that up
+24 to twenty thousand dollars ($20,000.00) of this appropriation may be expended
+5 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 for purposes of defraying moving expenses for gubernatorial appointees who
+2 are required to move to Cheyenne and, of this twenty thousand dollars
+3 ($20,000.00), not more than five thousand dollars ($5,000.00) is appropriated
+4 for any one (1) appointee. It is the intent of the legislature that this
+5 appropriation not be included within the office of the governor's standard
+6 budget for the immediately succeeding fiscal biennium. This appropriation
+7 shall not be transferred or expended for any other purpose.
+8
+9 2. (a) Authorization for up to two (2) at-will employee contract positions
+10 supported by funds originating from section 9901 of the American Rescue Plan
+11 Act of 2021, P.L. 117-2, shall remain effective until the latter of:
+12
+13 (i) December 31, 2026;
+14
+15 (ii) The date of completion of any federally required reporting
+16 and audits; or
+17
+18 (iii) The date of any extension of federal expenditure deadlines
+19 under section 9901 of the American Rescue Plan Act of 2021, P.L. 117-2,
+20 enacted into law.
+21
+22 3. (a) This general fund appropriation shall be deposited into the federal
+23 natural resource policy account. All funds within the federal natural
+6 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 resource policy account are appropriated and available for expenditure by the
+2 governor in accordance with W.S. 9-4-218, including expenditure by the
+3 governor for litigation costs incurred by Wyoming counties involved in
+4 litigation related to any of the following:
+5
+6 (i) Federal land, water, air, mineral and other natural resource
+7 policies that may affect the state or counties pursuant to W.S.
+8 9-4-218(a)(iii);
+9
+10 (ii) Treaties between the United States and a federally
+11 recognized Indian tribe.
+12
+13 4. It is the intent of the legislature that this appropriation not be
+14 included in the office of the governor's standard budget for the immediately
+15 succeeding fiscal biennium. This appropriation is effective immediately.
+16
+7 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 002. SECRETARY OF STATE
+2 PROGRAM
+3 Administration 1. 9,042,792 290,809 9,333,601
+4 Securities Enforcement 721,822 SR 721,822
+5 Bucking Horse & Rider 50,000 SR 50,000
+6 TOTALS 9,042,792 290,809 771,822 10,105,423
+7
+8 AUTHORIZED EMPLOYEES
+9 Full Time 33
+10 Part Time 0
+11 TOTAL 33
+12
+13 1. Of this general fund appropriation, one hundred twenty-five thousand
+14 dollars ($125,000.00) is appropriated for the costs of publication required
+15 by W.S. 22-24-318 for any ballot proposition for an initiative appearing on
+16 the 2026 statewide election ballot. It is the intent of the legislature that
+17 this appropriation not be included in the secretary of state's standard
+18 budget for the immediately succeeding fiscal biennium. This appropriation
+19 shall not be transferred or expended for any other purpose and any
+20 unexpended, unobligated funds remaining from this appropriation shall revert
+21 as provided to the general fund on December 31, 2026.
+22
+8 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 003. STATE AUDITOR
+2 PROGRAM
+3 Administration 14,809,975 14,809,975
+4 TOTALS 14,809,975 0 0 14,809,975
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 23
+8 Part Time 0
+9 TOTAL 23
+10
+11 Section 004. STATE TREASURER
+12 PROGRAM
+13 Treasurer's Operations 3,356,610 142,945 SR 3,499,555
+14 Veterans' Tax Exemption 11,545,839 11,545,839
+15 WyoSTAR 1,524,971 SR 1,524,971
+16 Unclaimed Property 2,419,549 SR 2,419,549
+17 Investments 1., 2. 49,735,616 SR 49,735,616
+18 Native American Exemption 3. 918,975 918,975
+19 TOTALS 15,821,424 0 53,823,081 69,644,505
+20
+9 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 51
+3 Part Time 0
+4 TOTAL 51
+5
+6 1. (a) The state treasurer's office, with the recommendation of the
+7 investment funds committee and approval of the human resources division of
+8 the department of administration and information, may:
+9
+10 (i) Approve reclassifications from investment analyst to senior
+11 investment analyst and senior investment analyst to investment officer;
+12
+13 (ii) Adjust compensation within the classifications specified in
+14 paragraph (i) of this footnote based on an assessment of an employee's
+15 education, certification, demonstrated performance and potential for
+16 increased responsibility.
+17
+18 (b) Nothing in this footnote should be construed to modify the maximum
+19 annual salary limits provided in W.S. 9-1-409(j).
+20
+21 2. A portion of this other funds appropriation may be expended to conduct
+22 the purposes of this footnote. In accordance with W.S. 9-1-205(a), the state
+23 treasurer's office shall annually provide a public accounting of the direct,
+24 indirect and total investment fees for all external investment managers in
+10 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 both absolute dollars and as a percentage of state investments under
+2 management.
+3
+4 3. Of this general fund appropriation, one hundred twenty-eight thousand six
+5 hundred fifty-two dollars ($128,652.00) is effective immediately.
+6
+7 Section 006. ADMINISTRATION AND INFORMATION
+8 PROGRAM
+9 Director's Office 4,713,078 217,939 SR 4,931,017
+10 Professional Licensing Bds. 2,155,448 SR 2,155,448
+11 General Services 1., 2. 73,949,550 21,998,877 IS
+12 2,800,220 SR 98,748,647
+13 Human Resources Division 23,132,836 23,132,836
+14 Employees' Group Insurance 934,137,370 IS
+15 8,000,000 SR 942,137,370
+16 Economic Analysis 1,300,886 1,300,886
+17 State Library 4,748,853 2,614,616 4,067,901 SR 11,431,370
+18 TOTALS 107,845,203 2,614,616 973,377,755 1,083,837,574
+19
+11 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 290
+3 Part Time 1
+4 TOTAL 291
+5
+6 1. Of this other funds appropriation, five million two hundred nine thousand
+7 dollars ($5,209,000.00)IS is appropriated from the motor vehicle depreciation
+8 account for the period beginning July 1, 2026 and ending June 30, 2027 for
+9 vehicle replacements. It is the intent of the legislature that the
+10 department of administration and information include any requested amount for
+11 vehicle replacements for the period beginning July 1, 2027 and ending June
+12 30, 2028 in any budget request submitted under W.S. 9-2-1013.
+13
+14 2. Of this general fund appropriation, five hundred twelve thousand two
+15 hundred thirty-three dollars ($512,233.00) is appropriated for compensation
+16 adjustments in the trades management unit (3055). This appropriation shall
+17 be used only to provide compensation adjustments up to, but not to exceed,
+18 the 2024 market pay tables. If appropriations are enacted in the 2026 budget
+19 session sufficient to adjust compensation for all executive branch employees
+20 to the 2024 market pay tables, this appropriation shall not be effective.
+21
+12 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 007. WYOMING MILITARY DEPARTMENT
+2 PROGRAM
+3 Military Dept. Operations 12,275,101 12,275,101
+4 Air National Guard 1. 914,768 15,084,396 15,999,164
+5 Camp Guernsey 1,317,755 SR 1,317,755
+6 Army National Guard 2. 62,866 42,442,215 42,505,081
+7 Veterans' Services 4,236,762 1,292,387 8,945 SR 5,538,094
+8 Oregon Trail Cemetery 873,017 23,857 SR 896,874
+9 Military Support 78,640 78,640
+10 Civil Air Patrol 99,600 99,600
+11 TOTALS 18,540,754 58,818,998 1,350,557 78,710,309
+12
+13 AUTHORIZED EMPLOYEES
+14 Full Time 196
+15 Part Time 29
+16 TOTAL 225
+17
+18 1. Pursuant to W.S. 19-7-103(b)(xxii), authority is granted to the military
+19 department to hire up to nine (9) full-time positions or at-will employee
+20 contract positions within this division only when federal funds are received
+21 that reimburse the state for one hundred percent (100%) of the costs of each
+22 filled position. In the event federal funding becomes unavailable to
+23 maintain one hundred percent (100%) reimbursement for a position filled
+24 pursuant to this footnote, as determined by the United States property and
+13 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 fiscal officer for Wyoming, the position shall be eliminated. The military
+2 department shall notify the joint appropriations committee on all positions
+3 created or eliminated pursuant to this footnote through the B-11 process as
+4 authorized by W.S. 9-2-1005(b)(ii) and reported pursuant to W.S. 9-2-1013(b).
+5
+6 2. Pursuant to W.S. 19-7-103(b)(xxii), authority is granted to the military
+7 department to hire up to thirteen (13) full-time positions or at-will
+8 employee contract positions within this division only when federal funds are
+9 received that reimburse the state for one hundred percent (100%) of the costs
+10 of each filled position. In the event federal funding becomes unavailable to
+11 maintain one hundred percent (100%) reimbursement for a position filled
+12 pursuant to this footnote, as determined by the United States property and
+13 fiscal officer for Wyoming, the position shall be eliminated. The military
+14 department shall notify the joint appropriations committee on all positions
+15 created or eliminated pursuant to this footnote through the B-11 process as
+16 authorized by W.S. 9-2-1005(b)(ii) and reported pursuant to W.S. 9-2-1013(b).
+17
+14 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 008. OFFICE OF THE PUBLIC DEFENDER
+2 PROGRAM
+3 Administration 1. 26,210,752 4,618,306 SR 30,829,058
+4 TOTALS 26,210,752 0 4,618,306 30,829,058
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 78
+8 Part Time 14
+9 TOTAL 92
+10
+11 1. Of this general fund appropriation, twenty-six million two hundred ten
+12 thousand seven hundred fifty-two dollars ($26,210,752.00) and of this other
+13 funds appropriation, four million six hundred eighteen thousand three hundred
+14 six dollars ($4,618,306.00)SR may be expended for contract trial attorneys,
+15 contract legal support or compensation of full-time and part-time employee
+16 positions authorized for the office of the public defender to address
+17 caseload work requirements and geographic distribution of workload demands
+18 across judicial districts in the most effective and efficient manner as
+19 determined by the state public defender. This appropriation shall not be
+20 subject to Section 307 of this act.
+21
+15 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 010. DEPARTMENT OF AGRICULTURE
+2 PROGRAM
+3 Administration Div. 2,307,803 5,260 SR 2,313,063
+4 Ag. Education and Info. 16,000 21,038 SR 37,038
+5 Consumer Prot. Div. 12,725,303 1,402,937 1,772,971 SR 15,901,211
+6 Natural Resources Div. 1. 4,151,760 8,306 690,051 S1
+7 258,000 S5 5,108,117
+8 Pesticide Registration 773,671 773,671
+9 State Fair 2,724,287 1,697,188 SR 4,421,475
+10 Weed & Pest Control 1,048,558 SR 1,048,558
+11 Predator Management 2., 3. 10,012,400 1,000,000 SR 11,012,400
+12 Wyoming Beef Council 2,517,929 SR 2,517,929
+13 Wyo Wheat Mktg. Comm. 188,095 SR 188,095
+14 Dry Bean Commission 316,302 SR 316,302
+15 Leaf Cutter Bee 11,779 SR 11,779
+16 TOTALS 32,711,224 1,411,243 9,527,171 43,649,638
+17
+18 AUTHORIZED EMPLOYEES
+19 Full Time 74
+20 Part Time 6
+21 TOTAL 80
+22
+23 1. Of this general fund appropriation, three hundred thousand dollars
+24 ($300,000.00) is appropriated for Wyoming agriculture in the classroom. It
+16 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 is the intent of the legislature that this appropriation be included in the
+2 department of agriculture's standard budget for the immediately succeeding
+3 fiscal biennium. This appropriation shall not be transferred or expended for
+4 any other purpose.
+5
+6 2. Of this general fund appropriation, fifty thousand dollars ($50,000.00)
+7 is appropriated for expenditure in accordance with chapter 2 of the Wyoming
+8 animal damage management board rules and for gray wolf depredation
+9 compensation. This appropriation shall not be transferred or expended for
+10 any other purpose.
+11
+12 3. (a) Of this general fund appropriation, one million six hundred thousand
+13 dollars ($1,600,000.00) is appropriated for:
+14
+15 (i) Special projects prioritized for preventing listing of a
+16 species as endangered under the federal Endangered Species Act of 1973, 16
+17 U.S.C. § 1531 et seq., as amended;
+18
+19 (ii) Projects that directly involve predator control that will
+20 have the greatest benefit to wildlife or reduce the cost to the department
+21 for animal damage payments.
+22
+17 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 (b) The appropriations specified in this footnote shall not be
+2 transferred or expended for any other purpose.
+3
+4 Section 011. DEPARTMENT OF REVENUE
+5 PROGRAM
+6 Administration 6,767,770 6,767,770
+7 Revenue Division 10,326,157 975,760 SR 11,301,917
+8 Valuation Division 1. 20,661,261 20,661,261
+9 Liquor Division 2. 12,492,176 EF 12,492,176
+10 TOTALS 37,755,188 0 13,467,936 51,223,124
+11
+12 AUTHORIZED EMPLOYEES
+13 Full Time 124
+14 Part Time 0
+15 TOTAL 124
+16
+17 1. Of this general fund appropriation, twelve million dollars
+18 ($12,000,000.00) is appropriated for the property tax relief program pursuant
+19 to W.S. 39-13-109(c)(v) for refunds to qualified applicants during the period
+20 beginning July 1, 2026 and ending December 31, 2026.
+21
+22 2. Pursuant to W.S. 9-4-205(d) and 12-2-302(b), expenditures necessary to
+23 defray the administrative expenses of the liquor division, including
+24 salaries, office expenses and general expenses for the enforcement of the
+18 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 duties of the division as well as sufficient funds to defray the cost of
+2 alcoholic liquor purchases and attendant expenses are authorized by the
+3 legislature for the period beginning July 1, 2026 and ending June 30, 2028.
+4
+5 Section 014. MINERS' HOSPITAL BOARD
+6 PROGRAM
+7 Miners' Hospital Board 9,807,466 T2 9,807,466
+8 TOTALS 0 0 9,807,466 9,807,466
+9
+10 AUTHORIZED EMPLOYEES
+11 Full Time 3
+12 Part Time 0
+13 TOTAL 3
+14
+19 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 015. ATTORNEY GENERAL
+2 PROGRAM
+3 Law Office 1. 28,142,505 682,899 2,494,578 S5
+4 5,432,005 SR
+5 734,314 TT 37,486,301
+6 Criminal Investigations 2., 3. 35,010,667 9,446,924 1,223,937 SR 45,681,528
+7 Law Enforcement Academy 5,451,049 1,436,759 EF
+8 11,908 IS 6,899,716
+9 Peace Off. Stds. & Trng. 434,716 166,750 SR 601,466
+10 Victim Services Division 9,126,755 13,462,214 5,781,471 SR 28,370,440
+11 Governor's Council on DD 437,447 1,022,650 18,338 SR 1,478,435
+12 TOTALS 78,603,139 24,614,687 17,300,060 120,517,886
+13
+14 AUTHORIZED EMPLOYEES
+15 Full Time 235
+16 Part Time 1
+17 TOTAL 236
+18
+19 1. Of this general fund appropriation, forty-three thousand dollars
+20 ($43,000.00) is appropriated for employer-funded Wyoming state bar dues for
+21 attorneys employed within any division of the office of the attorney general.
+22 This appropriation shall not be transferred or expended for any other
+23 purpose.
+24
+20 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 2. Of this general fund appropriation, one hundred sixty-seven thousand
+2 three hundred thirty-five dollars ($167,335.00) is effective immediately.
+3
+4 3. Of this general fund appropriation, three million dollars ($3,000,000.00)
+5 is appropriated for the internet crimes against children team (unit 0329).
+6 This appropriation shall not be transferred or expended for any other
+7 purpose.
+8
+9 Section 020. DEPARTMENT OF ENVIRONMENTAL QUALITY
+10 PROGRAM
+11 Administration 8,810,240 8,810,240
+12 Air Quality 9,633,870 1,846,395 16,117,500 SR 27,597,765
+13 Water Quality 14,432,422 10,248,574 1,198,071 SR 25,879,067
+14 Land Quality 6,196,521 4,510,334 10,706,855
+15 Industrial Siting 769,802 769,802
+16 Solid Waste Management 3,471,212 3,989,311 4,828,710 SR 12,289,233
+17 Uranium Recovery Program 2,698,200 SR 2,698,200
+18 Source Material Program 1,110,000 1,110,000
+19 Abandoned Mine Reclam. 73,607,733 73,607,733
+20 Subsidence Loss Ins. 231,104 SR 231,104
+21 TOTALS 44,424,067 94,202,347 25,073,585 163,699,999
+22
+21 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 276
+3 Part Time 0
+4 TOTAL 276
+5
+6 Section 021. DEPARTMENT OF AUDIT
+7 PROGRAM
+8 Administration 425,205 368,476 368,192 SR 1,161,873
+9 Banking 8,330,856 SR 8,330,856
+10 Public Fund 6,534,314 6,534,314
+11 Mineral 3,058,811 6,057,246 202,476 SR 9,318,533
+12 Excise 4,364,441 91,527 S7 4,455,968
+13 TOTALS 14,382,771 6,425,722 8,993,051 29,801,544
+14
+15 AUTHORIZED EMPLOYEES
+16 Full Time 103
+17 Part Time 0
+18 TOTAL 103
+19
+22 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 023. PUBLIC SERVICE COMMISSION
+2 PROGRAM
+3 Administration 800,408 10,652,833 SR 11,453,241
+4 Consumer Advocate Div. 3,154,015 SR 3,154,015
+5 Universal Service Fund 3,920,600 SR 3,920,600
+6 TOTALS 0 800,408 17,727,448 18,527,856
+7
+8 AUTHORIZED EMPLOYEES
+9 Full Time 42
+10 Part Time 0
+11 TOTAL 42
+12
+13 Section 024. STATE PARKS & CULTURAL RESOURCES
+14 PROGRAM
+15 Administration & Support 2,463,300 2,463,300
+16 Cultural Resources 1., 2. 9,845,120 4,423,314 211,647 EF
+17 235,835 S14
+18 6,825,690 SR 21,541,606
+19 St. Parks & Hist. Sites 20,274,129 7,657,269 167,576 EF
+20 802,409 S14
+21 19,527,967 SR 48,429,350
+22 TOTALS 32,582,549 12,080,583 27,771,124 72,434,256
+23
+23 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 151
+3 Part Time 67
+4 TOTAL 218
+5
+6 1. Of this general fund appropriation, one hundred twenty thousand dollars
+7 ($120,000.00) is appropriated for the "We the People" educational program.
+8 No funds from this appropriation shall be expended to pay or reimburse the
+9 University of Wyoming for indirect cost recovery or overhead expenses for the
+10 administration of the "We the People" educational program. It is the intent
+11 of the legislature that this appropriation be included in the department of
+12 state parks and cultural resources' standard budget for the immediately
+13 succeeding fiscal biennium. This appropriation shall not be transferred or
+14 expended for any other purpose.
+15
+16 2. Of this general fund appropriation, five thousand dollars ($5,000.00) is
+17 appropriated to support the Wyoming centennial farm and ranch program. This
+18 appropriation shall not be transferred or expended for any other purpose.
+19
+24 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 027. STATE CONSTRUCTION DEPARTMENT
+2 PROGRAM
+3 Operations 2,842,865 5,612,541 S5 8,455,406
+4 School Facilities Div. 4,430,405 S5 4,430,405
+5 Construction Management 1,703,930 1,703,930
+6 TOTALS 4,546,795 0 10,042,946 14,589,741
+7
+8 AUTHORIZED EMPLOYEES
+9 Full Time 30
+10 Part Time 0
+11 TOTAL 30
+12
+13 Section 029. WYO WATER DEVELOPMENT OFFICE
+14 PROGRAM
+15 Administration 9,444,380 S1 9,444,380
+16 TOTALS 0 0 9,444,380 9,444,380
+17
+18 AUTHORIZED EMPLOYEES
+19 Full Time 26
+20 Part Time 0
+21 TOTAL 26
+22
+25 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 037. STATE ENGINEER
+2 PROGRAM
+3 Administration 3,853,853 3,853,853
+4 Ground Water Div. 3,414,410 3,414,410
+5 Surface Water Div. 2,399,426 2,399,426
+6 Board of Control Div. 18,406,986 18,406,986
+7 Support Services Div. 2,741,496 2,741,496
+8 Board of Registration PE 1,238,495 SR 1,238,495
+9 Interstate Streams Div. 1,946,519 1,946,519
+10 North Platte Settlement 1,685,757 1,685,757
+11 Well Drillers' Licensing 334,985 SR 334,985
+12 TOTALS 34,448,447 0 1,573,480 36,021,927
+13
+14 AUTHORIZED EMPLOYEES
+15 Full Time 111
+16 Part Time 9
+17 TOTAL 120
+18
+26 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 039. WILDLIFE/NATURAL RESOURCE TRUST
+2 PROGRAM
+3 Encana Oil & Gas 35,000 SR 35,000
+4 Administration 1., 2. 27,404,785 16,830,315 SR 44,235,100
+5 WYCM 3,800,000 SR 3,800,000
+6 TOTALS 27,404,785 0 20,665,315 48,070,100
+7
+8 AUTHORIZED EMPLOYEES
+9 Full Time 2
+10 Part Time 0
+11 TOTAL 2
+12
+13 1. Of this general fund appropriation, eight million dollars ($8,000,000.00)
+14 is appropriated to the Wyoming wildlife and natural resource trust income
+15 account. These funds are continuously appropriated from the Wyoming wildlife
+16 and natural resource trust income account to the Wyoming wildlife and natural
+17 resource trust account board to provide grants for preventing the
+18 introduction and spread of invasive plants and grasses with a focus on
+19 private and state lands across Wyoming or for wildfire prevention measures.
+20 This appropriation shall not be subject to the requirements of the Wyoming
+21 Wildlife and Natural Resource Funding Act. This appropriation shall not be
+22 transferred or expended for any other purpose.
+23
+27 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 2. Of this general fund appropriation, nineteen million four hundred four
+2 thousand seven hundred eighty-five dollars ($19,404,785.00) is appropriated
+3 to the Wyoming wildlife and natural resource trust income account. Funds
+4 subject to this footnote are continuously appropriated from the Wyoming
+5 wildlife and natural resource trust income account to the Wyoming wildlife
+6 and natural resource trust account board to provide grants to Wyoming
+7 conservation districts, weed and pest districts and the game and fish
+8 commission for purposes of restoring grass, hay and other vegetation
+9 destroyed by wildfires on private and state lands, preventing the
+10 establishment of nonnative, invasive terrestrial vegetation on private and
+11 state lands affected by wildfires and replacing and restoring habitats on
+12 private and state lands destroyed by wildfires and for wildfire prevention
+13 measures. This appropriation shall not be subject to the requirements of the
+14 Wyoming Wildlife and Natural Resource Funding Act. This appropriation shall
+15 not be transferred or expended for any other purpose. This appropriation is
+16 effective immediately.
+17
+28 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 041. FIRE PREVENTION & ELEC SAFETY
+2 PROGRAM
+3 Administration 995,325 995,325
+4 Fire Prevention Admin. 2,181,462 2,181,462
+5 Electrical Safety Admin. 1,039,152 2,009,353 SR 3,048,505
+6 Training 1,844,142 1,844,142
+7 Fire Academy 569,284 569,284
+8 TOTALS 6,629,365 0 2,009,353 8,638,718
+9
+10 AUTHORIZED EMPLOYEES
+11 Full Time 32
+12 Part Time 0
+13 TOTAL 32
+14
+15 Section 042. GEOLOGICAL SURVEY
+16 PROGRAM
+17 Geologic Program 5,020,368 5,020,368
+18 WY Min. Resource 1. 2,000,000 2,000,000
+19 USGS Grants 218,611 218,611
+20 TOTALS 7,020,368 218,611 0 7,238,979
+21
+29 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 20
+3 Part Time 0
+4 TOTAL 20
+5
+6 1. Of this general fund appropriation, two million dollars ($2,000,000.00)
+7 is appropriated for aerial geophysical surveys to analyze Wyoming's mineral
+8 resources. Funds from this general fund appropriation shall be expended by
+9 the geological survey only upon the agency's good-faith effort to secure
+10 matching funds in the ratio of one dollar ($1.00) of appropriated general
+11 funds to not less than one dollar ($1.00) of matching funds from any nonstate
+12 source to the greatest extent possible. It is the intent of the legislature
+13 that this appropriation not be included in the geological survey's standard
+14 budget for the immediately succeeding fiscal biennium. This appropriation
+15 shall not be transferred or expended for any other purpose.
+16
+17 Section 044. INSURANCE DEPARTMENT
+18 PROGRAM
+19 Administration 7,249,451 SR 7,249,451
+20 Health Insurance Pool 3,229,878 8,831,395 EF 12,061,273
+21 TOTALS 3,229,878 0 16,080,846 19,310,724
+22
+30 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 27
+3 Part Time 0
+4 TOTAL 27
+5
+6 Section 045. DEPARTMENT OF TRANSPORTATION
+7 PROGRAM
+8 Administration 1. 9,464,399 S7 9,464,399
+9 Administrative Services 3,892,628 43,526,834 S7
+10 15,141,597 SR 62,561,059
+11 Law Enforcement 2., 3., 4. 5,947,078 105,013,034 S7
+12 260,000 SR 111,220,112
+13 WyoLink 8,600,000 1,390,241 IS
+14 1,874,690 S7 11,864,931
+15 Aeronautics Admin. 178,728 5,290,355 S7 5,469,083
+16 Operational Services 5. 2,405,010 IS 2,405,010
+17 Aeronautics 6. 5,409,342 44,993,801 131,628 IS
+18 1,000,000 S0
+19 12,000,000 S14
+20 21,071,572 S7 84,606,343
+21 TOTALS 14,009,342 55,012,235 218,569,360 287,590,937
+22
+31 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 553
+3 Part Time 0
+4 TOTAL 553
+5
+6 1. (a) Of this general fund appropriation, five million dollars
+7 ($5,000,000.00) is appropriated for compensation increases for highway
+8 maintenance and highway patrol personnel, as determined by the director of
+9 the department of transportation, subject to the following:
+10
+11 (i) Compensation increases for highway maintenance personnel
+12 shall be prioritized for positions for which primary winter job
+13 responsibilities include removal of snow from highways;
+14
+15 (ii) Compensation increases for highway patrol personnel shall
+16 be limited to personnel classified as trooper I, trooper II and trooper III
+17 employed by the department as of April 1, 2026. Highway patrol personnel
+18 hired after April 1, 2026 shall be eligible for compensation increases only
+19 upon promotion to trooper II and trooper III classifications;
+20
+21 (iii) This appropriation shall not be transferred or expended
+22 for any other purpose;
+23
+32 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 (iv) Outcomes from this appropriation, including historic and
+2 comparable position turnover rates, time required to fill open positions and
+3 amounts expended on compensation and training of new employees within the
+4 applicable pay bands shall be included in the department of transportation's
+5 budget for the immediately succeeding fiscal biennium;
+6
+7 (v) This appropriation shall be used only to provide
+8 compensation adjustments up to, but not to exceed, the 2024 market pay
+9 tables;
+10
+11 (vi) If appropriations are enacted in the 2026 budget session
+12 sufficient to adjust compensation for all executive branch employees to the
+13 2024 market pay tables, this appropriation shall not be effective.
+14
+15 2. It is the intent of the legislature that of this other funds
+16 appropriation, two hundred sixty-seven thousand two hundred fourteen dollars
+17 ($267,214.00)S7 for the purchase of taser equipment not be included in the
+18 department of transportation's standard budget for the immediately succeeding
+19 fiscal biennium.
+20
+21 3. It is the intent of the legislature that of this other funds
+22 appropriation, thirty-six thousand four hundred forty-four dollars
+23 ($36,444.00)S7 be included as an increase to the department of
+33 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 transportation's standard budget for the immediately succeeding fiscal
+2 biennium for global positioning system mapping maintenance contracts.
+3
+4 4. Of this other funds appropriation, up to five hundred twenty-three
+5 thousand two hundred seventy-seven dollars ($523,277.00)S7 may be expended
+6 for law enforcement personnel expenses within the personal services series
+7 (100 series) or through the contractual services series (900 series) as
+8 necessary to meet capitol complex security needs in the most effective and
+9 efficient manner as determined by the director of the department of
+10 transportation. This appropriation shall not be subject to Section 307 of
+11 this act.
+12
+13 5. (a) Funds from this other funds appropriation shall be expended, as
+14 necessary, for costs incurred by the division of operational services within
+15 the department to either:
+16
+17 (i) Ground one (1) state-owned cessna citation encore jet
+18 airplane with the sole purpose of either using the airplane for parts or
+19 selling parts from the airplane; or
+20
+21 (ii) Sell one (1) state-owned cessna citation encore jet
+22 airplane.
+23
+34 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 (b) Proceeds from the sale of the airplane or airplane parts under
+2 this footnote shall be deposited into the general fund.
+3
+4 6. Of this other funds appropriation, one million dollars ($1,000,000.00)S0
+5 is appropriated from the transportation enterprise fund.
+6
+35 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 048. DEPARTMENT OF HEALTH 1.
+2 PROGRAM
+3 Director's Office 2. 15,101,532 2,526,171 312,136 SR 17,939,839
+4 Health Care Financing 3., 4.,
+5 5. 6 84,214,756 1,093,284,275 5,000,000 S5
+6 185,821,301 SR
+7 1,450,000 TT 1,969,770,332
+8 Public Health 6. 39,429,028 70,491,070 835,094 A4
+9 16,028,958 SR
+10 10,623,046 TT 137,407,196
+11 Behavioral Health 7., 8. 290,420,555 22,268,333 791,794 A4
+12 4,378,861 S5
+13 56,802,815 SR
+14 1,135,099 T3
+15 12,072,512 TT 387,869,969
+16 Aging 39,736,694 22,742,389 15,766,556 SR 78,245,639
+17 TOTALS 1 ,068,902,565 1,211,312,238 311,018,172 2 ,591,232,975
+18
+19 AUTHORIZED EMPLOYEES
+20 Full Time 1,343
+21 Part Time 54
+22 TOTAL 1,397
+23
+36 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 1. (a) For the period beginning on the effective date of this footnote and
+2 ending June 30, 2028, the department of health shall not expend any general
+3 funds, federal funds or other funds under its control for any of the
+4 following purposes:
+5
+6 (i) To pay for an abortion or a gender transition procedure, or
+7 to pay for facilities, equipment or training used to carry out an abortion or
+8 a gender transition procedure;
+9
+10 (ii) To enter into or fund any new contract or grant unless the
+11 contract or grant expressly requires that the contracting party or grant
+12 recipient not expend contract or grant funds to carry out an abortion or a
+13 gender transition procedure, or to operate or maintain facilities, equipment
+14 or training used to carry out an abortion or a gender transition procedure.
+15
+16 2. (a) Of this general fund appropriation, one million eight hundred
+17 ninety-five thousand four hundred forty-eight dollars ($1,895,448.00) is
+18 appropriated for a pilot project to increase the compensation rates of all
+19 positions with a nursing classification at one (1) facility within the
+20 department of health, subject to the following:
+21
+37 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 (i) The department shall select the facility for which
+2 compensation increases shall be provided beginning July 1, 2026 based upon
+3 the 2024 market pay tables;
+4
+5 (ii) Outcomes from this appropriation, including historic and
+6 comparable position turnover rates, time required to fill open positions, and
+7 amounts expended on compensation and training of new nurses at the facility
+8 selected compared to other nursing positions within the department and over
+9 time shall be included in the department of health's standard budget for the
+10 immediately succeeding fiscal biennium;
+11
+12 (iii) This appropriation shall not be transferred or expended
+13 for any other purpose;
+14
+15 (iv) This appropriation shall be used only to provide
+16 compensation adjustments up to, but not to exceed, the 2024 market pay
+17 tables;
+18
+19 (v) If appropriations are enacted in the 2026 budget session
+20 sufficient to adjust compensation for all executive branch employees to the
+21 2024 market pay tables, this appropriation shall not be effective.
+22
+38 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 3. In accordance with W.S. 42-2-103(d), the state supplemental security
+2 income monthly payment amount for the period beginning July 1, 2026 and ending
+3 June 30, 2028 shall be the lowest amount required under federal law in order
+4 to remain eligible for funding under Title XIX of the Social Security Act, as
+5 amended.
+6
+7 4. Of this general fund appropriation, five million four hundred fifty
+8 thousand dollars ($5,450,000.00), and of this federal funds appropriation,
+9 five million four hundred fifty thousand dollars ($5,450,000.00), is
+10 appropriated for provider rates for all providers serving persons with
+11 developmental, intellectual or acquired brain injury related disabilities,
+12 including continuation of increased provider rates funded with time-limited
+13 funds provided under the American Rescue Plan Act of 2021, P.L. 117-2. This
+14 appropriation shall not be transferred or expended for any other purpose.
+15
+16 5. Of this general fund appropriation, four million five hundred thousand
+17 dollars ($4,500,000.00), and of this federal funds appropriation, four
+18 million five hundred thousand dollars ($4,500,000.00), is appropriated to
+19 reduce the waitlist for services under the comprehensive and supports waiver.
+20 It is the intent of the legislature that the waitlist for the services
+21 specified in this footnote, as tracked by the department of health as of
+22 December 31, 2025, be reduced by at least fifty percent (50%) during fiscal
+23 year 2027.
+39 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1
+2 6. Of this other funds appropriation, nine hundred fifty-two thousand three
+3 hundred forty-three dollars ($952,343.00)TT is effective immediately.
+4
+5 7. Of this general fund appropriation, five million dollars ($5,000,000.00)
+6 is appropriated to reimburse counties for holding and treating criminal
+7 pretrial detainees who are awaiting a mental-health evaluation, a
+8 determination of fitness to proceed in a criminal case or restoration to
+9 competency to advance with criminal proceedings.
+10
+11 8. Of this other funds appropriation, nine million five hundred seventy-two
+12 thousand nine hundred eighty-three dollars ($9,572,983.00)TT is effective
+13 immediately.
+14
+15 Section 049. DEPARTMENT OF FAMILY SERVICES
+16 PROGRAM
+17 Energy Assistance & WX 23,202,140 23,202,140
+18 Institutions 24,907,105 33,830 3,804,346 S5
+19 588,868 SR 29,334,149
+20 Assistance & Services 1., 2. 147,220,425 126,050,485 5,981,801 SR
+21 3,722,070 TT 282,974,781
+22 TOTALS 172,127,530 149,286,455 14,097,085 335,511,070
+23
+40 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 659
+3 Part Time 1
+4 TOTAL 660
+5
+6 1. The department of family services shall comply with all federal policies
+7 and guidance to ensure that no federal benefits intended for foster care
+8 youth, such as social security survivor benefits, are diverted or expended by
+9 the department from these appropriations or any other funds received by the
+10 department and that the federal benefits intended for foster care youth are
+11 conserved exclusively for these youth's unmet needs.
+12
+13 2. It is the intent of the legislature that the department of family
+14 services' standard budget be increased by eight hundred fifty thousand six
+15 hundred seventeen dollars ($850,617.00) in general funds for the immediately
+16 succeeding fiscal biennium for federally mandated supplemental nutrition
+17 assistance program administrative costs.
+18
+41 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 051. LIVESTOCK BOARD
+2 PROGRAM
+3 Administration 1. 2,128,262 38,858 309,106 SR 2,476,226
+4 Animal Health 2. 2,380,723 514,344 SR 2,895,067
+5 Brucellosis 1,310,427 382,510 1,692,937
+6 Cooperative Agreements 25,500 25,500
+7 Estrays 38,750 38,750
+8 Brand Inspection 1,075,901 11,560,095 SR 12,635,996
+9 Predator Control Fees 2,255,212 SR 2,255,212
+10 TOTALS 6,934,063 446,868 14,638,757 22,019,688
+11
+12 AUTHORIZED EMPLOYEES
+13 Full Time 18
+14 Part Time 0
+15 TOTAL 18
+16
+17 1. Of this general fund appropriation, three hundred thousand dollars
+18 ($300,000.00) is appropriated to purchase and to make available metal ear
+19 tags as an option for which livestock producers may choose to use to identify
+20 animals under W.S. 11-18-117(c) and 2025 Wyoming Session Laws, Chapter 53.
+21 It is the intent of the legislature that this appropriation not be included
+22 in the livestock board's standard budget for the immediately succeeding
+23 fiscal biennium. This appropriation shall not be transferred or expended for
+24 any other purpose.
+42 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1
+2 2. It is the intent of the legislature that of this general fund
+3 appropriation, one hundred thirty-one thousand forty dollars ($131,040.00),
+4 not be included in the livestock board's standard budget for the immediately
+5 succeeding fiscal biennium.
+6
+7 Section 053. DEPARTMENT OF WORKFORCE SERVICES
+8 PROGRAM
+9 Administration & Support 26,307,021 24,393,336 4,114,812 EF
+10 7,967,402 SR 62,782,571
+11 Vocational Rehab. 7,858,681 29,436,406 107,674 EF
+12 1,266,267 SR 38,669,028
+13 Unemployment Insurance 23,012,037 2,936,263 EF
+14 14,879,262 SR 40,827,562
+15 Labor Standards 2,373,876 556 3,742 EF 2,378,174
+16 Workers' Comp. & OSHA 1. 2,888,477 66,749,756 EF 69,638,233
+17 Disability Determination 7,734,620 7,734,620
+18 TOTALS 36,539,578 87,465,432 98,025,178 222,030,188
+19
+43 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 561
+3 Part Time 0
+4 TOTAL 561
+5
+6 1. It is the intent of the legislature that the department of workforce
+7 services' standard budget for the immediately succeeding fiscal biennium not
+8 be reduced for one-time support costs (200 series) in the amount of twenty-
+9 one thousand dollars ($21,000.00)EF as presented in the department of
+10 workforce services' 2027-2028 biennial budget request.
+11
+12 Section 055. OIL AND GAS COMMISSION
+13 PROGRAM
+14 Administration 1. 275,074 11,378,768 SR 11,653,842
+15 Orphan Wells 7,526,087 SR 7,526,087
+16 TOTALS 0 275,074 18,904,855 19,179,929
+17
+18 AUTHORIZED EMPLOYEES
+19 Full Time 40
+20 Part Time 0
+21 TOTAL 40
+22
+23 1. It is the intent of the legislature that of this other funds
+24 appropriation, three hundred sixteen thousand nine hundred thirty-five
+44 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 dollars ($316,935.00)SR not be included in the oil and gas conservation
+2 commission's standard budget for the immediately succeeding fiscal biennium
+3 and that any request for appropriations for major maintenance be included as
+4 an exception request for the immediately succeeding fiscal biennium. This
+5 appropriation shall not be transferred or expended for any other purpose.
+6
+7 Section 057. COMMUNITY COLLEGE COMMISSION
+8 PROGRAM
+9 Administration 7,922,961 781,351 SR 8,704,312
+10 State Aid 1., 2., 3. 255,319,957 255,319,957
+11 WY Works Program 4., 5. 5,584,486 5,584,486
+12 Adult Education 2,025,877 1,903,127 3,929,004
+13 WYIN Loan & Grant Prgm 7,521,256 7,521,256
+14 Veterans' Tuition Waiver 481,250 481,250
+15 Public Television 3,420,181 400,000 SR 3,820,181
+16 TOTALS 282,275,968 1,903,127 1,181,351 285,360,446
+17
+18 AUTHORIZED EMPLOYEES
+19 Full Time 12
+20 Part Time 0
+21 TOTAL 12
+22
+23 1. (a) Of this general fund appropriation, seven hundred fifty thousand
+24 four hundred fifty dollars ($750,450.00) is appropriated for a competitive
+45 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 grant program to provide enhanced state funding to community colleges for
+2 purposes of dual enrollment education, subject to the following:
+3
+4 (i) Preference for grant funding shall be provided to community
+5 colleges offering dual enrollment programs to students who are not eligible
+6 to participate under a school district agreement entered into pursuant to
+7 W.S. 21-20-201;
+8
+9 (ii) The community college commission and any community college
+10 receiving grant funding shall advertise the program and track expenditures,
+11 student participation and outcomes. Recommendations for continued funding or
+12 modifications to law shall be included in the community college commission's
+13 budget request for the immediately succeeding fiscal biennium;
+14
+15 (iii) This appropriation shall not be transferred or expended
+16 for any other purpose;
+17
+18 (iv) It is the intent of the legislature that this appropriation
+19 not be included in the Wyoming community college commission's standard budget
+20 for the immediately succeeding fiscal biennium.
+21
+22 2. Of this general fund appropriation, seven million five hundred thousand
+23 dollars ($7,500,000.00) is appropriated for career and technical education
+46 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 programs, degrees and certifications requiring two (2) years of instruction
+2 or less for completion. It is the intent of the legislature that this
+3 appropriation be included in the Wyoming community college commission's
+4 standard budget for the immediately succeeding fiscal biennium. This
+5 appropriation shall not be transferred or expended for any other purpose.
+6
+7 3. Of this general fund appropriation, eight hundred thousand dollars
+8 ($800,000.00) is appropriated to support competitive rodeo teams at Wyoming
+9 community colleges. This appropriation shall be equally distributed to all
+10 colleges with a competitive rodeo program. This appropriation shall not be
+11 transferred or expended for any other purpose.
+12
+13 4. Of this general fund appropriation, five million dollars ($5,000,000.00)
+14 is appropriated to the Wyoming works program account and all funds within the
+15 Wyoming works program account are appropriated and available for expenditure
+16 by the Wyoming community college commission as provided by the Wyoming works
+17 program.
+18
+19 5. Of this general fund appropriation, five hundred eighty-four thousand
+20 four hundred eighty-six dollars ($584,486.00) is appropriated to the Wyoming
+21 works student grant account and all funds within the Wyoming works student
+22 grant account are appropriated for distribution by the Wyoming community
+23 college commission as provided by the Wyoming works program.
+47 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1
+2 Section 060. STATE LANDS AND INVESTMENTS
+3 PROGRAM
+4 Operations 13,796,025 53,407,335 2,596,063 S1
+5 2,962,326 S4
+6 314,240 S5
+7 7,822,533 SR 80,898,522
+8 Forestry 1. 8,173,613 914,052 227,385 SR 9,315,050
+9 County Emergency Suppr. 20,000,000 12,124,796 SR 32,124,796
+10 Fire 2., 3., 4. 13,319,972 302,101 13,622,073
+11 Forestry Performance Acct. 80,000 SR 80,000
+12 Ranch A 16,000 SR 16,000
+13 Mineral Royalty Grants 5. 30,237,674 S4 30,237,674
+14 Federal Forestry Grants 6,939,060 6,939,060
+15 Fire Prot. Revolving Acct. 6. 26,415,498 SR 26,415,498
+16 Good Neighbor Authority 14,429,864 14,429,864
+17 Transp. Enterprise Fund 3,024,046 SR 3,024,046
+18 Farm Loan Reserve 5,000,000 SR 5,000,000
+19 TOTALS 55,289,610 75,992,412 90,820,561 222,102,583
+20
+48 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES 3., 4.
+2 Full Time 106
+3 Part Time 18
+4 TOTAL 124
+5
+6 1. The office of state lands and investments is authorized to hire up to one
+7 (1) additional at-will employee contract position within the forestry
+8 division only when federal funds are received that reimburse the state for
+9 one hundred percent (100%) of the costs of the position. In the event
+10 federal funding becomes unavailable to maintain one hundred percent (100%)
+11 reimbursement for a position filled pursuant to this footnote, the position
+12 shall be eliminated. The office of state lands and investments shall notify
+13 the joint appropriations committee of any position created or eliminated
+14 pursuant to this footnote through the B-11 process as authorized by W.S.
+15 9-2-1005(b)(ii) and reported pursuant to W.S. 9-2-1013(b).
+16
+17 2. Of this general fund appropriation, two million three hundred forty-one
+18 thousand six hundred forty-four dollars ($2,341,644.00) is appropriated, and
+19 two (2) full-time employee positions and ten (10) nine (9) month temporary
+20 full-time positions are authorized as seasonal, part-time positions for one
+21 (1) wildland fire module crew. This appropriation and the authorized
+22 positions are effective immediately. This appropriation shall not be
+23 effective if 2026 House Bill 0036 is enacted into law.
+24
+49 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 3. Of these authorized part-time employees, four (4) positions shall be
+2 temporary full-time positions authorized as seasonal part-time positions
+3 related to the state's single engine air tanker program.
+4
+5 4. Of this general fund appropriation, three hundred ninety thousand dollars
+6 ($390,000.00) is appropriated for firefighter paid leave and hazard pay.
+7 This appropriation is effective immediately. This appropriation shall only
+8 be effective if 2026 House Bill 0035 is not enacted into law.
+9
+10 5. Of this other funds appropriation, eleven million two hundred thousand
+11 dollars ($11,200,000.00)S4, or as much thereof as may be available, shall
+12 only be effective upon a successful federal coal lease auction in Wyoming and
+13 receipt by the state treasurer of the first annual bonus payment from the
+14 successful bidder.
+15
+16 6. The de minimis indirect cost rate the state of Wyoming charges the
+17 federal government for administrative overhead related to expenditures on
+18 wildland fires shall be adjusted to the federally approved de minimis rate of
+19 fifteen percent (15%), with the consent of the appropriate federal agency.
+20 All proceeds received from the difference between the previous rate and new
+21 rate shall be deposited into the fire protection revolving account.
+22
+50 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 063. GOVERNOR'S RESIDENCE
+2 PROGRAM
+3 Residence Operation 729,283 729,283
+4 TOTALS 729,283 0 0 729,283
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 2
+8 Part Time 0
+9 TOTAL 2
+10
+11 Section 066. WYOMING TOURISM BOARD
+12 PROGRAM
+13 Wyoming Tourism Board 40,102,837 S14
+14 23,600 SR 40,126,437
+15 TOTALS 0 0 40,126,437 40,126,437
+16
+17 AUTHORIZED EMPLOYEES
+18 Full Time 0
+19 Part Time 0
+20 TOTAL 0
+21
+51 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 067. UNIVERSITY OF WYOMING 1.
+2 PROGRAM
+3 State Aid 2., 3., 4., 5., 6., 7.,
+4 8. 369,785,349 369,785,349
+5 School of Energy Res. 9., 10. 33,197,808 33,197,808
+6 Tier 1 Engineering 18,584,703 18,584,703
+7 NCAR MOU 1,528,316 1,528,316
+8 Endowments & Matching 11. 2,500,000 2,500,000
+9 TOTALS 425,596,176 0 0 425,596,176
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 0
+13 Part Time 0
+14 TOTAL 0
+15
+16 1. (a) For the period beginning on the effective date of this footnote and
+17 ending June 30, 2028, and in addition to the requirements of W.S.
+18 21-16-1801(a), the University of Wyoming shall not expend any funds under its
+19 control for any of the following:
+20
+21 (i) Elective abortions for students;
+22
+23 (ii) Group health insurance that provides coverage of elective
+24 abortions for students.
+52 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1
+2 2. No funds from these appropriations shall be expended on Wyoming public
+3 media at the University of Wyoming.
+4
+5 3. This general fund appropriation shall be expended to fund the college of
+6 agriculture, life sciences and natural resources, the college of education,
+7 the Wyoming outdoor recreation tourism and hospitality institute, the center
+8 of innovation for flow through porous media and the high bay research
+9 facility at the University of Wyoming at the funding levels adopted for each
+10 entity's fiscal year 2026 operating budget, for the period beginning July 1,
+11 2026 and ending June 30, 2028. Any remaining amounts shall be allocated as
+12 otherwise determined by the University of Wyoming board of trustees. The
+13 University of Wyoming shall include a summary of all budget reductions
+14 adopted for fiscal year 2027 and fiscal year 2028, by college and operating
+15 unit of the University of Wyoming, in any budget request submitted under W.S.
+16 9-2-1013.
+17
+18 4. Of this general fund appropriation, one hundred thousand dollars
+19 ($100,000.00) is appropriated for an external financial and administrative
+20 audit and operational review by a qualified management consultant of
+21 expenditures of the center of innovation for flow through porous media and
+22 expenditures at the high bay research facility at the University of Wyoming.
+23 The University of Wyoming shall include a condensed summary of findings and
+53 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 recommendations from the audit and review in any budget request submitted
+2 under W.S. 9-2-1013. It is the intent of the legislature that this
+3 appropriation not be included in the University of Wyoming's standard budget
+4 for the immediately succeeding fiscal biennium. This appropriation shall not
+5 be transferred or expended for any other purpose.
+6
+7 5. From this general fund appropriation, the University of Wyoming shall
+8 offer optional training for all new and existing faculty and staff and
+9 mandatory orientation for all entering students on the history, purpose and
+10 mission of the federal land grant university system.
+11
+12 6. (a) Of this general fund appropriation, six million dollars
+13 ($6,000,000.00) is appropriated for equipment and construction expenditures
+14 related to career and technical education, subject to the following:
+15
+16 (i) The University of Wyoming shall explore the costs and
+17 benefits of locating career and technical education facilities both on and
+18 off campus for the lowest cost and most efficient outcomes;
+19
+20 (ii) Expenditures shall be limited to facilities, equipment and
+21 training for providing instruction to future career and technical education
+22 teachers;
+23
+54 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 (iii) It is the intent of the legislature that this
+2 appropriation not be included in the University of Wyoming's standard budget
+3 for the immediately succeeding fiscal biennium;
+4
+5 (iv) This appropriation shall not be transferred or expended for
+6 any other purpose.
+7
+8 7. Of this general fund appropriation, four hundred thousand dollars
+9 ($400,000.00) is appropriated to support the University of Wyoming rodeo
+10 team.
+11
+12 8. (a) Of this general fund appropriation, ten million dollars
+13 ($10,000,000.00) is appropriated to provide a state match for funds received
+14 by the University of Wyoming from athletic booster organizations and from
+15 persons donating funds to be used solely for athletic programs, subject to
+16 all of the following:
+17
+18 (i) The state treasurer shall retain this appropriation for
+19 distribution in accordance with the provisions of this footnote;
+20
+21 (ii) This appropriation shall be expended for the purposes of:
+22
+23 (A) Authorized recruitment of prospective student athletes
+55 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 to the University of Wyoming and expenses associated with participation in
+2 intercollegiate athletics including summer school attendance, nutrition,
+3 tutoring, team travel and costs directly related to participation in
+4 competition;
+5
+6 (B) Athletic training equipment.
+7
+8 (iii) No funds from this appropriation shall be expended for
+9 salaries or capital construction projects;
+10
+11 (iv) To the extent funds are available, this appropriation shall
+12 be matched on a quarterly basis by the state treasurer for each cash or cash
+13 equivalent contribution actually received by the University of Wyoming for
+14 the purposes specified in this footnote for the period beginning July 1, 2026
+15 and ending June 30, 2028 by distributing to the University of Wyoming an
+16 amount equal to the amount of qualifying contributions for the calendar
+17 quarter.
+18
+19 (b) The appropriation specified in subsection (a) of this footnote
+20 shall not be transferred or expended for any purpose not specified in this
+21 footnote and any unexpended, unobligated funds remaining from this
+22 appropriation shall revert as provided by law on June 30, 2028.
+23
+56 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 9. Of this general fund appropriation, two million ninety thousand dollars
+2 ($2,090,000.00) is effective immediately.
+3
+4 10. Of this general fund appropriation, ten million dollars ($10,000,000.00)
+5 is appropriated and conditioned upon matching funds in the ratio of one
+6 dollar ($1.00) of appropriated general funds to not less than one dollar
+7 ($1.00) of matching funds from any nonstate source for support for the school
+8 of energy resources' Wyoming energy-focused instruction, outreach and
+9 research programs. All proposed matches shall be reported to the management
+10 council of the legislature with a description of the matching funds along
+11 with the purpose and anticipated outcomes not less than ten (10) days before
+12 acceptance of the funds.
+13
+14 11. Of this general fund appropriation, two million five hundred thousand
+15 dollars ($2,500,000.00) is appropriated for the purpose of providing a state
+16 match for funds received by the University of Wyoming or donated funds to be
+17 used solely for support for excellence in research, education and extension
+18 in ranch and rangeland management, agronomy and soil science. Distribution of
+19 this appropriation is conditioned upon a match of funds in the ratio of one
+20 dollar ($1.00) of appropriated general funds to not less than one dollar
+21 ($1.00) of matching funds from any nonstate source. This appropriation shall
+22 be retained by the state treasurer for distribution in accordance with W.S.
+23 21-16-904. Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207, any
+57 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 unexpended, unobligated monies from this appropriation shall not revert until
+2 June 30, 2032. It is the intent of the legislature that this appropriation
+3 not be included in the University of Wyoming's standard budget for
+4 the immediately succeeding fiscal biennium. This appropriation shall not be
+5 transferred or expended for any other purpose.
+6
+7 Section 069. WICHE
+8 PROGRAM
+9 Administration & Grants 5,432,417 5,432,417
+10 TOTALS 5,432,417 0 0 5,432,417
+11
+12 AUTHORIZED EMPLOYEES
+13 Full Time 0
+14 Part Time 0
+15 TOTAL 0
+16
+17 Section 070. ENHANCED OIL RECOVERY COMM
+18 PROGRAM
+19 Commission & Support 1,000,792 1,000,792
+20 Tech. Outreach & Research 4,154,737 4,154,737
+21 TOTALS 5,155,529 0 0 5,155,529
+22
+58 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 0
+3 Part Time 0
+4 TOTAL 0
+5
+6 Section 072. RETIREMENT SYSTEM
+7 PROGRAM
+8 Administration 1. 23,095,468 PF 23,095,468
+9 Highway Patrol 15,301 SR 15,301
+10 Game & Fish-Wardens 20,952 SR 20,952
+11 Deferred Compensation 1,865,011 P2 1,865,011
+12 TOTALS 0 0 24,996,732 24,996,732
+13
+14 AUTHORIZED EMPLOYEES
+15 Full Time 50
+16 Part Time 0
+17 TOTAL 50
+18
+19 1. (a) The Wyoming retirement board, with the approval of the human
+20 resources division of the department of administration and information, may:
+21
+22 (i) Approve reclassifications from investment analyst to senior
+23 investment analyst and senior investment analyst to investment officer;
+24
+59 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 (ii) Adjust compensation within the classifications specified in
+2 paragraph (i) of this footnote based on an assessment of an employee's
+3 education, certification, demonstrated performance and potential for
+4 increased responsibility.
+5
+6 (b) Nothing in this footnote should be construed to modify the maximum
+7 annual salary limits provided in W.S. 9-3-406(f).
+8
+9 Section 077. ENTERPRISE TECHNOLOGY SERVICES
+10 PROGRAM
+11 Enterprise Operations 1., 2. 86,172,033 86,172,033
+12 IT Enhanced Services 3. 37,769,156 IS
+13 621,545 S0 38,390,701
+14 WUN Infrastructure 15,991,931 S5 15,991,931
+15 TOTALS 86,172,033 0 54,382,632 140,554,665
+16
+17 AUTHORIZED EMPLOYEES
+18 Full Time 237
+19 Part Time 1
+20 TOTAL 238
+21
+22 1. Of this general fund appropriation, seven hundred forty-three thousand
+23 five hundred twenty-four dollars ($743,524.00) is effective immediately.
+24
+60 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 2. Of this general fund appropriation, five million two hundred sixty-one
+2 thousand nine hundred thirty-four dollars ($5,261,934.00) is appropriated for
+3 compliance with the Americans with Disabilities Act, P.L. 101-336 as amended,
+4 to ensure all citizen-facing websites and web applications are accessible.
+5 The department of enterprise technology services shall seek grant funding
+6 from federal and other sources to the greatest extent possible. This
+7 appropriation shall be reduced in an amount equal to one dollar ($1.00) of
+8 appropriated general funds for each one dollar ($1.00) in grant funding
+9 received for the purposes of this footnote. This appropriation shall not be
+10 transferred or expended for any other purpose.
+11
+12 3. Of this other funds appropriation, six hundred twenty-one thousand five
+13 hundred forty-five dollars ($621,545.00)S0 or as much thereof as is available
+14 is appropriated from the depreciation reserve account for procurement of
+15 cloud services. It is the intent of the legislature that this appropriation
+16 not be included in the department of enterprise technology services' standard
+17 budget for the immediately succeeding fiscal biennium. This appropriation
+18 shall not be transferred or expended for any other purpose.
+19
+61 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 080. DEPARTMENT OF CORRECTIONS
+2 PROGRAM
+3 Administration Services 1.,
+4 2., 3. 22,771,377 198,932 5,344,661 EF
+5 1,552,829 SR 29,867,799
+6 Field Services 4. 36,648,353 173,482 5,004,763 TT 41,826,598
+7 Support Services 5., 6., 7. 87,541,728 100,000 1,398,146 SR
+8 4,263,454 TT 93,303,328
+9 Prison Division 8., 9. 178,424,258 174,207 EF
+10 1,656,765 IS
+11 362,594 SR 180,617,824
+12 TOTALS 325,385,716 472,414 19,757,419 345,615,549
+13
+14 AUTHORIZED EMPLOYEES
+15 Full Time 1,048
+16 Part Time 3
+17 TOTAL 1,051
+18
+19 1. Of this general fund appropriation, five hundred thousand dollars
+20 ($500,000.00) is for recruitment and retention efforts within the department
+21 of corrections, including moving expenses, housing costs at the law
+22 enforcement academy, career fairs, sign-on bonuses, accelerated background
+23 checks and site specific staff retention efforts. This appropriation shall
+24 not be transferred or expended for any other purpose.
+62 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1
+2 2. Of this general fund appropriation, nine million three hundred twelve
+3 thousand three hundred seventy-four dollars ($9,312,374.00) is effective
+4 immediately.
+5
+6 3. Of this general fund appropriation, seven hundred seventy-three thousand
+7 four hundred thirty-six dollars ($773,436.00) is effective immediately.
+8
+9 4. Of this general fund appropriation, two hundred fifty thousand dollars
+10 ($250,000.00) is appropriated for increased daily rates for placement of
+11 felony offenders in county jails.
+12
+13 5. Of this general fund appropriation, seven hundred seventy-nine thousand
+14 four hundred fourteen dollars ($779,414.00) is effective immediately.
+15
+16 6. Of this general fund appropriation, three million dollars ($3,000,000.00)
+17 is effective immediately.
+18
+19 7. Of this general fund appropriation, one million four hundred fifteen
+20 thousand one hundred forty-four dollars ($1,415,144.00) is effective
+21 immediately.
+22
+63 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 8. Of this general fund appropriation, seven million five hundred fifty-nine
+2 thousand ninety-four dollars ($7,559,094.00) is effective immediately.
+3
+4 9. Of this general fund appropriation, one million three hundred fifty-nine
+5 thousand three hundred eleven dollars ($1,359,311.00) is effective
+6 immediately.
+7
+8 Section 081. BOARD OF PAROLE
+9 PROGRAM
+10 Administration 1,766,697 1,766,697
+11 TOTALS 1,766,697 0 0 1,766,697
+12
+13 AUTHORIZED EMPLOYEES
+14 Full Time 6
+15 Part Time 0
+16 TOTAL 6
+17
+18 Section 085. WYOMING BUSINESS COUNCIL
+19 PROGRAM
+20 Wyoming Business Council 1. 2,000,000 2,000,000
+21 Economic Divers.
+22 Investment Ready Comm.
+23 TOTALS 2,000,000 0 0 2,000,000
+24
+64 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 0
+3 Part Time 0
+4 TOTAL 0
+5
+6 1. Of this general fund appropriation, two million dollars ($2,000,000.00)
+7 is appropriated to be administered by the state budget department to manage
+8 outstanding obligations, grants, loans and administrative expenses of the
+9 Wyoming business council. Of this general fund appropriation, two million
+10 dollars ($2,000,000.00) shall only be effective if 2026 Senate File 0065 is
+11 not enacted into law.
+12
+13 Section 090. WYOMING ENERGY AUTHORITY
+14 PROGRAM
+15 Administration 5,226,199 5,226,199
+16 TOTALS 5,226,199 0 0 5,226,199
+17
+18 AUTHORIZED EMPLOYEES
+19 Full Time 0
+20 Part Time 0
+21 TOTAL 0
+22
+65 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 091. WYOMING STABLE TOKEN COMMISSION
+2 PROGRAM
+3 Administration 1.
+4 TOTALS 0 0 0 0
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 0
+8 Part Time 0
+9 TOTAL 0
+10
+11 1. The legislature authorizes six (6) at-will employee contract positions in
+12 accordance with W.S. 9-2-3207(a)(xi)(F)(VI) for the Wyoming stable token
+13 commission for the period beginning July 1, 2026 and ending June 30, 2028.
+14
+15 Section 096. STATE BUDGET DEPARTMENT
+16 PROGRAM
+17 Administration 1. 3,420,688 3,420,688
+18 Grants Management Office 2. 4,551,086 4,551,086
+19 TOTALS 7,971,774 0 0 7,971,774
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 2. 12
+23 Part Time 0
+24 TOTAL 12
+25
+66 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 1. (a) Authorization for at-will employee contract positions supported by
+2 funds originating from section 9901 of the American Rescue Plan Act of 2021,
+3 P.L. 117-2, shall remain effective until the latter of:
+4
+5 (i) December 31, 2026;
+6
+7 (ii) The date of completion of any federally required reporting
+8 and audits; or
+9
+10 (iii) The date of any extension of federal expenditure deadlines
+11 under section 9901 of the American Rescue Plan Act of 2021, P.L. 117-2,
+12 enacted into law.
+13
+14 2. Of these full-time employees, two (2) full-time employees are transferred
+15 from the department of corrections.
+16
+17 Section 098. OFFICE OF GUARDIAN AD LITEM
+18 PROGRAM
+19 Guardian Ad Litem 1. 4,304,653 1,081,920 SR 5,386,573
+20 TOTALS 4,304,653 0 1,081,920 5,386,573
+21
+67 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 9
+3 Part Time 0
+4 TOTAL 9
+5
+6 1. In accordance with W.S. 14-12-103(b), the office of guardian ad litem
+7 shall separately charge participating counties for the calculated share of
+8 the cost of fiscal services provided by the accounting office within the
+9 department of administration and information. Any revenue received from
+10 these charges shall be deposited into the general fund.
+11
+68 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 101. SUPREME COURT
+2 PROGRAM
+3 Administration 14,052,880 754,096 4,287,729 SR 19,094,705
+4 Judicial Nominating Comm. 34,942 34,942
+5 Chancery Court 1,293,369 1,293,369
+6 Law Library 1,232,179 1,232,179
+7 Circuit Courts 1. 38,496,198 38,496,198
+8 Court Automation 8,524,151 9,406,007 SR 17,930,158
+9 Judicial Retirement 1,750,598 1,750,598
+10 Treatment Court 3,139,513 1,400,000 SR
+11 2,398,072 TT 6,937,585
+12 Branchwide Resources 1,153,923 1,153,923
+13 TOTALS 69,677,753 754,096 17,491,808 87,923,657
+14
+15 AUTHORIZED EMPLOYEES
+16 Full Time 217
+17 Part Time 21
+18 TOTAL 238
+19
+20 1. Of this general fund appropriation, the supreme court may transfer up to
+21 eighty-three thousand five hundred dollars ($83,500.00) to district courts
+22 for replacement of aging copiers. Any transfers of this appropriation shall
+23 not be subject to the maximum thresholds or reporting requirements prescribed
+24 in Section 306 of this act.
+69 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1
+2 Section 102. BOARD OF LAW EXAMINERS
+3 PROGRAM
+4 Administration 243,037 SR 243,037
+5 TOTALS 0 0 243,037 243,037
+6
+7 AUTHORIZED EMPLOYEES
+8 Full Time 0
+9 Part Time 0
+10 TOTAL 0
+11
+12 Section 103. COMM ON JUDICIAL CONDUCT & ETHICS
+13 PROGRAM
+14 Administration 1. 371,171 371,171
+15 TOTALS 371,171 0 0 371,171
+16
+17 AUTHORIZED EMPLOYEES
+18 Full Time 1
+19 Part Time 0
+20 TOTAL 1
+21
+22 1. Beginning July 1, 2027, no funds from this general fund appropriation
+23 shall be expended to acquire or continue use of word processing applications
+24 that are more than five (5) years old.
+25
+70 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 120. JUDICIAL DISTRICT 1A
+2 PROGRAM
+3 Administration 1,425,926 1,425,926
+4 TOTALS 1,425,926 0 0 1,425,926
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 4
+8 Part Time 0
+9 TOTAL 4
+10
+11 Section 121. JUDICIAL DISTRICT 1B
+12 PROGRAM
+13 Administration 1,317,869 1,317,869
+14 TOTALS 1,317,869 0 0 1,317,869
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 4
+18 Part Time 0
+19 TOTAL 4
+20
+71 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 122. JUDICIAL DISTRICT 2A
+2 PROGRAM
+3 Administration 1,402,302 1,402,302
+4 TOTALS 1,402,302 0 0 1,402,302
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 4
+8 Part Time 0
+9 TOTAL 4
+10
+11 Section 123. JUDICIAL DISTRICT 2B
+12 PROGRAM
+13 Administration 1,325,681 1,325,681
+14 TOTALS 1,325,681 0 0 1,325,681
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 4
+18 Part Time 0
+19 TOTAL 4
+20
+72 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 124. JUDICIAL DISTRICT 3B
+2 PROGRAM
+3 Administration 1,385,512 1,385,512
+4 TOTALS 1,385,512 0 0 1,385,512
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 4
+8 Part Time 0
+9 TOTAL 4
+10
+11 Section 125. JUDICIAL DISTRICT 3A
+12 PROGRAM
+13 Administration 1,399,822 1,399,822
+14 TOTALS 1,399,822 0 0 1,399,822
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 4
+18 Part Time 0
+19 TOTAL 4
+20
+21 Section 126. JUDICIAL DISTRICT 4A
+22 PROGRAM
+23 Administration 1,354,584 1,354,584
+24 TOTALS 1,354,584 0 0 1,354,584
+25
+73 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 4
+3 Part Time 0
+4 TOTAL 4
+5
+6 Section 127. JUDICIAL DISTRICT 5A
+7 PROGRAM
+8 Administration 1,355,115 1,355,115
+9 TOTALS 1,355,115 0 0 1,355,115
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 4
+13 Part Time 0
+14 TOTAL 4
+15
+16 Section 128. JUDICIAL DISTRICT 5B
+17 PROGRAM
+18 Administration 1,361,557 1,361,557
+19 TOTALS 1,361,557 0 0 1,361,557
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 4
+23 Part Time 0
+24 TOTAL 4
+25
+74 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 129. JUDICIAL DISTRICT 6A
+2 PROGRAM
+3 Administration 1,356,096 1,356,096
+4 TOTALS 1,356,096 0 0 1,356,096
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 4
+8 Part Time 0
+9 TOTAL 4
+10
+11 Section 130. JUDICIAL DISTRICT 7A
+12 PROGRAM
+13 Administration 1,452,401 1,452,401
+14 TOTALS 1,452,401 0 0 1,452,401
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 4
+18 Part Time 1
+19 TOTAL 5
+20
+21 Section 131. JUDICIAL DISTRICT 7B
+22 PROGRAM
+23 Administration 1,532,143 1,532,143
+24 TOTALS 1,532,143 0 0 1,532,143
+25
+75 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 4
+3 Part Time 1
+4 TOTAL 5
+5
+6 Section 132. JUDICIAL DISTRICT 9A
+7 PROGRAM
+8 Administration 1,371,526 1,371,526
+9 TOTALS 1,371,526 0 0 1,371,526
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 4
+13 Part Time 0
+14 TOTAL 4
+15
+16 Section 133. JUDICIAL DISTRICT 8A
+17 PROGRAM
+18 Administration 1,349,427 1,349,427
+19 TOTALS 1,349,427 0 0 1,349,427
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 4
+23 Part Time 0
+24 TOTAL 4
+25
+76 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 134. JUDICIAL DISTRICT 9B
+2 PROGRAM
+3 Administration 1,616,810 1,616,810
+4 TOTALS 1,616,810 0 0 1,616,810
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 4
+8 Part Time 0
+9 TOTAL 4
+10
+11 Section 135. JUDICIAL DISTRICT 6B
+12 PROGRAM
+13 Administration 1,322,372 1,322,372
+14 TOTALS 1,322,372 0 0 1,322,372
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 4
+18 Part Time 0
+19 TOTAL 4
+20
+21 Section 136. JUDICIAL DISTRICT 8B
+22 PROGRAM
+23 Administration 1,335,901 1,335,901
+24 TOTALS 1,335,901 0 0 1,335,901
+25
+77 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 4
+3 Part Time 0
+4 TOTAL 4
+5
+6 Section 137. JUDICIAL DISTRICT 1C
+7 PROGRAM
+8 Administration 1,555,804 1,555,804
+9 TOTALS 1,555,804 0 0 1,555,804
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 5
+13 Part Time 0
+14 TOTAL 5
+15
+16 Section 138. JUDICIAL DISTRICT 3C
+17 PROGRAM
+18 Administration 1,371,626 1,371,626
+19 TOTALS 1,371,626 0 0 1,371,626
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 4
+23 Part Time 0
+24 TOTAL 4
+25
+78 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 139. JUDICIAL DISTRICT 7C
+2 PROGRAM
+3 Administration 1,392,906 1,392,906
+4 TOTALS 1,392,906 0 0 1,392,906
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 4
+8 Part Time 0
+9 TOTAL 4
+10
+11 Section 140. JUDICIAL DISTRICT 6C
+12 PROGRAM
+13 Administration 1,381,128 1,381,128
+14 TOTALS 1,381,128 0 0 1,381,128
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 4
+18 Part Time 0
+19 TOTAL 4
+20
+21 Section 141. JUDICIAL DISTRICT 9C
+22 PROGRAM
+23 Administration 1,307,284 1,307,284
+24 TOTALS 1,307,284 0 0 1,307,284
+25
+79 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 4
+3 Part Time 0
+4 TOTAL 4
+5
+6 Section 142. JUDICIAL DISTRICT 4B
+7 PROGRAM
+8 Administration 1,250,514 1,250,514
+9 TOTALS 1,250,514 0 0 1,250,514
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 4
+13 Part Time 0
+14 TOTAL 4
+15
+16 Section 143. JUDICIAL DISTRICT 1D
+17 PROGRAM
+18 Administration 1,326,803 1,326,803
+19 TOTALS 1,326,803 0 0 1,326,803
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 4
+23 Part Time 0
+24 TOTAL 4
+25
+80 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 144. JUDICIAL DISTRICT 7D
+2 PROGRAM
+3 Administration 1,333,903 1,333,903
+4 TOTALS 1,333,903 0 0 1,333,903
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 4
+8 Part Time 0
+9 TOTAL 4
+10
+11 Section 145. JUDICIAL DISTRICT 3D
+12 PROGRAM
+13 Administration 1,343,842 1,343,842
+14 TOTALS 1,343,842 0 0 1,343,842
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 4
+18 Part Time 0
+19 TOTAL 4
+20
+21 Section 146. JUDICIAL DISTRICT 6D
+22 PROGRAM
+23 Administration 1,374,252 1,374,252
+24 TOTALS 1,374,252 0 0 1,374,252
+25
+81 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 4
+3 Part Time 0
+4 TOTAL 4
+5
+6 Section 151. DISTRICT ATTORNEY/JUD DIST #1
+7 PROGRAM
+8 Administration 5,918,081 718,561 SR 6,636,642
+9 TOTALS 5,918,081 0 718,561 6,636,642
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 24
+13 Part Time 0
+14 TOTAL 24
+15
+16 Section 157. DISTRICT ATTORNEY/JUD DIST #7
+17 PROGRAM
+18 Administration 6,369,152 289,392 SR 6,658,544
+19 TOTALS 6,369,152 0 289,392 6,658,544
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 24
+23 Part Time 0
+24 TOTAL 24
+25
+82 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 160. COUNTY & PROS ATTORNEYS
+2 PROGRAM
+3 Administration 1. 9,780,000 9,780,000
+4 TOTALS 9,780,000 0 0 9,780,000
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 0
+8 Part Time 0
+9 TOTAL 0
+10
+11 1. (a) Of this general fund appropriation, in addition to amounts specified
+12 under W.S. 18-3-107(f):
+13
+14 (i) Four hundred sixty-four thousand six hundred two dollars
+15 ($464,602.00) is appropriated for each fiscal year for the period beginning
+16 July 1, 2026 and ending June 30, 2028 to provide increased state
+17 contributions to counties for compensation of elected county and prosecuting
+18 attorneys and shall be distributed proportionally among each of the twenty-
+19 one (21) participating counties;
+20
+21 (ii) One million thirty-five thousand three hundred ninety-eight
+22 dollars ($1,035,398.00) is appropriated for each fiscal year for the period
+23 beginning July 1, 2026 and ending June 30, 2028 to provide increased state
+24 contributions to counties for compensation of assistant county and
+83 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 prosecuting attorneys and shall be distributed in proportion to the state
+2 payments specified in W.S. 18-3-107(f) for assistant county and prosecuting
+3 attorneys.
+4
+5 Section 205. EDUCATION-SCHOOL FINANCE
+6 PROGRAM
+7 School Foundation Program 2,165,378,262 S5 2,165,378,262
+8 Court Ordered Placements 17,183,639 S5 17,183,639
+9 Foundation-Specials 5,765,000 S5 5,765,000
+10 TOTALS 0 0 2,188,326,901 2,188,326,901
+11
+12 AUTHORIZED EMPLOYEES
+13 Full Time 0
+14 Part Time 0
+15 TOTAL 0
+16
+84 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 206. DEPARTMENT OF EDUCATION
+2 PROGRAM
+3 Education Boards 1. 205,261 719,112 S5
+4 507,043 SR 1,431,416
+5 Leadership, Finance & IT 11,041,428 17,179 5,703,651 S5
+6 400,000 SR 17,162,258
+7 Accountability & Commun. 901,271 32,799,740 9,587,551 S5
+8 210,894 SR
+9 1,000 T0 43,500,456
+10 School Support 2., 3. 5,123,514 317,025,857 2,280,086 S5
+11 5,692,747 SR
+12 468,495 T0 330,590,699
+13 TOTALS 17,271,474 349,842,776 25,570,579 392,684,829
+14
+15 AUTHORIZED EMPLOYEES
+16 Full Time 116
+17 Part Time 2
+18 TOTAL 118
+19
+20 1. Of this other funds appropriation, four hundred seven thousand one
+21 hundred fifteen dollars ($407,115.00)SR is provided for compensation for the
+22 position of executive director for the Wyoming charter school authorizing
+23 board. Upon the next vacancy of the position of executive director for the
+24 Wyoming charter school authorizing board, the Wyoming charter school
+85 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 authorizing board shall request a reclassification of the position by the
+2 human resources division of the department of administration and information
+3 to align the compensation and pay bands commensurate with the duties of the
+4 position and comparable executive level positions within the department of
+5 education with similar roles and responsibilities. This appropriation shall
+6 not be transferred or expended for any other purpose.
+7
+8 2. Of this general fund appropriation, three hundred thousand dollars
+9 ($300,000.00) is appropriated for state-funded farm to school grants to
+10 increase local food procurement. It is the intent of the legislature that
+11 this appropriation be included in the department of education's standard
+12 budget for the immediately succeeding fiscal biennium. This appropriation
+13 shall not be transferred or expended for any other purpose.
+14
+15 3. Of this general fund appropriation, fifty thousand dollars ($50,000.00)
+16 is appropriated to pay for processing costs for Wyoming poultry, lamb, pork,
+17 beef or bison donated to a school district to be used in school meals.
+18 Expenditures authorized in this footnote shall be made only if an equal
+19 amount of funding has been contributed by a local school district for the
+20 processing costs of the donated Wyoming poultry, lamb, pork, beef or bison.
+21 The department shall endeavor to provide funding to as many school districts
+22 as possible under this footnote and participation in the federal school lunch
+23 program shall not be used as a limiting criterion for the distribution of
+86 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 these funds. To the extent all funds from this appropriation are expended,
+2 the department of education shall identify and expend any additional funds
+3 appropriated in this section for continuation of the expenditures under this
+4 footnote.
+5
+6 Section 211. BOARD OF EQUALIZATION
+7 PROGRAM
+8 Equalization/Tax Appeals 1,795,310 1,795,310
+9 TOTALS 1,795,310 0 0 1,795,310
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 5
+13 Part Time 0
+14 TOTAL 5
+15
+16 Section 220. ENVIRONMENTAL QUALITY COUNCIL
+17 PROGRAM
+18 Administration 610,603 610,603
+19 TOTALS 610,603 0 0 610,603
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 2
+23 Part Time 0
+24 TOTAL 2
+25
+87 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 270. OFFICE OF ADMINISTRATIVE HEARINGS
+2 PROGRAM
+3 Administration 4,691,869 SR 4,691,869
+4 TOTALS 0 0 4,691,869 4,691,869
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 12
+8 Part Time 0
+9 TOTAL 12
+10
+11 Section 012. BOARD OF ARCHITECTS AND LANDSCAPE ARCHITECTS
+12 PROGRAM
+13 Administration 243,349 SR 243,349
+14 TOTALS 0 0 243,349 243,349
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 0
+18 Part Time 0
+19 TOTAL 0
+20
+21 Section 016. BOARD OF BARBER EXAMINERS
+22 PROGRAM
+23 Administration 57,711 SR 57,711
+24 TOTALS 0 0 57,711 57,711
+25
+88 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 0
+3 Part Time 0
+4 TOTAL 0
+5
+6 Section 017. BOARD OF RADIOLOGIC TECHNOLOGISTS EXAMINERS
+7 PROGRAM
+8 Administration 101,905 SR 101,905
+9 TOTALS 0 0 101,905 101,905
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 0
+13 Part Time 0
+14 TOTAL 0
+15
+16 Section 018. REAL ESTATE COMMISSION
+17 PROGRAM
+18 Administration 1,474,948 SR 1,474,948
+19 Real Estate Recovery 10,047 SR 10,047
+20 Real Estate Education 81,771 SR 81,771
+21 Real Estate Appraiser 314,360 SR 314,360
+22 Appraiser Education 29,133 SR 29,133
+23 Appraisal Management 429,914 SR 429,914
+24 TOTALS 0 0 2,340,173 2,340,173
+25
+89 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 6
+3 Part Time 0
+4 TOTAL 6
+5
+6 Section 019. PROFESSIONAL TEACHING STANDARDS BOARD
+7 PROGRAM
+8 Prof. Teaching Stds. Board 2,341,039 SR 2,341,039
+9 TOTALS 0 0 2,341,039 2,341,039
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 8
+13 Part Time 0
+14 TOTAL 8
+15
+16 Section 022. BOARD FOR RESPIRATORY CARE
+17 PROGRAM
+18 Administration 79,528 SR 79,528
+19 TOTALS 0 0 79,528 79,528
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 0
+23 Part Time 0
+24 TOTAL 0
+25
+90 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 028. BOARD OF REGISTRATION IN PODIATRY
+2 PROGRAM
+3 Administration 33,957 SR 33,957
+4 TOTALS 0 0 33,957 33,957
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 0
+8 Part Time 0
+9 TOTAL 0
+10
+11 Section 030. BOARD OF CHIROPRACTIC EXAMINERS
+12 PROGRAM
+13 Administration 165,430 SR 165,430
+14 TOTALS 0 0 165,430 165,430
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 0
+18 Part Time 0
+19 TOTAL 0
+20
+21 Section 031. COLLECTION AGENCY BOARD
+22 PROGRAM
+23 Administration 235,071 SR 235,071
+24 TOTALS 0 0 235,071 235,071
+25
+91 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 0
+3 Part Time 0
+4 TOTAL 0
+5
+6 Section 033. BOARD OF COSMETOLOGY
+7 PROGRAM
+8 Administration 1,215,685 SR 1,215,685
+9 TOTALS 0 0 1,215,685 1,215,685
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 4
+13 Part Time 0
+14 TOTAL 4
+15
+16 Section 034. BOARD OF DENTAL EXAMINERS
+17 PROGRAM
+18 Administration 392,180 SR 392,180
+19 TOTALS 0 0 392,180 392,180
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 0
+23 Part Time 0
+24 TOTAL 0
+25
+92 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 035. BOARD OF FUNERAL SERVICE PRACTITIONERS
+2 PROGRAM
+3 Administration 100,598 SR 100,598
+4 TOTALS 0 0 100,598 100,598
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 0
+8 Part Time 0
+9 TOTAL 0
+10
+11 Section 036. BOARD OF MIDWIFERY
+12 PROGRAM
+13 Administration 34,877 SR 34,877
+14 TOTALS 0 0 34,877 34,877
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 0
+18 Part Time 0
+19 TOTAL 0
+20
+21 Section 038. WYOMING GAMING COMMISSION
+22 PROGRAM
+23 Administration 1. 6,087,915 SR 6,087,915
+24 TOTALS 0 0 6,087,915 6,087,915
+25
+93 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 15
+3 Part Time 2
+4 TOTAL 17
+5
+6 1. Pursuant to W.S. 11-25-201(j), Wyoming gaming commission expenditures for
+7 breeder awards are authorized by the legislature for the period beginning
+8 July 1, 2026 and ending June 30, 2028.
+9
+10 Section 043. DIETETICS LICENSING BOARD
+11 PROGRAM
+12 Administration 51,188 SR 51,188
+13 TOTALS 0 0 51,188 51,188
+14
+15 AUTHORIZED EMPLOYEES
+16 Full Time 0
+17 Part Time 0
+18 TOTAL 0
+19
+20 Section 046. WYOMING COMBAT SPORTS COMMISSION
+21 PROGRAM
+22 Administration 68,618 SR 68,618
+23 TOTALS 0 0 68,618 68,618
+24
+94 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 0
+3 Part Time 0
+4 TOTAL 0
+5
+6 Section 052. BOARD OF MEDICINE
+7 PROGRAM
+8 Administration 1. 3,743,513 SR 3,743,513
+9 TOTALS 0 0 3,743,513 3,743,513
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 7
+13 Part Time 0
+14 TOTAL 7
+15
+16 1. Of this other funds appropriation, seven hundred ten thousand twenty-four
+17 dollars ($710,024.00)SR is effective immediately.
+18
+19 Section 054. BOARD OF NURSING
+20 PROGRAM
+21 Administration 3,494,590 SR 3,494,590
+22 TOTALS 0 0 3,494,590 3,494,590
+23
+95 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 10
+3 Part Time 0
+4 TOTAL 10
+5
+6 Section 056. BOARD OF EXAMINERS IN OPTOMETRY
+7 PROGRAM
+8 Administration 115,633 SR 115,633
+9 TOTALS 0 0 115,633 115,633
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 0
+13 Part Time 0
+14 TOTAL 0
+15
+16 Section 058. BOARD OF EXAMINERS OF SPEECH-LANGUAGE PATHOLOGY & AUDIOLOGY
+17 PROGRAM
+18 Administration 126,217 SR 126,217
+19 TOTALS 0 0 126,217 126,217
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 0
+23 Part Time 0
+24 TOTAL 0
+25
+96 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 059. BOARD OF PHARMACY
+2 PROGRAM
+3 Licensing Board 2,194,817 SR 2,194,817
+4 TOTALS 0 0 2,194,817 2,194,817
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 6
+8 Part Time 0
+9 TOTAL 6
+10
+11 Section 061. BOARD OF CERTIFIED PUBLIC ACCOUNTANTS
+12 PROGRAM
+13 Administration 837,375 SR 837,375
+14 TOTALS 0 0 837,375 837,375
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 2
+18 Part Time 0
+19 TOTAL 2
+20
+21 Section 062. BOARD OF PHYSICAL THERAPY
+22 PROGRAM
+23 Administration 177,607 SR 177,607
+24 TOTALS 0 0 177,607 177,607
+25
+97 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 0
+3 Part Time 0
+4 TOTAL 0
+5
+6 Section 064. BOARD OF HEARING AID SPECIALISTS
+7 PROGRAM
+8 Administration 38,175 SR 38,175
+9 TOTALS 0 0 38,175 38,175
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 0
+13 Part Time 0
+14 TOTAL 0
+15
+16 Section 065. BOARD OF ATHLETIC TRAINERS
+17 PROGRAM
+18 Administration 31,812 SR 31,812
+19 TOTALS 0 0 31,812 31,812
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 0
+23 Part Time 0
+24 TOTAL 0
+25
+98 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 068. BOARD OF PSYCHOLOGY
+2 PROGRAM
+3 Administration 197,527 SR 197,527
+4 TOTALS 0 0 197,527 197,527
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 0
+8 Part Time 0
+9 TOTAL 0
+10
+11 Section 075. BOARD OF OUTFITTERS AND GUIDES
+12 PROGRAM
+13 Administration 993,240 SR 993,240
+14 TOTALS 0 0 993,240 993,240
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 3
+18 Part Time 0
+19 TOTAL 3
+20
+21 Section 078. MENTAL HEALTH PROFESSIONS LICENSING BOARD
+22 PROGRAM
+23 Administration 713,169 SR 713,169
+24 TOTALS 0 0 713,169 713,169
+25
+99 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 0
+3 Part Time 0
+4 TOTAL 0
+5
+6 Section 079. BOARD OF NURSING HOME ADMINISTRATORS
+7 PROGRAM
+8 Administration 64,685 SR 64,685
+9 TOTALS 0 0 64,685 64,685
+10
+11 AUTHORIZED EMPLOYEES
+12 Full Time 0
+13 Part Time 0
+14 TOTAL 0
+15
+16 Section 083. BOARD OF OCCUPATIONAL THERAPY
+17 PROGRAM
+18 Administration 149,051 SR 149,051
+19 TOTALS 0 0 149,051 149,051
+20
+21 AUTHORIZED EMPLOYEES
+22 Full Time 0
+23 Part Time 0
+24 TOTAL 0
+25
+100 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 084. BOARD OF PROFESSIONAL GEOLOGISTS
+2 PROGRAM
+3 Administration 234,438 SR 234,438
+4 TOTALS 0 0 234,438 234,438
+5
+6 AUTHORIZED EMPLOYEES
+7 Full Time 0
+8 Part Time 0
+9 TOTAL 0
+10
+11 Section 251. BOARD OF VETERINARY MEDICINE
+12 PROGRAM
+13 Administration 152,072 SR 152,072
+14 TOTALS 0 0 152,072 152,072
+15
+16 AUTHORIZED EMPLOYEES
+17 Full Time 0
+18 Part Time 0
+19 TOTAL 0
+20
+21 Section 252. BOARD OF ACUPUNCTURE
+22 PROGRAM
+23 Administration 51,812 SR 51,812
+24 TOTALS 0 0 51,812 51,812
+25
+101 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 AUTHORIZED EMPLOYEES
+2 Full Time 0
+3 Part Time 0
+4 TOTAL 0
+5
+102 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 [BUDGET BALANCERS - TRANSFERS]
+2
+3 Section 300.
+4
+5 (a) The state auditor shall transfer any unappropriated funds in the
+6 general fund on June 30, 2026 in excess of one hundred ninety-two million
+7 seven hundred sixty-five thousand dollars ($192,765,000.00) to the
+8 legislative stabilization reserve account.
+9
+10 (b) The state auditor shall transfer a total of one hundred thirty-
+11 eight million nine hundred seventy-four thousand six hundred eighty-eight
+12 dollars ($138,974,688.00) from the strategic investments and projects account
+13 to the general fund in one (1) or more transfers. Any amounts transferred to
+14 the general fund under this subsection prior to June 30, 2026 shall be exempt
+15 from the transfer of funds to the legislative stabilization reserve account
+16 as required by 2024 Wyoming Session Laws, Chapter 118, Section 300(b). This
+17 subsection is effective immediately.
+18
+19 (c) The state auditor shall transfer forty-four million three hundred
+20 forty-eight thousand one hundred thirty-one dollars ($44,348,131.00) from the
+21 general fund to the legislative stabilization reserve account.
+22
+23 [BORROWING AUTHORITY - CASH FLOW AND EXECUTIVE PROGRAMS]
+24
+25 Section 301.
+26
+103 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (a) The state auditor is authorized to borrow from the legislative
+2 stabilization reserve account amounts necessary to assist the state's general
+3 fund cash flow. The amounts borrowed shall be repaid when sufficient general
+4 fund revenue is available. The auditor shall borrow funds under this
+5 subsection only to assist the month-to-month cash flow of the general fund
+6 and shall not borrow funds under this subsection when total appropriations
+7 together with outstanding encumbrances and obligations for the biennium
+8 exceed projected revenues for the biennium.
+9
+10 (b) The governor is authorized to borrow from the legislative
+11 stabilization reserve account up to thirty million dollars ($30,000,000.00)
+12 as necessary to meet funding requirements to fight wildfires in the event
+13 reserve funds in the office of state lands and investments' forestry division
+14 have been exhausted. The governor shall report to the joint appropriations
+15 committee, the president of the senate and the speaker of the house of
+16 representatives immediately upon exercise of this authority.
+17
+18 [STATE MILITARY DEPARTMENT LANDS – FIRE SUPPRESSION]
+19
+20 Section 302.
+21
+22 (a) The governor is authorized to reimburse the costs of suppressing
+23 fires that burn on, have burned on, originate on or have originated on any
+24 state lands managed by the military department, subject to the requirements
+25 of this section.
+26
+104 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (b) No reimbursement shall be made under this section except upon the
+2 written approval of the state forester. The governor and the state forester
+3 may consult with the adjutant general as necessary to implement this section.
+4
+5 (c) The governor shall, for the period beginning July 1, 2026 and
+6 ending June 30, 2028, reimburse fire suppression costs under this section in
+7 accordance with all of the following:
+8
+9 (i) The governor shall reimburse costs from the fire protection
+10 revolving account created by W.S. 36-2-109;
+11
+12 (ii) If insufficient funds are available in the fire protection
+13 revolving account for reimbursement, the governor may reimburse costs from
+14 the amount appropriated to the governor for public welfare emergencies under
+15 W.S. 9-2-1014.3;
+16
+17 (iii) If insufficient funds are available in the fire protection
+18 revolving account and from the appropriation for public welfare emergencies
+19 under W.S. 9-2-1014.3 for reimbursement, the governor may borrow funds from
+20 the legislative stabilization reserve account in an amount not to exceed
+21 twenty million dollars ($20,000,000.00);
+22
+23 (iv) No entity receiving a reimbursement for fire suppression
+24 costs under another provision of law or from another source of funds shall
+25 receive a reimbursement under this section.
+26
+105 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (d) Reimbursements under this section shall be made only for the
+2 purposes specified in this section and shall not exceed the actual costs of
+3 suppressing fires as specified in this section.
+4
+5 [CARRYOVER APPROPRIATIONS]
+6
+7 Section 303.
+8
+9 [WILD HORSE AND BURRO MANAGEMENT]
+10
+11 (a) Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207, of
+12 unexpended, unobligated monies appropriated from the general fund to the
+13 governor's office under 2024 Wyoming Session Laws, Chapter 118, Section 2,
+14 Section 001 for wild horse and burro management (unit 0128), up to seven
+15 hundred thousand dollars ($700,000.00), or as much thereof as is available,
+16 shall not revert on June 30, 2026 and are hereby reappropriated to the
+17 governor's office for wild horse and burro management on the Wind River
+18 Indian Reservation. Of this general fund reappropriation, any funds expended
+19 for wild horse or burro management on the Wind River Indian Reservation are
+20 conditioned upon matching funds in the ratio of one dollar ($1.00) of
+21 appropriated general funds to not less than one dollar ($1.00) of matching
+22 funds from any funds provided by the Eastern Shoshone Tribe, the Northern
+23 Arapaho Tribe or the cooperative tribal governing body.
+24
+25 [DISASTER CONTINGENCY]
+26
+106 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (b) Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207, of
+2 unexpended, unobligated monies appropriated or reappropriated from the
+3 general fund to the governor's office under 2022 Wyoming Session Laws,
+4 Chapter 51, Section 2, Section 001, as amended by 2023 Wyoming Session Laws,
+5 Chapter 94, Section 2, Section 001 and 2024 Wyoming Session Laws, Chapter
+6 118, Section 2, Section 001 for disaster contingency, up to one million two
+7 hundred sixty-three thousand nine hundred sixty-six dollars ($1,263,966.00),
+8 or as much thereof as is available, shall not revert on June 30, 2026 and are
+9 hereby reappropriated to the governor's office for disaster contingency.
+10
+11 [STATE CAPITOL - WEEKENDS AND SPECIAL EVENTS]
+12
+13 (c) Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207, of
+14 unexpended, unobligated monies appropriated from the general fund to the
+15 department of administration and information under 2024 Wyoming Session Laws,
+16 Chapter 118, Section 2, Section 006 in the original amount of three hundred
+17 fifty thousand dollars ($350,000.00), up to two hundred seven thousand
+18 dollars ($207,000.00), or as much thereof as is available, shall not revert
+19 on June 30, 2026 and are hereby reappropriated to the capitol square
+20 preservation account for expenditures subject to W.S. 9-4-225. This
+21 appropriation to the capitol square preservation account is to ensure that
+22 the Wyoming capitol building is open to the public for special events and
+23 during the summer on Saturdays and for extended weekday hours. This
+24 reappropriation shall not be transferred or expended for any other purpose.
+25
+26 [WYOMING STABLE TOKEN COMMISSION]
+27
+107 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (d) Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207, of
+2 unexpended, unobligated monies appropriated from the general fund to the
+3 Wyoming stable token commission under 2023 Wyoming Session Laws, Chapter 185,
+4 Section 4 and 2024 Wyoming Session Laws, Chapter 118, Section 2, Section 091
+5 for operations of the Wyoming stable token commission, up to three million
+6 eight hundred thousand dollars ($3,800,000.00), or as much thereof as is
+7 available, shall not revert on June 30, 2026 and are hereby reappropriated to
+8 the Wyoming stable token commission. The Wyoming stable token commission
+9 shall endeavor to contract with Wyoming domiciled entities when conducting
+10 business funded by the reappropriation to the Wyoming stable token commission
+11 in this section.
+12
+13 [ENHANCED OIL RECOVERY COMMISSION]
+14
+15 (e) Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207, of
+16 unexpended, unobligated monies appropriated from the general fund to the
+17 enhanced oil recovery commission under 2024 Wyoming Session Laws, Chapter
+18 118, Section 2, Section 070, up to one hundred thousand dollars
+19 ($100,000.00), or as much thereof as is available, shall not revert on June
+20 30, 2026 and are hereby reappropriated to the enhanced oil recovery
+21 commission solely for purposes of projects.
+22
+23 [SECTION EFFECTIVE DATE]
+24
+25 (f) This section is effective immediately.
+26
+27 [EMPLOYEE BENEFITS]
+108 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 Section 304.
+3
+4 (a) The state's contribution to the state employees' and officials'
+5 group insurance plan under W.S. 9-3-210 for each qualifying executive,
+6 judicial and legislative branch employee, including employees of the
+7 University of Wyoming and the community colleges, shall be paid from amounts
+8 appropriated in agency budgets in the following amounts for the specified
+9 time periods:
+10
+11 (i) For the period beginning December 1, 2026 and ending
+12 November 30, 2027, an amount to be determined by the employees' group
+13 insurance section of the department of administration and information but not
+14 to exceed:
+15
+16 (A) One thousand two hundred twenty-one dollars
+17 ($1,221.00) per month for an employee electing single coverage;
+18
+19 (B) Two thousand four hundred forty-three dollars
+20 ($2,443.00) per month for an employee electing employee plus dependent spouse
+21 coverage;
+22
+23 (C) One thousand eight hundred sixty dollars ($1,860.00)
+24 per month for an employee electing employee plus dependent children coverage;
+25
+26 (D) Two thousand eight hundred dollars ($2,800.00) per
+27 month for an employee electing family coverage;
+109 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 (E) One thousand four hundred ten dollars ($1,410.00) per
+3 month for employees who elect family coverage when both spouses are employees
+4 of covered entities creating a split family coverage.
+5
+6 (ii) For the period beginning December 1, 2027 and ending
+7 November 30, 2028 an amount to be determined by the employees' group
+8 insurance section of the department of administration and information but not
+9 to exceed:
+10
+11 (A) One thousand three hundred twenty-three dollars
+12 ($1,323.00) per month for an employee electing single coverage;
+13
+14 (B) Two thousand six hundred forty-eight dollars
+15 ($2,648.00) per month for an employee electing employee plus dependent spouse
+16 coverage;
+17
+18 (C) Two thousand fifteen dollars ($2,015.00) per month for
+19 an employee electing employee plus dependent children coverage;
+20
+21 (D) Three thousand thirty-six dollars ($3,036.00) per
+22 month for an employee electing family coverage;
+23
+24 (E) One thousand five hundred twenty-eight dollars
+25 ($1,528.00) per month for employees who elect family coverage when both
+26 spouses are employees of covered entities creating a split family coverage.
+27
+110 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (b) There is appropriated two million one hundred eighty-eight
+2 thousand five hundred twenty-four dollars ($2,188,524.00) from the general
+3 fund to the state auditor for the period beginning July 1, 2026 and ending
+4 June 30, 2028 to be expended only for health insurance benefits for
+5 executive, legislative and judicial branch agency retirees, including
+6 retirees of the University of Wyoming and the community colleges, who
+7 participate in the state employees' and officials' group insurance plan, and
+8 whose date of retirement was prior to July 1, 2008. Payments to the plan on
+9 behalf of eligible retirees shall be made monthly at the rate of eleven
+10 dollars and fifty cents ($11.50) per year of service up to a maximum of
+11 thirty (30) years of service for those retirees who are not Medicare
+12 eligible, and at the rate of five dollars and seventy-five cents ($5.75) per
+13 year of service up to a maximum of thirty (30) years of service for those
+14 retirees who are Medicare eligible.
+15
+16 (c) Sufficient monies in the retirees prefunded health insurance trust
+17 (fund 561) are appropriated to the state auditor and shall be used for the
+18 purpose of funding the benefits in the same manner and amounts as provided in
+19 subsection (b) of this section for retirees whose effective date of
+20 retirement is July 1, 2008 or later. All investment earnings on the retirees
+21 prefunded health insurance trust (fund 561) shall remain in the fund.
+22
+23 (d) Provided sufficient funds are available, employees whose benefits
+24 are paid from nongeneral fund sources shall receive the same benefits as
+25 provided in this section.
+26
+27 (e) If sufficient funds are not available for obligations under
+111 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 subsections (b) through (d) of this section, payments to eligible retirees
+2 shall be reduced proportionally.
+3
+4 (f) The appropriations in this section shall not be transferred or
+5 expended for any other purpose.
+6
+7 (g) It is the intent of the legislature that the appropriation in
+8 subsection (b) of this section, adjusted by the number of eligible
+9 participants, shall be included in the state auditor's standard budget for
+10 the immediately succeeding fiscal biennium. All state agencies, including the
+11 University of Wyoming, the community colleges and the legislative and
+12 judicial branches, shall include in standard budget requests for the
+13 immediately succeeding fiscal biennium sufficient amounts to be deposited
+14 into the retiree health insurance benefits account created by 2008 Wyoming
+15 Session Laws, Chapter 48, Section 303. Amounts to include in the standard
+16 budget requests shall be equal to up to one percent (1%) of each benefit
+17 eligible employee's salary for each pay period sufficient to continue
+18 benefits in subsections (c) and (d) of this section for fiscal years 2027 and
+19 2028, as established by the department of administration and information.
+20
+21 [FLEX - EXECUTIVE]
+22
+23 Section 305.
+24
+25 (a) Excluding appropriations to the University of Wyoming and
+26 authorization of University of Wyoming positions and notwithstanding any
+27 provision of W.S. 9-2-1005(a) to the contrary, the governor is authorized to
+112 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 transfer:
+2
+3 (i) Between programs within any executive branch agency,
+4 excluding the department of environmental quality, department of health and
+5 department of corrections, ten percent (10%) of the total appropriation for
+6 the agency;
+7
+8 (ii) Between programs within the department of environmental
+9 quality, department of health and department of corrections, one hundred
+10 percent (100%) of the total appropriation for the agency;
+11
+12 (iii) Between executive branch agencies, five percent (5%) of
+13 the total appropriation for the agency from which the funds are transferred;
+14
+15 (iv) Between programs within any executive branch agency, or
+16 between executive branch agencies, legislatively authorized full-time or
+17 part-time positions.
+18
+19 (b) All transfers authorized under this section shall be approved by
+20 the governor and reported to the joint appropriations committee through the
+21 B-11 process as authorized by W.S. 9-2-1005(b)(ii) and reported pursuant to
+22 W.S. 9-2-1013(b).
+23
+24 (c) The authority granted under this section is effective for the
+25 period beginning on the effective date of this section and ending June 30,
+26 2028.
+27
+113 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (d) Any provision of this act or any other legislation enacted that
+2 specifies that an appropriation shall not be transferred or expended for any
+3 other purpose, or containing language of like effect, or specifying a
+4 position within an agency shall prevail over this section and no such funds
+5 so appropriated or positions so specified shall be subject to subsection (a)
+6 of this section.
+7
+8 (e) If the governor authorizes transfers under this section, the
+9 appropriation from which the funds were transferred shall not be included in
+10 the standard budget for the agency from which the funds were transferred for
+11 the immediately succeeding fiscal biennium.
+12
+13 [FLEX – JUDICIARY]
+14
+15 Section 306.
+16
+17 (a) Except as otherwise provided in this section, the supreme court
+18 may transfer up to five percent (5%) of the total general fund appropriation
+19 between programs within the supreme court. With the approval of the district
+20 court budget committee, up to five percent (5%) of the general fund
+21 appropriation to each district court may be transferred to one (1) or more
+22 other district courts. Authority pursuant to this section includes transfers
+23 of associated legislatively authorized full-time or part-time positions and
+24 shall be effective for the period beginning July 1, 2026 and ending June 30,
+25 2028. Any transfers pursuant to this section shall be reported annually by
+26 the supreme court to the joint appropriations committee. The report shall
+27 specify the appropriations and authorized positions transferred including
+114 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 transfers between expenditure series, programs and courts.
+2
+3 (b) Any provision of this act or any other legislation enacted that
+4 specifies that an appropriation shall not be transferred or expended for any
+5 other purpose, or containing language of like effect, shall prevail over this
+6 section and no such funds so appropriated or positions so specified shall be
+7 subject to subsection (a) of this section.
+8
+9 (c) In the event the supreme court authorizes transfers under this
+10 section, the appropriation from which the funds were transferred shall not be
+11 included in the standard budget from which the funds were transferred for the
+12 immediately succeeding fiscal biennium.
+13
+14 [PERSONAL SERVICES TRANSFERS]
+15
+16 Section 307.
+17
+18 (a) Unless otherwise specifically provided, nonfederal fund
+19 appropriations for personal services (100 series) contained in this act shall
+20 not be transferred to any other series or expended for any purpose other than
+21 personal services. Notwithstanding W.S. 9-2-1005(b)(ii) or any other
+22 provision of this act, nonfederal fund appropriations for contractual
+23 services (900 series) contained in this act shall not be transferred to the
+24 personal services (100 series).
+25
+26 (b) The following appropriations and agencies are exempt from this
+27 section:
+115 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 (i) Section 2, Section 020 of this act to the department of
+3 environmental quality;
+4
+5 (ii) Section 2, Section 048 of this act to the department of
+6 health;
+7
+8 (iii) Section 2, Section 080 of this act to the department of
+9 corrections;
+10
+11 (iv) Any other appropriation in this act that specifies that the
+12 appropriation shall not be subject to this section.
+13
+14 (c) The judicial branch is exempt from this section for transfers in a
+15 total amount not to exceed four hundred thousand dollars ($400,000.00).
+16
+17 [ENHANCED OIL RECOVERY COMMISSION - REAPPROPRIATION]
+18
+19 Section 308. 2022 Wyoming Session Laws, Chapter 51, Section 317(a) is
+20 amended to read:
+21
+22 Section 317.
+23
+24 (a) Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and
+25 9-4-207, unexpended, unobligated monies appropriated from the
+26 general fund to the enhanced oil recovery commission under 2006
+27 Wyoming Session Laws, Chapter 35, Section 2, Section 070; 2008
+116 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 Wyoming Session Laws, Chapter 48, Section 2, Section 070; 2010
+2 Wyoming Session Laws, Chapter 39, Section 2, Section 070; 2012
+3 Wyoming Session Laws, Chapter 26, Section 2, Section 070 as
+4 amended by 2013 Wyoming Session Laws, Chapter 73, Section 2,
+5 Section 070; 2014 Wyoming Session Laws, Chapter 26, Section 2,
+6 Section 070; 2016 Wyoming Session Laws, Chapter 31, Section 2,
+7 Section 070 as amended by 2017 Wyoming Session Laws, Chapter 120,
+8 Section 2, Section 070; 2018 Wyoming Session Laws, Chapter 134,
+9 Section 2, Section 070; 2020 Wyoming Session Laws, Chapter 80,
+10 Section 2, Section 070 as amended by 2021 Wyoming Session Laws,
+11 Chapter 69, Section 2, Section 070, up to one million nine
+12 hundred six thousand seven hundred eighty-two dollars
+13 ($1,906,782.00) or as much thereof as is available that was not
+14 reverted as provided by law shall be deemed reverted for
+15 accounting purposes on June 30, 2022 and is reappropriated to the
+16 enhanced oil recovery commission for purposes of projects only.
+17 Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207, the
+18 reappropriation in this section shall not revert until June 30,
+19 2026 2028. It is the intent of the legislature that this
+20 reappropriation not be included in the enhanced oil recovery
+21 commission's standard budget for the immediately succeeding
+22 fiscal biennium.
+23
+24 [DEPARTMENT OF HEALTH CARRYOVERS]
+25
+26 Section 309.
+27
+117 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (a) Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207, of
+2 unexpended, unobligated monies appropriated from the general fund to the
+3 department of health under 2024 Wyoming Session Laws, Chapter 118, Section 2,
+4 Section 048, up to twenty-five million dollars ($25,000,000.00) or as much
+5 thereof as is available, shall not revert on June 30, 2026 and are hereby
+6 reappropriated to the department of health for the following purposes:
+7
+8 (i) Unanticipated Medicaid expenditures, including increased
+9 enrollment;
+10
+11 (ii) Costs associated with the implementation of Title 25,
+12 Chapter 10 of the Wyoming statutes;
+13
+14 (iii) State facility staffing needs.
+15
+16 (b) The transfer or expenditure of funds under this section shall be
+17 approved by the governor and reported to the joint appropriations committee
+18 through the B-11 process as authorized by W.S. 9-2-1005(b)(ii) and reported
+19 pursuant to W.S. 9-2-1013(b).
+20
+21 (c) No funds from the reappropriations in this section shall be
+22 expended by the department of health if the expenditure would result in an
+23 increase to maintenance of effort, maintenance of financial support or a
+24 similar federal requirement to expend additional state funds in future budget
+25 periods.
+26
+27 (d) It is the intent of the legislature that the carryover
+118 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 appropriations in this section not be included in the department of health's
+2 standard budget for the immediately succeeding fiscal biennium.
+3
+4 (e) This section is effective immediately.
+5
+6 [LIMITATION ON SALARY INCREASE]
+7
+8 Section 310.
+9
+10 (a) The 2029-2030 biennial general fund standard budget for personal
+11 services (100 series) for each agency shall be less than or equal to the
+12 2027-2028 biennial appropriations for personal services (100 series) for each
+13 agency in all enacted laws including any calculated amount to continue
+14 legislatively approved compensation increases throughout the 2027-2028
+15 biennium and excluding benefit adjustments and allowable personal services
+16 transfers pursuant to Section 307 of this act and documented through the
+17 report required by W.S. 9-2-1011(c).
+18
+19 (b) Any salary increase for an executive branch state position,
+20 including those of the game and fish department, department of transportation
+21 and boards and commissions and excluding positions of the University of
+22 Wyoming or community colleges, during the 2027-2028 biennium for which the
+23 compensation increase has not been approved by the legislature shall be
+24 reviewed and approved by the governor or his designee.
+25
+26 (c) Any salary increase for a judicial branch position during the
+27 2027-2028 biennium for which the compensation increase has not been approved
+119 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 by the legislature shall be reviewed and approved by either the district
+2 court judge, chief justice or the board of judicial policy and
+3 administration.
+4
+5 [CONCURRENCE WITH GOVERNOR'S BIENNIAL BUDGET DEVELOPMENT RECOMMENDATIONS]
+6
+7 Section 311.
+8
+9 (a) Unless otherwise provided in this act, it is the intent of the
+10 legislature to concur with the recommendations contained in the governor's
+11 2027-2028 biennial budget for one-time funding, sustained funding or
+12 expenditures anticipated to increase or decrease and be included in the
+13 standard budget for the immediately succeeding fiscal biennium.
+14
+15 (b) It is the intent of the legislature that continuation of at-will
+16 employee contract positions not explicitly denied by this act shall continue
+17 as requested throughout the period of July 1, 2026 through June 30, 2028 and
+18 be included in the standard budget for the immediately succeeding fiscal
+19 biennium.
+20
+21 (c) Authorization for at-will employee contract positions within the
+22 office of state lands and investments, department of health and department of
+23 workforce services supported by funds originating from section 9901 of the
+24 American Rescue Plan Act of 2021, P.L. 117-2, shall remain effective until
+25 the latter of:
+26
+27 (i) December 31, 2026;
+120 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 (ii) The date of completion of any federally required reporting
+3 and audits; or
+4
+5 (iii) The date of any extension of federal expenditure deadlines
+6 under section 9901 of the American Rescue Plan Act of 2021, P.L. 117-2,
+7 enacted into law.
+8
+9 [ENERGY MATCHING FUND LOAN]
+10
+11 Section 312.
+12
+13 (a) Upon favorable recommendation of the Wyoming energy authority and
+14 approval by the governor, the state treasurer shall enter into one (1) or
+15 more loans totaling not more than sixteen million dollars ($16,000,000.00) in
+16 the aggregate from the legislative stabilization reserve account, subject to
+17 all of the following:
+18
+19 (i) The Wyoming energy authority shall solicit applications for
+20 loans under this section and reject or recommend approval of applications for
+21 final action by the governor;
+22
+23 (ii) The loans under this section are for purposes of providing
+24 matching funds for private or federal funding for construction of commercial
+25 deployment projects related to the processing of rare earth resources located
+26 in Wyoming;
+27
+121 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (iii) Expenditure of funds loaned under this section shall be
+2 conditioned upon receipt of matching funds in the ratio of one dollar ($1.00)
+3 of loaned funds to not less than one dollar ($1.00) of matching funds from
+4 nonstate sources;
+5
+6 (iv) The loans under this section shall include an interest rate
+7 of not more than three percent (3%). Other terms and conditions shall be
+8 recommended by the Wyoming energy council and the state treasurer, acting
+9 separately, and determined by the governor;
+10
+11 (v) No loan shall be made without the written opinion of the
+12 attorney general certifying the legality of the transaction and all documents
+13 connected therewith;
+14
+15 (vi) The governor shall approve an applicant's proposed
+16 construction of commercial deployment projects related to the processing of
+17 rare earths located in Wyoming only upon a determination that the proposed
+18 construction will result in substantial benefit to the public.
+19
+20 (b) All proposed loans under this section, including the terms,
+21 conditions and the purposes and goals of each loan shall be reported to the
+22 management council of the legislature and the joint appropriations committee
+23 not less than ten (10) days prior to execution of the loan.
+24
+25 [COST-BENEFIT ANALYSIS OF LOCAL GOVERNMENT GRANT APPLICATIONS]
+26
+27 Section 313. Upon request of a majority of the members of the state
+122 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 loan and investment board, the office of state lands and investments, the
+2 state budget department and the Wyoming business council, or any successor
+3 entity, shall collaborate with any applicant submitting a request for a loan
+4 or grant from the state loan and investment board from funds appropriated in
+5 this act to develop a cost-benefit analysis of the requested loan or grant.
+6
+7 [PERMANENT WYOMING MINERAL TRUST FUND SPENDING POLICY]
+8
+9 Section 314. W.S. 9-4-719(d)(v) and by creating a new paragraph (viii)
+10 is amended to read:
+11
+12 9-4-719. Investment earnings; spending policy amounts; permanent
+13 funds.
+14
+15 (d) The annual spending policy for the permanent Wyoming mineral trust
+16 fund is for each fiscal year (FY):
+17
+18 (v) Except as otherwise provided in paragraph (viii) of this
+19 subsection, an amount equal to five percent (5%) of the previous five (5)
+20 year average market value of the trust fund, calculated from the first day of
+21 the fiscal year;.
+22
+23 (viii) For FY 2027 and FY 2028, an amount equal to four and
+24 one‑half percent (4.5%) of the previous five (5) year average market value of
+25 the trust fund, calculated from the first day of the fiscal year.
+26
+27 [COMMON SCHOOL ACCOUNT PERMANENT LAND FUND SPENDING POLICY]
+123 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 Section 315. W.S. 9-4-719(h)(v) and by creating a new paragraph (viii)
+3 is amended to read:
+4
+5 9-4-719. Investment earnings; spending policy; permanent funds.
+6
+7 (h) The annual spending policy for the common school account within
+8 the permanent land fund is for each fiscal year (FY):
+9
+10 (v) Except as otherwise provided in paragraph (viii) of this
+11 subsection, an amount equal to five percent (5%) of the previous five (5)
+12 year average market value of the account, calculated from the first day of
+13 the fiscal year;.
+14
+15 (viii) For FY 2027 and FY 2028, an amount equal to four and
+16 one‑half percent (4.5%) of the previous five (5) year average market value of
+17 the account, calculated from the first day of the fiscal year.
+18
+19 [FEDERAL MINERAL ROYALTIES-DISTRIBUTION AMENDMENTS]
+20
+21 Section 316. W.S. 9-4-601(d)(iii) and (iv), as amended by 2025 Wyoming
+22 Session Laws, Chapter 63, Section 1 and effective July 1, 2026, is amended to
+23 read:
+24
+25 9-4-601. Distribution and use; funds, accounts, cities and towns
+26 benefited; exception for bonus payments.
+27
+124 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (d) Except as provided in subsection (o) of this section, any revenue
+2 received under subsection (a) of this section in excess of two hundred
+3 million dollars ($200,000,000.00) shall be distributed as follows:
+4
+5 (iii) Subject to paragraphs (v), (vi) and (viii) of this
+6 subsection, for fiscal year 2027 and fiscal year 2028 one-half (1/2), and
+7 thereafter, one-third (1/3) to the public school foundation program account;
+8
+9 (iv) Subject to paragraphs (vii) and (ix) of this subsection,
+10 for fiscal year 2027 and fiscal year 2028 one-half (1/2) and thereafter, two-
+11 thirds (2/3) to the general fund;
+12
+13 [DEAPPROPRIATION – BUSINESS READY COMMUNITY ACCOUNT]
+14
+15 Section 317.
+16
+17 (a) The Wyoming business council shall revert all unexpended,
+18 unobligated funds held in the business ready community account to the general
+19 fund.
+20
+21 (b) Any amounts reverted to the general fund under this section prior
+22 to June 30, 2026 shall be exempt from the transfer of funds to the
+23 legislative stabilization reserve account as required by 2024 Wyoming Session
+24 Laws, Chapter 118, Section 300(b).
+25
+26 (c) This section is effective immediately.
+27
+125 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 [REVISIONS TO PRIOR APPROPRIATIONS]
+2
+3 Section 318.
+4
+5 (a) 2022 Wyoming Session Laws, Chapter 51, Section 321, as amended by
+6 2023 Wyoming Session Laws, Chapter 94, and as further amended by 2024 Wyoming
+7 Session Laws, Chapter 118, Section 318, by creating a new subsection (g) and
+8 2022 Wyoming Session Laws, Chapter 51, Section 325, as amended by 2023
+9 Wyoming Session Laws, Chapter 94, and as further amended by 2024 Wyoming
+10 Session Laws, Chapter 118, Section 318, by creating a new subsection (g) are
+11 amended to read:
+12
+13 [ENERGY MATCHING FUNDS]
+14
+15 Section 321.
+16
+17 (g) All proposed expenditures under this section shall be
+18 reported to the management council of the legislature and the
+19 joint appropriations committee with a description of the desired
+20 actions and outcomes not less than ten (10) days before use of
+21 the funds is approved by the governor through the B-11 process as
+22 authorized by W.S. 9-2-1005(b)(ii) and reported pursuant to W.S.
+23 9-2-1013(b).
+24
+25 [APPROPRIATION TO MATCH FEDERAL INFRASTRUCTURE GRANTS]
+26
+27 Section 325.
+126 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 (g) All proposed expenditures under this section shall be
+3 reported to the management council of the legislature and the
+4 joint appropriations committee with a description of the desired
+5 actions and outcomes not less than ten (10) days before use of
+6 the funds are approved by the governor through the B-11 process
+7 as authorized by W.S. 9-2-1005(b)(ii) and reported pursuant to
+8 W.S. 9-2-1013(b).
+9
+10 (b) This section is effective immediately.
+11
+12 [WYOMING STABLE TOKEN - DISTRIBUTION OF FUNDS]
+13
+14 Section 319. W.S. 40-31-106(a) and (b), (c)(intro) and by creating new
+15 subsections (d) and (e) is amended to read:
+16
+17 40-31-106. Wyoming stable token accounts.
+18
+19 (a) The Wyoming stable token trust account is created. The commission
+20 shall deposit all funds received for the issuance of Wyoming stable tokens
+21 into the account. Funds within the account received from the sale of Wyoming
+22 stable tokens shall be held in trust to support the redemption of Wyoming
+23 stable tokens, and shall not be expended for any other purpose but shall be
+24 expended to redeem Wyoming stable tokens. The commission shall invest funds
+25 within the account exclusively in cash, United States treasury securities
+26 with a maturity of three hundred sixty-five (365) days or less or United
+27 States treasury security repurchase agreements with a term of thirty (30)
+127 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 days or less. By creation of this trust, the state does not create any
+2 fiduciary duty to token holders. Investment earnings generated by the funds
+3 in the account may be deposited in the Wyoming stable token administration
+4 account as provided in subsection (b) subsections (b) and (d) of this
+5 section.
+6
+7 (b) Except as provided in subsection (d) of this section, not less
+8 than one hundred percent (100%) of the notional value of all outstanding
+9 issued Wyoming stable tokens shall be maintained in the Wyoming stable token
+10 trust account. All earnings paid on funds and investments in the account
+11 shall be deposited in the account. Investment earnings on funds in the
+12 account in excess of one hundred two percent (102%) of the notional value of
+13 all outstanding issued Wyoming stable tokens shall be transferred to the
+14 Wyoming stable token administration account.
+15
+16 (c) The Wyoming stable token administration account is created. Except
+17 as provided in subsection (e) of this section, funds received into the
+18 account from any source shall be retained, expended or transferred and are
+19 continuously appropriated according to the following priority:
+20
+21 (d) For the period beginning July 1, 2027 and ending June 30, 2028:
+22
+23 (i) Not less than one hundred percent (100%) of the notional
+24 value of all outstanding issued Wyoming stable tokens shall be maintained in
+25 the Wyoming stable token trust account. All earnings paid on funds and
+26 investments in the account shall be deposited in the account;
+27
+128 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (ii) Investment earnings on funds in the Wyoming stable token
+2 trust account in excess of one hundred percent (100%) of the notional value
+3 of all outstanding issued Wyoming stable tokens shall be transferred to the
+4 Wyoming stable token administration account until such time as all
+5 operational costs of this act are fully paid in accordance with paragraph
+6 (e)(i) of this section. If all operational costs are fully paid, investment
+7 earnings on funds in the account in excess of one hundred percent (100%) and
+8 up to one hundred two percent (102%) of the notional value of all outstanding
+9 issued Wyoming stable tokens shall remain in the Wyoming stable token trust
+10 account in accordance with paragraph (e)(ii) of this section. Investment
+11 earnings on funds in the Wyoming stable token trust account in excess of one
+12 hundred two percent (102%) of the notional value of all outstanding issued
+13 Wyoming stable tokens shall be transferred to the Wyoming stable token
+14 administration account for purposes provided in paragraphs (e)(iii) and (iv)
+15 of this section.
+16
+17 (e) For the period beginning July 1, 2026 and ending June 30, 2028,
+18 funds received into the Wyoming stable token trust account from any source
+19 shall be retained, expended or transferred and are continuously appropriated
+20 according to the following priority:
+21
+22 (i) Up to eight million one hundred five thousand seven hundred
+23 seventy‑one dollars ($8,105,771.00) to pay for the operational costs of this
+24 act;
+25
+26 (ii) To be returned to the Wyoming stable token trust account to
+27 ensure that investment earnings on funds in the trust account total one
+129 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 hundred two percent (102%) of the notional value of all outstanding issued
+2 Wyoming stable tokens;
+3
+4 (iii) Retention of savings in an amount consistent with rules
+5 set by the commission to provide for future expenditures under paragraph (i)
+6 of this subsection;
+7
+8 (iv) Any remainder shall be distributed on a quarterly basis,
+9 into the public school foundation program account created by W.S.
+10 21-13-306(a).
+11
+12 [BUSINESS RELOCATION INCENTIVE]
+13
+14 Section 320.
+15
+16 (a) There is appropriated fifteen million dollars ($15,000,000.00)
+17 from the Wyoming tourism reserve and projects account to the Wyoming office
+18 of tourism for purposes of granting funds for and attracting a rodeo and
+19 cowboy museum and hall of fame to Wyoming. This appropriation shall be
+20 distributed to the office of tourism in accordance with subsection (b) of
+21 this section. It is the intent of the legislature that this appropriation
+22 not be included in the office of tourism's standard budget for
+23 the immediately succeeding fiscal biennium. This appropriation shall not be
+24 transferred or expended for any other purpose. Notwithstanding W.S. 9-2-1008
+25 and 9-4-207, any unexpended, unobligated funds from the appropriation in this
+26 section shall not revert until June 30, 2036.
+27
+130 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (b) The appropriation in subsection (b) of this section shall be
+2 distributed to the office of tourism, subject to all of the following:
+3
+4 (i) Three million dollars ($3,000,000.00) shall be effective
+5 immediately and shall be distributed not later than April 15, 2026;
+6
+7 (ii) Two million dollars ($2,000,000.00) is effective and shall
+8 be distributed on July 1, 2026;
+9
+10 (iii) Ten million dollars ($10,000,000.00) is effective and
+11 shall be distributed as soon as funds are available on or after July 1, 2027;
+12
+13 (iv) For the period beginning July 1, 2026 and ending June 30,
+14 2028, the appropriation in this subsection shall take priority and be fully
+15 executed in each fiscal year prior to any required transfers from the Wyoming
+16 tourism reserve and projects account to the Wyoming outdoor recreation and
+17 tourism trust fund account pursuant to 2023 Wyoming Session Laws, Chapter
+18 153, Section 2;
+19
+20 (v) The Wyoming tourism board shall solicit applications for a
+21 grant under subsection (b) of this section and reject or recommend approval
+22 of applications for final action by the governor;
+23
+24 (vi) The Wyoming tourism board shall determine and certify the
+25 relocation efforts have a reasonable expectation of increasing tourism to
+26 Wyoming and generating additional jobs, gross state product, state revenue,
+27 and economic diversification;
+131 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 (vii) Expenditure of funds granted under subsection (b) of this
+3 section shall be conditioned upon expenditure of matching funds in the ratio
+4 of one dollar ($1.00) of grant funds to not less than one dollar ($1.00) of
+5 matching funds from any nonstate source;
+6
+7 (viii) Approval and allocation of any grant under this section
+8 shall include a repayment provision if the applicant accepts funds and does
+9 not relocate to Wyoming not later than June 30, 2028;
+10
+11 (ix) No grant shall be made without the written opinion of the
+12 attorney general certifying the legality of the transaction and all documents
+13 connected therewith;
+14
+15 (x) The governor shall approve an applicant's proposed grant
+16 only upon a determination that the applicant's proposed relocation to Wyoming
+17 will result in substantial benefit to the public.
+18
+19 [COURT SECURITY GRANTS]
+20
+21 Section 321. There is appropriated three million two hundred eighty-
+22 four thousand eight hundred twenty dollars ($3,284,820.00) from the general
+23 fund to the supreme court to be matched by a total of three hundred sixty-
+24 four thousand nine hundred eighty dollars ($364,980.00) of local matching
+25 funds to provide funding for court security improvements. Funds shall only
+26 be expended upon recommendation by the Wyoming court security commission for
+27 direct purchase by the state or grants to counties for security equipment
+132 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 within courthouses or the construction or modification of facilities
+2 containing a state court. It is the intent of the legislature that this
+3 appropriation not be included in the standard budget of the judicial branch
+4 for the immediately succeeding fiscal biennium. This appropriation shall not
+5 be transferred or expended for any other purpose. Any unawarded, unexpended
+6 or unobligated funds remaining from the appropriation in this section shall
+7 revert as provided by law on June 30, 2028.
+8
+9 [ROCKY MOUNTAIN POWER PROJECT ACCOUNT]
+10
+11 Section 322. In accordance with W.S. 9-4-214(a) and 9-4-217(d), the
+12 state auditor shall continue the rocky mountain power project account created
+13 under 2022 Wyoming Session Laws, Chapter 51, Section 322 and continued under
+14 2024 Wyoming Session Laws, Chapter 118, Section 322. All funds within the
+15 account shall be invested by the state treasurer, and all investment earnings
+16 from the account shall be credited to the account. Any funds deposited to
+17 this account shall be continuously appropriated to the Wyoming wildlife and
+18 natural resource trust account board to provide oversight and distribute
+19 funds in accordance with the United States bureau of land management
+20 stipulations for this funding.
+21
+22 [UNIVERSITY OF WYOMING CAPITAL CONSTRUCTION LOAN]
+23
+24 Section 323.
+25
+26 (a) 2023 Wyoming Session Laws, Chapter 187, Section 11(b) is amended
+27 to read:
+133 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 Section 11.
+3
+4 (b) Before July 1, 2026, the state treasurer and the state
+5 auditor shall utilize advance funds in the form of interfund
+6 loans from the legislative stabilization reserve account for
+7 deposit to the University of Wyoming 2023 capital projects
+8 account as necessary to meet appropriations from that account and
+9 contract obligations of the University of Wyoming incurred for
+10 purposes of this section. No interfund loans authorized under
+11 this section shall be made after completion of the projects
+12 specified in subsection (a) of this section. On and after July
+13 1, 2026, the legislature authorizes the discharge of up to
+14 seventy-five million dollars ($75,000,000.00) in outstanding
+15 interfund loans from the legislative stabilization reserve
+16 account under this section.
+17
+18 (b) This section is effective immediately.
+19
+20 [MODIFICATION OF AUTHORIZATION TO EXPEND WYOMING STATE PENITENTIARY CAPITAL
+21 CONSTRUCTION ACCOUNT]
+22
+23 Section 324.
+24
+25 (a) 2025 Wyoming Session Laws, Chapter 161, Section 7 is amended to
+26 read:
+27
+134 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 Section 7. On the effective date of this section, the
+2 state auditor shall transfer There is appropriated nine million
+3 dollars ($9,000,000.00) from the Wyoming state penitentiary
+4 capital construction account within the strategic investments and
+5 project account to the department of corrections for purposes
+6 of the department's security system. These funds shall not be
+7 transferred or expended for any other purpose. Any funds in
+8 excess of nine million dollars ($9,000,000.00) transferred to the
+9 department of corrections from the Wyoming state penitentiary
+10 capital construction account within the strategic investments and
+11 project account prior to April 1, 2026 for these purposes shall
+12 be restored by the department of corrections to the Wyoming state
+13 penitentiary capital construction account within the strategic
+14 investments and projects account not later than April 15, 2026.
+15
+16 (b) This section is effective immediately.
+17
+18 [LEGISLATIVE INTENT FOR FUTURE APPROPRIATION REDUCTIONS]
+19
+20 Section 325. It is the intent of the legislature to reduce the
+21 appropriations contained in this act during the 2027 General Session for any
+22 agency or entity expending funds or acting outside of the agency's or
+23 entity's legal authority as provided by Wyoming statute, the Wyoming
+24 constitution or Wyoming session law.
+25
+26 [INCREASE OF HATHAWAY SCHOLARSHIP PROGRAM AWARDS]
+27
+135 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 Section 326.
+2
+3 (a) W.S. 21-16-1304(a)(i)(A), (ii)(A) and (iii)(A),
+4 21-16-1305(a)(i)(A) and 21-16-1306(a)(i)(B)(II) and (C) are amended to read:
+5
+6 21-16-1304. Hathaway opportunity, performance and honor scholarships.
+7
+8 (a) Any student who meets the criteria under W.S. 21-16-1303 is
+9 eligible to receive a scholarship to pursue a degree or certificate as
+10 follows:
+11
+12 (i) With a minimum cumulative high school GPA of 2.50 and a
+13 score equal to or greater than the 2015-2016 national percentile rank of
+14 forty-three (43) on a college entrance examination administered throughout
+15 the United States and relied upon by institutions of higher education to
+16 determine acceptance of students for attendance, a Hathaway opportunity
+17 scholarship for:
+18
+19 (A) One thousand ninety-two dollars ($1,092.00) per
+20 semester at an eligible institution if enrolled for twelve (12) or more
+21 semester hours for awards for academic years 2026-2027 and 2027-2028, and
+22 thereafter, eight hundred forty dollars ($840.00) per semester at an eligible
+23 institution if enrolled for twelve (12) or more semester hours;
+24
+25 (ii) With a minimum cumulative high school GPA of 3.0 and a
+26 score equal to or greater than the 2015-2016 national percentile rank of
+27 fifty-six (56) on a college entrance examination administered throughout the
+136 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 United States and relied upon by institutions of higher education to
+2 determine acceptance of students for attendance, a Hathaway performance
+3 scholarship for:
+4
+5 (A) One thousand six hundred thirty-eight dollars
+6 ($1,638.00) per semester at an eligible institution if enrolled for twelve
+7 (12) or more semester hours for awards for academic years 2026-2027 and 2027-
+8 2028, and thereafter, one thousand two hundred sixty dollars ($1,260.00) per
+9 semester at an eligible institution if enrolled for twelve (12) or more
+10 semester hours;
+11
+12 (iii) With a minimum cumulative high school GPA of 3.5 and a
+13 score equal to or greater than the 2015-2016 national percentile rank of
+14 seventy-nine (79) on an examination administered throughout the United States
+15 and relied upon by institutions of higher education to determine acceptance
+16 of students for attendance, a Hathaway honor scholarship for:
+17
+18 (A) Two thousand one hundred eighty-four dollars
+19 ($2,184.00) per semester at an eligible institution if enrolled for twelve
+20 (12) or more semester hours for awards for academic years 2026-2027 and 2027-
+21 2028, and thereafter, one thousand six hundred eighty dollars ($1,680.00) per
+22 semester at an eligible institution if enrolled for twelve (12) or more
+23 semester hours;
+24
+25 21-16-1305. Hathaway provisional opportunity scholarships.
+26
+27 (a) Any student who meets the criteria under W.S. 21-16-1303 is
+137 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 eligible to receive a Hathaway provisional opportunity scholarship to pursue
+2 a certificate or degree as follows:
+3
+4 (i) With a minimum cumulative high school GPA of 2.50 and either
+5 a score equal to or greater than the 2015-2016 national percentile rank of
+6 thirty (30) on a college entrance examination administered throughout the
+7 United States and relied upon by institutions of higher education to
+8 determine acceptance of students for attendance or a qualifying cumulative
+9 score on a career-technical aptitude test as determined by the department, a
+10 scholarship for:
+11
+12 (A) One thousand ninety-two dollars ($1,092.00) at a
+13 Wyoming community college if enrolled for twelve (12) or more semester hours
+14 for awards for academic years 2026-2027 and 2027-2028, and thereafter, eight
+15 hundred forty dollars ($840.00) per semester at a Wyoming community college
+16 if enrolled for twelve (12) or more semester hours;
+17
+18 21-16-1306. Need based scholarships.
+19
+20 (a) In addition to scholarships made available under W.S. 21-16-1304
+21 and 21-16-1305 there shall be made available a need based Hathaway
+22 scholarship as follows:
+23
+24 (i) The scholarship shall be available only to students
+25 qualifying for a scholarship under W.S. 21-16-1304 or 21-16-1305 and for
+26 federal financial aid. The scholarships under this section shall be computed
+27 and awarded as follows:
+138 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1
+2 (B) If the student has annual unmet financial need greater
+3 than two thousand dollars ($2,000.00):
+4
+5 (II) If a student is eligible for a scholarship
+6 under this article but does not qualify under subdivision (I) of this
+7 subparagraph – an award equal to twenty-five percent (25%) of the annual
+8 unmet financial need in excess of two thousand dollars ($2,000.00), but not
+9 to exceed two thousand forty-eight dollars ($2,048.00) per year for academic
+10 years 2026-2027 and 2027-2028, and thereafter, not to exceed one thousand
+11 five hundred seventy-five dollars ($1,575.00) per year.
+12
+13 (C) A student qualifying for any award under this section
+14 shall receive a minimum amount of one hundred thirty-seven dollars ($137.00)
+15 for each semester of qualification for awards for academic years 2026-2027
+16 and 2027-2028, and thereafter, a minimum amount of one hundred five dollars
+17 ($105.00) for each semester of qualification. One-half (1/2) of the annual
+18 award amount under this section shall be provided to the student at each
+19 semester of qualification;
+20
+21 (b) This section shall only be effective if 2026 Senate File 0047 is
+22 not enacted into law.
+23
+24 [NATIONAL CHAMPIONSHIP AIR RACES - REPEAL]
+25
+26 Section 327.
+27
+139 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 (a) 2024 Wyoming Session Laws, Chapter 118, Section 2, Section 066 is
+2 amended to read:
+3
+4 Section 066. WYOMING TOURISM BOARD
+5 PROGRAM
+6 Wyoming Tourism Board 1., 2. 41,539,082 S14
+7 2,500,000 S0
+8 23,600 SR 44,062,682
+9 41,562,682
+10 TOTALS 0 0 44,062,682 44,062,682
+11 41,562,682 41,562,682
+12 AUTHORIZED EMPLOYEES
+13 Full Time 0
+14 Part Time 0
+15 TOTAL 0
+16
+17 1. Of this other funds appropriation, two million dollars
+18 ($2,000,000.00)S14 is for purposes of planning and providing
+19 grants for initiatives recognizing the two hundred fiftieth
+20 anniversary of the declaration of independence. This
+21 appropriation shall not be transferred or expended for any other
+22 purpose. It is the intent of the legislature that this
+23 appropriation not be included in the Wyoming tourism board's
+24 standard budget for the immediately succeeding fiscal biennium.
+25
+26 2. Of this other funds appropriation, two million five hundred
+27 thousand dollars ($2,500,000.00)S0 is appropriated from the
+28 Wyoming tourism reserve and projects account. In the event any
+140 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 public Wyoming airport is selected as the site of the national
+2 championship air races, the Wyoming tourism board shall
+3 distribute this appropriation to the public entity operating the
+4 selected airport for purposes of economic development and
+5 community assistance conditioned only upon the public entity's
+6 good-faith effort to secure matching funds in the ratio of one
+7 dollar ($1.00) of appropriated other funds to not less than one
+8 dollar ($1.00) of matching funds from any nonstate sources to the
+9 greatest extent possible. This appropriation shall not be
+10 transferred or expended for any other purpose. It is the intent
+11 of the legislature that this appropriation not be included in the
+12 Wyoming tourism board's standard budget for the immediately
+13 succeeding fiscal biennium.
+14
+15 (b) Funds deappropriated as a result of the appropriations repealed in
+16 subsection (a) of this section shall be credited to the account from which
+17 they were appropriated.
+18
+19 (c) This section is effective immediately.
+20
+21 [BUDGET BALANCERS – TRANSFERS II]
+22
+23 Section 398. The state auditor shall transfer one hundred million
+24 dollars ($100,000,000.00), or as much thereof as is necessary, from the
+25 legislative stabilization reserve account to the general fund to ensure the
+26 unobligated, unencumbered fund balance of the general fund on June 30, 2028
+141 SF0001
+
+2026 STATE OF WYOMING 26LSO-0436
+1 is not less than one hundred ninety-two million seven hundred sixty-five
+2 thousand dollars ($192,765,000.00).
+3
+4 [REPEALED SECTIONS]
+5
+6 Section 399.
+7
+8 (a) 2023 Wyoming Session Laws, Chapter 187, Section 11(c), 2023
+9 Wyoming Session Laws, Chapter 94, Section 321(e) and 325(d), as amended by
+10 2024 Wyoming Session Laws, Chapter 118, Section 318, and 2024 Wyoming Session
+11 Laws, Chapter 118, Section 334 are repealed.
+12
+13 (b) This section is effective immediately.
+14
+15 [EFFECTIVE DATE]
+16
+17 Section 400.
+18
+19 (a) As used in this act, "effective immediately" means effective
+20 immediately upon completion of all acts necessary for a bill to become law as
+21 provided by Article 4, Section 8 of the Wyoming Constitution. Any
+22 appropriation contained in this act that is effective immediately shall not
+23 lapse until June 30, 2028, unless otherwise specified.
+24
+25 (b) Except as otherwise provided, this act is effective July 1, 2026.
+26
+27 (END)
+142 SF0001

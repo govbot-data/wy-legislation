@@ -1,0 +1,47 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0469
+SENATE FILE NO. SF0083
+Major political parties-state central party voting members.
+Sponsored by: Senator(s) Case
+A BILL
+for
+1 AN ACT relating to political parties; clarifying voting
+2 requirements for members of the state central committee of
+3 major political parties; and providing for an effective
+4 date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 22-4-110 is amended to read:
+9
+10 22-4-110. Composition of state central committee;
+11 voting.
+12
+13 (a) The state central committee consists of state
+14 committeemen and committeewomen and county chairmen elected
+15 at the odd-numbered year meeting of the county central
+1 SF0083
+
+2026 STATE OF WYOMING 26LSO-0469
+1 committees, and of any other party officials provided by
+2 the bylaws of the party.
+3
+4 (b) Voting on any action of the state central
+5 committee shall be conducted in a manner so that the votes
+6 of each voting member are weighted based on the number of
+7 registered voters of the party at the last congressional
+8 election in the county of the voting member compared to the
+9 total number of statewide registered voters of the party at
+10 the last congressional election.
+11
+12 Section 2. This act is effective July 1, 2026.
+13
+14 (END)
+2 SF0083

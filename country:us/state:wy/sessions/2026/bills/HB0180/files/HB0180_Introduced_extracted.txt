@@ -1,0 +1,270 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0343
+HOUSE BILL NO. HB0180
+Amending local surface water runoff system authority.
+Sponsored by: Representative(s) Geringer, Banks, Filer,
+Neiman, Strock and Wharff and Senator(s)
+Boner, Crum, Laursen, D and Love
+A BILL
+for
+1 AN ACT relating to cities and towns; amending the authority
+2 for cities, towns and boards of public utilities to
+3 establish a water system for diverting surface water
+4 runoff; amending the authority for cities and towns to
+5 prescribe and regulate fees and charges for the diversion
+6 or management of surface water runoff; specifying
+7 requirements for existing surface water diversion or runoff
+8 systems; making conforming amendments; providing an
+9 appropriation; and providing for an effective date.
+10
+11 Be It Enacted by the Legislature of the State of Wyoming:
+12
+13 Section 1. W.S. 15-7-115 is created to read:
+14
+1 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1 15-7-115. Surface water runoff and diversion systems
+2 existing before April 1, 2026; requirements.
+3
+4 (a) Not later than July 1, 2027, any surface water
+5 diversion system and any surface water runoff system
+6 established, purchased, constructed, extended, maintained
+7 or regulated by a city or town under W.S. 15-7-101(a)(iii)
+8 before April 1, 2026 shall:
+9
+10 (i) Be reclassified as or placed within a
+11 surface water drainage utility in accordance with the
+12 Surface Water Drainage Utility Act, provided that the
+13 reclassification or placement shall only be effective upon
+14 an affirmative vote of the electors of the surface water
+15 drainage utility area, as applicable and pursuant to W.S.
+16 16-10-105(e); or
+17
+18 (ii) Operate using only funds that are held or
+19 maintained by the city or town that established the surface
+20 water diversion system or surface water runoff system and
+21 that are not collected as fees or charges from the users of
+22 the system. For purposes of this paragraph:
+23
+2 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1 (A) Any charges or fees charged or assessed
+2 to the users of the surface water diversion system or
+3 surface water runoff system shall be refunded in accordance
+4 with subsection (b) of this section;
+5
+6 (B) A city or town operating a surface
+7 water diversion or runoff system may impose or assess fees
+8 or charges to the users of the system after submitting the
+9 question of whether fees or charges may be assessed and
+10 after approval by a majority of the electors voting on the
+11 question. After approval by the electors under this
+12 subparagraph, the question of the imposition of fees and
+13 charges for a surface water diversion or runoff system
+14 shall be submitted to the voters at each municipal election
+15 four (4) years after the electors first approve the
+16 imposition or assessment of system fees;
+17
+18 (C) Nothing in this paragraph shall be
+19 construed to limit or prohibit the assessment and
+20 collection and fees for other services in accordance with
+21 law, including trash, water and sewer services.
+22
+3 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1 (b) The imposition of any charges and fees prescribed
+2 or collected for the diversion or management of surface
+3 water runoff under W.S. 15-7-101(a)(iii)(B) shall terminate
+4 on April 1, 2026. If the surface water diversion or runoff
+5 system established under W.S. 15-7-101(a)(iii) is not
+6 reclassified or placed within a surface water drainage
+7 utility under the Surface Water Drainage Utility Act or
+8 does not operate in accordance with paragraph (a)(ii) of
+9 this section by April 1, 2026, the city or town that
+10 collected charges and fees under W.S. 15-7-101(a)(iii)(B)
+11 shall refund all charges and fees collected before April 1,
+12 2026 to each user of the system who paid the charges and
+13 fees not later than September 1, 2027, subject to
+14 subsection (c) of this section.
+15
+16 (c) Charges and fees collected under W.S.
+17 15-7-101(a)(iii)(B) that were revenues pledged for the
+18 payment of any revenue bonds issued under W.S. 15-7-102 may
+19 be retained to repay bonds issued before April 1, 2026.
+20
+21 Section 2. W.S. 15-6-102 by creating a new subsection
+22 (c), 15-7-101(a)(iii)(intro) and (B), 15-7-401 and
+23 16-10-105(a) are amended to read:
+4 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1
+2 15-6-102. General grant of authority;
+3 nonapplicability of other provisions; restriction;
+4 nonexclusivity.
+5
+6 (c) Each city and town that completed an improvement
+7 under this chapter before April 1, 2026 for a surface water
+8 runoff system or surface water diversion system shall:
+9
+10 (i) Comply with the requirements of W.S.
+11 15-7-115;
+12
+13 (ii) Not charge fees or other charges to system
+14 users after April 1, 2026, subject to W.S. 15-7-115(a)(ii)
+15 and (c);
+16
+17 (iii) Not later than July 1, 2027, either:
+18
+19 (A) Reclassify or place the surface water
+20 diversion system or surface water runoff system in a
+21 surface water drainage utility in accordance with the
+22 Surface Water Drainage Utility Act, provided that the
+23 reclassification or placement shall only be effective upon
+5 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1 an affirmative vote of the electors of the reclassified
+2 surface water drainage utility area pursuant to W.S.
+3 16-10-105(e); or
+4
+5 (B) Operate the system in accordance with
+6 W.S. 15-7-115(a)(ii).
+7
+8 (iv) Dissolve on July 1, 2027 if the system is
+9 not reclassified or placed within a surface water drainage
+10 utility in accordance with the Surface Water Drainage
+11 Utility Act, this section and W.S. 15-7-115 or is not
+12 operated in accordance with W.S. 15-7-115(a)(ii) and refund
+13 all collected charges and fees in accordance with W.S.
+14 15-7-115.
+15
+16 15-7-101. Purposes.
+17
+18 (a) In addition to all other powers provided by law,
+19 any city or town may make public improvements as follows
+20 for which bonds may be issued to the contractor or be sold
+21 as provided in this chapter to:
+22
+6 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1 (iii) Take any action necessary to establish,
+2 purchase, extend, maintain and regulate a water system for
+3 supplying water to and, subject to W.S. 15-7-115, diverting
+4 surface water runoff from its inhabitants and their
+5 property and for any other public purposes, including:
+6
+7 (B) Prescribing and regulating of rates for
+8 the use of water and, subject to W.S. 15-7-115, the
+9 diversion or management of surface water runoff; and
+10
+11 15-7-401. Establishment; powers and duties generally.
+12
+13 (a) Any city or town which owns and operates a
+14 municipal waterworks, a sanitary sewer system, a sewage
+15 disposal plant or an electric utility distribution system
+16 may establish a board of commissioners to be known as the
+17 board of public utilities. The board of public utilities
+18 shall manage, operate, maintain and control such plants and
+19 make all rules and regulations necessary for their safe,
+20 economical and efficient operation and management. The
+21 board may also improve, extend or enlarge the plants as
+22 provided in this article.
+23
+7 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1 (b) Each board of public utilities that has
+2 established, constructed, operated or maintained a surface
+3 water diversion system or a surface water runoff system
+4 under this article or W.S. 15-7-101(a)(iii) before April 1,
+5 2026 shall:
+6
+7 (i) Comply with the requirements of W.S.
+8 15-7-115;
+9
+10 (ii) Not charge fees or other charges to system
+11 users after April 1, 2026, subject to W.S. 15-7-115(a)(ii)
+12 and (c);
+13
+14 (iii) Not later than July 1, 2027, either:
+15
+16 (A) Reclassify or place the surface water
+17 diversion system or surface water runoff system in a
+18 surface water drainage utility in accordance with the
+19 Surface Water Drainage Utility Act, provided that the
+20 reclassification or placement shall only be effective upon
+21 an affirmative vote of the electors of the reclassified
+22 surface water drainage utility area pursuant to W.S.
+23 16-10-105(e); or
+8 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1
+2 (B) Operate the system in accordance with
+3 W.S. 15-7-115(a)(ii).
+4
+5 (iv) Dissolve on July 1, 2027 if the system is
+6 not reclassified or placed within a surface water drainage
+7 utility in accordance with the Surface Water Drainage
+8 Utility Act, this section and W.S. 15-7-115 or is not
+9 operated in accordance with W.S. 15-7-115(a)(ii) and refund
+10 all charges and fees in accordance with W.S. 15-7-115.
+11
+12 16-10-105. Ordinance or resolution for construction;
+13 required and authorized provisions.
+14
+15 (a) If the governing body of a city, town or county
+16 desires to establish a surface water drainage utility
+17 pursuant to this act, a county shall do so by resolution
+18 and a city or town shall do so by ordinance. The resolution
+19 or ordinance shall provide for the administration of the
+20 surface water drainage utility either by the governing body
+21 of the city, town, county, joint powers board or other
+22 board or entity selected by the applicable governing body,
+23 including but not limited to a board of public utilities
+9 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1 formed pursuant to W.S. 15-7-401 15-7-401(a). The
+2 ordinance or resolution shall contain the specific
+3 description of the surface water drainage area to be served
+4 by the surface water drainage utility.
+5
+6 Section 3. There is appropriated five thousand
+7 dollars ($5,000.00) from the general fund to the office of
+8 state lands and investments for distribution to any city or
+9 town that established a surface water diversion or runoff
+10 system under W.S. 15-7-101(a)(iii) or 15-7-401 before the
+11 effective date of this act that is seeking to transition
+12 the system to a surface water drainage utility. The office
+13 of state lands and investments shall distribute this
+14 appropriation to cities and towns on a pro rata basis. This
+15 appropriation shall be for the period beginning with the
+16 effective date of this act and ending June 30, 2028. This
+17 appropriation shall not be transferred or expended for any
+18 other purpose and any unexpended, unobligated funds
+19 remaining from this appropriation shall revert as provided
+20 by law on June 30, 2028.
+21
+10 HB0180
+
+2026 STATE OF WYOMING 26LSO-0343
+1 Section 4. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+11 HB0180

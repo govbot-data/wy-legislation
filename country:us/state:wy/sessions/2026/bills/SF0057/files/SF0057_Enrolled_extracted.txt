@@ -1,0 +1,334 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+AN ACT relating to public health and safety; requiring
+hospitals to list prices for medical items and services as
+specified; requiring the department of health to monitor
+and enforce the provisions of this act; providing
+penalties; providing definitions; requiring recommendations
+for future legislation; requiring rulemaking; making
+conforming amendments; providing a sunset date; and
+providing for effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 35-2-1501 through 35-2-1507 are
+created to read:
+ARTICLE 15
+HOSPITAL PRICE TRANSPARENCY ACT
+35-2-1501. Short title; purpose; sunset.
+(a) This act shall be known and may be cited as the
+"Hospital Price Transparency Act."
+(b) The purpose of this act is to require hospitals
+to disclose prices for certain items and services and to
+provide civil penalties.
+(c) This article is repealed effective July 1, 2029.
+35-2-1502. Definitions.
+(a) As used in this act:
+(i) "Department" means the department of health;
+1
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(ii) "De-identified maximum negotiated charge"
+means the highest charge a facility has negotiated with any
+third party payors for a facility item or service;
+(iii) "De-identified minimum negotiated charge"
+means the lowest charge a facility has negotiated with any
+third party payors for a facility item or service;
+(iv) "Discounted cash price" means the charge
+that applies to a person who pays cash, or a cash
+equivalent, for a facility item or service;
+(v) "Facility" means a hospital located within
+the state and licensed under title 35, chapter 2, article 9
+of the Wyoming statutes;
+(vi) "Facility item or service" means all items
+and services, including individual items and services and
+service packages, that may be provided by a facility to a
+patient in connection with an inpatient admission or an
+outpatient department visit, including:
+(A) Supplies and procedures;
+(B) Room and board;
+(C) Use of the facility and other areas,
+generally referred to as facility fees;
+(D) Services of health care providers,
+generally referred to as professional charges;
+(E) Any other item or service offered by
+the facility.
+2
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(vii) "Gross charge" means the charge for a
+facility item or service that is reflected on a facility's
+list, less any discounts;
+(viii) "Machine-readable format" means a digital
+representation of information that can be imported or read
+into a computer system for processing;
+(ix) "Payor-specific negotiated charge" means
+the charge that a facility has negotiated with a third
+party payor for a facility item or service;
+(x) "Shoppable service" means a facility item or
+service that may be scheduled by a patient in advance;
+(xi) "Standard charge" means the regular rate
+established by the facility for a facility item or service
+provided to a specific group of paying patients. The term
+includes all of the following:
+(A) The gross charge;
+(B) The payor-specific negotiated charge;
+(C) The de-identified minimum negotiated
+charge;
+(D) The de-identified maximum negotiated
+charge;
+(E) The discounted cash price.
+(xii) "Third party payor" means a person who is,
+by statute, contract or agreement, legally responsible for
+payment of a claim for a facility item or service;
+3
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(xiii) "This act" means W.S. 35-2-1501 through
+35-2-1507.
+35-2-1503. List of standard charges required.
+(a) A facility shall:
+(i) Maintain a list of all standard charges for
+facility items or services in accordance with this section;
+(ii) Maintain a list of the standard charges
+required under paragraph (i) of this subsection for not
+less than three hundred (300) shoppable services provided
+by the facility, or as many of the shoppable services the
+facility provides, in accordance with this section; and
+(iii) Make the lists required by paragraphs (i)
+and (ii) of this subsection available to the public at all
+times.
+(b) The lists required to be maintained by a facility
+under subsection (a) of this section shall reflect the
+standard charges applicable to each location as required by
+federal rules and regulations.
+(c) The lists required under subsection (a) of this
+section shall include the following items, if applicable:
+(i) A description of each facility item or
+service provided by the facility;
+(ii) The following charges, expressed in dollar
+amounts, for each individual facility item or service:
+4
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(A) All standard charges;
+(B) Any code used by the facility for
+purposes of accounting or billing; and
+(C) A list of charges for shoppable
+services as required by paragraph (a)(ii) of this section,
+including but not limited to:
+(I) The charges for shoppable services
+specified by the centers for Medicare and Medicaid services
+in 45 C.F.R. part 180; or
+(II) If the facility does not provide
+all of the shoppable services described by subdivision (I)
+of this subparagraph, then the facility shall provide as
+many of the charges for those shoppable services as the
+facility does provide.
+(d) The lists required by subsection (a) of this
+section shall be displayed in a prominent location on the
+home page of the facility's publicly accessible website or
+accessible through a link on that website.
+(e) The lists required under subsection (a) of this
+section shall:
+(i) Be available:
+(A) Free of charge;
+(B) Without having to establish a user
+account or password;
+5
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(C) Without having to submit personal
+identifying information;
+(D) Without having to enter a code to
+access the list.
+(ii) Be accessible to a common commercial
+operator of an internet search engine to the extent
+necessary for the search engine to index and display the
+lists as a result in response to a search query of a user
+of the search engine;
+(iii) Be digitally searchable;
+(iv) Use the naming convention specified by the
+centers for Medicare and Medicaid services.
+(f) Each facility shall update the lists required by
+subsection (a) of this section not less than annually. Each
+facility shall clearly indicate on its website the date
+that the lists were updated.
+35-2-1504. Monitoring.
+(a) The department shall monitor each facility's
+compliance with the requirements of this act using any of
+the following methods:
+(i) Evaluating complaints made by persons to the
+department regarding noncompliance with the act;
+(ii) Reviewing any analysis prepared regarding
+noncompliance with this act;
+6
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(iii) Auditing the websites of facilities for
+compliance with this act.
+(b) Notwithstanding any provision of law to the
+contrary, in considering an application for renewal of a
+facility's license or certificate, the department may
+consider whether a facility is or has been in substantial
+compliance with this act.
+35-2-1505. Material violation; corrective action
+plan.
+(a) A facility materially violates this act if the
+facility fails to comply with the requirements of W.S.
+35-2-1503.
+(b) If the department determines that a facility has
+materially violated this act, the department shall issue a
+material violation notice to the facility and require that
+the facility submit a corrective action plan. The notice
+shall indicate the form and manner that the corrective
+action plan shall be submitted to the department and shall
+clearly state the date by which the facility shall submit
+the plan.
+(c) The facility that receives a notice under
+subsection (b) of this section shall:
+(i) Submit a corrective action plan in the form
+and manner, and by the specified date, prescribed by the
+notice of violation; and
+(ii) Act to comply with the corrective action
+plan by the date required by paragraph (d)(ii) of this
+section.
+7
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(d) A corrective action plan submitted to the
+department shall:
+(i) Describe in detail the corrective action the
+facility will take to address any violation identified by
+the department in the notice provided under subsection (b)
+of this section; and
+(ii) Provide a date that corresponds with
+federal rules and regulations by which the facility will
+complete the corrective action plan.
+(e) A corrective action plan is subject to review and
+approval by the department. After the department reviews
+and approves a facility's corrective action plan, the
+department shall monitor and evaluate the facility's
+compliance with the plan.
+35-2-1506. Civil penalty for violations.
+(a) The department may impose a civil penalty on a
+facility if a facility fails to:
+(i) Respond to the department's notice to submit
+a corrective action plan within the timeframe specified by
+federal rules and regulations; or
+(ii) Comply with the requirements of a
+corrective action plan submitted to the department within
+the timeframe specified by federal rules and regulations.
+(b) A civil penalty imposed under subsection (a) of
+this section shall be:
+8
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(i) For facilities categorized as critical
+access hospitals:
+(A) For a first offense within any twelve
+(12) month period, one hundred dollars ($100.00) per day
+for each day the department imposes a civil penalty under
+subsection (a) of this section;
+(B) For a second offense within any twelve
+(12) month period, five hundred dollars ($500.00) per day
+for each day the department imposes a civil penalty under
+subsection (a) of this section;
+(C) For a third or subsequent offense
+within any twelve (12) month period, one thousand dollars
+($1,000.00) per day for each day the department imposes a
+civil penalty under subsection (a) of this section.
+(ii) For hospitals with prospective payment
+systems, one thousand dollars ($1,000.00) per day for each
+day within any twelve (12) month period the department
+imposes a civil penalty under subsection (a) of this
+section.
+35-2-1507. Legislative recommendations.
+The department may propose to the legislature any necessary
+recommendations for amending this act, including
+recommendations in response to amendments by the centers
+for Medicare and Medicaid services to 45 C.F.R. part 180.
+Section 2. W.S. 35‑2‑905(a) by creating a new
+paragraph (vi) is amended to read:
+9
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+35-2-905. Conditions, monitoring or revoking a
+license.
+(a) The division may place conditions upon a license,
+install a division approved monitor or manager at the
+owner's or operator's expense, suspend admissions, or deny,
+suspend or revoke a license issued under this act if a
+licensee:
+(vi) Violates any provision of W.S. 35-2-1501
+through 35-2-1507. This paragraph is repealed effective
+July 1, 2029.
+Section 3. The department of health shall promulgate
+all rules necessary to implement this act.
+10
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0057
+ENROLLED ACT NO. 58, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+Section 4.
+(a) Except as otherwise provided by subsection (b) of
+this section, this act is effective July 1, 2026.
+(b) Sections 3 and 4 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the Senate.
+Chief Clerk
+11

@@ -1,0 +1,45 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0424
+HOUSE BILL NO. HB0152
+Dissolution of limited liability companies-remedies.
+Sponsored by: Representative(s) Strock, Davis and Johnson
+A BILL
+for
+1 AN ACT relating to limited liability companies; providing
+2 attorneys’ fees and costs for bad faith applications for
+3 dissolution; and providing for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 17-29-701 by creating a new
+8 subsection (c) is amended to read:
+9
+10 17-29-701. Events causing dissolution.
+11
+12 (c) In a proceeding brought under paragraph (a)(v) of
+13 this section, if the court denies the application and finds
+14 that it was made in bad faith, including that the applicant
+15 caused or created the facts and circumstances alleged as
+16 grounds for dissolution, the court may award damages
+1 HB0152
+
+2026 STATE OF WYOMING 26LSO-0424
+1 including reasonable attorneys' fees and costs to the
+2 limited liability company or any party defending against
+3 the dissolution proceeding.
+4
+5 Section 2. This act shall apply to proceedings
+6 brought under W.S. 17-29-701(a)(v) on or after July 1,
+7 2026.
+8
+9 Section 3. This act is effective July 1, 2026.
+10
+11 (END)
+2 HB0152

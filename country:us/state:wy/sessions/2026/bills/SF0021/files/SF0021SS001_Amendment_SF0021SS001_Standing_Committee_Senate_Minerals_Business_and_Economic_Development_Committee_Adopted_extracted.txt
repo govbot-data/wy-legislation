@@ -1,0 +1,102 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0021SS001 (Standing Committee) - Senate Minerals, Business and Economic Development Committee (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0021SS001
+1 Page 1-line 7 After "account;" insert "creating a Wyoming
+2 stable token liquidity account; authorizing
+3 the Wyoming stable token commission to enter
+4 into agreements as specified;".
+5
+6 Page 1-lines 12 through 14 Delete entirely and insert:
+7
+8 "Section 1. W.S. 40-31-103(a) and 40-31-106(a), (b), (c)(i),
+9 by creating a new paragraph (ii), by renumbering (ii) and (iii) as
+10 (iii) and (iv) and by creating new subsections (d) and (e) are
+11 amended to read:
+12
+13 40-31-103. Wyoming stable token commission.
+14
+15 (a) There is created the Wyoming stable token commission,
+16 which is a body politic and corporate operating as an
+17 instrumentality of the state of Wyoming, with authority to adopt
+18 an official seal and to sue and be sued. The commission may enter
+19 into agreements with other states for the purposes of consulting,
+20 coordinating and facilitating the use of Wyoming stable tokens
+21 issued by the commission under this act.".
+22
+23 Page 2-lines 16 through 18 Delete entirely.
+24
+25 Page 2-line 19 Delete line through "account.".
+26
+27 Page 3-line 18 Strike "according to" and insert "for"; after
+28 "following" insert ":".
+29
+30 Page 3-line 19 Strike "priority:".
+31
+32 Page 3-lines 21 through 23 Delete entirely.
+33
+34 Page 4-lines 1 and 2 Delete entirely and insert:
+35
+36 "(i) To pay for the operational costs of this act until
+37 all operational costs of this act are fully paid;
+38
+39 (ii) After payment of operational costs, to be
+40 transferred to the Wyoming stable token liquidity account created
+41 in subsection (d) of this section in amounts necessary to maintain
+42 in the liquidity account an amount equal to two percent (2%) of
+43 the notional value of all outstanding issued Wyoming stable
+44 tokens;".
+1
+
+1
+2 Page 4-line 4 Strike "Retention of" and insert "From any
+3 funds remaining after the expenditures and
+4 transfers required by paragraphs (i) and (ii)
+5 of this subsection, funds in the
+6 administration account shall be retained in
+7 the administration account for".
+8
+9 Page 4-line 8 Strike "Any remainder" and insert "Amounts
+10 remaining in the administration account after
+11 the application of paragraphs (i) through
+12 (iii) of this subsection".
+13
+14 Page 4-line 9 Strike ",".
+15
+16 Page 4-after line 10 Insert and renumber as necessary:
+17
+18 "(d) The Wyoming stable token liquidity account is created.
+19 The commission shall maintain in the liquidity account an amount
+20 equal to two percent (2%) of the notional value of all outstanding
+21 issued Wyoming stable tokens as a reserve amount. Funds in the
+22 liquidity account are continuously appropriated to the commission
+23 for the purpose of maintaining a reserve amount as required by
+24 this subsection and for transferring funds to the Wyoming stable
+25 token trust account to mitigate losses incurred in the liquidation
+26 of assets held in the trust account and to support the redemption
+27 of Wyoming stable tokens as provided by this act. Nothing in this
+28 subsection shall be construed to prohibit the commission from
+29 transferring funds from the liquidity account to the Wyoming stable
+30 token trust account for redemption support. For purposes of this
+31 act, funds in the Wyoming stable token liquidity account shall not
+32 be treated as part of the Wyoming stable token trust account.
+33
+34 (e) The commission may, subject to rules promulgated by the
+35 commission, accept federal grants and other contributions, grants,
+36 gifts, transfers, bequests and donations from any source for
+37 deposit into any account created in this section, provided that
+38 funds deposited into an account under this section shall be subject
+39 to the requirements of that account.".
+40
+41 Page 4-line 12 Delete entirely and insert:
+42
+43 "Section 2. This act is effective immediately upon completion
+44 of all acts necessary for a bill to become law as provided by
+45 Article 4, Section 8 of the Wyoming Constitution.". ANDERSON,
+46 CHAIRMAN
+2

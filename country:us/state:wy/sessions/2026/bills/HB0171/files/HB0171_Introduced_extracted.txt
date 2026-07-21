@@ -1,0 +1,51 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0473
+HOUSE BILL NO. HB0171
+Funds for problem gaming treatment-amendments.
+Sponsored by: Representative(s) Johnson, Lien, Lucas,
+Neiman, Schmid, Singh, Strock, Wasserburger
+and Webber
+A BILL
+for
+1 AN ACT relating to gaming; amending the distribution of
+2 online sports wagering revenue for problem gaming treatment
+3 and programs; specifying requirements; and providing for an
+4 effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 9-24-104(a) is amended to read:
+9
+10 9-24-104. Distribution of revenue.
+11
+12 (a) Not later than the fifteenth day of each month,
+13 in accordance with commission rules, a sports wagering
+14 operator shall remit ten percent (10%) of online sports
+15 wagering revenue from the prior month to the commission,
+1 HB0171
+
+2026 STATE OF WYOMING 26LSO-0473
+1 except as provided in subsection (b) of this section. Each
+2 fiscal year, the first three hundred thousand dollars
+3 ($300,000.00) of revenue generated under this section is
+4 continuously appropriated to the department of health to be
+5 distributed to the counties commission for the purpose of
+6 funding county health programs to prevent and treat
+7 problematic gambling behavior and the remainder of monies
+8 remitted to the commission shall be deposited by the state
+9 treasurer into the general fund. For purposes of this
+10 subsection, the commission may contract with persons for
+11 the provision of programs to prevent and treat problematic
+12 gambling behavior.
+13
+14 Section 2. This act is effective July 1, 2026.
+15
+16 (END)
+2 HB0171

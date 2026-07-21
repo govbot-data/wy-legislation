@@ -1,0 +1,84 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0052HW001 (Committee of the Whole) - Representative Yin (Withdrawn)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0052HW001
+1 Page 1-line 7 After "appointed;" insert "amending dates
+2 related to elections; amending provisions
+3 related to election recount judges;".
+4
+5 Page 1-line 13 Before "22-8-102" insert "22-2-104(b) and (d),
+6 22-8-101(d),".
+7
+8 Page 1-line 15 After "22-14-114(a)," insert "22-16-
+9 103(c)(i),".
+10
+11 Page 2-line 2 After "(b)" delete "and" and insert ",".
+12
+13 Page 2-line 3 After "(c)" insert "and 22-16-118".
+14
+15 Page 2-after line 18 Insert:
+16
+17 "22-2-104. Election dates.
+18
+19 (b) A primary election shall be held at the regular polling
+20 places for each precinct on the first Tuesday after the third first
+21 Monday in August in general election years for the nomination of
+22 candidates for partisan and nonpartisan offices to be filled at
+23 the succeeding general election and for the election of major party
+24 precinct committeemen and committeewomen.
+25
+26 (d) Every bond election shall be held on the same day as a
+27 primary election or a general election, or on the first Tuesday
+28 after the first Monday in May or November, or on the first Tuesday
+29 after the third first Monday in August.
+30
+31 22-8-101. Notice of election officials needed; county
+32 chairmen to submit list of names; municipal clerks list of names
+33 appointment.
+34
+35 (d) Not later than June 30, the county clerk on each general
+36 election year shall appoint judges of election and counting boards
+37 and alternates from lists submitted by the county chairmen of the
+38 major and minor political parties. This subsection shall not apply
+39 to judges appointed to conduct recounts in accordance with W.S.
+40 22-16-109 through 22-16-113.".
+41
+42 Page 6-after line 9 Insert:
+43
+44 "22-16-103. County canvass procedures.
+1
+
+1
+2 (c) The county canvassing board shall:
+3
+4 (i) Meet as soon as all returns have been received and
+5 abstracted, but if any provisional ballots have been cast in the
+6 county, not before the time has passed for provisional voters to
+7 document their eligibility to register or to vote. The board shall
+8 meet at a time and place designated by the county clerk, but no
+9 later than the first second Friday following the election;".
+10
+11 Page 14-line 23 After "22-16-109(b)" insert "or (d)".
+12
+13 Page 15-after line 5 Insert:
+14
+15 "22-16-118. Meeting of state canvassing board.
+16
+17 The state canvassing board shall meet no later than the second
+18 third Wednesday following the election. The secretary of state
+19 shall send a messenger to obtain official county abstracts not
+20 filed in a reasonable length of time. The canvassing board shall
+21 meet at the time and place set by the secretary of state. The board
+22 shall review the state abstracts prepared by the secretary of
+23 state, compare them with the tabulation and materials prepared by
+24 the secretary of state, resolve any tie votes, and certify the
+25 abstract as the official state canvass.".
+26
+27 Page 15-line 15 Delete "July 1, 2026" and insert "January 1,
+28 2027". YIN
+2

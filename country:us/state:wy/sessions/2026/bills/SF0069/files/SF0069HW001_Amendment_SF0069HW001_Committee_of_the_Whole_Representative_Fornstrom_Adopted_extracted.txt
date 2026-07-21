@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0069HW001 (Committee of the Whole) - Representative Fornstrom (Adopted)
+Media Type: application/pdf
+
+================================================================================
+
+SF0069HW001 (TO ENGROSSED COPY)
+1 Page 1-line 3 After "reports;" insert "specifying ownership
+2 of data collected pursuant to the study;
+3 providing requirements for production,
+4 disclosure and dissemination of data
+5 collected;".
+6
+7 Page 2-after line 13 Insert and renumber as necessary:
+8
+9 "(c) All data collected, compiled, created, digitized or
+10 otherwise produced pursuant to this section, including any
+11 geographic information system (GIS) data layers and associated
+12 metadata, shall be the property of the state of Wyoming and subject
+13 to the following requirements:
+14
+15 (i) Any contract, memorandum of understanding or
+16 agreement with a third party for purposes of performing the study
+17 in this section shall include a requirement that delivery of the
+18 complete underlying datasets be made using nonproprietary or
+19 widely used formats that are suitable for use by governmental
+20 entities, including bulk export capability;
+21
+22 (ii) The department of environmental quality shall make
+23 data sets available for public access and download through an
+24 official state data portal or repository designated by the
+25 department;
+26
+27 (iii) Nothing in this subsection shall be construed to
+28 require disclosure of any information that is confidential or
+29 privileged under state or federal law.".
+30
+31 Page 2-line 15 Delete "(c)" and insert "(d)".
+32
+33 Page 2-line 21 Delete "(d)" and insert "(e)".
+34
+35 Page 3-line 2 Delete "(e)" and insert "(f)".
+36
+37 Page 3-line 16 Delete "(e)" and insert "(f)".
+38
+39 Page 3-line 18 Delete "(d)" and insert "(e)".
+40
+41 Page 3-line 20 Delete "(d)" and insert "(e)".
+42
+43 Page 3-line 22 Delete "(d)" and insert "(e)". FORNSTROM
+1

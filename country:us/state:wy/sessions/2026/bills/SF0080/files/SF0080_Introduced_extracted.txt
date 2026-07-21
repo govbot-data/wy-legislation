@@ -1,0 +1,128 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0262
+SENATE FILE NO. SF0080
+Department of revenue-electronic communication.
+Sponsored by: Joint Revenue Interim Committee
+A BILL
+for
+1 AN ACT relating to sales and use taxes; removing the
+2 requirement for specified notices related to sales and use
+3 taxes to be sent by mail; authorizing electronic notices;
+4 making conforming amendments; and providing for an
+5 effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 39-15-102(d), 39-15-107(a)(iv) and
+10 (b)(ix), 39-15-108(c)(xii) and (xvi) and 39-16-108(c)(vi)
+11 and (xviii) are amended to read:
+12
+13 39-15-102. Administration; confidentiality.
+14
+15 (d) Notices required to be mailed Written notice by
+16 the department under this article if mailed to the address
+1 SF0080
+
+2026 STATE OF WYOMING 26LSO-0262
+1 shown on the records of the department, using contact
+2 information provided by the taxpayer, shall be sufficient
+3 for the purposes of this article. Written notice may be
+4 provided electronically by the department if the contact
+5 information provided by the taxpayer includes an electronic
+6 communication option.
+7
+8 39-15-107. Compliance; collection procedures.
+9
+10 (a) Returns, reports and preservation of records.
+11 The following shall apply:
+12
+13 (iv) If a vendor fails to file a return as
+14 required by this article, the department shall give written
+15 notice by mail to the vendor to file a return on or before
+16 the last day of the month following the notice of
+17 delinquency. If a vendor then fails to file a return the
+18 department shall make a return from the best information
+19 available which will be prima facie correct and the tax due
+20 therein is a deficiency and subject to penalties and
+21 interest as provided by this article;
+22
+23 (b) Payment. The following shall apply:
+2 SF0080
+
+2026 STATE OF WYOMING 26LSO-0262
+1
+2 (ix) When the department has reason to believe
+3 the collection of any tax, penalty or interest will be
+4 jeopardized by delay it shall immediately levy a jeopardy
+5 assessment and the amount assessed shall be immediately due
+6 and payable. Notice of the assessment shall be given to the
+7 vendor personally or by mail written notice. If the
+8 jeopardy assessment is not paid within ten (10) days after
+9 the service of notice upon the vendor, the deficiency
+10 penalty and interest provided in W.S. 39-15-108(c)(ii)
+11 shall attach to the amount of the jeopardy assessment;
+12
+13 39-15-108. Enforcement.
+14
+15 (c) Penalties. The following shall apply:
+16
+17 (xii) If a vendor fails to file a return as
+18 required by this article, the department shall give written
+19 notice by mail to the vendor to file a return on or before
+20 the last day of the month following the notice of
+21 delinquency. If a vendor then fails to file a return the
+22 department shall make a return from the best information
+23 available which will be prima facie correct and the tax due
+3 SF0080
+
+2026 STATE OF WYOMING 26LSO-0262
+1 therein is a deficiency and subject to penalties and
+2 interest as provided by this article;
+3
+4 (xvi) Notwithstanding W.S. 39-15-102(e), if any
+5 vendor or taxpayer is one hundred fifty (150) days or more
+6 delinquent on taxes due under this article, has not entered
+7 into a formal payment arrangement with the department and
+8 after thirty (30) days written notice, provided by first
+9 class mail, the department shall post monthly the name of
+10 the vendor or taxpayer, the sales and use tax license
+11 number, physical address and the unpaid balance owed by the
+12 vendor or taxpayer on the website of the department
+13 indicating that the vendor or taxpayer has not paid the tax
+14 due under this article.
+15
+16 39-16-108. Enforcement.
+17
+18 (c) Penalties. The following shall apply:
+19
+20 (vi) The department shall promptly give written
+21 notice of all taxes, penalty and interest due under this
+22 section by personal service or mail to the address contact
+23 information as shown in the department records;
+4 SF0080
+
+2026 STATE OF WYOMING 26LSO-0262
+1
+2 (xviii) Notwithstanding W.S. 39-16-102(c), if
+3 any vendor or taxpayer is one hundred fifty (150) days or
+4 more delinquent on taxes due under this article, has not
+5 entered into a formal payment arrangement with the
+6 department and after thirty (30) days written notice,
+7 provided by first class mail, the department shall post
+8 monthly the name of the vendor or taxpayer, the sales and
+9 use tax license number, physical address and the unpaid
+10 balance owed by the vendor or taxpayer on the website of
+11 the department indicating that the vendor or taxpayer has
+12 not paid the tax due under this article.
+13
+14 Section 2. This act is effective July 1, 2026.
+15
+16 (END)
+5 SF0080

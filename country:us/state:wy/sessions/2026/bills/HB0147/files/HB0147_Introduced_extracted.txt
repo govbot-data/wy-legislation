@@ -1,0 +1,56 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0402
+HOUSE BILL NO. HB0147
+Property tax exemptions-effect of people's initiative.
+Sponsored by: Representative(s) Locke, Allemand, Campbell,
+K, Erickson and Haroldson
+A BILL
+for
+1 AN ACT relating to property taxation; repealing the
+2 homeowner tax exemption if the people's initiative to limit
+3 property tax in Wyoming through a homeowner's property
+4 exemption is enacted into law; specifying applicability;
+5 and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 39-11-105(a)(xlvi) by creating a new
+10 subparagraph (D) is amended to read:
+11
+12 39-11-105. Exemptions.
+13
+14 (a) The following property is exempt from property
+15 taxation:
+1 HB0147
+
+2026 STATE OF WYOMING 26LSO-0402
+1
+2 (xlvi) A portion of a single family residential
+3 structure and the associated improved land as a homeowner
+4 tax exemption as provided in this paragraph. The following
+5 shall apply to this exemption:
+6
+7 (D) This paragraph is repealed on the date
+8 the secretary of state certifies to the department of
+9 revenue that the voters have approved an initiative
+10 implementing a homeowner's property tax exemption and the
+11 exemption is enacted into law.
+12
+13 Section 2. If the secretary of state certifies that
+14 the voters have approved an initiative implementing a
+15 homeowner's property tax exemption and that exemption is
+16 effective for the tax year beginning January 1, 2027, the
+17 exemption under W.S. 39-11-105(a)(xlvi) shall not apply for
+18 the tax year beginning January 1, 2027.
+19
+20 Section 3. This act is effective July 1, 2026.
+21
+22 (END)
+2 HB0147

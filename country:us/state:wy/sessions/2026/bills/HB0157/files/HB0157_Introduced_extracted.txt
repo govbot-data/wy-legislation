@@ -1,0 +1,97 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0388
+HOUSE BILL NO. HB0157
+Protection of parental rights-cause of action.
+Sponsored by: Representative(s) McCann, Brady, Guggenmos,
+Haroldson, Larson, JT, Lien, Locke, Lucas,
+Ottman, Schmid, Strock, Webb and Wylie and
+Senator(s) Brennan, Hutchings and Pearson
+A BILL
+for
+1 AN ACT relating to parental rights; providing a civil cause
+2 of action for infringement of parental rights; creating an
+3 exception to governmental immunity; waiving governmental
+4 claims notice requirements; and providing for an effective
+5 date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 1-39-125 is created to read:
+10
+11 1-39-125. Liability; protection of parental rights.
+12
+13 A governmental entity is liable for damages resulting from
+14 a violation of W.S. 14-2-206.
+1 HB0157
+
+2026 STATE OF WYOMING 26LSO-0388
+1
+2 Section 2. W.S. 1-39-104(a), 1-39-113(a)(intro),
+3 1-39-118(d) and 14-2-206 by creating a new subsection (d)
+4 are amended to read:
+5
+6 1-39-104. Granting immunity from tort liability;
+7 liability on contracts; exceptions.
+8
+9 (a) A governmental entity and its public employees
+10 while acting within the scope of duties are granted
+11 immunity from liability for any tort except as provided by
+12 W.S. 1-39-105 through 1-39-112 and 1-39-122 through
+13 1-39-124 1-39-125. Any immunity in actions based on a
+14 contract entered into by a governmental entity is waived
+15 except to the extent provided by the contract if the
+16 contract was within the powers granted to the entity and
+17 was properly executed and except as provided in W.S.
+18 1-39-120(b). The claims procedures of W.S. 1-39-113 apply
+19 to contractual claims against governmental entities.
+20
+21 1-39-113. Claims procedure.
+22
+2 HB0157
+
+2026 STATE OF WYOMING 26LSO-0388
+1 (a) Except as provided by W.S. 14-2-206(d), no action
+2 shall be brought under this act against a governmental
+3 entity unless the claim upon which the action is based is
+4 presented to the entity as an itemized statement in writing
+5 within two (2) years of the date of the alleged act, error
+6 or omission, except that a cause of action may be
+7 instituted not more than two (2) years after discovery of
+8 the alleged act, error or omission, if the claimant can
+9 establish that the alleged act, error or omission was:
+10
+11 1-39-118. Maximum liability; insurance authorized.
+12
+13 (d) Except as provided by W.S. 14-2-206(d), no
+14 judgment against a governmental entity shall include an
+15 award for exemplary or punitive damages, for interest prior
+16 to judgments or for attorney's fees.
+17
+18 14-2-206. Protection of parental rights;
+19 applicability; cause of action.
+20
+21 (d) Notwithstanding any other provision of the
+22 Wyoming Governmental Claims Act, if the state or any agency
+23 or political subdivision of the state infringes upon the
+3 HB0157
+
+2026 STATE OF WYOMING 26LSO-0388
+1 parental rights of a parent under this section, the parent
+2 shall have grounds for a civil cause of action against the
+3 state, agency or political subdivision for declaratory and
+4 injunctive relief. An action under this subsection shall
+5 not be subject to the requirements of W.S. 1-39-113. A
+6 district court shall award reasonable attorney fees and
+7 costs to a prevailing parent.
+8
+9 Section 3. This act is effective July 1, 2026.
+10
+11 (END)
+4 HB0157

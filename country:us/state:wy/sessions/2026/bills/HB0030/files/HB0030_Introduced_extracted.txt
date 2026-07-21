@@ -1,0 +1,52 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0065
+HOUSE BILL NO. HB0030
+Vehicle registration fees-amendments.
+Sponsored by: Representative(s) Riggins, Brown, G,
+Guggenmos, Lien, Schmid and Wasserburger
+A BILL
+for
+1 AN ACT relating to motor vehicles; amending the formula to
+2 calculate county vehicle registration fees for specified
+3 vehicles; and providing for an effective date.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 31-3-101(a)(i)(F) and by creating new
+8 subparagraphs (G) and (H) is amended to read:
+9
+10 31-3-101. Registration fees; exemptions.
+11
+12 (a) Except as otherwise provided, the following fees
+13 shall accompany each application for the registration of a
+14 vehicle:
+15
+1 HB0030
+
+2026 STATE OF WYOMING 26LSO-0065
+1 (i) A county registration fee computed as
+2 follows, or five dollars ($5.00), whichever is greater:
+3
+4 (F) 3% of 15% of the factory price plus
+5 special equipment value for a vehicle in its sixth year of
+6 service; and thereafter.
+7
+8 (G) 3% of 10% of the factory price plus
+9 special equipment value for a vehicle in its seventh year
+10 of service;
+11
+12 (H) 3% of 5% of the factory price plus
+13 special equipment value for a vehicle in its eighth year of
+14 service and thereafter.
+15
+16 Section 2. This act is effective July 1, 2026.
+17
+18 (END)
+2 HB0030

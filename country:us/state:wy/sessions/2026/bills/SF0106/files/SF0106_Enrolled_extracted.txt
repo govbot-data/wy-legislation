@@ -1,0 +1,507 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+AN ACT relating to welfare; amending the intervals at which
+the department of health and department of family services
+shall determine specified information of an applicant for
+or recipient of public welfare and assistance; making
+conforming amendments; amending the requirements for public
+welfare and assistance qualification and participation;
+establishing citizen, noncitizen and qualified alien
+eligibility for public welfare and assistance; requiring
+the reporting of illegal alien status; requiring specified
+hospitals to collect citizenship status information;
+requiring rulemaking; requiring reporting; providing
+definitions; specifying applicability; and providing for an
+effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 42-2-115, 42-10-108 through
+42-10-110, 42-10-201 and 42-12-101 through 42-12-106 are
+created to read:
+42-2-115. Supplemental nutrition assistance program
+eligibility recertification frequency.
+(a) The department shall assign certification periods
+of not greater than four (4) months to households that
+include an able bodied adult without dependents and other
+households whose circumstances are determined by the
+department to be unstable, unless otherwise prohibited
+under federal law for the supplemental nutrition assistance
+program.
+(b) The department shall assign certification periods
+of one (1) or two (2) months to households that the
+department determines will become ineligible for the
+1
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+supplemental nutrition assistance program in the near
+future, unless otherwise prohibited under federal law.
+(c) Except as provided by subsections (a) and (b) of
+this section, the department shall assign certification
+periods of not more than six (6) months to households whose
+members are not elderly or disabled, unless otherwise
+prohibited under federal law.
+42-10-108. Prohibition on self-attestation.
+(a) Except as required under federal law,
+self-attestation shall not be accepted for any of the
+following eligibility factors without verification prior to
+enrollment in the medicaid program:
+(i) Income in excess of zero dollars ($0.00);
+(ii) Residency;
+(iii) Identity;
+(iv) Except for any presumptive eligibility
+period, citizenship or immigration status.
+(b) The department shall not rely on self-attestation
+to establish any medicaid eligibility factor unless
+expressly required by federal law.
+42-10-109. Residency verification; monthly address
+checks; multistate enrollment; monthly death record checks.
+(a) As used in this section, "address change
+information" means postal change of address data, state
+address change databases or comparable systems.
+2
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(b) On not less than a monthly basis, the department
+of health shall review address change information to
+identify potential changes in residency for medicaid
+recipients.
+(c) The department of health shall conduct monthly
+cross checks of address change information against
+enrollment records and shall initiate an eligibility
+redetermination when a change in residency is indicated.
+(d) The department of health shall submit enrollment
+information to any national database used to identify
+persons enrolled in medicaid in multiple states.
+Implementation of this subsection shall occur no later than
+October 1, 2029.
+(e) Not later than August 31 of each year, the
+department of health shall submit a public report to the
+joint labor, health and social services interim committee
+of the Wyoming legislature, including:
+(i) The number of persons flagged through
+address change information or out of state benefit
+activity;
+(ii) The number of persons removed from the
+medicaid program due to enrollment in multiple states;
+(iii) The estimated fiscal impact of this
+section.
+(f) On not less than a monthly basis, the department
+of health shall receive and review information from the
+vital statistics services and the social security
+3
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+administration master death file to identify any deceased
+persons enrolled in the medicaid program. Upon confirmation
+of death, the department shall promptly remove the deceased
+person from the program.
+42-10-110. Retroactive medicaid eligibility;
+rulemaking; reporting.
+(a) As used in this section:
+(i) "Retroactive eligibility" means coverage for
+services furnished prior to the month of application as
+authorized by 42 U.S.C. § 1396a(a)(34);
+(ii) "Medicaid eligible population" means
+persons eligible for medicaid under state or federal law.
+(b) Retroactive medicaid eligibility shall not extend
+more than two (2) months prior to the month in which a
+completed medicaid application is submitted.
+(c) This limitation applies only to initial
+applications and shall not affect ongoing eligibility.
+(d) The department of health shall adopt rules
+necessary to implement this section.
+(e) Not later than August 1 of each year, the
+department of health shall submit a report to the joint
+labor, health and social services interim committee of the
+Wyoming legislature, including:
+(i) The number of medicaid applications
+processed;
+4
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(ii) The number of applicants denied retroactive
+eligibility under this section; and
+(iii) The estimated fiscal impact of the
+limitation.
+(f) This section shall be implemented not later than
+January 1, 2027.
+ARTICLE 2
+WAIVER OF WORK REQUIREMENTS
+42-10-201. Prohibition on waiver of work requirements
+and exemptions.
+(a) The department of family services shall not seek,
+apply for, accept or renew any waiver of work requirements
+under 7 U.S.C. § 2015(o)(4) without first obtaining
+specific authorization from the legislature. Such
+authorization shall be provided in a duly enacted statute.
+(b) The department of family services shall not
+exercise the state's option to provide any exemptions from
+the work requirement under 7 U.S.C. § 2015(o)(6)(F), except
+for family caregivers as defined in section 2 of the
+Recognize, Assist, Include, Support and Engage Family
+Caregivers Act of 2017.
+CHAPTER 12
+CITIZENS AND QUALIFIED ALIENS STATUS VERIFICATION FOR
+WELFARE
+42-12-101. Definition of citizens who are eligible
+for public assistance.
+5
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(a) Unless required by federal law, no person who is
+not a United States citizen or national of the United
+States shall be eligible to receive food assistance through
+the supplemental nutrition assistance program, unless that
+individual meets the definition of a qualified alien
+pursuant to 8 U.S.C. § 1641(b).
+(b) No person who is not a United States citizen or
+national of the United States shall be eligible to receive
+medical assistance through medicaid, unless that person
+meets the definition of an eligible alien pursuant to 42
+U.S.C. § 1396b(v) and meets the definition of a qualified
+alien pursuant to 8 U.S.C. § 1641(b).
+(c) No person who is not a United States citizen or
+national of the United States shall be eligible to receive
+assistance through the personal opportunities with
+employment responsibilities (POWER) program, unless that
+person meets the definition of a qualified alien pursuant
+to 8 U.S.C. § 1641(b).
+42-12-102. Verification of citizenship or eligible
+alien status.
+(a) The department of family services shall be
+required to verify that a person is eligible to participate
+in the supplemental nutrition assistance program during
+enrollment and eligibility recertification by verifying
+citizenship or eligible alien status by using the United
+States citizenship and immigration services' systematic
+alien verification for entitlements (SAVE) online service
+or requiring the person to provide an acceptable form of
+proof of citizenship or eligible alien status, including
+but not limited to certified birth certificates, United
+6
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+States passports and United States customs and immigration
+services documentation.
+(b) The department of health shall be required to
+verify that a person is eligible for medicaid during
+enrollment and eligibility redetermination by verifying
+citizenship or eligible alien status using the SAVE online
+service or requiring the person to provide an acceptable
+form of proof of citizenship or eligible alien status,
+including but not limited to, certified birth certificates,
+United States passports and United States customs and
+immigration services documentation.
+(c) The department of family services or other
+applicable agency shall be required to verify that a person
+is eligible for the POWER program during enrollment and
+eligibility redetermination by verifying citizenship or
+eligible alien status using the SAVE online service or
+requiring the person to provide an acceptable form of proof
+of citizenship or eligible alien status, including but not
+limited to, certified birth certificates, United States
+passports and United States customs and immigration
+services documentation.
+(d) The department of family services shall submit to
+the United States department of agriculture information
+concerning any assistance unit member for whom it is unable
+to verify eligible alien status.
+(e) The department of health shall submit to the
+United States department of health and human services
+information concerning any person member for whom it is
+unable to verify eligible alien status.
+7
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+42-12-103. Referral of illegal aliens to law
+enforcement.
+The department of health and department of family services
+shall submit to the appropriate law enforcement
+authorities, including but not limited to the United States
+department of homeland security, information concerning any
+household member or assistance unit member who it is
+determined by the applicable department while applying the
+requirements of this title to be an unlawfully present
+alien, regardless of whether such household member or
+assistance unit member is applying to participate in a
+public assistance program, including but not limited to,
+the supplemental nutrition assistance program or medicaid.
+42-12-104. Counting of ineligible alien income in
+determination of benefits under the supplemental nutrition
+assistance program.
+The entire income and financial resources of any individual
+rendered ineligible for participation in the supplemental
+nutrition assistance program under 7 U.S.C. § 2015(f) shall
+be considered in determining the eligibility and benefit
+allotment of the household of which such individual is a
+member.
+42-12-105. Reasonable opportunity periods for
+noncitizens applying for medicaid.
+(a) The department of health shall adhere to the
+following requirements regarding the reasonable opportunity
+period for verification of United States citizenship or
+eligible alien status for medicaid:
+8
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(i) When an applicant's status cannot be
+verified through available data sources, the department
+shall provide only a single reasonable opportunity period,
+consistent with the minimum period required under federal
+law, for the applicant to provide verification;
+(ii) Medicaid coverage may only be provided
+provisionally during the reasonable opportunity period;
+(iii) Failure to submit acceptable documentation
+within the reasonable opportunity period required under
+federal law shall result in denial or termination of
+medicaid eligibility, subject to required notice;
+(iv) No additional reasonable opportunity period
+shall be granted to any applicant for medicaid who has
+previously been denied eligibility at any time due to a
+failure to verify citizenship or eligible alien status.
+42-12-106. Citizenship data collection and
+presumptive eligibility integrity, medicaid.
+(a) The department of health shall require a field
+for citizenship or eligible alien status on all presumptive
+eligibility applications. The department shall require
+hospitals, clinics and other qualified entities authorized
+to conduct presumptive eligibility determinations to
+collect and transmit attestations of citizenship or
+eligible alien status to the department. No presumptive
+eligibility application shall be approved unless the
+applicant certifies that they are a United States citizen,
+United States national, or alien eligible for medicaid
+pursuant to 42 U.S.C. § 1398b(v) and W.S. 42-12-101(b).
+(b) The department of health shall:
+9
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(i) Beginning not later than April 1, 2027,
+require each hospital that accepts medicaid to include a
+provision on its patient admission or registration form for
+the patient or the patient's representative to state or
+indicate whether the patient is a United States citizen or
+lawfully present in the United States or is not lawfully
+present in the United States;
+(ii) Beginning not later than April 1, 2027,
+require each hospital that accepts medicaid to inform a
+patient, at the time this information is collected, that
+any submission made on an admission or registration form
+will not affect patient care, as required by federal law;
+(iii) Beginning with the calendar year ending on
+December 31, 2027 and each calendar year thereafter,
+require that each hospital shall submit an annual report to
+the department of health within thirty (30) days after the
+end of each calendar year which reports the total
+deidentified number of hospital admissions and emergency
+department visits within the previous calendar year,
+disaggregated based on whether the patient or the patient's
+representative indicated that he or she was or was not a
+citizen of the United States or lawfully present in the
+United States or declined to answer together with other
+information required by the department;
+(iv) Beginning on April 1, 2028 and each April 1
+thereafter, submit a report to the governor and the joint
+labor, health and social services interim committee, which
+includes the number of total deidentified hospital
+admissions and emergency department visits for the previous
+calendar year, disaggregated based on weather the patient
+or patient's representative reported that the patient was
+10
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+or was not a citizen of the United States or lawfully
+present in the United States or declined to answer. The
+report shall also describe information relating to the
+costs of uncompensated care for aliens who are not lawfully
+present in the United States, the impact of uncompensated
+care on the cost or ability of hospitals to provide
+services to the public, hospital funding needs and other
+related information. The report shall also contain
+information based on the hospital's presumptive eligibility
+applications that are submitted to the department by
+participating providers, including the number of persons
+determined to be presumptively eligible for medicaid in the
+prior calendar year, the proportion of the persons
+presumptively eligible for medicaid who were verified as
+eligible for medicaid and the proportion of the persons
+presumptively eligible for medicaid who were determined to
+be ineligible for medicaid;
+(v) Adopt rules relating to the format and
+information to be contained in quarterly reports and the
+acceptable formats for hospitals to use in requesting
+information regarding a patients immigration status on
+hospital admission or registration forms.
+Section 2. W.S. 42-2-103(b)(xvi) and
+42-10-103(a)(intro), (iii) through (viii), (x) through (xv)
+and by creating a new subsection (d) is amended to read:
+42-2-103. Provision of assistance and services;
+duties of department; burial assistance; department of
+health state supplemental security income program.
+(b) In carrying out subsection (a) of this section
+and except as provided under the Wyoming Medical Assistance
+and Services Act, the department shall:
+11
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(xvi) Conduct the applicable eligibility and
+identity verification process as provided in W.S. 42-10-101
+through 42-10-107 42-10-110.
+42-10-103. Enhanced eligibility verification process.
+(a) Prior to awarding any public welfare benefit, and
+on a quarterly basis at the intervals specified in this
+section after any benefit is awarded, the department shall,
+to the extent practicable, determine the following
+information as it relates to each applicant for or
+recipient of a public welfare benefit:
+(iii) Income information maintained by the
+United States social security administration, reviewed by
+the department at every application and recertification
+period;
+(iv) Immigration status information maintained
+by the United States citizenship and immigration services
+and verified through the SAVE online service or other
+acceptable documentation;
+(v) Death register information maintained by the
+United States social security administration, reviewed by
+the department not less than on a monthly basis;
+(vi) Prisoner information maintained by the
+United States social security administration, reviewed by
+the department of family services at every application and
+recertification period;
+(vii) Public housing and section 8 housing
+assistance payment information, reviewed by the department
+12
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+of family services at every application and recertification
+period;
+(viii) Fleeing felon, probation or parole
+violation information, reviewed by the department of family
+services at every application and recertification period;
+(x) Beneficiary records and earnings information
+maintained by the United States social security
+administration in the beneficiary and earnings data
+exchange system, reviewed by the department at every
+application and recertification period;
+(xi) Earnings and pension information maintained
+by the United States social security administration in the
+beneficiary earnings exchange record system, reviewed by
+the department at every application and recertification
+period;
+(xii) Earnings and pension information
+maintained by the Wyoming retirement system, reviewed by
+the department of family services at every application and
+recertification period and by the department of health upon
+the receipt of applicable information from the Wyoming
+retirement system;
+(xiii) Employment information, maintained by the
+department of workforce services reviewed by the department
+at every application and recertification period;
+(xiv) Employment information maintained by the
+United States department of health and human services in
+the national directory of new hires, reviewed by the
+department of family services at every application and
+recertification period;
+13
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(xv) Supplemental security income information
+maintained by the United States social security
+administration in the social security income state data
+exchange system, reviewed by the department at every
+application and recertification period;
+(d) On not less than a quarterly basis, the
+department of family services and department of health
+shall each make available on their public websites all of
+the following data from findings on noncompliance and fraud
+investigations, provided the data is presented in the
+aggregate and does not include confidential or personally
+identifying information:
+(i) The total number of public benefit cases
+investigated for intentional program violations or fraud;
+(ii) The total number of public benefit cases
+referred to the attorney general's office for prosecution;
+(iii) Total improper payments and expenditures;
+(iv) Total monies received;
+(v) Aggregate data concerning improper payments
+and ineligible recipients as a percentage of those
+recipients investigated and reviewed.
+14
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0106
+ENROLLED ACT NO. 68, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+Section 3. This act is effective January 1, 2027.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the Senate.
+Chief Clerk
+15

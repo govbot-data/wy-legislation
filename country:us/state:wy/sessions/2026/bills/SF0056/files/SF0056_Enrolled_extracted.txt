@@ -1,0 +1,429 @@
+Title: 
+Official Title: 
+Source: versions - Enrolled
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+AN ACT relating to food and drugs; regulating the sale,
+testing and use of kratom products as specified;
+authorizing the department of health and local law
+enforcement to enforce compliance with kratom product
+regulation as specified; providing definitions; providing
+criminal penalties; providing appropriations; authorizing
+full-time positions; and providing for effective dates.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 35-7-2201 through 35-7-2203 are
+created to read:
+ARTICLE 22
+KRATOM PRODUCT REGULATION
+35-7-2201. Definitions.
+(a) As used in this act:
+(i) "Adulterated" means the addition of a
+controlled substance, a synthesized alkaloid or
+semi-synthesized alkaloid into a kratom product;
+(ii) "Alkaloid fraction" means a portion of a
+plant or plant extract that contains primarily alkaloid
+compounds;
+(iii) "Controlled substance" means as defined by
+W.S. 35-7-1002(a)(iv);
+(iv) "Kratom leaf" means the leaf of the
+mitragyna speciosa plant in fresh, dehydrated or dried
+form;
+1
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(v) "Kratom leaf extract" means the material
+extracted from a kratom leaf through the application of a
+solvent consisting of water, ethanol, food-grade carbon
+dioxide or another solvent allowed by federal or state law
+to be used in the manufacturing of a food ingredient;
+(vi) "Kratom product" means a food or dietary
+supplement that consists of or contains any part of the
+kratom leaf, kratom leaf extract or any kratom alkaloid,
+kratom constituent or kratom metabolite. "Kratom product"
+shall not include any synthesized alkaloid or
+semi-synthesized alkaloid;
+(vii) "Retailer" means a business of any kind at
+a specific location that sells kratom products to a user or
+consumer;
+(viii) "Semi-synthesized alkaloid" means an
+alkaloid or alkaloid derivative contained in kratom leaf
+extract that has been exposed to chemicals or processes
+that would confer a structural change in the alkaloids,
+including but not limited to oxidation, reduction and ring
+opening and closing, resulting in material that has been
+chemically altered;
+(ix) "Synthesized alkaloid" means an alkaloid or
+alkaloid derivative of the kratom leaf that has been
+created by chemical synthesis or biosynthetic means,
+including fermentation, recombinant techniques,
+yeast-derived techniques and enzymatic techniques.
+"Synthesized alkaloid" shall not include an alkaloid or
+alkaloid derivative of the kratom leaf that has been
+created by traditional food preparation techniques,
+including but not limited to heating or extracting;
+2
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(x) "This act" means W.S. 35-7-2201 through
+35-7-2203.
+35-7-2202. Kratom product regulation; penalties.
+(a) A person is guilty of a violation of this act if
+the person:
+(i) Knowingly prepares, distributes, delivers,
+advertises, sells or offers for sale a kratom product:
+(A) That is adulterated;
+(B) To a person less than twenty-one (21)
+years of age;
+(C) That contains a level of
+7-hydromitragynine in the alkaloid fraction that is greater
+than two percent (2%) of the alkaloid composition of the
+kratom product;
+(D) That is a confection, mimics a candy
+product or is manufactured, packaged, labeled or
+distributed in a way that is appealing to children,
+including in the distinct shape of a human, animal or
+fruit; or
+(E) That is combustible or intended for
+vaporization.
+(ii) Knowingly prepares, distributes, delivers,
+advertises, sells or offers for sale a kratom product that
+does not have a label that clearly and conspicuously states
+on each retail package:
+3
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(A) The name and address for the place of
+business of the manufacturer or distributor of the kratom
+product;
+(B) The full list of ingredients of the
+kratom product;
+(C) Disclosure and advice:
+(I) Against use by persons who are
+less than twenty-one (21) years of age, pregnant or
+breastfeeding;
+(II) To consult a health care provider
+prior to use;
+(III) That the use of kratom products
+may be habit forming;
+(IV) That kratom products may interact
+with certain medications, drugs and controlled substances.
+(D) The following statements:
+(I) "These statements have not been
+evaluated by the United States food and drug
+administration. This product is not intended to diagnose,
+treat, cure or prevent any disease."; and
+(II) "Keep out of reach of children."
+(E) Directions for use that include:
+(I) A recommended amount of the kratom
+product per serving;
+4
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(II) The number of recommended
+servings per package;
+(III) A recommended number of servings
+of the kratom product that can be safely consumed in a
+twenty-four (24) hour period; and
+(IV) Quantitative declarations of the
+amounts of mitragynine and 7-hydroxymitragynine per serving
+of the kratom product.
+(iii) Displays or stores kratom products in a
+retail location in a manner that would permit the products
+to be accessed by persons less than twenty-one (21) years
+of age; or
+(iv) Manufactures, packages, distributes or
+labels a kratom product or delivers a kratom product to a
+person less than twenty-one (21) years of age that:
+(A) Contains synthesized alkaloids or
+semi-synthesized alkaloids; or
+(B) Has a level of 7-hydroxymitragynine in
+the alkaloid fraction that is greater than two percent (2%)
+of the alkaloid composition of the product.
+(b) A violation of this act is a misdemeanor
+punishable by imprisonment for not more than one (1) year,
+a fine of not more than one thousand dollars ($1,000.00),
+or both.
+(c) The state chemist shall, pursuant to W.S.
+35-7-201 and when requested by law enforcement or the
+5
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+department of health, analyze kratom products to determine
+whether the requirements of paragraphs (a)(i) and (iv) of
+this section are being followed.
+(d) Any retailer violating this act for a third or
+subsequent time within a two (2) year period may be subject
+to an injunction. The department of health or the district
+attorney of the county in which the offense occurred may
+petition the district court for an injunction to prohibit
+the sale of kratom products in the establishment where the
+violation occurred. If a court finds that the retailer in
+the action has violated the provisions of this act for a
+third or subsequent time within a two (2) year period and
+may continue to violate this act, it may grant an
+injunction prohibiting the retailer from selling kratom
+products in the establishment where the violation occurred
+for a period of not more than one hundred eighty (180)
+days. For the purposes of this subsection, multiple
+violations occurring before the petition for the injunction
+is filed shall be deemed part of the violation for which
+the injunction is sought. If the person against whom the
+injunction is sought operates multiple, geographically
+separate establishments, the injunction shall apply only to
+the establishment where the violation occurred. The
+injunction shall prohibit all sales of kratom products in
+the establishment where the violation occurred, regardless
+of any change in ownership or management of the
+establishment that is not a bona fide, arms length
+transaction while the injunction is in effect.
+(e) It is an affirmative defense to a prosecution
+under this act that, in the case of a sale, the retailer
+who sold the kratom product was presented with, and
+reasonably relied upon, an identification card which
+6
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+identified the person buying or receiving the kratom
+product as being over twenty-one (21) years of age.
+(f) Notwithstanding the provisions of this act, no
+fine for a violation of subsection (a) of this section
+shall be imposed for a first offense in any twenty-four
+(24) month period if a retailer can show it has:
+(i) Adopted and enforced a written policy
+against selling kratom products to persons under the age of
+twenty-one (21) years;
+(ii) Informed its employees of the applicable
+laws regarding the sale of kratom products to persons under
+the age of twenty-one (21) years;
+(iii) Required employees to verify the age of
+kratom product customers by way of photographic
+identification or by means of electronic transaction scan
+device; and
+(iv) Established and imposed disciplinary
+sanctions for noncompliance.
+35-7-2203. Compliance inspections.
+(a) The department of health, working with local law
+enforcement agencies and other local persons and
+organizations at the discretion of the department, shall be
+the lead agency to ensure compliance with this act.
+(b) The department of health shall develop strategies
+to coordinate and support local law enforcement efforts to
+enforce all state statutes relating to the prohibition of
+7
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+the sale of kratom products to persons under twenty-one
+(21) years of age.
+(c) The department of health shall have discretion
+to:
+(i) Work with each local law enforcement agency
+within the state; and
+(ii) Coordinate local enforcement efforts that
+appropriately reflect the needs of the community.
+(d) To coordinate the enforcement of state statutes
+relating to the prohibition of the sale of kratom products
+to persons under twenty-one (21) years of age and to comply
+with applicable federal law, the department of health shall
+have authority to contract with or provide grants to local
+law enforcement agencies or other local persons or entities
+having the appropriate level of enforcement authority on
+the local level to conduct random, unannounced inspections
+at retail locations where kratom products are sold. The
+local law enforcement agencies or other local persons or
+entities authorized to conduct inspections shall be
+permitted to use minors and persons under twenty-one (21)
+years of age subject to the following:
+(i) Prior to the inspection, the local law
+enforcement agency or other authorized person shall obtain
+the written consent of the person being used in the
+inspection or if using a minor, the written consent of the
+minor's parents or guardian shall be obtained prior to the
+minor participating in an inspection. The written consent
+required under this paragraph shall include a notification
+that testimony in a subsequent court proceeding may be
+required;
+8
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(ii) Any person under twenty-one (21) years of
+age participating in an inspection shall, if questioned,
+state his true age and that he is less than twenty-one (21)
+years of age;
+(iii) The appearance of a person under
+twenty-one (21) years of age shall not be altered to make
+the person appear to be twenty-one (21) years of age or
+older;
+(iv) Neither a minor nor the minor's parents or
+guardians shall be coerced into participating in such
+inspections;
+(v) The person conducting the inspection shall
+photograph the participant immediately before the
+inspection and any photographs taken of the participant
+shall be retained by the person conducting the inspection.
+(e) The person conducting an inspection under this
+section shall:
+(i) Remain within sight or sound of the
+participant attempting to make the purchase;
+(ii) After an inspection is complete,
+immediately inform in writing a representative or agent of
+the business establishment that an inspection has been
+performed and the results of the inspection;
+(iii) Within two (2) days, prepare a report of
+the inspection containing:
+9
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+(A) The name of the person who supervised
+the inspection;
+(B) The age and date of birth of the
+participant who assisted in the inspection;
+(C) The name and position of the person
+from whom the participant attempted to purchase kratom
+products;
+(D) The name and address of the
+establishment inspected;
+(E) The date and time of the inspection;
+and
+(F) The results of the inspection,
+including whether the inspection resulted in the sale or
+distribution of, or offering for sale, kratom products to a
+person under twenty-one (21) years of age.
+(iv) Immediately upon completion of the report
+required under this subsection, provide a copy of the
+report to a representative or agent of the business
+establishment that was inspected;
+(v) Request a law enforcement officer to issue a
+citation for any illegal acts relating to providing kratom
+products to persons under twenty-one (21) years of age
+during the inspection.
+Section 2. There is appropriated one hundred fifteen
+thousand dollars ($115,000.00) from opioid settlement funds
+distributed to the department of health or, if opioid
+settlement funds are not available for that purpose, then
+10
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+from the general fund to the department of health for the
+purpose of implementing this act. This appropriation shall
+be for the period beginning July 1, 2026 and ending June
+30, 2028. This appropriation shall not be transferred or
+expended for any other purpose and any unexpended,
+unobligated funds remaining from this appropriation shall
+revert as provided by law on June 30, 2028. It is the
+intent of the legislature that this appropriation be
+included in the standard budget for the department of
+health for the immediately succeeding fiscal biennium.
+Section 3.
+(a) The department of agriculture is authorized one
+(1) full-time employee for the purpose of testing kratom
+products as required by this act. There is appropriated one
+hundred ninety-seven thousand five hundred forty dollars
+($197,540.00) from opioid settlement funds distributed to
+the department of health or, if opioid settlement funds are
+not available for that purpose, then from the general fund
+to the department of agriculture for the salary and
+benefits of the position created by this subsection. This
+appropriation shall be for the period beginning July 1,
+2026 and ending June 30, 2028. This appropriation shall not
+be transferred or expended for any other purpose and any
+unexpended, unobligated funds remaining from this
+appropriation shall revert as provided by law. It is the
+intent of the legislature that this appropriation and this
+position be included in the department of agriculture's
+standard budget for the immediately succeeding fiscal
+biennium.
+(b) There is appropriated twenty-four thousand
+dollars ($24,000.00) from opioid settlement funds
+distributed to the department of health or, if opioid
+11
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+settlement funds are not available for that purpose, then
+from the general fund to the department of agriculture to
+purchase equipment necessary for the testing of kratom
+products as required by this act. This appropriation shall
+be for the period beginning July 1, 2026 and ending June
+30, 2028. These funds shall not be transferred or expended
+for any other purpose and any unexpended, unobligated funds
+remaining from this appropriation shall revert as provided
+by law. It is the intent of the legislature that this
+appropriation be included in the department of
+agriculture's standard budget for the immediately
+succeeding fiscal biennium.
+Section 4. The department of health and the
+department of agriculture shall promulgate all rules
+necessary to implement this act.
+12
+
+ORIGINAL SENATE ENGROSSED
+FILE NO. SF0056
+ENROLLED ACT NO. 44, SENATE
+SIXTY-EIGHTH LEGISLATURE OF THE STATE OF WYOMING
+2026 BUDGET SESSION
+Section 5.
+(a) Except as provided by subsection (b) of this
+section, this act is effective July 1, 2026.
+(b) Sections 4 and 5 of this act are effective
+immediately upon completion of all acts necessary for a
+bill to become law as provided by Article 4, Section 8 of
+the Wyoming Constitution.
+(END)
+Speaker of the House President of the Senate
+Governor
+TIME APPROVED: _________
+DATE APPROVED: _________
+I hereby certify that this act originated in the Senate.
+Chief Clerk
+13

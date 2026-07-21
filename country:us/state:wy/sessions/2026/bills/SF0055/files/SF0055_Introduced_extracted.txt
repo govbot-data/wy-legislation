@@ -1,0 +1,221 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0059
+SENATE FILE NO. SF0055
+Special purpose depository institution-amendments.
+Sponsored by: Senator(s) Rothfuss, Crago, Nethercott and
+Olsen and Representative(s) Filer, Singh and
+Yin
+A BILL
+for
+1 AN ACT relating to banks, banking and finance; amending
+2 special purpose depository institution initial capital
+3 stock requirements; amending requirements for special
+4 purpose depository institutions to commence business as
+5 specified; amending requirements for the application to
+6 charter special purpose depository institutions as
+7 specified; amending the timeline special purpose depository
+8 institutions must commence business; authorizing appeals of
+9 decisions of the commissioner; amending the appealable
+10 court for decisions relating to special purpose depository
+11 institutions; creating a special purpose depository
+12 institution resolution fund account; specifying authorized
+13 expenditures and the investment of funds in the account;
+14 requiring a portion of supervisory fees to be paid to the
+15 account; repealing the requirement that special purpose
+1 SF0055
+
+2026 STATE OF WYOMING 26LSO-0059
+1 depository institutions maintain a contingency account;
+2 making conforming amendments; requiring rulemaking; and
+3 providing for effective dates.
+4
+5 Be It Enacted by the Legislature of the State of Wyoming:
+6
+7 Section 1. W.S. 5-13-115 by creating a new subsection
+8 (g), 13-12-110(a) and (b), 13-12-111(b), 13-12-116 by
+9 creating a new subsection (b) and by renumbering (b) as
+10 (c), 13-12-117, 13-12-119(d) and 13-12-122 by creating a
+11 new subsection (c) are amended to read:
+12
+13 5-13-115. Purpose and jurisdiction.
+14
+15 (g) The chancery court shall have jurisdiction to
+16 hear and decide appeals of any decision of the state
+17 banking board or the state banking commissioner appealed
+18 under W.S. 13-12-117.
+19
+20 13-12-110. Required initial capital and surplus;
+21 additional capital.
+22
+2 SF0055
+
+2026 STATE OF WYOMING 26LSO-0059
+1 (a) The capital stock of each special purpose
+2 depository institution chartered under this chapter shall
+3 be subscribed for as fully paid stock. No special purpose
+4 depository institution shall be chartered commence business
+5 with capital stock of less than five million dollars
+6 ($5,000,000.00).
+7
+8 (b) No special purpose depository institution shall
+9 commence business until the full amount of its authorized
+10 capital is subscribed and all capital stock is fully paid
+11 in. No special purpose depository institution may be
+12 chartered shall commence business without a paid up surplus
+13 fund of not less than twenty percent (20%) of its legally
+14 authorized capital stock and undivided profits in an amount
+15 not less than three (3) years one (1) year of estimated
+16 operating expenses in the amount disclosed pursuant to W.S.
+17 13-12-111(b) or in another amount required by the
+18 commissioner.
+19
+20 13-12-111. Application for charter; fee; subaccount
+21 created.
+22
+3 SF0055
+
+2026 STATE OF WYOMING 26LSO-0059
+1 (b) The incorporators under W.S. 13-12-109(a) shall
+2 apply to the commissioner for a charter. The application
+3 shall contain the special purpose depository institution's
+4 articles of incorporation, a detailed business plan, a
+5 comprehensive estimate of operating expenses for the first
+6 three (3) years year of operation, a complete proposal for
+7 compliance with the provisions of this chapter and evidence
+8 of a plan to raise the capital required under W.S.
+9 13-12-110. The commissioner may prescribe the form of
+10 application by rule.
+11
+12 13-12-116. Certificate of authority to commence
+13 business required; application; approval or denial; failure
+14 to commence business.
+15
+16 (b) The commissioner shall have the authority to
+17 determine the requirements by rule in accordance with this
+18 act that shall be met for an approved special purpose
+19 depository institution to commence business.
+20
+21 (b)(c) If an approved special purpose depository
+22 institution fails to commence business in good faith
+23 compliance with the requirements imposed by the
+4 SF0055
+
+2026 STATE OF WYOMING 26LSO-0059
+1 commissioner under subsection (b) of this section, within
+2 six (6) months one (1) year after the issuance of a
+3 certificate of authority to operate by the commissioner,
+4 the charter and certificate of authority shall expire. The
+5 board, for good cause and upon an application filed prior
+6 to the expiration of the six (6) month one (1) year period,
+7 may extend the time within which the special purpose
+8 depository institution may open for business.
+9
+10 13-12-117. Decisions by board appealable; grounds.
+11
+12 Any decision of the board or commissioner in approving,
+13 conditionally approving or disapproving a charter for a
+14 special purpose depository institution, or the issuance or
+15 denial of a certificate of authority to operate, compliance
+16 with the requirements for an approved special purpose
+17 depository institution to commence business under W.S.
+18 13-12-116(b) or the issuance or denial of an extension to
+19 commence business under W.S. 13-12-116(c) is appealable to
+20 the district court of the county in which the institution
+21 is to be located, in accordance with the provisions of the
+22 Wyoming Administrative Procedure Act or, notwithstanding
+23 W.S. 16-3-114(a), to the chancery court. In addition to the
+5 SF0055
+
+2026 STATE OF WYOMING 26LSO-0059
+1 grounds for appeal contained in the Wyoming Administrative
+2 Procedure Act, an appellant may appeal if the board or the
+3 commissioner fails to make any of the required findings or
+4 otherwise take an action required by law.
+5
+6 13-12-119. Reports and examinations; supervisory
+7 fees; required private insurance or bond.
+8
+9 (d) Unless the commissioner determines an exemption
+10 is appropriate because of payment of other fees, on or
+11 before January 31 and July 31 of each year, a special
+12 purpose depository institution shall compute and pay
+13 supervisory fees to the commissioner based on the total
+14 assets of the special purpose depository institution as of
+15 the preceding December 31 and June 30 respectively. Except
+16 as provided in W.S. 13-12-122(c), supervisory fees under
+17 this section shall provide for the operating costs of the
+18 office of the commissioner and the administration of the
+19 laws governing special purpose depository institutions.
+20 Such Supervisory fees shall be established by rule of the
+21 commissioner and shall be adjusted by the commissioner to
+22 assure consistency with the cost of supervision. Except as
+23 provided in W.S. 13-12-122(c), supervisory fees shall be
+6 SF0055
+
+2026 STATE OF WYOMING 26LSO-0059
+1 deposited by the commissioner with the state treasurer and
+2 credited to the special purpose depository institutions
+3 subaccount created by W.S. 13-12-111(d).
+4
+5 13-12-122. Failure of institution; unsound or unsafe
+6 condition; applicability of other insolvency and
+7 conservatorship provisions; special purpose depository
+8 institution resolution fund account.
+9
+10 (c) There is created the special purpose depository
+11 institution resolution fund account. A portion of each
+12 supervisory fee paid pursuant to W.S. 13-12-119(d) shall be
+13 deposited in the special purpose depository institution
+14 resolution fund account and shall be used by the
+15 commissioner in the event of an involuntary dissolution of
+16 a special purpose depository institution. The amount
+17 deposited in the account shall be established by rule of
+18 the commissioner. The portion of fees designated under this
+19 subsection shall be remitted to the state treasurer to be
+20 credited to the special purpose depository institution
+21 resolution fund account. All funds within the account shall
+22 be invested by the state treasurer and all investment
+23 earnings from the account shall be credited to the account.
+7 SF0055
+
+2026 STATE OF WYOMING 26LSO-0059
+1 Notwithstanding W.S. 9-2-1008, 9-2-1012(e) and 9-4-207,
+2 unobligated and unexpended funds in the account shall not
+3 lapse or revert and shall remain in the account and be
+4 available for distribution as provided by this subsection.
+5 Expenditures from the account shall be made using warrants
+6 drawn by the state auditor, upon vouchers issued and signed
+7 by the director of the department of audit or by the
+8 commissioner. Funds from the account shall be expended only
+9 to carry out the duties of the commissioner in the
+10 involuntary dissolution of a special purpose depository
+11 institution.
+12
+13 Section 2. W.S. 13-12-106 and 13-12-122(b)(i)(B) are
+14 repealed.
+15
+16 Section 3. The banking commissioner shall promulgate
+17 rules as necessary to implement this act.
+18
+8 SF0055
+
+2026 STATE OF WYOMING 26LSO-0059
+1 Section 4.
+2
+3 (a) Except as provided in subsection (b) of this
+4 section, this act is effective July 1, 2026.
+5
+6 (b) Sections 3 and 4 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+9 SF0055

@@ -1,0 +1,237 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0282
+HOUSE BILL NO. HB0118
+Residential property tax replacement.
+Sponsored by: Joint Revenue Interim Committee
+A BILL
+for
+1 AN ACT relating to taxation and revenue; providing for the
+2 valuation of residential property; providing a sales and
+3 use tax to provide funding to local governments due to the
+4 decrease in revenue from the valuation of residential
+5 property; providing an exemption to the additional sales
+6 and use tax as specified; creating an account; providing
+7 for distribution of the sales and use tax; making
+8 conforming amendments; making the act contingent on passage
+9 of a constitutional amendment; and providing for effective
+10 dates.
+11
+12 Be It Enacted by the Legislature of the State of Wyoming:
+13
+14 Section 1. W.S. 39-11-101(a)(xvii) by creating a new
+15 subparagraph (C), by renumbering (C) as (D) and by creating
+16 a new paragraph (xix), 39-13-103(b)(iii)(intro), by
+1 HB0118
+
+2026 STATE OF WYOMING 26LSO-0282
+1 creating a new subparagraph (C) and by renumbering (C) as
+2 (D), 39-15-104 by creating a new subsection (j),
+3 39-15-111(b)(intro) and by creating a new subsection (s),
+4 39-16-104 by creating a new subsection (g) and
+5 39-16-111(b)(intro) are amended to read:
+6
+7 39-11-101. Definitions.
+8
+9 (a) As used in this act unless otherwise specifically
+10 provided:
+11
+12 (xvii) "Taxable value" means a percent of the
+13 fair market value of property in a particular class as
+14 follows:
+15
+16 (C) Residential real property, zero percent
+17 (0%);
+18
+19 (C)(D) All other property, real and
+20 personal, including property valued and assessed under W.S.
+21 39-13-102(m)(vi) and (ix), nine and one-half percent
+22 (9.5%).
+23
+2 HB0118
+
+2026 STATE OF WYOMING 26LSO-0282
+1 (xix) "Residential real property" means real
+2 property improved by a dwelling designed to house not more
+3 than three (3) families and includes associated residential
+4 land where the dwelling is located if the land is owned by
+5 the owner of the dwelling. The dwelling may be any type of
+6 residence including a single family home or an individual
+7 condominium unit if the dwelling is used as a primary
+8 residence.
+9
+10 39-13-103. Imposition.
+11
+12 (b) Basis of tax. The following shall apply:
+13
+14 (iii) Beginning January 1, 1989, "Taxable value"
+15 means a percent of the fair market value of property in a
+16 particular class as follows:
+17
+18 (C) Residential real property, zero percent
+19 (0%);
+20
+21 (C)(D) All other property, real and
+22 personal, nine and one-half percent (9.5%).
+23
+3 HB0118
+
+2026 STATE OF WYOMING 26LSO-0282
+1 39-15-104. Taxation rate.
+2
+3 (j) In addition to the sales tax under subsections
+4 (a) and (b) of this section, beginning April 1, 2027 there
+5 is imposed an additional sales tax as provided in this
+6 subsection. The additional sales tax imposed under this
+7 subsection shall not apply to sales to industrial
+8 facilities as defined by W.S. 35-12-102(a)(vii) that are
+9 subject to permitting by the industrial siting council
+10 under W.S. 35-12-101 through 35-12-119 during the period of
+11 permitting and construction of the industrial facility. The
+12 revenue from the tax under this subsection shall be
+13 distributed as provided in W.S. 39-15-111(s). The rate of
+14 the sales tax under this subsection shall be two percent
+15 (2%), which shall be administered as if the sales tax rate
+16 under subsections (a) and (b) of this section was increased
+17 from four percent (4%) to six percent (6%).
+18
+19 39-15-111. Distribution.
+20
+21 (b) Revenues earned under W.S. 39-15-104 during each
+22 fiscal year shall be recognized as revenue during that
+23 fiscal year for accounting purposes. Except as otherwise
+4 HB0118
+
+2026 STATE OF WYOMING 26LSO-0282
+1 provided in subsection subsections (p) and (s) of this
+2 section, for all revenue collected by the department under
+3 W.S. 39-15-104 the department shall:
+4
+5 (s) An amount equal to the tax revenue collected that
+6 is attributable to the tax under W.S. 39-15-104(j) and
+7 39-16-104(g) shall be transferred by the department of
+8 revenue to the property tax reduction and replacement
+9 account, which is hereby created. All funds within the
+10 account shall be invested by the state treasurer as
+11 provided by law and all investment earnings from the
+12 account shall be credited to the account. Funds available
+13 in the account shall be distributed as follows:
+14
+15 (i) Not later than September 1 of each year,
+16 each county assessor shall certify to the department the
+17 amount of tax reduction in the county due to the valuation
+18 of residential real property under W.S.
+19 39-11-101(a)(xvii)(C). The amount of tax reduction shall be
+20 calculated as follows:
+21
+5 HB0118
+
+2026 STATE OF WYOMING 26LSO-0282
+1 (A) The county assessor shall assess all
+2 residential real property using a taxable value of nine and
+3 one-half percent (9.5%);
+4
+5 (B) The county assessor shall apply any
+6 exemptions applicable to the residential real property
+7 under W.S. 39-11-105(a)(xliii), (xliv), (xlv) and (xlvi) to
+8 determine the reduced taxable value of the residential real
+9 property;
+10
+11 (C) The number of mills applicable to the
+12 residential real property shall be applied to the reduced
+13 taxable values determined under subparagraph (B) of this
+14 paragraph to determine the total tax reductions in the
+15 county. The county assessor shall report the tax reduction
+16 determined under this subparagraph to the county treasurer.
+17 Beginning January 1, 2028, the amount calculated under this
+18 subparagraph shall not include any amount for mills that
+19 are assessed for the repayment of bonds.
+20
+21 (ii) The tax reductions reported under paragraph
+22 (i) of this subsection shall be used by the department of
+23 revenue to distribute an amount determined under this
+6 HB0118
+
+2026 STATE OF WYOMING 26LSO-0282
+1 paragraph to each county, to be distributed by county
+2 treasurers in the same manner property taxes are
+3 distributed as provided in W.S. 39-13-111(a)(i). If the
+4 amount available to distribute under this subsection is
+5 insufficient to fully reimburse each county and
+6 governmental entity in the county for tax reductions
+7 reported under paragraph (i) of this subsection, the amount
+8 provided to each county shall be proportionally reduced
+9 based on the total tax reductions reported and the amount
+10 of revenue available. The amount calculated for each county
+11 shall be determined and distributed not later than February
+12 15 of each year based on the amount of revenue that the
+13 county and each governmental entity within the county lost
+14 in the immediately preceding year;
+15
+16 (iii) Any amount remaining after the
+17 distributions in paragraph (ii) of this subsection shall
+18 remain in the property tax reduction and replacement
+19 account. The legislature shall annually review the amounts
+20 in the account and shall consider using any funds in the
+21 account for direct distributions to local governments.
+22
+23 39-16-104. Taxation rate.
+7 HB0118
+
+2026 STATE OF WYOMING 26LSO-0282
+1
+2 (g) In addition to the use tax under subsections (a)
+3 and (b) of this section, beginning April 1, 2027 there is
+4 imposed an additional use tax as provided in this
+5 subsection. The additional use tax imposed under this
+6 subsection shall not apply to purchases by industrial
+7 facilities as defined by W.S. 35-12-102(a)(vii) that are
+8 subject to permitting by the industrial siting council
+9 under W.S. 35-12-101 through 35-12-119 during the period of
+10 permitting and construction of the industrial facility. The
+11 revenue from the tax under this subsection shall be
+12 distributed as provided in W.S. 39-15-111(s). The rate of
+13 the use tax under this subsection shall be two percent
+14 (2%), which shall be administered as if the use tax rate
+15 under subsections (a) and (b) of this section was increased
+16 from four percent (4%) to six percent (6%).
+17
+18 39-16-111. Distribution.
+19
+20 (b) Revenues earned under this article during each
+21 fiscal year shall be recognized as revenue during that
+22 fiscal year for accounting purposes. Except as provided in
+23 W.S. 39-15-111(s) for revenue attributable to the tax under
+8 HB0118
+
+2026 STATE OF WYOMING 26LSO-0282
+1 W.S. 39-16-104(g), revenue collected by the department from
+2 the taxes imposed by this article shall be transferred to
+3 the state treasurer who shall, as specified by the
+4 department:
+5
+6 Section 2. This act shall be effective only upon
+7 certification by the secretary of state that the electors
+8 have adopted the amendment to the Wyoming Constitution at
+9 the 2026 general election as provided in 2026 Senate Joint
+10 Resolution 0003.
+11
+12 Section 3.
+13
+14 (a) Except as otherwise provided in subsection (b) of
+15 this section, this act is effective immediately upon
+16 completion of all acts necessary for a bill to become law
+17 as provided by Article 4, Section 8 of the Wyoming
+18 Constitution.
+19
+20 (b) Subject to section 2 of this act, section 1 of
+21 this act is effective January 1, 2027.
+22
+23 (END)
+9 HB0118

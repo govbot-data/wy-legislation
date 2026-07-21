@@ -1,0 +1,246 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0462
+HOUSE BILL NO. HB0125
+Business entity forced dissolution for fraud.
+Sponsored by: Representative(s) Lucas, Guggenmos, Hoeft,
+McCann, Ottman and Smith and Senator(s)
+Pearson
+A BILL
+for
+1 AN ACT relating to corporations, partnerships and
+2 associations; providing for administrative dissolution of
+3 or revocation of certificate of authority for corporations,
+4 limited liability companies and statutory foundations as
+5 specified; and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 17-16-1420(a)(vi)(D), (E) and by
+10 creating a new subparagraph (F), 17-16-1530(a)(viii)(C),
+11 (D) and by creating a new subparagraph (E),
+12 17-19-1420(a)(v)(C), (D) and by creating a new subparagraph
+13 (E), 17-19-1530(a)(vii)(C), (D) and by creating a new
+14 subparagraph (E), 17-29-705(c)(iii)(D), (E) and by creating
+1 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1 a new subparagraph (F) and 17-30-904(h)(iii)(D), (E) and by
+2 creating a new subparagraph (F) are amended to read:
+3
+4 17-16-1420. Grounds for administrative dissolution.
+5
+6 (a) The secretary of state may commence a proceeding
+7 under W.S. 17-16-1421 to administratively dissolve a
+8 corporation if any of the following has occurred:
+9
+10 (vi) It is in the public interest and the
+11 corporation:
+12
+13 (D) Is owned or controlled by a foreign
+14 government or foreign nongovernment person determined to be
+15 a foreign adversary by the United States secretary of
+16 commerce and specified in 15 C.F.R. 791.4(a) or a successor
+17 regulation, except if the ownership or control has been
+18 approved by the committee on foreign investment in the
+19 United States; or
+20
+21 (E) Has provided false or fraudulent
+22 information to the registered agent, as determined by the
+23 secretary of state during or following an examination of
+2 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1 records pursuant to W.S. 17-28-108 or following
+2 notification by the registered agent;. or
+3
+4 (F) Has a board member who has been
+5 convicted of or found civilly liable for any act that
+6 constitutes fraud against another person under the laws of
+7 the United States or the laws of this state.
+8
+9 17-16-1530. Grounds for revocation.
+10
+11 (a) The secretary of state may commence a proceeding
+12 under W.S. 17-16-1531 to revoke the certificate of
+13 authority of a foreign corporation authorized to transact
+14 business in this state if:
+15
+16 (viii) It is in the public interest and the
+17 corporation:
+18
+19 (C) Is owned or controlled by a foreign
+20 government or foreign nongovernment person determined to be
+21 a foreign adversary by the United States secretary of
+22 commerce and specified in 15 C.F.R. 791.4(a) or a successor
+23 regulation, except if the ownership or control has been
+3 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1 approved by the committee on foreign investment in the
+2 United States; or
+3
+4 (D) Has provided false or fraudulent
+5 information to the registered agent, as determined by the
+6 secretary of state during or following an examination of
+7 records pursuant to W.S. 17-28-108 or following
+8 notification by the registered agent;. or
+9
+10 (E) Has a board member who has been
+11 convicted of or found civilly liable for any act that
+12 constitutes fraud against another person under the laws of
+13 the United States or the laws of this state.
+14
+15 17-19-1420. Grounds for administrative dissolution.
+16
+17 (a) The secretary of state may commence a proceeding
+18 under W.S. 17-19-1421 to administratively dissolve a
+19 corporation if any of the following has occurred:
+20
+21 (v) It is in the public interest and the
+22 corporation:
+23
+4 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1 (C) Is owned or controlled by a foreign
+2 government or foreign nongovernment person determined to be
+3 a foreign adversary by the United States secretary of
+4 commerce and specified in 15 C.F.R. 791.4(a) or a successor
+5 regulation, except if the ownership or control has been
+6 approved by the committee on foreign investment in the
+7 United States; or
+8
+9 (D) Has provided false or fraudulent
+10 information to the registered agent, as determined by the
+11 secretary of state during or following an examination of
+12 records pursuant to W.S. 17-28-108 or following
+13 notification by the registered agent;. or
+14
+15 (E) Board member has been convicted of or
+16 found civilly liable for any act that constitutes fraud
+17 against another person under the laws of the United States
+18 or the laws of this state.
+19
+20 17-19-1530. Grounds for revocation.
+21
+22 (a) The secretary of state may commence a proceeding
+23 under W.S. 17-19-1531 to revoke the certificate of
+5 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1 authority of a foreign corporation authorized to transact
+2 business in this state if any of the following has
+3 occurred:
+4
+5 (vii) It is in the public interest and the
+6 corporation:
+7
+8 (C) Is owned or controlled by a foreign
+9 government or foreign nongovernment person determined to be
+10 a foreign adversary by the United States secretary of
+11 commerce and specified in 15 C.F.R. 791.4(a) or a successor
+12 regulation, except if the ownership or control has been
+13 approved by the committee on foreign investment in the
+14 United States; or
+15
+16 (D) Has provided false or fraudulent
+17 information to the registered agent, as determined by the
+18 secretary of state during or following an examination of
+19 records pursuant to W.S. 17-28-108 or following
+20 notification by the registered agent;. or
+21
+22 (E) Has a board member who has been
+23 convicted of or found civilly liable for any act that
+6 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1 constitutes fraud against another person under the laws of
+2 the United States or the laws of this state.
+3
+4 17-29-705. Administrative forfeiture of authority and
+5 articles of organization.
+6
+7 (c) A limited liability company shall be deemed to be
+8 transacting business within this state without authority,
+9 to have forfeited any franchises, rights or privileges
+10 acquired under the laws thereof and shall be deemed defunct
+11 and to have forfeited its articles of organization or
+12 certificate of authority acquired under the laws of this
+13 state, and the forfeiture shall be made effective in the
+14 manner provided in subsection (a) of this section, if:
+15
+16 (iii) It is in the public interest and the
+17 limited liability company or any of its members:
+18
+19 (D) Is owned or controlled by a foreign
+20 government or foreign nongovernment person determined to be
+21 a foreign adversary by the United States secretary of
+22 commerce and specified in 15 C.F.R. 791.4(a) or a successor
+23 regulation, except if the ownership or control has been
+7 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1 approved by the committee on foreign investment in the
+2 United States; or
+3
+4 (E) Has provided false or fraudulent
+5 information to the registered agent, as determined by the
+6 secretary of state during or following an examination of
+7 records pursuant to W.S. 17-28-108 or following
+8 notification by the registered agent;. or
+9
+10 (F) Has been convicted of or found civilly
+11 liable for any act that constitutes fraud against another
+12 person under the laws of the United States or the laws of
+13 this state.
+14
+15 17-30-904. Administrative forfeiture of authority and
+16 articles of formation.
+17
+18 (h) A statutory foundation shall be deemed to be
+19 operating within this state without authority, to have
+20 forfeited any rights or privileges acquired under the laws
+21 of this state and shall be deemed to have forfeited its
+22 articles of formation filed in this state if:
+23
+8 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1 (iii) The public interest is served by
+2 forfeiture and the statutory foundation, its founder or any
+3 other person authorized to act on behalf of the statutory
+4 foundation:
+5
+6 (D) Is owned or controlled by a foreign
+7 government or foreign nongovernment person determined to be
+8 a foreign adversary by the United States secretary of
+9 commerce and specified in 15 C.F.R. 791.4(a) or a successor
+10 regulation, except if the ownership or control has been
+11 approved by the committee on foreign investment in the
+12 United States; or
+13
+14 (E) Has provided false or fraudulent
+15 information to the registered agent, as determined by the
+16 secretary of state during or following an examination of
+17 records pursuant to W.S. 17-28-108 or following
+18 notification by the registered agent;. or
+19
+20 (F) Has been convicted of or found civilly
+21 liable for any act that constitutes fraud against another
+22 person under the laws of the United States or the laws of
+23 this state.
+9 HB0125
+
+2026 STATE OF WYOMING 26LSO-0462
+1
+2 Section 2. This act is effective July 1, 2026.
+3
+4 (END)
+10 HB0125

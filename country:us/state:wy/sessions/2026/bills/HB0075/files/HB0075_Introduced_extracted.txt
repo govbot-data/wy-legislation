@@ -1,0 +1,125 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0362
+HOUSE BILL NO. HB0075
+Virtual currency kiosks.
+Sponsored by: Representative(s) Clouston, Brown, L, Byron,
+Connolly, Erickson, Harshman, Lucas, Singh,
+Washut and Wasserburger and Senator(s)
+Barlow, Jones and Rothfuss
+A BILL
+for
+1 AN ACT relating to trade and commerce; providing for the
+2 operation of virtual currency kiosks as specified;
+3 providing definitions; providing penalties; specifying
+4 applicability; requiring rulemaking; and providing for
+5 effective dates.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 40-32-101 through 40-32-103 are
+10 created to read:
+11
+12 CHAPTER 32
+13 VIRTUAL CURRENCY KIOSKS
+14
+1 HB0075
+
+2026 STATE OF WYOMING 26LSO-0362
+1 40-32-101. Definitions.
+2
+3 (a) As used in this chapter:
+4
+5 (i) "Commissioner" means the state banking
+6 commissioner;
+7
+8 (ii) "Financial institution" means as defined in
+9 W.S. 13-1-101(a)(ix);
+10
+11 (iii) "Virtual currency" means as defined in
+12 W.S. 34-29-101(a)(iv);
+13
+14 (iv) "Virtual currency kiosk" means an
+15 electronic terminal acting as a mechanical agent of a
+16 person to enable the person to facilitate the exchange of
+17 virtual currency for money, bank credit or other virtual
+18 currency, including by:
+19
+20 (A) Connecting directly to a separate
+21 virtual currency exchange that performs the actual virtual
+22 currency transmission; or
+23
+2 HB0075
+
+2026 STATE OF WYOMING 26LSO-0362
+1 (B) Drawing upon the virtual currency in
+2 the possession of the electronic terminal's operator.
+3
+4 40-32-102. Virtual currency kiosks authorized;
+5 regulation; penalty.
+6
+7 (a) No person shall own, operate or manage a virtual
+8 currency kiosk in this state unless the person:
+9
+10 (i) Has been issued a license under the Wyoming
+11 Money Transmitters Act, W.S. 40-22-101 through 40-22-129;
+12 or
+13
+14 (ii) Is a financial institution and has been
+15 granted a charter under title 13 of the Wyoming statutes.
+16
+17 (b) Any person who knowingly violates subsection (a)
+18 of this section is guilty of a misdemeanor punishable by
+19 imprisonment for not less than three (3) years, a fine of
+20 not less than ten thousand dollars ($10,000.00), or both.
+21
+3 HB0075
+
+2026 STATE OF WYOMING 26LSO-0362
+1 (c) The commissioner shall adopt rules regulating the
+2 operation of virtual currency kiosks by persons authorized
+3 under this section.
+4
+5 40-32-103. Confidentiality of records; exception.
+6
+7 (a) Except as provided by subsection (b) of this
+8 section, all information or reports obtained by the
+9 commissioner relating to the operation of a virtual
+10 currency kiosk from a person who has been issued a license
+11 under the Wyoming Money Transmitters Act, W.S. 40-22-101
+12 through 40-22-129, a financial institution that has been
+13 granted a charter under title 13 of the Wyoming statutes or
+14 a person acting on behalf thereof, shall be confidential.
+15
+16 (b) The commissioner may disclose confidential
+17 information to officials and examiners of other states,
+18 federal regulatory authorities, appropriate prosecuting
+19 attorneys or as required by court order.
+20
+21 Section 2. Any person owning, operating or managing a
+22 virtual currency kiosk in this state on or after July 1,
+23 2026 shall comply with this act.
+4 HB0075
+
+2026 STATE OF WYOMING 26LSO-0362
+1
+2 Section 3. The banking commissioner shall promulgate
+3 all rules necessary to implement this act.
+4
+5 Section 4.
+6
+7 (a) Except as otherwise provided by subsection (b) of
+8 this section, this act is effective July 1, 2026.
+9
+10 (b) Sections 3 and 4 of this act are effective
+11 immediately upon completion of all acts necessary for a
+12 bill to become law as provided by Article 4, Section 8 of
+13 the Wyoming Constitution.
+14
+15 (END)
+5 HB0075

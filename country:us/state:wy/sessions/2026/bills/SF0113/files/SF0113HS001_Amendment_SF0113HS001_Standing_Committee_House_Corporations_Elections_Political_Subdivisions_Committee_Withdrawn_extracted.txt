@@ -1,0 +1,33 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0113HS001 (Standing Committee) - House Corporations, Elections & Political Subdivisions Committee (Withdrawn)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0113HS001 (TO ENGROSSED COPY)
+1 Page 1-above line 1 In the catch title delete "2026 election"
+2 and insert "Election".
+3
+4 Page 1-line 2 Delete "2026".
+5
+6 Page 2-line 21 Delete "2026".
+7
+8 Page 3-line 9 Delete "the 2026 primary and 2026 general
+9 elections" and insert "each election".
+10
+11 Page 4-line 12 Delete both instances of "2026".
+12
+13 Page 6-lines 11 through 14 Delete entirely and insert:
+14
+15 "(e) A candidate may obtain a recount of votes for the office
+16 he is seeking by making and filing an affidavit alleging that fraud
+17 or error occurred in counting, returning or canvassing the votes
+18 cast in any part of the district in which he is standing for
+19 election. The affidavit shall specify whether the recount should
+20 be conducted using electronic voting equipment or by hand county
+21 using tally sheets. The affidavit shall be filed in the same
+22 office the candidate filed his application for nomination.".
+23 KNAPP, CHAIRMAN
+1

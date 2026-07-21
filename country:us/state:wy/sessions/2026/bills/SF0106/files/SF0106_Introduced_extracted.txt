@@ -1,0 +1,557 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0492
+SENATE FILE NO. SF0106
+Welfare Fraud Prevention Act Amendments.
+Sponsored by: Senator(s) Biteman
+A BILL
+for
+1 AN ACT relating to welfare; amending the intervals at which
+2 the department of health shall determine specified
+3 information of an applicant for or recipient of public
+4 welfare and assistance; making conforming amendments;
+5 amending the requirements for public welfare and assistance
+6 qualification and participation; establishing citizen,
+7 noncitizen and qualified alien eligibility for public
+8 welfare and assistance; requiring the reporting of illegal
+9 alien status; requiring specified hospitals to collect
+10 citizenship status information; requiring rulemaking;
+11 requiring reporting; providing definitions; specifying
+12 applicability; and providing for an effective date.
+13
+14 Be It Enacted by the Legislature of the State of Wyoming:
+15
+1 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 Section 1. W.S. 42-2-115, 42-10-108 through
+2 42-10-111, 42-10-204 and 42-12-101 through 42-12-106 are
+3 created to read:
+4
+5 42-2-115. Supplemental nutrition assistance program
+6 eligibility recertification frequency.
+7
+8 (a) The department shall assign certification periods
+9 of not greater than four (4) months to households with zero
+10 (0) net income, households that include an able bodied
+11 adult without dependents or other households whose
+12 circumstances are determined by the department to be
+13 unstable, unless otherwise prohibited under federal law for
+14 the supplemental nutrition assistance program.
+15
+16 (b) The department shall assign certification periods
+17 of one (1) or two (2) months to households that the
+18 department determines will become ineligible for the
+19 supplemental nutrition assistance program in the near
+20 future, unless otherwise prohibited under federal law.
+21
+22 (c) Except as provided by paragraphs (a) and (b) of
+23 this section, the department shall assign certification
+2 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 periods of not more than six (6) months to households whose
+2 members are not elderly or disabled, unless otherwise
+3 prohibited under federal law.
+4
+5 42-10-108. Prohibition on self-attestation.
+6
+7 (a) Except as required under federal law,
+8 self-attestation shall not be accepted for any of the
+9 following eligibility factors without verification prior to
+10 enrollment in the medicaid program:
+11
+12 (i) Income;
+13
+14 (ii) Residency;
+15
+16 (iii) Identity;
+17
+18 (iv) Household composition;
+19
+20 (v) Citizenship or immigration status.
+21
+3 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (b) The department shall not rely on self-attestation
+2 to establish any medicaid eligibility factor unless
+3 expressly required by federal law.
+4
+5 42-10-109. Residency verification; monthly address
+6 checks; multistate enrollment; monthly death record checks.
+7
+8 (a) As used in this section, "address change
+9 information" means postal change of address data, state
+10 address change databases or comparable systems.
+11
+12 (b) On not less than a monthly basis, the department
+13 shall review address change information to identify
+14 potential changes in residency for medicaid recipients.
+15
+16 (c) The department shall conduct monthly cross checks
+17 of address change information against enrollment records
+18 and shall initiate an eligibility redetermination when a
+19 change in residency is indicated.
+20
+21 (d) The department shall review out-of-state
+22 electronic benefit transactions on not less than a monthly
+4 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 basis and shall initiate a redetermination when
+2 transactions indicate possible relocation.
+3
+4 (e) The department shall submit enrollment
+5 information to any national database used to identify
+6 persons enrolled in medicaid or public benefits in multiple
+7 states. Implementation of this subsection shall occur no
+8 later than October 1, 2029.
+9
+10 (f) Not later than August 31 of each year, the
+11 department shall submit a public report to the joint labor,
+12 health and social services interim committee of the Wyoming
+13 legislature, including:
+14
+15 (i) The number of persons flagged through
+16 address change information or out of state benefit
+17 activity;
+18
+19 (ii) The number of persons removed from the
+20 medicaid program due to enrollment in multiple states;
+21
+22 (iii) The estimated fiscal impact of this
+23 section.
+5 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1
+2 (g) On not less than a monthly basis, the department
+3 shall receive and review information from the vital
+4 statistics services and the social security administration
+5 master death file to identify any deceased persons enrolled
+6 in the medicaid program. Upon confirmation of death, the
+7 department shall promptly remove the deceased person from
+8 the program. No medicaid payment shall be made for any
+9 service provided after the person's date of death and the
+10 department shall recoup any per member payments, care
+11 coordination payments or fee for service payments made for
+12 any period or service occurring after the date of death.
+13
+14 42-10-110. Retroactive medicaid eligibility;
+15 rulemaking; reporting.
+16
+17 (a) As used in this section:
+18
+19 (i) "Retroactive eligibility" means coverage for
+20 services furnished prior to the month of application as
+21 authorized by 42 U.S.C. § 1396a(a)(34);
+22
+6 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (ii) "Medicaid eligible population" means
+2 persons eligible for medicaid under state or federal law.
+3
+4 (b) Retroactive medicaid eligibility shall not extend
+5 more than two (2) months prior to the month in which a
+6 completed medicaid application is submitted.
+7
+8 (c) This limitation applies only to initial
+9 applications and shall not affect ongoing eligibility.
+10
+11 (d) The department shall adopt rules necessary to
+12 implement this section.
+13
+14 (e) Not later than August 1 of each year, the
+15 department shall submit a report to the joint labor, health
+16 and social services interim committee of the Wyoming
+17 legislature, including:
+18
+19 (i) The number of medicaid applications
+20 processed;
+21
+22 (ii) The number of applicants denied retroactive
+23 eligibility under this section; and
+7 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1
+2 (iii) The estimated fiscal impact of the
+3 limitation.
+4
+5 (f) This section shall be implemented not later than
+6 January 1, 2027.
+7
+8 42-10-111. Eligibility redeterminations.
+9
+10 (a) Unless prohibited by federal law, the department
+11 shall conduct eligibility redeterminations for all
+12 nonelderly medicaid recipients, as defined by 42 C.F.R.
+13 435.119(b)(1), who qualify as parents or caretaker
+14 relatives, whose eligibility is determined using modified
+15 adjusted gross income standards under 42 C.F.R. 435.603, at
+16 least one (1) time every six (6) months.
+17
+18 (b) The department shall conduct eligibility
+19 redeterminations for all medicaid recipients not described
+20 in paragraph (a) of this section at least once every twelve
+21 (12) months.
+22
+23 Article 2
+8 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 WAIVER OF WORK REQUIREMENTS
+2
+3 42-10-204. Prohibition on waiver of work requirements
+4 and exemptions.
+5
+6 (a) The department shall not seek, apply for, accept
+7 or renew any waiver of work requirements under 7 U.S.C. §
+8 2015(o)(4) without first obtaining specific authorization
+9 from the legislature. Such authorization shall be provided
+10 in a duly enacted statute.
+11
+12 (b) The department shall not exercise the state's
+13 option to provide any exemptions from the work requirement
+14 under 7 U.S.C. § 2015(o)(6)(F).
+15
+16 CHAPTER 12
+17 CITIZENS AND QUALIFIED ALIENS STATUS VERIFICATION FOR
+18 WELFARE
+19
+20 42-12-101. Definition of citizens who are eligible
+21 for public assistance.
+22
+9 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (a) No person who is not a United States citizen or
+2 national of the United States shall be eligible to receive
+3 food assistance through the supplemental nutrition
+4 assistance program, unless that individual meets the
+5 definition of a qualified alien pursuant to 8 U.S.C. §
+6 1641(b).
+7
+8 (b) No person who is not a United States citizen or
+9 national of the United States shall be eligible to receive
+10 medical assistance through medicaid, unless that person
+11 meets the definition of an eligible alien pursuant to 42
+12 U.S.C. § 1396b(v) and meets the definition of a qualified
+13 alien pursuant to 8 U.S.C. § 1641(b).
+14
+15 (c) No person who is not a United States citizen or
+16 national of the United States shall be eligible to receive
+17 assistance through the personal opportunities with
+18 employment responsibilities (POWER) program, unless that
+19 person meets the definition of a qualified alien pursuant
+20 to 8 U.S.C. § 1641(b).
+21
+22 42-12-102. Verification of citizenship or eligible
+23 alien status.
+10 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1
+2 (a) The department shall be required to verify that a
+3 person is eligible to participate in the supplemental
+4 nutrition assistance program during enrollment and
+5 eligibility recertification by verifying citizenship or
+6 eligible alien status by using the United States
+7 citizenship and immigration services' systematic alien
+8 verification for entitlements (SAVE) online service or
+9 requiring the person to provide an acceptable form of proof
+10 of citizenship or eligible alien status, including but not
+11 limited to certified birth certificates, United States
+12 passports and United States customs and immigration
+13 services documentation.
+14
+15 (b) The department shall be required to verify that a
+16 person is eligible for medicaid during enrollment and
+17 eligibility redetermination by verifying citizenship or
+18 eligible alien status using the SAVE online service or
+19 requiring the person to provide an acceptable form of proof
+20 of citizenship or eligible alien status, including but not
+21 limited to, certified birth certificates, United States
+22 passports and United States customs and immigration
+23 services documentation.
+11 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1
+2 (c) The department shall be required to verify that a
+3 person is eligible for the POWER program during enrollment
+4 and eligibility redetermination by verifying citizenship or
+5 eligible alien status using the SAVE online service or
+6 requiring the person to provide an acceptable form of proof
+7 of citizenship or eligible alien status, including but not
+8 limited to, certified birth certificates, United States
+9 passports and United States customs and immigration
+10 services documentation.
+11
+12 (d) The department shall submit to the United States
+13 department of agriculture information concerning any
+14 household member for whom it is unable to verify eligible
+15 alien status.
+16
+17 (e) The department shall submit to the United States
+18 department of health and human services information
+19 concerning any household member for whom it is unable to
+20 verify eligible alien status.
+21
+22 42-12-103. Referral of illegal aliens to law
+23 enforcement.
+12 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1
+2 The department of human resources shall submit to the
+3 appropriate law enforcement authorities, including but not
+4 limited to the United States department of homeland
+5 security, information concerning any household member who
+6 it is determined to be an unlawfully present alien,
+7 regardless of whether such household member is applying to
+8 participate in a public assistance program, including but
+9 not limited to, the supplemental nutrition assistance
+10 program or medicaid.
+11
+12 42-12-104. Counting of ineligible alien income in
+13 determination of benefits under the supplemental nutrition
+14 assistance program.
+15
+16 The entire income and financial resources of any individual
+17 rendered ineligible for participation in the supplemental
+18 nutrition assistance program under 7 U.S.C. § 2015(f) shall
+19 be considered in determining the eligibility and benefit
+20 allotment of the household of which such individual is a
+21 member.
+22
+13 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 42-12-105. Reasonable opportunity periods for
+2 noncitizens applying for medicaid.
+3
+4 (a) The department shall adhere to the following
+5 requirements regarding the reasonable opportunity period
+6 for verification of United States citizenship or eligible
+7 alien status for medicaid:
+8
+9 (i) When an applicant's status cannot be
+10 verified through available data sources, the department
+11 shall provide only a single reasonable opportunity period,
+12 consistent with the minimum period required under federal
+13 law, for the applicant to provide verification;
+14
+15 (ii) Medicaid coverage may only be provided
+16 provisionally during the reasonable opportunity period;
+17
+18 (iii) Failure to submit acceptable documentation
+19 within the reasonable opportunity period required under
+20 federal law shall result in denial or termination of
+21 medicaid eligibility, subject to required notice;
+22
+14 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (iv) No additional reasonable opportunity period
+2 shall be granted to any applicant who has previously been
+3 denied eligibility at any time due to a failure to verify
+4 citizenship or eligible alien status.
+5
+6 42-12-106. Citizenship data collection and
+7 presumptive eligibility integrity.
+8
+9 (a) The department shall require a field for
+10 citizenship or eligible alien status on all presumptive
+11 eligibility applications. The department shall require
+12 hospitals, clinics and other qualified entities authorized
+13 to conduct presumptive eligibility determinations to
+14 collect and transmit attestations of citizenship or
+15 eligible alien status to the department. No presumptive
+16 eligibility application shall be approved unless the
+17 applicant certifies that they are a United States citizen,
+18 United States national, or alien eligible for medicaid
+19 pursuant to 42 U.S.C. § 1398b(v) and W.S. 42-12-101(b).
+20
+21 (b) The department shall:
+22
+15 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (i) Require each hospital that accepts medicaid
+2 to include a provision on its patient admission or
+3 registration form for the patient or the patient's
+4 representative to state or indicate whether the patient is
+5 a United States citizen or lawfully present in the United
+6 States or is not lawfully present in the United States;
+7
+8 (ii) Require each hospital that accepts medicaid
+9 to inform a patient, at the time this information is
+10 collected, that any submission made on an admission or
+11 registration form will not affect patient care, as required
+12 by federal law;
+13
+14 (iii) Require that each hospital shall submit a
+15 quarterly report to the agency within thirty (30) days
+16 after the end of each calendar quarter which reports the
+17 number of hospital admissions or emergency department
+18 visits within the previous quarter which were made by a
+19 patient who indicated that he or she was a citizen of the
+20 United States or lawfully present in the United States, was
+21 not lawfully present in the United States, or declined to
+22 answer;
+23
+16 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (iv) By April 1 of each year, submit a report to
+2 the governor, the president of the senate and the speaker
+3 of the house of representatives, which includes the number
+4 of hospital admissions and emergency department visits for
+5 the previous calendar year where the patient or patient's
+6 representative reported that the patient was a citizen of
+7 the United States or declined to answer. The report shall
+8 also describe information relating to the costs of
+9 uncompensated care for aliens who are not lawfully present
+10 in the United States, the impact of uncompensated care on
+11 the cost or ability of hospitals to provide services to the
+12 public, hospital funding needs and other related
+13 information;
+14
+15 (v) Adopt rules relating to the format and
+16 information to be contained in quarterly reports and the
+17 acceptable formats for hospitals to use in requesting
+18 information regarding a patients immigration status on
+19 hospital admission or registration forms.
+20
+21 Section 2. W.S. 42-2-103(b)(xvi) and
+22 42-10-103(a)(intro), (iii) through (viii), (x) through (xv)
+23 and by creating a new subsection (d) is amended to read:
+17 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1
+2 42-2-103. Provision of assistance and services;
+3 duties of department; burial assistance; department of
+4 health state supplemental security income program.
+5
+6 (b) In carrying out subsection (a) of this section
+7 and except as provided under the Wyoming Medical Assistance
+8 and Services Act, the department shall:
+9
+10 (xvi) Conduct the eligibility and identity
+11 verification process as provided in W.S. 42-10-101 through
+12 42-10-107 42-10-111.
+13
+14 42-10-103. Enhanced eligibility verification process.
+15
+16 (a) Prior to awarding any public welfare benefit, and
+17 on a quarterly basis at the intervals specified in this
+18 section after any benefit is awarded, the department shall,
+19 to the extent practicable, determine the following
+20 information as it relates to each applicant for or
+21 recipient of a public welfare benefit:
+22
+18 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (iii) Income information maintained by the
+2 United States social security administration, reviewed by
+3 the department not less than on a monthly basis;
+4
+5 (iv) Immigration status information maintained
+6 by the United States citizenship and immigration services
+7 and verified through the SAVE online service or other
+8 acceptable documentation;
+9
+10 (v) Death register information maintained by the
+11 United States social security administration, reviewed by
+12 the department not less than on a monthly basis;
+13
+14 (vi) Prisoner information maintained by the
+15 United States social security administration, reviewed by
+16 the department not less than on a monthly basis;
+17
+18 (vii) Public housing and section 8 housing
+19 assistance payment information, reviewed by the department
+20 not less than on a monthly basis;
+21
+19 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (viii) Fleeing felon, probation or parole
+2 violation information, reviewed by the department not less
+3 than on a monthly basis;
+4
+5 (x) Beneficiary records and earnings information
+6 maintained by the United States social security
+7 administration in the beneficiary and earnings data
+8 exchange system, reviewed by the department not less than
+9 on a monthly basis;
+10
+11 (xi) Earnings and pension information maintained
+12 by the United States social security administration in the
+13 beneficiary earnings exchange record system, reviewed by
+14 the department not less than on a monthly basis;
+15
+16 (xii) Earnings and pension information
+17 maintained by the Wyoming retirement system, reviewed by
+18 the department not less than on a monthly basis;
+19
+20 (xiii) Employment information maintained by the
+21 department of workforce services, reviewed by the
+22 department not less than on a monthly basis;
+23
+20 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1 (xiv) Employment information maintained by the
+2 United States department of health and human services in
+3 the national directory of new hires, reviewed by the
+4 department not less than on a monthly basis;
+5
+6 (xv) Supplemental security income information
+7 maintained by the United States social security
+8 administration in the social security income state data
+9 exchange system, reviewed by the department not less than
+10 on a monthly basis;
+11
+12 (d) On not less than a quarterly basis, the
+13 department shall make available on its public website all
+14 of the following data from findings on noncompliance and
+15 fraud investigations, provided the data is presented in the
+16 aggregate and does not include confidential or personally
+17 identifying information:
+18
+19 (i) The total number of public benefit cases
+20 investigated for intentional program violations or fraud;
+21
+22 (ii) The total number of public benefit cases
+23 referred to the attorney general's office for prosecution;
+21 SF0106
+
+2026 STATE OF WYOMING 26LSO-0492
+1
+2 (iii) Total improper payments and expenditures;
+3
+4 (iv) Total monies received;
+5
+6 (v) Aggregate data concerning improper payments
+7 and ineligible recipients as a percentage of those
+8 recipients investigated and reviewed.
+9
+10 Section 3. This act is effective immediately upon
+11 completion of all acts necessary for a bill to become law
+12 as provided by Article 4, Section 8 of the Wyoming
+13 Constitution.
+14
+15 (END)
+22 SF0106

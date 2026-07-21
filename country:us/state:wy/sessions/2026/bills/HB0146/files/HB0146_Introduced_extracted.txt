@@ -1,0 +1,139 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0432
+HOUSE BILL NO. HB0146
+Affordable electricity act of 2026.
+Sponsored by: Representative(s) Storer, Campbell, E,
+Heiner, Sherwood, Thayer and Yin and
+Senator(s) Driskill and Schuler
+A BILL
+for
+1 AN ACT relating to public utilities; providing for the
+2 regulation and use of small plug-in solar generation
+3 devices; exempting small plug-in solar generation devices
+4 from specified utility regulations; providing definitions;
+5 making conforming amendments; exempting an electric utility
+6 from liability caused by a customer's use of a plug‑in solar
+7 generation device; and providing for an effective date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 37-16-301 and 37-16-302 are created
+12 to read:
+13
+14 ARTICLE 3
+15 SMALL SOLAR GENERATION
+1 HB0146
+
+2026 STATE OF WYOMING 26LSO-0432
+1
+2 37-16-301. Definitions.
+3
+4 (a) As used in this article:
+5
+6 (i) "Electric utility" means any electrical
+7 company or cooperative electric utility that is engaged in
+8 the business of distributing electricity to retail electric
+9 customers in the state;
+10
+11 (ii) "Plug-in solar generation device" or "PIPV"
+12 means a photovoltaic generation device that:
+13
+14 (A) Has a maximum power output of not more
+15 than one thousand two hundred (1,200) watts per meter;
+16
+17 (B) Is designed to be connected to a
+18 building's electrical system through a standard one hundred
+19 twenty (120) volt alternating current outlet;
+20
+21 (C) Is intended primarily to offset part of
+22 the customer's electricity consumption;
+23
+2 HB0146
+
+2026 STATE OF WYOMING 26LSO-0432
+1 (D) Meets the standards of the most recent
+2 version of the national electric code; and
+3
+4 (E) Is certified by the underwriters
+5 laboratories or an equivalent nationally recognized testing
+6 laboratory.
+7
+8 37-16-302. Plug-in solar generation devices;
+9 requirements.
+10
+11 (a) A plug-in solar generation device that meets the
+12 requirements of this article shall be exempt from any
+13 requirement:
+14
+15 (i) For an interconnection agreement for a
+16 person to operate or use the plug-in solar generation
+17 device;
+18
+19 (ii) Associated with the use or operation of a
+20 net metering system under article 1 of this chapter.
+21
+22 (b) Each plug-in solar generation device shall
+23 include a device or feature that prevents the device from
+3 HB0146
+
+2026 STATE OF WYOMING 26LSO-0432
+1 energizing the building's electrical system or backfeeding
+2 into an electric utility's system during a power outage.
+3
+4 (c) No electric utility shall require a customer who
+5 uses or operates a plug-in solar generation device to:
+6
+7 (i) Obtain the approval of the electric utility
+8 before installing or using a plug-in solar generation
+9 device;
+10
+11 (ii) Pay any fee or charge related to the use or
+12 operation of the plug-in solar generation device;
+13
+14 (iii) Install any additional controls or
+15 equipment beyond what is integrated into the plug-in solar
+16 generation device, subject to subsection (b) of this
+17 section.
+18
+19 (d) An electric utility:
+20
+21 (i) May offer to make available to each customer
+22 who uses or operates a plug-in solar generation device an
+4 HB0146
+
+2026 STATE OF WYOMING 26LSO-0432
+1 energy meter that is capable of registering the flow of
+2 electricity in two (2) directions;
+3
+4 (ii) Shall not be liable directly or indirectly
+5 for any damages or injury caused by or associated with the
+6 use of a plug-in solar generation device that is not sold,
+7 leased, installed or operated by the electric utility.
+8
+9 Section 2. W.S. 37-16-101(a)(viii)(intro) is amended
+10 to read:
+11
+12 37-16-101. Definitions.
+13
+14 (a) As used in this chapter unless the context or a
+15 specific article otherwise requires:
+16
+17 (viii) "Net metering system" means a facility,
+18 excluding a plug-in solar generation device as defined by
+19 W.S. 37-16-301(a)(ii), for the production of electrical
+20 energy that:
+21
+5 HB0146
+
+2026 STATE OF WYOMING 26LSO-0432
+1 Section 3. This act is effective July 1, 2026.
+2
+3 (END)
+6 HB0146

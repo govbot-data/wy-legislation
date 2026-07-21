@@ -1,0 +1,818 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0319
+HOUSE BILL NO. HB0070
+Wyoming GRANITE Act.
+Sponsored by: Representative(s) Singh, Guggenmos, Heiner
+and Wharff
+A BILL
+for
+1 AN ACT relating to civil procedure; creating the Wyoming
+2 Guaranteeing Rights Against Novel International Tyranny and
+3 Extortion (GRANITE) Act; creating a cause of action against
+4 foreign states and international organizations regarding
+5 foreign censorship laws that violate specific
+6 constitutional provisions; providing for standing,
+7 jurisdiction, venue, alternative service of process and a
+8 statute of limitations; providing remedies; imposing joint
+9 and several liability; prohibiting the state from
+10 recognizing, enforcing or cooperating with certain foreign
+11 judgments; creating a cause of action against the state for
+12 the recognition, enforcement or cooperation with certain
+13 foreign judgments; providing civil penalties; providing
+14 definitions; providing legislative findings; making
+1 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 conforming amendments; requiring rulemaking; and providing
+2 for effective dates.
+3
+4 Be It Enacted by the Legislature of the State of Wyoming:
+5
+6 Section 1.
+7
+8 (a) The legislature finds that:
+9
+10 (i) Wyoming has a strong public policy favoring
+11 robust protection of speech, association and innovation,
+12 including in the fields of digital communication,
+13 blockchain and internet services and relies on a
+14 predictable legal environment for persons engaged in those
+15 activities in this state;
+16
+17 (ii) Foreign states and international
+18 organizations increasingly seek to restrict, penalize or
+19 compel disclosure of speech that occurs wholly within the
+20 United States by threatening or attempting to enforce
+21 foreign censorship laws;
+22
+2 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (iii) For example, the United Kingdom's
+2 communications regulatory agency, the Office of
+3 Communications, sent a letter to the United States based
+4 platform 4chan threatening fines of not more than twenty
+5 five million dollars ($25,000,000.00) or ten percent (10%)
+6 of that company's total worldwide revenue for noncompliance
+7 with the United Kingdom's Online Safety Act. In addition,
+8 the Brazilian supreme court Justice Alexandre de Moraes
+9 ordered the United States based platforms X (formerly known
+10 as Twitter) and Trump Media and Technology Group to censor
+11 user accounts and disclose user data or the Brazilian
+12 supreme court may order the shutdown of the platforms and
+13 impose significant penalties;
+14
+15 (iv) These extraterritorial efforts taken by
+16 foreign states and international organizations conflict
+17 with the United States constitution and the Wyoming
+18 constitution by chilling the speech of Wyoming residents,
+19 including residents who operate in digital innovation
+20 sectors like blockchain and decentralized technologies;
+21
+22 (v) Wyoming has a compelling state interest in
+23 safeguarding the free exchange of ideas and protecting its
+3 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 citizens and business entities against foreign coercion and
+2 intimidation;
+3
+4 (vi) Censorship by foreign states and
+5 international organizations threatens Wyoming's leadership
+6 in decentralized finance and digital assets;
+7
+8 (vii) In order to effectively deter foreign
+9 states and international organizations from enforcing
+10 foreign censorship laws in Wyoming, there needs to be
+11 meaningful civil remedies and joint and several liability
+12 across foreign states, agencies and instrumentalities of
+13 foreign states, international organizations and foreign
+14 officials. Agencies and instrumentalities of foreign states
+15 and foreign officials may be immune from judgment or
+16 liability while foreign states and international
+17 organizations often maintain assets or commercial
+18 relationships within the United States;
+19
+20 (viii) Foreign censorship laws enforced by
+21 foreign states or international organizations
+22 characteristically restrict expression based on content,
+23 viewpoint or speaker identity in ways that would be
+4 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 presumptively unconstitutional under the first amendment to
+2 the United States constitution, Article 1, Section 20 of
+3 the Wyoming constitution and Article 1, Section 21 of the
+4 Wyoming constitution;
+5
+6 (ix) It is appropriate to place the burden on
+7 foreign states and international organizations to
+8 demonstrate that the foreign states' or international
+9 organizations' enforcement of foreign censorship laws would
+10 satisfy strict scrutiny rather than requiring Wyoming
+11 residents and business entities to prove the
+12 unconstitutionality of foreign speech restrictions because
+13 these foreign censorship laws are fundamentally
+14 incompatible with the constitutional protections afforded
+15 by the United States and Wyoming constitutions;
+16
+17 (x) Foreign states and international
+18 organizations have increasingly sought to criminalize
+19 constitutionally protected speech by issuing criminal
+20 foreign judgments, arrest warrants and extradition requests
+21 that deprive persons in the United States from lawful
+22 expression that is constitutionally protected in the United
+23 States. The dual criminality requirement in most United
+5 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 States mutual legal assistance treaties reflects the
+2 principle that the United States should not lend its
+3 sovereign power to enforce foreign judgments that
+4 criminalize conduct that is lawful in the United States.
+5 Wyoming has a compelling state interest in ensuring its
+6 legal infrastructure is not used to circumvent this
+7 principle;
+8
+9 (xi) Foreign states and international
+10 organizations have exploited procedural mechanisms,
+11 including service of process through mutual legal
+12 assistance treaties, upon registered agents and through
+13 private process servers to advance foreign censorship
+14 proceedings against citizens of the United States. Even
+15 ministerial cooperation may result in substantial foreign
+16 penalties for constitutionally protected speech, which
+17 facilitates the clearance of procedural hurdles in the
+18 foreign jurisdiction. Wyoming's registered agent system and
+19 private process servers should not serve as vectors for
+20 foreign censorship proceedings and service of process
+21 effectuated through any means should not result in
+22 recognition of any resulting foreign judgment in this
+23 state;
+6 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1
+2 (xii) This act operates defensively to protect
+3 persons within Wyoming from coercion, rather than
+4 offensively to regulate foreign conduct. Congress has
+5 endorsed this approach through the federal SPEECH Act, 28
+6 U.S.C. §§ 4101–4105, which prohibits recognition of foreign
+7 defamation judgments that are inconsistent with the first
+8 amendment to the United States constitution. This act
+9 extends that principle to the broader category of foreign
+10 censorship, consistent with Wyoming's sovereign authority
+11 to determine which foreign judgments Wyoming's courts will
+12 recognize and enforce;
+13
+14 (xiii) The executive branch of the United States
+15 has not established a comprehensive policy to protect
+16 United States persons from enforcement of foreign
+17 censorship laws by foreign states and international
+18 organizations. This act aims to protect state residents
+19 from enforcement of foreign censorship laws and does not
+20 conflict with any existing federal law or policy;
+21
+22 (xiv) When a foreign state or international
+23 organization transmits an enforcement demand, fine or
+7 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 threat to a person in Wyoming the tortious act is completed
+2 upon receipt. The harm occurs in Wyoming when the person
+3 receives and understands the communication and experiences
+4 the coercive effect of the communication;
+5
+6 (xv) Wyoming seeks to establish itself as a
+7 welcoming home for digital innovation and digital
+8 infrastructure. Wyoming has a compelling state interest in
+9 protecting digital innovation and digital infrastructure
+10 located within the state, including servers, data centers
+11 and other digital infrastructure from enforcement of
+12 foreign censorship laws;
+13
+14 (xvi) No foreign state or international
+15 organization has legitimate discretion to enforce foreign
+16 censorship laws against persons or speech protected by the
+17 first amendment of the United States constitution. The
+18 suppression of constitutionally protected expression
+19 violates fundamental rights recognized by the United
+20 Nations Universal Declaration of Human Rights, the United
+21 Nations International Covenant on Civil and Political
+22 Rights and the first amendment to the United States
+23 constitution. Foreign state's and international
+8 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 organization's enforcement of foreign censorship laws is
+2 conduct that falls outside any discretionary function
+3 exception to foreign sovereignty immunity.
+4
+5 Section 2. W.S. 1-44-101 through 1-44-108 are created
+6 to read:
+7
+8 CHAPTER 44
+9 WYOMING GRANITE ACT
+10
+11 1-44-101. Short title.
+12
+13 This chapter shall be known and may be cited as the
+14 "Wyoming Guaranteeing Rights Against Novel International
+15 Tyranny and Extortion (GRANITE) Act."
+16
+17 1-44-102. Purposes.
+18
+19 (a) The purposes of this chapter are to:
+20
+21 (i) Protect the constitutional rights of Wyoming
+22 residents and business entities from the extraterritorial
+23 application of foreign censorship laws by establishing an
+9 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 in-state forum, with clear and predictable jurisdictional
+2 rules and effective remedies that are consistent with
+3 federal law;
+4
+5 (ii) Promote Wyoming's economy by fostering a
+6 safe harbor for digital innovation and by ensuring that
+7 foreign threats do not deter investment in Wyoming business
+8 entities.
+9
+10 1-44-103. Definitions.
+11
+12 (a) As used in this chapter:
+13
+14 (i) "Enforce" means to give effect to, carry out
+15 or seek compliance with a foreign censorship law, including
+16 by formal legal process, economic pressure, indirect
+17 coercion through affiliates or intermediaries or any other
+18 means;
+19
+20 (ii) "Foreign censorship law" means any law,
+21 rule, judgment, order, subpoena, administrative action or
+22 formal demand of a foreign state or international
+23 organization that:
+10 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1
+2 (A) Is final, binding and enforceable under
+3 the law of that foreign state or country where the
+4 international organization is headquartered;
+5
+6 (B) Has the primary purpose or a
+7 substantial effect of restricting, penalizing or compelling
+8 disclosure regarding expression, expressive conduct or
+9 expressive association;
+10
+11 (C) Targets expression, expressive conduct
+12 or expressive association based on its content, viewpoint
+13 or speaker identity or compels disclosure that would
+14 reasonably chill that expression, expressive conduct or
+15 expressive association; and
+16
+17 (D) Would be unenforceable in this state
+18 because it conflicts with the protections of the first
+19 amendment of the United States constitution, Article 1,
+20 Section 20 of the Wyoming constitution or Article 1,
+21 Section 21 of the Wyoming constitution.
+22
+11 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (iii) "Foreign judgment" means any judgment,
+2 decree, order or similar determination issued by a foreign
+3 state or international organization that is final, binding
+4 and enforceable under the laws of that foreign state or
+5 country where the international organization is
+6 headquartered;
+7
+8 (iv) "Foreign state" means as defined in 28
+9 U.S.C. § 1603(a). "Foreign state" shall include an agency
+10 or instrumentality of a foreign state as defined in 28
+11 U.S.C. § 1603(b);
+12
+13 (v) "International organization" means:
+14
+15 (A) As defined in 22 U.S.C. § 288;
+16
+17 (B) An organization with which the United
+18 States has official relations, including any supranational
+19 organization, intergovernmental organization or
+20 multilateral institution; or
+21
+12 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (C) Any member state, organ, agency,
+2 commission, court or instrumentality of an organization
+3 described in subparagraph (A) or (B) of this paragraph.
+4
+5 (vi) "Threaten" means to communicate an intent
+6 to enforce a foreign censorship law, including by sending
+7 or directing any notice, demand, subpoena, request or
+8 similar communication to a person by any medium;
+9
+10 (vii) "United States person" means a person who
+11 is a citizen or permanent resident of the United States or
+12 any business entity organized under the laws of the United
+13 States or any state or territory thereof;
+14
+15 (viii) "United States related revenue" means
+16 gross revenue from the sales of goods, provision of
+17 services or conduct of business operations in or directed
+18 to the United States, as determined under generally
+19 accepted accounting principles, for the most recent twelve
+20 (12) month period ending on the last day of the defendant's
+21 fiscal year preceding the commencement of the cause of
+22 action under W.S. 1-44-104(a). For purposes of this
+23 paragraph, "defendant" shall include the named entity and
+13 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 any parent, subsidiary or affiliate of the entity under
+2 common control that participated in the relevant
+3 transactions;
+4
+5 (ix) "Wyoming resident" means a natural person
+6 who is domiciled in this state;
+7
+8 (x) "Wyoming business entity" means a business
+9 entity that:
+10
+11 (A) Is incorporated, organized or created
+12 under the laws of this state; or
+13
+14 (B) Has its principal place of business in
+15 this state.
+16
+17 1-44-104. Cause of action; statute of limitations;
+18 construction.
+19
+20 (a) A plaintiff described in W.S. 1-44-105(a) shall
+21 have a cause of action, to the extent permitted by federal
+22 law and subject to subsections (b) and (c) of this section,
+23 against any foreign state, international organization or
+14 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 any officer, employee or other person thereof acting within
+2 the scope of their official duties who has threatened to
+3 enforce, attempted to enforce or enforced a foreign
+4 censorship law against the plaintiff in a manner that would
+5 violate the first amendment of the United States
+6 constitution, Article 1, Section 20 of the Wyoming
+7 constitution or Article 1, Section 21 of the Wyoming
+8 constitution.
+9
+10 (b) The cause of action under subsection (a) of this
+11 section shall apply only to the extent permitted by federal
+12 law, including the Foreign Sovereign Immunities Act and the
+13 International Organizations Immunities Act and any
+14 applicable headquarters agreement, treaty or executive
+15 order.
+16
+17 (c) Nothing in this chapter shall be construed to:
+18
+19 (i) Waive the sovereign immunity of any foreign
+20 state or international organization;
+21
+15 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (ii) Limit any exceptions to sovereign immunity
+2 available to the plaintiff under the federal Foreign
+3 Sovereign Immunities Act;
+4
+5 (iii) Limit any right of a defendant to remove
+6 the case from state court to federal court as provided by
+7 federal law;
+8
+9 (iv) Limit any defense available to the
+10 defendant under federal law;
+11
+12 (v) Regulate foreign states or international
+13 organizations or to conflict with the foreign affairs
+14 powers of the United States.
+15
+16 (d) A cause of action brought under subsection (a) of
+17 this section shall be commenced not later than four (4)
+18 years after the latest of the following dates:
+19
+20 (i) The date of a foreign state's or
+21 international organization's threat to enforce, attempt to
+22 enforce or enforcement of a foreign censorship law;
+23
+16 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (ii) The date of the last in a series of related
+2 threats, attempts or enforcement actions by a foreign state
+3 or international organization arising from the same
+4 investigation or proceeding;
+5
+6 (iii) The date the plaintiff discovered or
+7 reasonably could have discovered a foreign state's or
+8 international organization's threat to enforce, attempt to
+9 enforce or enforcement of a foreign censorship law.
+10
+11 1-44-105. Standing; jurisdiction; venue; alternative
+12 service of process.
+13
+14 (a) A civil cause of action brought under W.S.
+15 1-44-104(a) may be brought by:
+16
+17 (i) A Wyoming resident;
+18
+19 (ii) A natural person who is physically present
+20 in this state when a foreign state or international
+21 organization threatens to enforce, attempts to enforce or
+22 enforces a foreign censorship law against the natural
+17 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 person and who was specifically targeted by the foreign
+2 censorship law while physically present in this state;
+3
+4 (iii) A Wyoming business entity; or
+5
+6 (iv) Any United States person whose protected
+7 expression, expressive conduct or expressive association
+8 originates from or is hosted on servers physically located
+9 in this state.
+10
+11 (b) Notwithstanding any other provision of law, a
+12 Wyoming court may exercise personal jurisdiction over any
+13 foreign state or international organization that threatens
+14 to enforce, attempts to enforce or enforces a foreign
+15 censorship law against a person with standing under
+16 subsection (a) of this section, consistent with the United
+17 States constitution and the Wyoming constitution.
+18
+19 (c) Notwithstanding W.S. 1-5-107, an action initiated
+20 under W.S. 1-44-104(a) may be brought in:
+21
+22 (i) The district court of the county where the
+23 plaintiff resides or is located;
+18 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1
+2 (ii) The district court where the communication
+3 that threatened to enforce, attempted to enforce or
+4 enforced a foreign censorship law was received; or
+5
+6 (iii) The first judicial district court in
+7 Laramie county.
+8
+9 (d) Except as provided by subsection (e) of this
+10 section, upon a motion by the plaintiff, a court may
+11 authorize an alternative method of service of process that
+12 is reasonably calculated to give actual notice to an
+13 international organization, including:
+14
+15 (i) Service by email to email addresses that
+16 were used to transmit the threat to enforce, attempt to
+17 enforce or enforcement of a foreign censorship law;
+18
+19 (ii) Service on the United States counsel of
+20 record for the international organization;
+21
+19 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (iii) Service by publishing on a website
+2 maintained by an international organization, if the
+3 international organization is evading notice;
+4
+5 (iv) Any other means of service that is
+6 permitted by law or treaty.
+7
+8 (e) Service of process on:
+9
+10 (i) A foreign state shall comply with 28 U.S.C.
+11 § 1608;
+12
+13 (ii) An international organization as defined in
+14 22 U.S.C. § 288 shall comply with 28 U.S.C. § 1608 and any
+15 applicable headquarters agreements, treaties and
+16 established procedures for providing service of process.
+17
+18 1-44-106. Presumptions; rebuttal.
+19
+20 (a) A court shall presume that a foreign censorship
+21 law violates the first amendment of the United States
+22 constitution, Article 1, Section 20 of the Wyoming
+20 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 constitution and Article 1, Section 21 of the Wyoming
+2 constitution.
+3
+4 (b) A defendant may rebut the presumption under
+5 subsection (a) of this section by proving by clear and
+6 convincing evidence that:
+7
+8 (i) The foreign censorship law, on its face and
+9 as applied to the plaintiff's expression, expressive
+10 conduct or expressive association, would satisfy strict
+11 scrutiny under the first amendment to the United States
+12 constitution, Article 1, Section 20 of the Wyoming
+13 constitution and Article 1, Section 21 of the Wyoming
+14 constitution; and
+15
+16 (ii) The threatened enforcement, attempted
+17 enforcement or enforcement of the foreign censorship law
+18 does not burden expression, expressive conduct or
+19 expressive association that is protected under the first
+20 amendment to the United States constitution, Article 1,
+21 Section 20 of the Wyoming constitution and Article 1,
+22 Section 21 of the Wyoming constitution.
+23
+21 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 1-44-107. Remedies; liability.
+2
+3 (a) Upon proof by a preponderance of the evidence
+4 that a defendant threatened to enforce, attempted to
+5 enforce or enforced a foreign censorship law against a
+6 plaintiff in violation of the first amendment of the United
+7 States constitution, Article 1, Section 20 of the Wyoming
+8 constitution or Article 1, Section 21 of the Wyoming
+9 constitution, the court:
+10
+11 (i) Shall award the prevailing plaintiff:
+12
+13 (A) Actual damages as proven by the
+14 plaintiff or nominal damages if actual damages are not
+15 proven by the plaintiff;
+16
+17 (B) Statutory damages of one million
+18 dollars ($1,000,000.00) per violation, as adjusted for
+19 inflation under subsection (c) of this section or ten
+20 percent (10%) of the defendant's annual United States
+21 related revenue, whichever is greater. Statutory damages
+22 imposed under this subparagraph shall not be less than the
+23 amount of any fine or penalty imposed by a foreign state or
+22 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 international organization regarding the foreign censorship
+2 law. The amount of the fine or penalty imposed by a foreign
+3 state or international organization under this paragraph
+4 shall be calculated in United States currency;
+5
+6 (C) Reasonable attorney fees and costs.
+7
+8 (ii) May award the prevailing plaintiff
+9 declaratory judgment.
+10
+11 (b) The remedies provided under this section shall be
+12 cumulative and shall be in addition to any other remedies
+13 available at law or in equity. The statutory damages
+14 provided under subparagraph (a)(i)(B) of this section shall
+15 be compensatory damages that are intended to compensate
+16 plaintiffs for harms that are inherently difficult to
+17 quantify, including chilling effects on protected
+18 expression, reputational harm, self-censorship costs and
+19 litigation costs incurred in defending against enforcement
+20 of foreign censorship laws and shall not be punitive
+21 damages.
+22
+23 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (c) The court shall adjust any statutory damages
+2 granted under subparagraph (a)(i)(B) of this section for
+3 inflation. The court shall calculate the adjustment for
+4 inflation by multiplying the statutory damages amount of
+5 one million dollars ($1,000,000.00) by the ratio of the
+6 seasonally adjusted M2 money supply value published in the
+7 federal reserve statistical release H.6 for the month of
+8 July 2026 to the seasonally adjusted M2 money supply value
+9 for the month that the cause of action was decided. The
+10 court shall use the most recent M2 money supply values
+11 published by the board of governors of the United States
+12 federal reserve system in the federal reserve statistical
+13 release H.6, seasonally adjusted. If the board of governors
+14 of the United States federal reserve system ceases to
+15 publish the seasonally adjusted M2 money supply data, then
+16 the court shall adjust the statutory damages amount of one
+17 million dollars ($1,000,000.00) by using a reasonably
+18 comparable monetary aggregate or price index published by
+19 the board of governors of the United States federal reserve
+20 system or the federal bureau of labor statistics that
+21 preserves the real value of the statutory damages amount to
+22 the extent practicable.
+23
+24 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (d) Except as required by federal law, including the
+2 Foreign Sovereign Immunities Act and the International
+3 Organizations Immunities Act, all defendants liable under
+4 subsection (a) of this section shall be jointly and
+5 severally liable for all damages incurred by the plaintiff.
+6
+7 1-44-108. Nonrecognition of foreign judgements;
+8 noncooperation with foreign judgments and extradition
+9 requests; penalties; cause of action.
+10
+11 (a) Except as provided by federal law and otherwise
+12 provided by this subsection, no court of this state shall
+13 recognize, enforce or give effect to any foreign judgment,
+14 order, subpoena, administrative action, fine, penalty or
+15 similar measure that imposes liability or compels actions
+16 based on expression, expressive conduct or expressive
+17 association that would be protected by the first amendment
+18 of the United States constitution, Article 1, Section 20 of
+19 the Wyoming constitution or Article 1, Section 21 of the
+20 Wyoming constitution. A court may sever and may recognize,
+21 enforce or give effect to any foreign judgment, order,
+22 subpoena, administrative action, fine, penalty or similar
+23 measure that does not impose liability or compel action
+25 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 based on expression, expressive conduct or expressive
+2 association that would be protected by the first amendment
+3 of the United States constitution, Article 1, Section 20 of
+4 the Wyoming constitution or Article 1, Section 21 of the
+5 Wyoming constitution.
+6
+7 (b) Except as required by federal law, the state, its
+8 political subdivisions and its employees acting within the
+9 scope of their official duties shall not provide assistance
+10 or cooperation in collecting, enforcing or giving effect to
+11 any foreign judgment, order, subpoena, administrative
+12 action, fine, penalty or similar measure that imposes
+13 liability or compels actions based on expression,
+14 expressive conduct or expressive association that would be
+15 protected by the first amendment of the United States
+16 constitution, Article 1, Section 20 of the Wyoming
+17 constitution or Article 1, Section 21 of the Wyoming
+18 constitution.
+19
+20 (c) Any person who knowingly violates subsection (b)
+21 of this section is liable for a civil penalty of not more
+22 than ten thousand dollars ($10,000.00) for each violation.
+26 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 This civil penalty may be recovered in any action brought
+2 by the attorney general or district attorney.
+3
+4 (d) The state and its political subdivisions shall
+5 not indemnify or reimburse a person who violated subsection
+6 (b) of this section for a civil penalty imposed under
+7 subsection (c) of this section.
+8
+9 (e) Except as required by federal law, no court of
+10 this state shall recognize, enforce or give effect to any
+11 foreign criminal judgment, conviction, sentence, warrant or
+12 similar order that imposes criminal liability based in
+13 whole or in part on expression, expressive conduct or
+14 expressive association that would be protected by the first
+15 amendment of the United States constitution, Article 1,
+16 Section 20 of the Wyoming constitution or Article 1,
+17 Section 21 of the Wyoming constitution.
+18
+19 (f) Except as required by federal law, the state, its
+20 political subdivisions and its employees acting within the
+21 scope of their official duties shall not:
+22
+27 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (i) Arrest, detain or surrender any person
+2 pursuant to a foreign extradition request, international
+3 arrest warrant or similar process when the underlying
+4 offense is based on expression, expressive conduct or
+5 expressive association that would be protected by the first
+6 amendment of the United States constitution, Article 1,
+7 Section 20 of the Wyoming constitution or Article 1,
+8 Section 21 of the Wyoming constitution;
+9
+10 (ii) Provide any other assistance or cooperation
+11 to any foreign state or international organization in
+12 investigating, prosecuting, sanctioning or punishing any
+13 person for expression, expressive conduct or expressive
+14 association that would be protected by the first amendment
+15 of the United States constitution, Article 1, Section 20 of
+16 the Wyoming constitution or Article 1, Section 21 of the
+17 Wyoming constitution;
+18
+19 (iii) Honor or execute a request under a mutual
+20 legal assistance treaty, letters, rogatory or other
+21 international agreement or mechanism if the request seeks
+22 service of process, evidence testimony or any other
+23 assistance in connection with a proceeding based on
+28 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 expression, expressive conduct or expressive association
+2 that would be protected by the first amendment of the
+3 United States constitution, Article 1, Section 20 of the
+4 Wyoming constitution or Article 1, Section 21 of the
+5 Wyoming constitution.
+6
+7 (g) This section shall apply regardless of the manner
+8 in which service of process was effectuated in a foreign
+9 proceeding.
+10
+11 (h) Any person that is subject or may be subject to a
+12 foreign judgment, order, extradition request or foreign
+13 proceeding that is based on expression, expressive conduct
+14 or expressive association that would be protected by the
+15 first amendment of the United States constitution, Article
+16 1, Section 20 of the Wyoming constitution or Article 1,
+17 Section 21 of the Wyoming constitution may bring a cause of
+18 action against the state, its political subdivisions and
+19 its employees acting within the scope of their official
+20 duties in any court of competent jurisdiction in this state
+21 for:
+22
+29 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (i) A declaratory judgment that the foreign
+2 judgement, order, extradition request or proceeding is
+3 unenforceable under this section; or
+4
+5 (ii) Injunctive relief prohibiting any person
+6 from seeking to enforce a foreign judgment, order,
+7 extradition request or proceeding in this state or
+8 prohibiting any person from taking action that is
+9 prohibited by this section.
+10
+11 (j) The state shall waive sovereign immunity for
+12 claims brought under subsection (h) of this section seeking
+13 declaratory or injunctive relief. The waiver under this
+14 subsection shall not extend to claims brought under
+15 subsection (h) of this section against the state for
+16 monetary damages.
+17
+18 (k) If the plaintiff prevails in a civil cause of
+19 action brought under subsection (h) of this section, the
+20 court may:
+21
+22 (i) Award reasonable attorney fees and costs;
+23
+30 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 (ii) Impose civil penalties as provided by this
+2 section.
+3
+4 (m) The attorney general shall promulgate rules to
+5 provide guidance to state and local law enforcement
+6 regarding implementation of this section, including
+7 procedures for identifying foreign judgments, foreign
+8 criminal judgments, orders, subpoenas, administrative
+9 actions, fines and penalties from foreign states and
+10 international organizations that may impose liability or
+11 compel action based on expression, expressive conduct or
+12 expressive association that would be protected by the first
+13 amendment of the United States constitution, Article 1,
+14 Section 20 of the Wyoming constitution or Article 1,
+15 Section 21 of the Wyoming constitution.
+16
+17 Section 3. W.S. 1-5-107 is amended to read:
+18
+19 1-5-107. Actions against nonresidents and foreign
+20 corporations.
+21
+22 An action, other than one (1) of those mentioned in W.S.
+23 1-5-101 through 1-5-104 and 1-44-104, against a nonresident
+31 HB0070
+
+2026 STATE OF WYOMING 26LSO-0319
+1 of this state or a foreign corporation, whether or not
+2 codefendants reside in Wyoming, may be brought in any
+3 county where the cause of action arose or where the
+4 plaintiff resides.
+5
+6 Section 4. The attorney general shall promulgate all
+7 rules necessary to implement this act.
+8
+9 Section 5.
+10
+11 (a) Except as provided in subsection (b) of this
+12 section, this act is effective July 1, 2026.
+13
+14 (b) Sections 4 and 5 of this act are effective
+15 immediately upon completion of all acts necessary for a
+16 bill to become law as provided by Article 4, Section 8 of
+17 the Wyoming Constitution.
+18
+19 (END)
+32 HB0070

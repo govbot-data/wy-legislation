@@ -1,0 +1,756 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0058
+SENATE FILE NO. SF0022
+Unincorporated nonprofit associations-amendments.
+Sponsored by: Select Committee on Blockchain, Financial
+Technology and Digital Innovation Technology
+A BILL
+for
+1 AN ACT relating to corporations, partnerships and
+2 associations; authorizing decentralized unincorporated
+3 nonprofit associations to automatically convert to
+4 unincorporated nonprofit associations as specified;
+5 conforming language in the Wyoming Decentralized
+6 Unincorporated Nonprofit Association Act with the Wyoming
+7 Unincorporated Nonprofit Association Act; requiring assets
+8 of decentralized unincorporated nonprofit associations to
+9 be distributed as required by federal law when winding up a
+10 decentralized unincorporated nonprofit association;
+11 clarifying references to decentralized unincorporated
+12 nonprofit associations; amending definitions; repealing
+13 obsolete provisions; making conforming amendments; and
+14 providing for an effective date.
+15
+1 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 Be It Enacted by the Legislature of the State of Wyoming:
+2
+3 Section 1. W.S. 17-22-106(b), (c) and (d),
+4 17-32-102(a)(i), (iii)(intro), (A), (C), (vi) through (ix),
+5 by creating a new paragraph (xiv) and by renumbering (xiv)
+6 as (xv), 17-32-104(a), (b), (c)(i) and (iii), 17-32-106(a),
+7 (b) and (c)(ii) through (iv), 17-32-107(b) through (e),
+8 17-32-108(b)(i) and (ii), 17-32-109, 17-32-110(b)(ii),
+9 17-32-111, 17-32-112, 17-32-113(a)(i), 17-32-114(b)(i)
+10 through (iii), 17-32-115(a), 17-32-116(a), 17-32-117(a),
+11 17-32-119, 17-32-120(c), 17-32-121(b)(i), 17-32-122(a)(ii),
+12 17-32-123(a), (d)(intro), (ii) and (iv), 17-32-124(a) and
+13 (c), 17-32-125(a) through (d), 17-32-126(a), (b)(i),
+14 (ii)(A), (B), (D) and (iii), 17-32-127(a) by creating a new
+15 paragraph (vii), (c)(iii), (v)(B) and (d)(viii) and
+16 17-32-128 are amended to read:
+17
+18 17-22-106. Liability in tort and contract.
+19
+20 (b) A person is not liable for a breach of a
+21 nonprofit association's contract merely solely because the
+22 person is a member, is authorized to participate in the
+23 management of the affairs of the nonprofit association or
+2 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 is a person considered as a member by the nonprofit
+2 association.
+3
+4 (c) A person is not liable for a tortious act or
+5 omission for which a nonprofit association is liable merely
+6 solely because the person is a member, is authorized to
+7 participate in the management of the affairs of the
+8 nonprofit association or is a person considered as a member
+9 by the nonprofit association.
+10
+11 (d) A tortious act or omission of a member or other
+12 person for which a nonprofit association is liable is not
+13 imputed to a person merely solely because the person is a
+14 member of the nonprofit association, is authorized to
+15 participate in the management of the affairs of the
+16 nonprofit association or is a person considered as a member
+17 by the nonprofit association.
+18
+19 17-32-102. Definitions.
+20
+21 (a) As used in this act:
+22
+3 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (i) "Administrator" means a person, whether or
+2 not a member, authorized by the members membership of a
+3 decentralized unincorporated nonprofit association to
+4 fulfill administrative or operational tasks at the
+5 direction of the membership of the decentralized
+6 unincorporated nonprofit association;
+7
+8 (iii) "Decentralized unincorporated nonprofit
+9 association" or "nonprofit association" means an
+10 unincorporated nonprofit association that meets the
+11 following requirements:
+12
+13 (A) Consists of at least one hundred (100)
+14 members joined by mutual consent under an agreement, that
+15 may be in writing or inferred from conduct, for a common
+16 nonprofit purpose; except as permitted under W.S.
+17 17-32-104;
+18
+19 (C) Is not formed under any other law
+20 governing the decentralized unincorporated nonprofit
+21 association's organization or operation.
+22
+4 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (vi) "Established practices" means the practices
+2 used by a decentralized unincorporated nonprofit
+3 association without material change during the most recent
+4 five (5) years of the decentralized unincorporated
+5 nonprofit association's existence, or if the decentralized
+6 unincorporated nonprofit association has existed for less
+7 than five (5) years, during the decentralized
+8 unincorporated nonprofit association's entire existence;
+9
+10 (vii) "Governing principles" means all
+11 agreements and any amendment or restatement of those
+12 agreements, including any decentralized unincorporated
+13 nonprofit association agreements, consensus formation
+14 algorithms, smart contracts or enacted governance
+15 proposals, that govern the purpose or operation of a
+16 decentralized unincorporated nonprofit association and the
+17 rights and obligations of the decentralized unincorporated
+18 nonprofit association's members and administrators, whether
+19 contained in a record, implied from the decentralized
+20 unincorporated nonprofit association's established
+21 practices or both;
+22
+5 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (viii) "Member" means a person who, under the
+2 governing principles of a decentralized unincorporated
+3 nonprofit association, may participate in the selection of
+4 the decentralized unincorporated nonprofit association's
+5 administrators or the development of the policies and
+6 activities of the decentralized unincorporated nonprofit
+7 association;
+8
+9 (ix) "Membership interest" means a member's
+10 voting right in a decentralized unincorporated nonprofit
+11 association determined by the decentralized unincorporated
+12 nonprofit association's governing principles, including as
+13 ascertained from decentralized ledger technology on which
+14 the decentralized unincorporated nonprofit association
+15 relies to determine a member's voting right;
+16
+17 (xiv) "Distributed ledger protocol" means an
+18 executable software deployed to a distributed ledger
+19 including smart contracts or networks of smart contracts;
+20
+21 (xiv)(xv) "This act" means W.S. 17-32-101
+22 through 17-32-128 17-32-129.
+23
+6 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 17-32-104. Profits; prohibitions on distributions and
+2 dividends; compensation and other permitted payments.
+3
+4 (a) A decentralized unincorporated nonprofit
+5 association may engage in profit-making activities, but
+6 profits from any activities shall be used in furtherance
+7 of, or set aside for, the decentralized unincorporated
+8 nonprofit association's common nonprofit purpose.
+9
+10 (b) Except as provided in subsection (c) of this
+11 section, a decentralized unincorporated nonprofit
+12 association may not pay dividends or distribute any part of
+13 its income or profits to its members or administrators or
+14 persons outside the decentralized unincorporated nonprofit
+15 association.
+16
+17 (c) A decentralized unincorporated nonprofit
+18 association may:
+19
+20 (i) Pay reasonable compensation or reimburse
+21 reasonable expenses to its members, administrators and
+22 persons outside the decentralized unincorporated nonprofit
+23 association for services rendered, including with respect
+7 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 to the administration and operation of the decentralized
+2 unincorporated nonprofit association, which may include the
+3 provisions of collateral for the self-insurance of the
+4 decentralized unincorporated nonprofit association, voting
+5 or participation in the decentralized unincorporated
+6 nonprofit association's operations and activities;
+7
+8 (iii) Repurchase membership interests to the
+9 extent authorized by the decentralized unincorporated
+10 nonprofit association's governing principles; and
+11
+12 17-32-106. Statement of authority as to real
+13 property.
+14
+15 (a) A decentralized unincorporated nonprofit
+16 association shall execute and record a statement of
+17 authority to transfer an estate or interest in real
+18 property in the name of the decentralized unincorporated
+19 nonprofit association.
+20
+21 (b) An estate or interest in real property in the
+22 name of a decentralized unincorporated nonprofit
+23 association may be transferred by a person so authorized in
+8 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 a statement of authority recorded in the office of the
+2 county clerk in which a transfer of the property will would
+3 be recorded.
+4
+5 (c) A statement of authority shall set forth:
+6
+7 (ii) The address in this state, including the
+8 street address, if any, of the decentralized unincorporated
+9 nonprofit association. If the decentralized unincorporated
+10 nonprofit association does not have an address in this
+11 state, the statement of authority shall include the
+12 decentralized unincorporated nonprofit association's
+13 address out of state;
+14
+15 (iii) The name or title of the person authorized
+16 to transfer an estate or interest in real property held in
+17 the name of the decentralized unincorporated nonprofit
+18 association; and
+19
+20 (iv) The action, procedure or vote of the
+21 decentralized unincorporated nonprofit association which
+22 authorizes the person to transfer the real property of the
+23 decentralized unincorporated nonprofit association and
+9 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 which authorizes the person to execute the statement of
+2 authority.
+3
+4 17-32-107. Liability in tort or contract.
+5
+6 (b) A person is not liable for a breach of a
+7 decentralized unincorporated nonprofit association's
+8 contract merely because the person is a member,
+9 administrator, authorized to participate in the management
+10 of the affairs of the decentralized unincorporated
+11 nonprofit association or considered as a member by the
+12 decentralized unincorporated nonprofit association.
+13
+14 (c) A person is not liable for a tortious act or
+15 omission for which a decentralized unincorporated nonprofit
+16 association is liable merely because the person is a member
+17 or administrator of the decentralized unincorporated
+18 nonprofit association, or is a person authorized to
+19 participate in the management of the affairs of the
+20 decentralized unincorporated nonprofit association or
+21 considered as a member by the decentralized unincorporated
+22 nonprofit association.
+23
+10 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (d) A tortious act or omission of a member,
+2 administrator or other person for which a decentralized
+3 unincorporated nonprofit association is liable is not
+4 imputed to a person merely because the person is a member
+5 or administrator of the decentralized unincorporated
+6 nonprofit association, or is a person authorized to
+7 participate in the management of the affairs of the
+8 decentralized unincorporated nonprofit association or
+9 considered as a member by the decentralized unincorporated
+10 nonprofit association.
+11
+12 (e) A member, administrator, person authorized to
+13 participate in the management of the affairs of the
+14 decentralized unincorporated nonprofit association, or
+15 person considered as a member by the decentralized
+16 unincorporated nonprofit association, may assert a claim
+17 against the decentralized unincorporated nonprofit
+18 association. A decentralized unincorporated nonprofit
+19 association may assert a claim against a member,
+20 administrator, person authorized to participate in the
+21 management of the affairs of the decentralized
+22 unincorporated nonprofit association or person considered
+11 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 as a member by the decentralized unincorporated nonprofit
+2 association.
+3
+4 17-32-108. Capacity to assert and defend; standing.
+5
+6 (b) A decentralized unincorporated nonprofit
+7 association may assert a claim on behalf of its members if:
+8
+9 (i) One (1) or more members of the decentralized
+10 unincorporated nonprofit association have standing to
+11 assert a claim in their own right;
+12
+13 (ii) The interests the decentralized
+14 unincorporated nonprofit association seeks to protect are
+15 germane to its purposes; and
+16
+17 17-32-109. Effect of judgement or order.
+18
+19 A judgment or order against a decentralized unincorporated
+20 nonprofit association is not by itself a judgment or order
+21 against a member or administrator of the decentralized
+22 unincorporated nonprofit association.
+23
+12 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 17-32-110. Appointment of agent to receive service of
+2 process.
+3
+4 (b) A statement appointing an agent shall set forth:
+5
+6 (ii) The address in this state, including the
+7 street address, if any, of the decentralized unincorporated
+8 nonprofit association. If the decentralized unincorporated
+9 nonprofit association does not have an address in this
+10 state, the statement shall include the decentralized
+11 unincorporated nonprofit association's address out of
+12 state; and
+13
+14 17-32-111. Summons and complaint; service on whom.
+15
+16 In an action or proceeding against a decentralized
+17 unincorporated nonprofit association, a summons and
+18 complaint shall be served on an agent authorized to receive
+19 service of process or a person authorized to administer the
+20 affairs of the decentralized unincorporated nonprofit
+21 association. If none of them can be served, service may be
+22 made on a member of the decentralized unincorporated
+23 nonprofit association.
+13 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1
+2 17-32-112. Claim not abated by change of members,
+3 administrators or persons authorized.
+4
+5 A claim for relief against a decentralized unincorporated
+6 nonprofit association shall not abate merely because of a
+7 change in its members or persons authorized to administer
+8 the affairs of the decentralized unincorporated nonprofit
+9 association.
+10
+11 17-32-113. Venue.
+12
+13 (a) For purposes of venue, a decentralized
+14 unincorporated nonprofit association is a resident of a
+15 county in which:
+16
+17 (i) The decentralized unincorporated nonprofit
+18 association has an office; or
+19
+20 17-32-114. Perpetual existence, dissolution,
+21 continuation of existence.
+22
+14 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (b) A decentralized unincorporated nonprofit
+2 association may be dissolved by any of the following
+3 methods:
+4
+5 (i) If the governing principles of the
+6 decentralized unincorporated nonprofit association provide
+7 a time or method for dissolution, by that method;
+8
+9 (ii) If the governing principles of the
+10 decentralized unincorporated nonprofit association do not
+11 provide a method for dissolution, by approval of its
+12 members in accordance with W.S. 17-32-120;
+13
+14 (iii) If membership in the decentralized
+15 unincorporated nonprofit association falls below one
+16 hundred (100) members and the decentralized unincorporated
+17 nonprofit association does not meet the requirements of a
+18 Wyoming unincorporated nonprofit association under W.S.
+19 17-22-101 through 17-22-115. In the event membership in the
+20 decentralized unincorporated nonprofit association falls
+21 below one hundred (100) members and the decentralized
+22 unincorporated nonprofit association meets the requirements
+23 of a Wyoming unincorporated nonprofit association under
+15 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 W.S. 17-22-101 through 17-22-115, the entity automatically
+2 converts to a Wyoming unincorporated nonprofit association
+3 unless the governing principles otherwise specify; another
+4 organizational statute and the organization meets the
+5 statutory requirements of that organization;
+6
+7 17-32-115. Admission, suspension, dismissal or
+8 expulsion of members.
+9
+10 (a) A person becomes a member of a decentralized
+11 unincorporated nonprofit association in accordance with the
+12 governing principles of the decentralized unincorporated
+13 nonprofit association. If there are no applicable governing
+14 principles, a person shall be considered a member upon
+15 purchase or assumption of ownership of a membership
+16 interest or other property or instrument that confers a
+17 voting right with the nonprofit association and the person
+18 shall continue as a member absent until the person's
+19 suspension, dismissal or expulsion pursuant to subsection
+20 (b) of this section, resignation pursuant to W.S. 17-32-116
+21 or the decentralized unincorporated nonprofit association's
+22 dissolution and wind-up pursuant to W.S. 17-32-114 and W.S.
+23 17-32-126.
+16 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1
+2 17-32-116. Member resignation.
+3
+4 (a) A member may resign as a member of a
+5 decentralized unincorporated nonprofit association in
+6 accordance with the governing principles of the
+7 decentralized unincorporated nonprofit association. If
+8 there are no applicable governing principles, a member
+9 shall be deemed to have resigned as a member upon the
+10 disposal, whether voluntary or involuntary, of all
+11 membership interests or other property or instruments that
+12 confer upon the person a voting right within the
+13 decentralized unincorporated nonprofit association.
+14
+15 17-32-117. Duties of members.
+16
+17 (a) Unless otherwise provided for in the governing
+18 principles, a member shall not have any fiduciary duty to a
+19 decentralized unincorporated nonprofit association or to
+20 any other member of the decentralized unincorporated
+21 nonprofit association solely by reason of being a member.
+22
+23 17-32-119. Member interests transferable.
+17 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1
+2 Except as otherwise provided in the decentralized
+3 unincorporated nonprofit association's governing
+4 principles, a member interest or any right thereunder is
+5 freely transferable to another person through conveyance of
+6 the membership interest. or other property that confers
+7 upon a person a voting right within the nonprofit
+8 association.
+9
+10 17-32-120. Approval by members.
+11
+12 (c) Unless otherwise provided for in the governing
+13 principles, membership interest in a decentralized
+14 unincorporated nonprofit association shall be calculated in
+15 proportion to a member's voting rights within the
+16 decentralized unincorporated nonprofit association.
+17
+18 17-32-121. Utilization of distributed ledger
+19 technology.
+20
+21 (b) The governing principles for a decentralized
+22 unincorporated nonprofit association may:
+23
+18 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (i) Specify whether any distributed ledger
+2 technology utilized or enabled by the decentralized
+3 unincorporated nonprofit association will be fully
+4 immutable or subject to change by the decentralized
+5 unincorporated nonprofit association and whether any
+6 distributed ledger will be fully or partially public or
+7 private, including the extent of a member's access to
+8 information;
+9
+10 17-32-122. Consensus formation algorithms and
+11 governance process.
+12
+13 (a) In accordance with its governing principles, a
+14 decentralized unincorporated nonprofit association may:
+15
+16 (ii) In accordance with any procedure specified
+17 pursuant to W.S. 17-32-121, modify the consensus mechanism,
+18 as well as the requirements, processes and procedures or
+19 substitute a new consensus mechanism, requirements,
+20 processes or procedures that comply with this state's law
+21 and the governing principles of the decentralized
+22 unincorporated nonprofit association.
+23
+19 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 17-32-123. Selection of administrators; rights and
+2 duties of administrators.
+3
+4 (a) Unless otherwise provided for in the
+5 decentralized unincorporated nonprofit association's
+6 governing principles, the members of a decentralized
+7 unincorporated nonprofit association may select the
+8 decentralized unincorporated nonprofit association's
+9 administrators in accordance with W.S. 17-32-120.
+10
+11 (d) If in a record, the governing principles of a
+12 decentralized unincorporated nonprofit association may
+13 limit or eliminate the liability of an administrator to the
+14 decentralized unincorporated nonprofit association or its
+15 members for money damages for any action taken, or failure
+16 to take any action, as an administrator except liability
+17 for:
+18
+19 (ii) An intentional infliction of harm on the
+20 decentralized unincorporated nonprofit association or its
+21 members;
+22
+20 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (iv) Breach of the duty of loyalty should one
+2 exist, unless, following full disclosure of all material
+3 facts to the decentralized unincorporated nonprofit
+4 association members, the specific act or transaction that
+5 would otherwise breach the duty of loyalty is authorized or
+6 ratified by approval of the disinterested members pursuant
+7 to W.S. 17-32-120;
+8
+9 17-32-124. Right to inspect records.
+10
+11 (a) Except as provided by subsection (b) of this
+12 section, on reasonable notice, a member or administrator of
+13 a decentralized unincorporated nonprofit association shall
+14 be entitled to an electronic record of any record
+15 maintained by the decentralized unincorporated nonprofit
+16 association regarding the decentralized unincorporated
+17 nonprofit association's activities, financial condition and
+18 other circumstances, to the extent the information is
+19 material to a member or administrator's rights and duties
+20 under the decentralized unincorporated nonprofit
+21 association's governing principles or this act.
+22
+21 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (c) A decentralized unincorporated nonprofit
+2 association may impose reasonable restrictions on access to
+3 and use of information that may be provided under this
+4 section, including by designating the information
+5 confidential and imposing nondisclosure or other
+6 safeguarding obligations on the recipient of the
+7 information. In a dispute concerning the reasonableness of
+8 a restriction under this subsection, the decentralized
+9 unincorporated nonprofit association shall have the burden
+10 of proving reasonableness.
+11
+12 17-32-125. Indemnification; advancement of expenses.
+13
+14 (a) Unless otherwise provided in its governing
+15 principles, a decentralized unincorporated nonprofit
+16 association may reimburse a member or administrator for
+17 authorized expenses reasonably incurred on behalf of the
+18 decentralized unincorporated nonprofit association.
+19
+20 (b) A decentralized unincorporated nonprofit
+21 association may indemnify a member or administrator for any
+22 debt, obligation or other liability incurred in the course
+23 of the member or administrator's activities on behalf of
+22 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 the decentralized unincorporated nonprofit association. To
+2 be eligible for indemnification, an administrator must have
+3 complied with the duties stated in W.S. 17-32-123. If in a
+4 record, a decentralized unincorporated nonprofit
+5 association's governing principles may broaden or limit
+6 this right of indemnification.
+7
+8 (c) If a person is made, or threatened to be made, a
+9 party in a proceeding based on that person's conduct in the
+10 affairs of a decentralized unincorporated nonprofit
+11 association, that person is entitled, upon written request
+12 to the decentralized unincorporated nonprofit association,
+13 including through decentralized ledger technology, to
+14 receive payment of or reimbursement by the decentralized
+15 unincorporated nonprofit association, of reasonable
+16 expenses, including attorney's fees and disbursements,
+17 incurred by that person in advance of the final disposition
+18 of the proceeding. To be entitled to these payments or
+19 advances the person making the request shall make a written
+20 affirmation that the person has a good faith belief that
+21 the criteria for indemnification in subsection (a) of this
+22 section have been satisfied and that the person will repay
+23 the amounts paid or reimbursed if it is determined that the
+23 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 criteria for reimbursement have not been satisfied. No
+2 payment or reimbursement under this subsection shall be
+3 made without prior approval, in a record, of the
+4 disinterested members under W.S. 17-32-102.
+5
+6 (d) A decentralized unincorporated nonprofit
+7 association may purchase and maintain insurance on behalf
+8 of a member or administrator for liability asserted against
+9 or incurred by the member or administrator in that
+10 capacity, whether or not the decentralized unincorporated
+11 nonprofit association would have the power to indemnify or
+12 advance expenses to the member or administrator against the
+13 same liability under this section.
+14
+15 17-32-126. Winding up; termination.
+16
+17 (a) A dissolved decentralized unincorporated
+18 nonprofit association shall wind up its operations and the
+19 decentralized unincorporated nonprofit association shall
+20 continue after dissolution only for the purpose of winding
+21 up.
+22
+24 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (b) In winding up a decentralized unincorporated
+2 nonprofit association, the members:
+3
+4 (i) Shall discharge the decentralized
+5 unincorporated nonprofit association's debts, obligations
+6 and other liabilities, settle and close the decentralized
+7 unincorporated nonprofit association's business and
+8 distribute any remaining property:
+9
+10 (A) As required by state law other than
+11 this chapter or federal law requiring assets of an a
+12 decentralized unincorporated nonprofit association to be
+13 distributed to another entity or person with similar
+14 nonprofit purposes;
+15
+16 (B) In accordance with the decentralized
+17 unincorporated nonprofit association's governing
+18 principles. In the absence of applicable governing
+19 principles, to the current members of the decentralized
+20 unincorporated nonprofit association in proportion to their
+21 membership interests; or
+22
+25 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 (C) If neither subdivision subparagraph (A)
+2 or (B) of this paragraph applies, in accordance with the
+3 law of unclaimed property contained in W.S. 34-24-101
+4 through 34-24-140.
+5
+6 (ii) May:
+7
+8 (A) Authorize an administrator to wind up
+9 the decentralized unincorporated nonprofit association in
+10 accordance with W.S. 17-32-120. Any administrator so
+11 authorized shall owe the decentralized unincorporated
+12 nonprofit association a duty of care in the conduct or
+13 winding up of the decentralized unincorporated nonprofit
+14 association to refrain from grossly negligent or reckless
+15 conduct, willful or intentional misconduct or a knowing
+16 violation of the law;
+17
+18 (B) Preserve the decentralized
+19 unincorporated nonprofit association's operations and
+20 property as a going concern for a reasonable time;
+21
+22 (D) Transfer the decentralized
+23 unincorporated nonprofit association's property;
+26 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1
+2 (iii) If the members of a decentralized
+3 unincorporated nonprofit association do not appoint an
+4 administrator or administrators to wind up the
+5 decentralized unincorporated nonprofit association, the
+6 members shall owe the decentralized unincorporated
+7 nonprofit association a duty of care in the conduct or
+8 winding up of the decentralized unincorporated nonprofit
+9 association's operations to refrain from engaging in
+10 grossly negligent or reckless conduct, willful or
+11 intentional misconduct or a knowing violation of the law.
+12
+13 17-32-127. Mergers.
+14
+15 (a) As used in this section:
+16
+17 (vii) "Charitable purpose" means any purpose of
+18 an organization that is recognized as exempt under section
+19 501(c)(3) of the Internal Revenue Code or any successor
+20 section, or that upon dissolution shall distribute its
+21 assets to a public benefit corporation, the United States,
+22 a state or a person that is recognized as exempt under
+27 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 section 501(c)(3) of the Internal Revenue Code or any
+2 successor section.
+3
+4 (c) A merger involving a decentralized unincorporated
+5 nonprofit association is subject to the following
+6 requirements:
+7
+8 (iii) The plan of merger shall be approved by
+9 the members of each decentralized unincorporated nonprofit
+10 association that is a constituent organization in the
+11 merger, subject to W.S. 17-32-120. If a member of a
+12 decentralized unincorporated nonprofit association that is
+13 party to a merger will have personal liability with respect
+14 to an obligation of a constituent or surviving
+15 organization, the consent in a record of that member to the
+16 plan of merger shall also be obtained;
+17
+18 (v) Following approval of the plan, a merger
+19 under this section shall be effective if:
+20
+21 (B) The surviving organization is a
+22 decentralized unincorporated nonprofit association, as
+23 specified in the plan of merger and upon compliance by any
+28 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1 constituent organization that is not a decentralized
+2 unincorporated nonprofit association with any requirements,
+3 including any required filings in the office of the
+4 secretary of state, of the organization's governing
+5 statute; or
+6
+7 (d) When a merger becomes effective:
+8
+9 (viii) The merger shall not affect the personal
+10 liability, if any, of a member, administrator or manager of
+11 a constituent association for a debt, liability or
+12 obligation of the decentralized unincorporated nonprofit
+13 association incurred before the merger is effective; and
+14
+15 17-32-128. Conversion of entities.
+16
+17 A decentralized unincorporated nonprofit association may
+18 effect a conversion by complying with the applicable
+19 provisions of W.S. 17-26-101 and any applicable provisions
+20 of the decentralized unincorporated nonprofit association's
+21 governing principles.
+22
+23 Section 2. W.S. 17-32-102(a)(ii) is repealed.
+29 SF0022
+
+2026 STATE OF WYOMING 26LSO-0058
+1
+2 Section 3. This act is effective July 1, 2026.
+3
+4 (END)
+30 SF0022

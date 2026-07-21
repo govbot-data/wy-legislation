@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0506
+SENATE FILE NO. SF0122
+Medical necessity standard-timeline amendments.
+Sponsored by: Senator(s) Dockstader and Brennan and
+Representative(s) Erickson
+A BILL
+for
+1 AN ACT relating to the insurance code; amending the number
+2 of days a health insurer has to determine the medical
+3 necessity of a health care service; amending the number of
+4 days an independent review organization has to make an
+5 external review determination regarding medical necessity
+6 of a health care service; and providing for an effective
+7 date.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 26-40-201(d) and (m)(intro) is
+12 amended to read:
+13
+14 26-40-201. Payment of claims under medical necessity
+15 standard; review.
+1 SF0122
+
+2026 STATE OF WYOMING 26LSO-0506
+1
+2 (d) A claimant shall have not less than thirty (30)
+3 days in which to file a request for the review provided in
+4 subsection (c) of this section and such review shall be
+5 completed by the insurer, and a decision delivered to the
+6 claimant, no not later than forty-five (45) twenty-one (21)
+7 days after receipt of a request for review.
+8
+9 (m) Within forty-five (45) Not later than twenty-one
+10 (21) days after the date of receipt of the request for
+11 external review, the assigned independent review
+12 organization shall provide written notice to the claimant,
+13 the insurer and the commissioner of its decision to uphold
+14 or reverse the decision of the insurer that the provision
+15 of or payment for medical services, procedures or supplies
+16 requested by the claimant are not medically necessary.
+17 Such written notice shall include:
+18
+19 Section 2. This act is effective July 1, 2026.
+20
+21 (END)
+2 SF0122

@@ -1,0 +1,207 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0434
+HOUSE BILL NO. HB0111
+State funded capital construction.
+Sponsored by: Joint Appropriations Committee
+A BILL
+for
+1 AN ACT relating to state funded capital construction; providing
+2 definitions; providing appropriations for purposes related to
+3 state funded capital construction and major maintenance; making
+4 appropriations subject to terms and conditions as specified; and
+5 providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1.
+10
+11 (a) As used in this act:
+12
+13 (i) "Appropriation" means the authorizations granted by
+14 the legislature under this act to make expenditures from and to
+15 incur obligations against the general and other funds as
+16 specified;
+1 HB0111
+
+2026 STATE OF WYOMING 26LSO-0434
+1
+2 (ii) "FF" means federal funds;
+3
+4 (iii) "Major maintenance" means as defined by W.S.
+5 9-2-3001(b)(ix);
+6
+7 (iv) "PR" means private funding sources;
+8
+9 (v) "SR" means an agency's account within the special
+10 revenue fund;
+11
+12 (vi) "S0" means other funds identified by footnote;
+13
+14 (vii) "This appropriation," when used in a footnote in
+15 this act, shall be construed as a reference to that portion of the
+16 appropriated funds identified in the footnote.
+17
+18 (b) Appropriations for projects in this act remain in effect
+19 until the project is completed, unless otherwise provided. The
+20 amounts appropriated for projects in this act shall be expended
+21 only on the projects specified and any unexpended, unobligated
+22 funds remaining upon completion of a project shall revert to the
+23 accounts from which they were appropriated, unless otherwise
+2 HB0111
+
+2026 STATE OF WYOMING 26LSO-0434
+1 provided. The amounts appropriated in this act are intended to
+2 provide a maximum amount for each project from any source,
+3 excluding contingency funding, and shall not be construed to be an
+4 entitlement or guaranteed amount. This subsection shall not apply
+5 to appropriations for major maintenance in this act, except as
+6 specifically provided.
+7
+8 [CAPITAL CONSTRUCTION]
+9
+10 Section 2.
+11
+12 (a) The following sums of money are appropriated for the
+13 capital construction projects specified:
+14
+15 (i) Appropriations and authorization for projects
+16 administered through the state construction department:
+17
+3 HB0111
+
+2026 STATE OF WYOMING 26LSO-0434
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 Section 027. CAPITAL CONSTRUCTION PROJECTS
+2 PROGRAM
+3 SCD - Level I/II 1. 1,200,000 1,200,000
+4 SBC - Contingency 5,962,485 5,962,485
+5 MIL – WYARNG Modernization 5,000,000 5,000,000 10,000,000
+6 MIL - WYARNG Trng. Brrcks. 42,000,000 42,000,000
+7 DOH - VHW Remodel 2., 3. 87,000,000 87,000,000
+8 LCCC - Auto Tech. Reno. 4,435,824 PR 4,435,824
+9 LCCC – Science Ctr. Reno. 7,944,513 PR 7,944,513
+10 LCCC – Crossroads Bldg. Reno. 7,765,731 PR 7,765,731
+11 LCCC - Comm. Ctr. Reno. 7,547,561 PR 7,547,561
+12 NWCCD - Science Bldg. Reno 27,448,451 PR 27,448,451
+13 CWC - Indust. Fac. Reno. 4,086,049 PR 4,086,049
+14 TOTALS 99,162,485 47,000,000 59,228,129 205,390,614
+15
+16 1. (a) This appropriation is for level I, level II and master plan studies,
+17 including any combination thereof, for the following projects:
+18
+19 (i) Department of agriculture – state fair dormitories;
+20
+21 (ii) Office of state lands and investments, division of forestry -
+22 facilities in or near Newcastle, Wyoming;
+23
+24 (iii) Wyoming community college commission – industrial technology
+25 building at Casper college;
+26
+4 HB0111
+
+2026 STATE OF WYOMING 26LSO-0434
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 (iv) Wyoming community college commission – health science
+2 facility at Casper college.
+3
+4 (b) Notwithstanding any other provision of law, after funds are
+5 obligated for all studies specified in subsection (a) of this footnote, any
+6 remaining unobligated funds from this appropriation are authorized for
+7 expenditure on any level I, level II and master plan studies approved by the
+8 state building commission.
+9
+10 2. The state construction department is authorized to retain a qualified
+11 owner's representative for the veterans' home of Wyoming remodel. From this
+12 general fund appropriation, the department may expend an amount not to exceed
+13 five hundred thousand dollars ($500,000.00) for retention of the qualified
+14 owner's representative.
+15
+16 3. (a) Federal funds received by the state of Wyoming for state run veterans'
+17 home facilities shall:
+18
+19 (i) Be deposited to the legislative stabilization reserve account
+20 in an equivalent amount of expended general funds to the extent funds from this
+21 appropriation have been expended; and
+22
+23 (ii) Reduce this appropriation by one dollar ($1.00) for each one
+24 dollar ($1.00) in federal funds for any remaining federal funds received in
+5 HB0111
+
+2026 STATE OF WYOMING 26LSO-0434
+GENERAL FEDERAL OTHER TOTAL
+APPROPRIATION FUND FUNDS FUNDS APPROPRIATION
+FOR $ $ $ $
+1 excess of the amount deposited to the legislative stabilization reserve account
+2 in accordance with this footnote.
+3
+4 (ii) Appropriations and authorization for projects
+5 administered through the department of state parks and cultural
+6 resources:
+7
+8 Section 024. CAPITAL CONSTRUCTION PROJECTS
+9 PROGRAM
+10 SPCR - Outdoor Rec. 6,600,000 SR 6,600,000
+11 SPCR – Terr. Prison 250,000 SR 250,000
+12 SPCR – Water Fac. 430,000 SR 430,000
+13 SPCR - Quebec 01 Fac. 50,000 SR 50,000
+14 TOTALS 7,330,000 7,330,000
+15
+6 HB0111
+
+2026 STATE OF WYOMING 26LSO-0434
+1 [MAJOR MAINTENANCE FUNDING FOR STATE FACILITIES, STATE
+2 PARKS AND CULTURAL RESOURCES, UNIVERSITY AND COMMUNITY
+3 COLLEGES]
+4
+5 Section 3.
+6
+7 (a) For the biennium beginning July 1, 2026, and
+8 subject to W.S. 9-4-207(d)(iv), there is appropriated two
+9 hundred thirty-two million nine hundred seventy-nine
+10 thousand four hundred forty dollars ($232,979,440.00) from
+11 the general fund for major maintenance to the entities and
+12 in the amounts specified as provided in this subsection.
+13 This appropriation shall be distributed as follows:
+14
+15 (i) Thirty-seven and sixty-six hundredths
+16 percent (37.66%) to the state construction department for
+17 state buildings, facilities and sites managed by the state
+18 building commission and state institutions;
+19
+20 (ii) Eight and one hundredth percent (8.01%) to
+21 the department of state parks and cultural resources to
+22 fund major maintenance requests submitted by the department
+23 of state parks and cultural resources as approved by the
+7 HB0111
+
+2026 STATE OF WYOMING 26LSO-0434
+1 state building commission;
+2
+3 (iii) Thirty-six and four-tenths percent (36.4%)
+4 to the University of Wyoming for university buildings,
+5 facilities and sites, excluding student housing, the
+6 student union and auxiliary services areas, the latter
+7 being those areas funded by university self-sustaining
+8 revenues;
+9
+10 (iv) Seventeen and ninety-three hundredths
+11 percent (17.93%) to the state construction department for
+12 community college district buildings, facilities and sites.
+13
+14 [EFFECTIVE DATE]
+15
+16 Section 4. This act is effective July 1, 2026.
+17
+18 (END)
+8 HB0111

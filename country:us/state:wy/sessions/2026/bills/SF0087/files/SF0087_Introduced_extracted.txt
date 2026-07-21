@@ -1,0 +1,43 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0446
+SENATE FILE NO. SF0087
+Felony interference with a police officer-amendments.
+Sponsored by: Senator(s) Kolb, Anderson, Boner, Dockstader,
+Hutchings, Nethercott and Steinmetz and
+Representative(s) Heiner, Lien and Washut
+A BILL
+for
+1 AN ACT relating to crimes and offenses; amending the
+2 offense of interference with a peace officer by creating an
+3 additional felony offense; and providing for an effective
+4 date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 6-5-204(b) is amended to read:
+9
+10 6-5-204. Interference with peace officer; disarming
+11 peace officer; penalties.
+12
+13 (b) A person who intentionally and knowingly causes
+14 or attempts to cause, or who in the course of violating
+15 subsection (a) of this section causes, bodily injury to a
+1 SF0087
+
+2026 STATE OF WYOMING 26LSO-0446
+1 peace officer while that peace officer is engaged in the
+2 lawful performance of his official duties is guilty of a
+3 felony punishable by imprisonment for not more than ten
+4 (10) years.
+5
+6 Section 2. This act is effective July 1, 2026.
+7
+8 (END)
+2 SF0087

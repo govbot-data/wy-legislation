@@ -1,0 +1,49 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0182
+HOUSE BILL NO. HB0079
+Prescriptive easement for water conveyance-attorney fees.
+Sponsored by: Select Water Committee
+A BILL
+for
+1 AN ACT relating to property; authorizing attorney fees and
+2 expert witness fees for actions related to prescriptive
+3 easements as specified; clarifying the time period for a
+4 prescriptive easement; specifying applicability; and
+5 providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 34-1-158(a)(intro) and by creating a
+10 new subsection (g) is amended to read:
+11
+12 34-1-158. Prescriptive easement for water conveyance.
+13
+14 (a) A prescriptive easement for a water conveyance
+15 may be established if a water user has used and maintained
+1 HB0079
+
+2026 STATE OF WYOMING 26LSO-0182
+1 a water conveyance under a claim of right for a period of
+2 not less than ten (10) years during which the use has been:
+3
+4 (g) In any action to enforce a prescriptive easement
+5 established under this section or to challenge the
+6 existence or exercise of a prescriptive easement asserted
+7 under this section, the court may award reasonable attorney
+8 fees and expert witness fees to the party who substantially
+9 prevailed in the action.
+10
+11 Section 2. This act shall apply to any action brought
+12 on or after July 1, 2026.
+13
+14 Section 3. This act is effective July 1, 2026.
+15
+16 (END)
+2 HB0079

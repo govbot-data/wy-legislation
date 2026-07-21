@@ -1,0 +1,223 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0361
+HOUSE BILL NO. HB0155
+Sales and use tax exemptions-reporting requirements.
+Sponsored by: Representative(s) Brown, G, Campbell, K,
+Guggenmos, Hoeft, Locke, Riggins and Styvar
+and Senator(s) Hutchings and Laursen, D
+A BILL
+for
+1 AN ACT relating to taxation and revenue; specifying
+2 reporting requirements for taxpayers who claim sales tax
+3 and use tax exemptions; authorizing the imposition of fees
+4 as specified; requiring reporting; specifying
+5 applicability; and providing for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 39-15-105 by creating new subsections
+10 (c) and (d) and 39-16-105 by creating new subsections (c)
+11 and (d) are amended to read:
+12
+13 39-15-105. Exemptions; reporting.
+14
+1 HB0155
+
+2026 STATE OF WYOMING 26LSO-0361
+1 (c) Each taxpayer paying sales tax under this article
+2 that claims one (1) or more of the exemptions provided in
+3 W.S. 39-15-105(a)(iii)(A), (E), (F) or (G), (vi)(C),
+4 (vii)(A) or (B), (viii)(A), (B), (F), (G), (J), (O), (P),
+5 (R) or (S) in any one (1) calendar year shall submit a
+6 report to the department in accordance with all of the
+7 following:
+8
+9 (i) A report shall be required only of any
+10 taxpayer who claims one (1) or more of the exemptions
+11 specified in this subsection in an amount not less than two
+12 hundred fifty thousand dollars ($250,000.00) of sales tax
+13 exempted in the applicable year;
+14
+15 (ii) The report shall contain the following
+16 information:
+17
+18 (A) The amount of sales tax the taxpayer
+19 collected from customers at all Wyoming locations during
+20 the preceding year, if the taxpayer is a vendor;
+21
+2 HB0155
+
+2026 STATE OF WYOMING 26LSO-0361
+1 (B) The amount of sales tax paid by the
+2 taxpayer directly to Wyoming vendors or to the department
+3 in the preceding year;
+4
+5 (C) The amount of sales tax forgone as a
+6 result of the exemptions claimed by the taxpayer in the
+7 preceding year, if the purchase was otherwise subject to
+8 taxation;
+9
+10 (D) The amount of ad valorem taxes the
+11 taxpayer paid in Wyoming in the preceding year;
+12
+13 (E) The total number of full-time and
+14 part-time Wyoming employees employed by the taxpayer, the
+15 average wage and benefit amount for each full-time employee
+16 and the average wage and benefit amount for each part-time
+17 employee employed by the taxpayer in the preceding year.
+18 For purposes of this subparagraph, the report shall
+19 identify the number of employees reported under this
+20 subparagraph that both work and reside in Wyoming.
+21 Information reported under this subparagraph shall be
+22 reported in the aggregate without reference to or
+3 HB0155
+
+2026 STATE OF WYOMING 26LSO-0361
+1 identification of the personally identifiable information
+2 of any one (1) employee or person.
+3
+4 (iii) A taxpayer who claims both sales and use
+5 tax exemptions and is required to report under this
+6 subsection and W.S. 39-16-105(c) shall submit all of the
+7 information required in this subsection and W.S.
+8 39-16-105(c) in one (1) report to the department;
+9
+10 (iv) Each taxpayer required to report under this
+11 subsection shall submit the report to the department not
+12 later than February 1 of the year immediately following the
+13 calendar year in which the taxpayer took the exemptions
+14 specified in this subsection;
+15
+16 (v) A taxpayer required to report under this
+17 subsection who does not submit the report by the date
+18 specified in paragraph (iv) of this subsection shall:
+19
+20 (A) Pay the difference in sales tax for the
+21 preceding year that would have been required had the
+22 taxpayer not claimed the exemptions specified in this
+4 HB0155
+
+2026 STATE OF WYOMING 26LSO-0361
+1 subsection, plus any interest and penalty applicable under
+2 W.S. 39-15-108; and
+3
+4 (B) Be ineligible to claim any of the
+5 exemptions specified in this subsection for the current
+6 year in which a report was due but not submitted by the
+7 date specified in paragraph (iv) of this subsection.
+8
+9 (d) Not later than August 1, 2027 and each August 1
+10 thereafter, the department shall report to the joint
+11 revenue interim committee on the reports submitted under
+12 this subsection. The report shall include, in the
+13 aggregate, the information provided by each taxpayer under
+14 paragraph (ii) of this subsection.
+15
+16 39-16-105. Exemptions; reporting.
+17
+18 (c) Each person paying use tax under this article
+19 that claims one (1) or more of the exemptions provided in
+20 W.S. 39-16-105(a)(iii)(A) or (C), (vi)(C), (viii)(A), (B),
+21 (D), (E), (G) or (H) in any one (1) year shall submit a
+22 report to the department in accordance with all of the
+23 following:
+5 HB0155
+
+2026 STATE OF WYOMING 26LSO-0361
+1
+2 (i) A report shall be required only of any
+3 taxpayer who claims one (1) or more of the exemptions
+4 specified in this subsection in an amount not less than two
+5 hundred fifty thousand dollars ($250,000.00) of use tax
+6 exempted in the applicable year;
+7
+8 (ii) The report shall contain the following
+9 information:
+10
+11 (A) The amount of use tax the taxpayer
+12 collected from customers at all Wyoming locations during
+13 the preceding year, if the taxpayer is a vendor;
+14
+15 (B) The amount of use tax paid by the
+16 taxpayer directly to Wyoming vendors or to the department
+17 in the preceding year;
+18
+19 (C) The amount of use tax forgone as a
+20 result of the exemptions claimed by the taxpayer in the
+21 preceding year, if the purchase was otherwise subject to
+22 taxation;
+23
+6 HB0155
+
+2026 STATE OF WYOMING 26LSO-0361
+1 (D) The amount of ad valorem taxes the
+2 taxpayer paid in Wyoming in the preceding year;
+3
+4 (E) The total number of full-time and
+5 part-time Wyoming employees employed by the taxpayer, the
+6 average wage and benefit amount for each full-time employee
+7 and the average wage and benefit amount for each part-time
+8 employee employed by the taxpayer in the preceding year.
+9 For purposes of this subparagraph, the report shall
+10 identify the number of employees reported under this
+11 subparagraph that both work and reside in Wyoming.
+12 Information reported under this subparagraph shall be
+13 reported in the aggregate without reference to or
+14 identification of the personally identifiable information
+15 of any one (1) employee or person.
+16
+17 (iii) A taxpayer who claims both sales and use
+18 tax exemptions and is required to report under this
+19 subsection and W.S. 39-15-105(c) shall submit all of the
+20 information required in this subsection and W.S.
+21 39-15-105(c) in one (1) report to the department;
+22
+7 HB0155
+
+2026 STATE OF WYOMING 26LSO-0361
+1 (iv) Each taxpayer required to report under this
+2 subsection shall submit the report to the department not
+3 later than February 1 of the year immediately following the
+4 calendar year in which the taxpayer took the exemptions
+5 specified in this subsection;
+6
+7 (v) A taxpayer required to report under this
+8 subsection who does not submit the report by the date
+9 specified in paragraph (iv) of this subsection shall:
+10
+11 (A) Pay the difference in use tax for the
+12 preceding year that would have been required had the
+13 taxpayer not claimed the exemptions specified in this
+14 subsection, plus any interest and penalty applicable under
+15 W.S. 39-16-108; and
+16
+17 (B) Be ineligible to claim any of the
+18 exemptions specified in this subsection for the current
+19 year in which a report was due but not submitted by the
+20 date specified in paragraph (iv) of this subsection.
+21
+22 (d) Not later than August 1, 2027 and each August 1
+23 thereafter, the department shall report to the joint
+8 HB0155
+
+2026 STATE OF WYOMING 26LSO-0361
+1 revenue interim committee on the reports submitted under
+2 this subsection. The report shall include, in the
+3 aggregate, the information provided by each taxpayer under
+4 paragraph (ii) of this subsection.
+5
+6 Section 2. This act shall apply to all taxpayers
+7 claiming the exemptions specified in section 1 of this act
+8 beginning with the 2026 calendar year.
+9
+10 Section 3. This act is effective July 1, 2026.
+11
+12 (END)
+9 HB0155

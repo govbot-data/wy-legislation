@@ -1,0 +1,2085 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0488
+HOUSE BILL NO. HB0160
+Digital Taxonomy Act.
+Sponsored by: Representative(s) Singh
+A BILL
+for
+1 AN ACT relating to distributed ledger digital assets and
+2 sealed tokens; establishing the classification of digital
+3 assets as specified; creating a sealed scope hierarchy and
+4 multi-aspect analytical framework for digital assets;
+5 establishing jurisdictional nexus and lex situs
+6 requirements for keyholders and digital assets; providing
+7 for the characterization of digital assets; providing
+8 definitions; providing legislative findings; specifying
+9 applicability; and providing for an effective date.
+10
+11 Be It Enacted by the Legislature of the State of Wyoming:
+12
+13 Section 1. W.S. 43-1-101 through 43-3-201 are created
+14 to read:
+15
+16 TITLE 43
+1 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 DISTRIBUTED LEDGER DIGITAL ASSETS AND SEALED TOKENS
+2
+3 CHAPTER 1
+4 GENERAL PROVISIONS
+5
+6 ARTICLE 1
+7 DEFINITIONS AND CONSTRUCTION OF DEFINITIONS
+8
+9 43-1-101. Definitions.
+10
+11 (a) As used in this title:
+12
+13 (i) "Analytically prior" means a state where the
+14 legal or technical characterization of one (1) object or
+15 event logically precedes and constitutes a necessary
+16 condition for the characterization of a subsequent object
+17 or event;
+18
+19 (ii) "Associated sealed token" means a token
+20 that does not constitute a sealed token but is connected to
+21 a sealed token through a distributed ledger transaction
+22 designated through a distributed ledger protocol or another
+23 protocol;
+2 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (iii) "Computational corpus" means the
+3 collection of distributed ledger records and distributed
+4 ledger protocol parameters representing the legal
+5 characterization that computational indicia may evidence
+6 with respect to a digital asset or token;
+7
+8 (iv) "Computational indicia" means discrete
+9 data, records or attributes maintained on a distributed
+10 ledger from which a computational corpus may be determined
+11 through characterization under this title;
+12
+13 (v) "Consensus protocol" means the mechanism
+14 through which distributed ledger nodes achieve agreement on
+15 transaction validity, ordering and state transitions to
+16 ensure a consistent ledger state across all nodes without
+17 central coordination;
+18
+19 (vi) "Content identifier" or "CID" means a
+20 digital fingerprint produced from content through
+21 cryptographic hashing methods that serve as an address
+22 reference to retrieve data and provide for non-repudiable
+23 verification of integrity;
+3 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (vii) "Control timestamp" means a temporal
+3 marker produced and validated by a protocol that
+4 establishes the specific moment at which an act of control
+5 occurred over a distributed ledger record;
+6
+7 (viii) "Corpus" means the legal characterization
+8 that indicia may evidence with respect to distributed
+9 ledger digital assets, sealed tokens and tokens, whether or
+10 not legally significant;
+11
+12 (ix) "Decentralized system" means a network of
+13 nodes running a consensus protocol where no single
+14 participant controls transaction validation, state
+15 transitions or governance, with a consistent ledger state
+16 replicated across all nodes;
+17
+18 (x) "Delegation" means the transfer of the
+19 exercise of a governance power from the holder to a
+20 delegate without transferring the underlying governance
+21 token or governance jural relation;
+22
+4 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (xi) "Delegation corpus" means the legal
+2 characterization that a delegation indicia may evidence,
+3 including transferring the exercise of a governance power
+4 from a delegator to a delegate without transferring the
+5 underlying governance token;
+6
+7 (xii) "Delegation indicia" means observable data
+8 from which a delegation corpus may be determined through
+9 characterization under this title. "Delegation indicia"
+10 shall include delegation instructions, delegator and
+11 delegate identifiers, scope fields, duration fields and
+12 revocation records;
+13
+14 (xiii) "Digital asset" means a digital
+15 representation of value, rights, powers or other interests
+16 recorded on a cryptographically secured distributed ledger
+17 that is capable of being transferred, stored or controlled
+18 through cryptographic keys;
+19
+20 (xiv) "Distributed ledger" means technology
+21 through which a shared state remains recorded, synchronized
+22 and maintained across a network in which cryptography and a
+23 consensus protocol verify and finalize state transitions;
+5 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (xv) "Distributed ledger digital asset" means
+3 the aggregate construct of one (1) or more sealed tokens
+4 cryptographically recorded on or referenced by a
+5 distributed ledger across multiple sequential or concurrent
+6 transactions over time;
+7
+8 (xvi) "Distributed ledger protocol" means the
+9 complete specification of rules and mechanisms governing a
+10 distributed ledger system's operation. "Distributed ledger
+11 protocol" shall include a consensus protocol, network
+12 communication, state transition, transaction processing and
+13 execution logic;
+14
+15 (xvii) "Distributed ledger transaction" means a
+16 state transition that is comprised of inputs, outputs and
+17 cryptographic signatures validated by a distributed ledger
+18 protocol and recorded as ledger state upon execution;
+19
+20 (xviii) "Evidentiary corpus" means the fact, res
+21 or jural relation representing the legal characterization
+22 that an evidentiary indicia may evidence, whether
+6 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 maintained on a distributed ledger, in a sealed token or in
+2 any other system;
+3
+4 (xix) "Evidentiary data" means data recorded to
+5 a distributed ledger or distributed ledger protocol that,
+6 together with its subject matter, demonstrates the
+7 existence, integrity and historical sequence of a fact, res
+8 or jural relation;
+9
+10 (xx) "Evidentiary indicia" means distributed
+11 ledger mechanisms by which an evidentiary corpus remains
+12 authenticated and verified. "Evidentiary indicia" shall
+13 include cryptographic signatures, hashes, timestamps,
+14 finality proofs and cryptographic embodiment in a
+15 distributed ledger protocol or sealed token;
+16
+17 (xxi) "Governance disability" means the
+18 correlative absence of a governance power by which a person
+19 remains unable to change the jural relations of an immunity
+20 holder through the exercise of governance mechanisms;
+21
+22 (xxii) "Governance disability corpus" means the
+23 legal characterization that a governance disability indicia
+7 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 may evidence. "Governance disability corpus" shall include
+2 the legal position corresponding to the absence of
+3 governance power by which a person cannot change specified
+4 jural relations;
+5
+6 (xxiii) "Governance disability indicia" means
+7 observable data from which a governance disability corpus
+8 may be determined through characterization under this
+9 title. "Governance disability indicia" shall include
+10 non-voting status, restricted role flags, disabled
+11 permissions, class-based exclusions and protocol rules;
+12
+13 (xxiv) "Governance immunity" means a Hohfeldian
+14 immunity disabling another person from exercising a
+15 governance power to change the holder's jural relations.
+16 "Governance immunity" shall include minority protections,
+17 veto rights, supermajority requirements and charter based
+18 constraints;
+19
+20 (xxv) "Governance immunity corpus" means the
+21 legal characterization that a governance immunity indicia
+22 may evidence. "Governance immunity corpus" shall include
+23 legal protections disabling another person from exercising
+8 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 a governance power to change the holder's governance jural
+2 relations or charter based constraints;
+3
+4 (xxvi) "Governance immunity indicia" means
+5 observable data from which a governance immunity corpus may
+6 be determined through characterization under this title.
+7 "Governance immunity indicia" shall include special class
+8 designations, protective provisions, veto flags,
+9 supermajority thresholds and immunity clauses;
+10
+11 (xxvii) "Governance jural relation" means a
+12 jural relation pertaining to collective decision-making for
+13 a distributed ledger digital asset, protocol or
+14 organization. "Governance jural relation" shall include
+15 powers, liabilities, immunities and disabilities exercised
+16 through governance mechanisms;
+17
+18 (xxviii) "Governance jural relation corpus"
+19 means the legal characterization that a governance jural
+20 relation may evidence. "Governance jural relation corpus"
+21 shall include governance powers, governance liabilities,
+22 governance immunities and governance disabilities attaching
+9 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 to a specified res, interests or roles within an
+2 organization;
+3
+4 (xxix) "Governance jural relation indicia" means
+5 observable data from which a governance jural relation
+6 corpus may be determined through characterization under
+7 this title. "Governance jural relation indicia" shall
+8 include token balances, voting records, delegation records
+9 and governing instrument references;
+10
+11 (xxx) "Governance liability" means the
+12 correlative liability of a person or protocol to have the
+13 person or protocol's jural relations changed by the
+14 exercise of a governance power, without the person's
+15 consent to the specific change;
+16
+17 (xxxi) "Governance liability corpus" means the
+18 legal characterization that a governance liability indicia
+19 may evidence. "Governance liability corpus" shall include
+20 the legal position of a person subject to changes in
+21 governance jural relations through the exercise of
+22 governance power;
+23
+10 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (xxxii) "Governance liability indica" means
+2 observable data from which a governance liability corpus
+3 may be determined through characterization under this
+4 title. "Governance liability indicia" shall include
+5 membership records, token holdings, role designations and
+6 protocol rules identifying the parties that are bound by
+7 the rules;
+8
+9 (xxxiii) "Governance power" means a Hohfeldian
+10 power held by a person to participate in collective
+11 decision-making. "Governance power" shall include voting,
+12 proposal, delegation or veto power by which the holder may
+13 unilaterally or collectively change jural relations;
+14
+15 (xxxiv) "Governance power corpus" means the
+16 legal characterization that a governance power indicia may
+17 evidence. "Governance power corpus" shall include the legal
+18 capacity of a person to change governance jural relations
+19 of other persons, organizations or protocols through
+20 governance mechanisms;
+21
+22 (xxxv) "Governance power indicia" means
+23 observable data from which a governance power corpus may be
+11 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 determined through characterization under this title.
+2 "Governance power indicia" shall include token-weighted
+3 mappings, role assignments, access controls, delegation
+4 records and protocol-specified permissions;
+5
+6 (xxxvi) "Governance token" means a sealed token
+7 or distributed ledger digital asset representing one (1) or
+8 more governance jural relations defined by a protocol,
+9 including governance powers, governance liabilities,
+10 governance immunities or governance disabilities;
+11
+12 (xxxvii) "Governance token corpus" means the
+13 legal characterization that a governance token indicia may
+14 evidence. "Governance token corpus" shall include the
+15 bundle of governance jural relations represented by a token
+16 associated with holding, delegating or disposing of that
+17 token;
+18
+19 (xxxviii) "Governance token indicia" means
+20 observable data from which a governance token corpus may be
+21 determined through characterization under this title.
+22 "Governance token indicia" shall include token balances,
+12 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 classes, role mappings, delegation records, vesting status
+2 and protocol logic;
+3
+4 (xxxix) "Governing instrument" means the
+5 articles of organization, bylaws, protocol rules or smart
+6 contract code defining the governance jural relations,
+7 governance mechanisms and decision-making procedures
+8 applicable to a distributed legal digital asset;
+9
+10 (xl) "Governing instrument corpus" means the
+11 legal characterization that a governing instrument indicia
+12 may evidence. "Governing instrument corpus" shall include
+13 the composite legal framework, governance jural relations
+14 and decision-making procedures established by a governing
+15 instrument;
+16
+17 (xli) "Governing instrument indicia" means
+18 observable data from which a governing instrument corpus
+19 may be determined through characterization under this
+20 title. "Governing instrument indicia" shall include
+21 recorded charters, bylaws, protocol rules, smart contract
+22 code and amendment records;
+23
+13 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (xlii) "Indicia" means observable data, records
+2 or attributes recorded on or referenced by a distributed
+3 ledger without regard to legal effect from which a corpus
+4 may be determined through characterization under this
+5 title;
+6
+7 (xliii) "Indicia corpus characterization" means
+8 the determination of observable indicia on a distributed
+9 ledger and the legal characterization that such indicia
+10 evidence with respect to distributed ledger digital assets
+11 and sealed tokens;
+12
+13 (xliv) "Jural relation" means a legal relation
+14 between parties consisting of correlative pairs. "Jural
+15 relation" shall include rights, duties, privileges, power,
+16 liabilities, immunities, disabilities and defining the
+17 positions of power;
+18
+19 (xlv) "Keyholder" means a person possessing the
+20 power to control a private key for the purposes of
+21 generating a cryptographic signature or otherwise
+22 exercising control over a distributed ledger record;
+23
+14 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (xlvi) "Keyholder corpus" means the collection
+2 of cryptographic relationships and control capacities
+3 representing the legal characterization that a keyholder
+4 indicia may evidence with respect to a public address or
+5 distributed ledger transaction;
+6
+7 (xlvii) "Keyholder indicia" means verifiable
+8 evidence establishing keyholder control, including valid
+9 cryptographic signatures and address signifiers from which
+10 a keyholder corpus may be determined through
+11 characterization under this title;
+12
+13 (xlviii) "Lex authenticandi" means the law of
+14 authentication consisting of rules, protocols and standards
+15 governing the verification of cryptographic signatures and
+16 the attribution of acts within a distributed ledger system;
+17
+18 (xlix) "Lex situs" means the doctrine under
+19 which the law of the jurisdiction where property remains
+20 situated governs the property rights and interests in such
+21 property;
+22
+15 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (l) "Lex specialis" means a doctrine of
+2 construction under which a provision governing specific
+3 subject matter shall prevail over a general provision,
+4 while permitting concurrent application of multiple legal
+5 regimes;
+6
+7 (li) "Miner" means a node performing
+8 computational work to propose blocks and validate
+9 transactions according to a consensus protocol and maintain
+10 state agreement which may receive protocol defined rewards;
+11
+12 (lii) "Multi-aspect analysis" means an
+13 examination of digital assets and sealed tokens to identify
+14 jurisdictional nexus and simultaneously applicable legal
+15 regimes, coordinating subject matter characterization and
+16 indicia corpus characterization;
+17
+18 (liii) "Node" means any hardware or software
+19 arrangement communicating across a network to validate
+20 transactions, participate in consensus, maintain data state
+21 or provide network access that comprises participants,
+22 keyholders and service providers;
+23
+16 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (liv) "Oracle data" means attestation data
+2 encoding, supplying or updating an evidentiary corpus as an
+3 input to a protocol, smart contract or distributed ledger
+4 digital asset, including data changing over time such as
+5 market prices or operational signals;
+6
+7 (lv) "Oracle corpus" means the legal
+8 characterization that an oracle indicia may evidence.
+9 "Oracle corpus" shall include facts, res, jural relations
+10 or state conditions used as inputs to protocols, smart
+11 contracts or distributed ledger digital assets;
+12
+13 (lvi) "Oracle indicia" means observable data,
+14 records or attributes from which an oracle corpus may be
+15 determined through characterization under this title.
+16 "Oracle indicia" shall include source attestations,
+17 cryptographic signatures, cryptographic hashes, timestamps
+18 and finality proofs;
+19
+20 (lvii) "Participant" means any person
+21 transacting on, operating or using distributed ledger
+22 infrastructure or maintaining any jural relation with a
+17 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 digital asset, including the custody, control or beneficial
+2 ownership of a digital asset;
+3
+4 (lviii) "Programmable unit" means a token
+5 executing pursuant to encoded instructions, protocol logic
+6 or smart contract logic recorded on a distributed ledger
+7 and capable of implementing automated state transitions;
+8
+9 (lix) "Proposal" means a governance action
+10 submitted for consideration under a governance mechanism,
+11 the approval or rejection of which may create, modify or
+12 extinguish jural relations among persons, organizations or
+13 protocols;
+14
+15 (lx) "Proposal corpus" means the legal
+16 characterization that a proposal indicia may evidence.
+17 "Proposal corpus" shall include specific changes to
+18 governance jural relations, protocol parameters or
+19 organizational actions submitted for a decision under
+20 governance mechanisms;
+21
+22 (lxi) "Proposal indicia" means observable data
+23 from which a proposal corpus may be determined through
+18 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 characterization under this title. "Proposal indicia" shall
+2 include proposal texts, identifiers, metadata, sponsoring
+3 addresses, submission timestamps and protocol code links;
+4
+5 (lxii) "Protocol" means a specification of
+6 format, computational logic and control that is independent
+7 of any programming language, deployed on or applied to the
+8 operations of a distributed ledger. "Protocol" shall
+9 include binary or text formats;
+10
+11 (lxiii) "Protocol and smart contract
+12 characterization" means the determination of computational
+13 elements by creating entries on a distributed ledger that
+14 underlies the subject matter characterization and indicia
+15 corpus characterization of digital assets;
+16
+17 (lxix) "Protocol and smart contract corpus"
+18 means token data and distributed ledger content
+19 representing the legal characterization that protocol and
+20 smart contract indicia may evidence with respect to digital
+21 assets;
+22
+19 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (lxx) "Protocol and smart contract indicia"
+2 means token data indicia and distributed ledger indicia
+3 from which a protocol and a smart contract corpus may be
+4 determined through characterization under this title;
+5
+6 (lxxi) "Protocol rules" means the machine
+7 executable system enforced rules of a distributed ledger
+8 consisting of protocol specification, smart contract code
+9 and validation mechanisms that govern transaction
+10 processing;
+11
+12 (lxxii) "Quorum" means the minimum participation
+13 threshold required for a governance action to have legal
+14 effect as defined by the governing instrument, protocol or
+15 smart contract that governs a distributed ledger digital
+16 asset;
+17
+18 (lxxiii) "Quorum corpus" means the legal
+19 characterization that a quorum indicia may evidence.
+20 "Quorum corpus" shall include the legal condition in which
+21 participation in a governance action satisfies the minimum
+22 threshold required for that governance action to carry
+23 effect;
+20 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (lxxiv) "Quorum indicia" means observable data
+3 from which a quorum corpus may be determined through
+4 characterization under this title. "Quorum indicia" shall
+5 include participation counts, voting weight aggregates,
+6 threshold parameters, snapshot data and threshold
+7 attestations;
+8
+9 (lxxv) "Res" means the thing, interest or
+10 subject matter that is identified through subject matter
+11 characterization to which jural relations, property rights
+12 or other legal consequences may attach through operation of
+13 the law;
+14
+15 (lxxvi) "Sealed instrument" means a sealed token
+16 classified under this title as a bearer, registered,
+17 claims, fiduciary or proprietary instrument that evidences
+18 a sealed controllable electronic record and associated
+19 jural relations;
+20
+21 (lxxvii) "Sealed instrument corpus" means the
+22 legal characterization, transfer mechanics and jural
+23 relations that represents the legal characterization that a
+21 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 sealed instrument indicia may evidence with respect to
+2 instruments classified under this title;
+3
+4 (lxxviii) "Sealed instrument indicia" means
+5 observable data, records or attributes relating to bearer,
+6 registered, claims, fiduciary or proprietary instruments
+7 from which a sealed instrument corpus may be determined
+8 through characterization under this title;
+9
+10 (lxxix) "Sealed interest" means a substantive
+11 legal consequence created, transferred or modified by a
+12 transaction that is evidenced by a sealed instrument,
+13 including ownership, contractual or security interests that
+14 embodies jural relations;
+15
+16 (lxxx) "Sealed interest corpus" means the
+17 collection of ownership, contractual or jural relations
+18 representing the legal characterization that a sealed
+19 interest indicia may evidence with respect to digital
+20 assets and sealed tokens;
+21
+22 (lxxxi) "Sealed interest indicia" means
+23 observable data, records or attributes from which a sealed
+22 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 interest corpus may be determined through characterization
+2 under this title. "Sealed interest indicia" shall include
+3 sealed instrument indicia and jural relations indicia;
+4
+5 (lxxxii) "Sealed jurisdictional nexus" means the
+6 juridical connection between a keyholder and Wyoming that
+7 arises from qualifying conditions sufficient to deem a
+8 transaction situated in Wyoming for purposes of lex situs;
+9
+10 (lxxxiii) "Sealed jurisdictional nexus corpus"
+11 means the collection of juridical relationships and
+12 keyholder conditions that represents the legal
+13 characterization that a sealed jurisdictional nexus indicia
+14 may evidence with respect to digital assets;
+15
+16 (lxxxiv) "Sealed jurisdictional nexus indicia"
+17 means verifiable evidence establishing a sealed
+18 jurisdictional nexus from which a sealed jurisdictional
+19 corpus may be determined through characterization under
+20 this title;
+21
+22 (lxxxv) "Sealed keyholder" means a keyholder
+23 establishing a sealed jurisdictional nexus to Wyoming and a
+23 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 sealed keyholder lex situs with respect to a digital asset
+2 or sealed token through qualifying conditions;
+3
+4 (lxxxvi) "Sealed keyholder lex situs" means the
+5 jurisdictional anchor to Wyoming arising from the
+6 cryptographic relationship, signing authority and nexus
+7 factors of a sealed keyholder under this title;
+8
+9 (lxxxvii) "Sealed keyholder lex situs corpus"
+10 means the collection of cryptographic relationships and
+11 signing authorities representing the legal characterization
+12 that a sealed keyholder lex situs indicia may evidence as
+13 intangible property;
+14
+15 (lxxxviii) "Sealed keyholder lex situs indicia"
+16 means verifiable evidence establishing a jurisdictional
+17 anchor to Wyoming from which a sealed keyholder lex situs
+18 corpus may be determined through characterization under
+19 this title;
+20
+21 (lxxxix) "Sealed token" means a digital asset
+22 possessing a sealed jurisdictional nexus and lex situs in
+24 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 Wyoming independent of subject matter through at least one
+2 (1) sealed keyholder or sealed token protocol;
+3
+4 (xc) "Sealed token data" means evidentiary data
+5 and descriptive data recorded on or referenced by a
+6 distributed ledger, potentially recorded without legal
+7 effect, that constitutes subject matter distinct from
+8 sealed token situs;
+9
+10 (xci) "Signifier" means the public address or
+11 wallet address corresponding to a public key recorded
+12 within a distributed ledger transaction to identify the
+13 locus of signing authority;
+14
+15 (xcii) "Smart contract" means a self-executing
+16 computer program deployed on a distributed ledger
+17 executing, controlling or documenting events according to
+18 predetermined conditions, whether or not such code
+19 implements a protocol;
+20
+21 (xciii) "State transition" means changes from one
+22 (1) recorded state to another state of a distributed ledger
+25 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 or token that reflects the updates to balances, rights or
+2 data under consensus protocol or rules;
+3
+4 (xciv) "Subject matter characterization" means
+5 the determination of the composite legal package attaching
+6 to digital assets. "Subject matter characterization" shall
+7 include res, jural relations, incidents of ownership and
+8 data maintained on a distributed ledger;
+9
+10 (xcv) "Subject matter corpus" means the
+11 collection of property interests and jural relations
+12 representing the legal characterization that a subject
+13 matter indicia may evidence with respect to distributed
+14 ledger digital assets;
+15
+16 (xcvi) "Subject matter indicia" means data,
+17 records or attributes on a distributed ledger from which a
+18 subject matter corpus may be determined through
+19 characterization under this title;
+20
+21 (xcvii) "Subject matter lex situs" means the
+22 jurisdictional anchor based on the nature, classification
+26 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 or location of an object of legal right and all jural
+2 relations that comprise such subject matter;
+3
+4 (xcviii) "Subject matter lex situs corpus" means
+5 the collection of legal attributes and jural relations
+6 representing the legal characterization that a subject
+7 matter lex situs indicia may evidence;
+8
+9 (xcix) "Subject matter lex situs indicia" means
+10 data, records, markers or legal instruments that identifies
+11 the subject matter from which a subject matter lex situs
+12 corpus may be determined under this title;
+13
+14 (c) "Token" means a fungible or non-fungible digital
+15 representation of data, value, rights or evidence recorded
+16 on a distributed ledger, with or without legal effect,
+17 including cryptocurrencies or programmable units;
+18
+19 (ci) "Token protocol" means an autonomous,
+20 self-executing protocol or smart contract defining token
+21 behavior and transfer rules deployed to a distributed
+22 ledger consisting of a collection of protocol values and
+23 data;
+27 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (cii) "Token protocol corpus" means the
+3 collection of executable logic and behavioral rules
+4 representing the legal characterization that a token
+5 protocol indicia may evidence with respect to distributed
+6 ledger digital assets;
+7
+8 (ciii) "Token protocol indicia" means data,
+9 records or attributes on a distributed ledger from which a
+10 token protocol corpus may be determined through
+11 characterization under this title;
+12
+13 (civ) "Token type" means a classification of a
+14 token determined by functionality, attributes and transfer
+15 mechanisms specifying the creation, transfer or redemption
+16 of that token's value and data;
+17
+18 (cv) "Transaction corpus" means the collection of
+19 cryptographic validations and state changes representing
+20 the legal characterization that a transaction indicia may
+21 evidence. "Transaction corpus" shall include distributed
+22 ledger digital assets and sealed tokens;
+23
+28 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (cvi) "Transaction indicia" means observable
+2 data, records or attributes from which a transaction corpus
+3 may be determined through characterization under this
+4 title. "Transaction indicia" shall include cryptographic
+5 signatures and finality;
+6
+7 (cvii) "UCC" means the Uniform Commercial Code
+8 under title 34.1 of the Wyoming statutes;
+9
+10 (cviii) "Validator" means a node validating
+11 transactions and ensuring the addition of only valid blocks
+12 or analogous constructs according to a consensus protocol
+13 to maintain ledger integrity;
+14
+15 (cix) "Vote" means the exercise of a governance
+16 power through a distributed ledger transaction, smart
+17 contract transaction or protocol mechanism by which the
+18 holder participates in collective decision-making for a
+19 digital asset;
+20
+21 (cx) "Vote corpus" means the legal
+22 characterization that a vote indicia may evidence,
+23 including the legal effect of exercising a governance power
+29 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 through a vote or proposed changes to governance jural
+2 relations or protocol parameters;
+3
+4 (cxi) "Vote indicia" means observable data from
+5 which a vote corpus may be determined through
+6 characterization under this title. "Vote indicia" shall
+7 include ballot records, transaction calls, signature
+8 records, choice encodings, voting weights and tallies.
+9
+10 43-1-102. Construction of definitions.
+11
+12 (a) The terms sealed keyholder, sealed keyholder lex
+13 situs, sealed jurisdictional nexus and sealed token shall
+14 be construed as components of an integrated jurisdictional
+15 framework.
+16
+17 (b) The terms consensus protocol, decentralized
+18 system, distributed ledger, miner, node, participant and
+19 validator shall be construed as components of integrated
+20 distributed ledger technology.
+21
+22 (c) The terms in subsections (a) and (b) of this
+23 section are intentionally interdependent and shall be
+30 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 construed as a unified whole. A court shall not hold any
+2 terms in subsections (a) and (b) of this section as void
+3 for circularity, ambiguity or vagueness solely because the
+4 term references another term defined in this title.
+5
+6 ARTICLE 2
+7 PURPOSE, SCOPE AND APPLICABILITY
+8
+9 43-1-201. Legislative findings.
+10
+11 (a) The legislature finds that:
+12
+13 (i) Digital assets recorded on distributed
+14 ledgers possess distinct legal characteristics requiring
+15 scope and interpretation rules different from digital
+16 assets that are not recorded;
+17
+18 (ii) Distributed ledger and token architectures
+19 require two interdependent asset class designations:
+20
+21 (A) Distributed ledger digital assets; and
+22
+23 (B) Sealed tokens.
+31 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (iii) A sealed token cannot exist without the
+3 distributed ledger digital asset existing across multiple
+4 sequential transactions and a distributed ledger digital
+5 asset requires sealed tokens for scope and interpretive
+6 analysis of legal effects inherent to distributed ledgers
+7 and token implementation;
+8
+9 (iv) Digital assets on distributed ledgers
+10 require multi-aspect analysis examining property,
+11 commercial law, jurisdictional nexus and other legal
+12 dimensions simultaneously;
+13
+14 (v) A single digital asset may have multiple lex
+15 situs and multiple lex specialis applied to different
+16 aspects, analogous to multiple regimes, including those
+17 provided in the UCC;
+18
+19 (vi) Traditional single-situs and single-regime
+20 analysis cannot adequately address digital assets existing
+21 simultaneously across multiple nodes, jurisdictions and
+22 legal frameworks;
+23
+32 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (vii) Digital asset implementations do not fall
+2 into discrete legal categories, requiring designation of
+3 sealed instruments, sealed tokens and sealed jural
+4 relations to address hybrid and composite legal
+5 characteristics.
+6
+7 43-1-202. Purpose.
+8
+9 (a) The purposes of this title are to:
+10
+11 (i) Establish a sealed token framework
+12 recognizing the distinct and interdependent nature of
+13 distributed ledger digital assets and sealed tokens;
+14
+15 (ii) Provide designation of sealed instruments,
+16 sealed tokens and sealed jural relations to address digital
+17 assets exhibiting characteristics across multiple legal
+18 categories;
+19
+20 (iii) Provide an analysis framework of corpus
+21 and indicia for interpretation of digital assets having
+22 non-standard legal forms;
+23
+33 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (iv) Provide both classification of designated
+2 digital assets and an analysis framework for token
+3 classification through interpretation of functionality and
+4 legal effects;
+5
+6 (v) Provide scope and interpretation rules
+7 accommodating multi-aspect, multi-situs and multi-regime
+8 analysis;
+9
+10 (vi) Provide legal clarity for courts, agencies,
+11 auditors and administrators;
+12
+13 (vii) Promote legal certainty and predictability
+14 for digital asset property rights and commercial
+15 transactions;
+16
+17 (viii) Establish Wyoming as a jurisdiction
+18 providing sophisticated legal treatment of distributed
+19 ledger technologies.
+20
+21 43-1-203. General scope and applicability.
+22
+34 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (a) This title shall apply to digital assets that
+2 operate on or through a distributed ledger system.
+3
+4 (b) This title shall designate and classify digital
+5 assets cryptographically recorded on a distributed ledger
+6 as distributed ledger digital assets and sealed tokens and
+7 shall govern the classification, rights, interests,
+8 obligations and jural relations associated with such assets
+9 and token data.
+10
+11 (c) This title shall apply to all assets and data
+12 recorded on or referenced by a distributed ledger, whether
+13 or not such assets or data carries legal effect.
+14
+15 (d) This title shall provide the interpretive
+16 framework to determine the scope, applicability and legal
+17 effect of the assets and data.
+18
+19 (e) This title shall establish lex situs and nexus in
+20 Wyoming for keyholders as provided under W.S. 43-1-302.
+21
+22 (f) The scope of a distributed ledger digital asset
+23 or sealed token shall be characterized simultaneously by
+35 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 the distributed ledger digital asset or sealed token's
+2 record on the distributed ledger and by the
+3 characterization of the distributed ledger digital asset or
+4 sealed token's subject matter. Each distributed ledger
+5 digital asset and sealed token shall have different scope
+6 determinations, lex situs and applicable regimes of law.
+7
+8 (g) Distributed ledger digital assets and sealed
+9 tokens shall be classified according to the token
+10 classifications and token taxonomies established throughout
+11 this title.
+12
+13 (h) The relationship between this title and title 34,
+14 chapter 29 of the Wyoming statutes shall be as provided
+15 under W.S. 43-1-211.
+16
+17 (j) The relationship between this title and the UCC
+18 and other applicable law shall be as provided under W.S.
+19 43-1-211 and article 3 of this chapter.
+20
+21 (k) The scope provisions of this section shall be
+22 subordinate to:
+23
+36 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (i) The sealed scope hierarchy established under
+2 W.S. 43-1-204 through 43-1-209;
+3
+4 (ii) The multi-aspect framework established
+5 under W.S. 43-1-210.
+6
+7 (m) The sealed scope hierarchy established under W.S.
+8 43-1-204 through 43-1-209 shall control all scope
+9 determinations under this title. The multi-aspect framework
+10 under W.S. 43-1-210 shall supplement the sealed scope
+11 hierarchy for all scope and interpretive analysis under
+12 this title.
+13
+14 (n) Where this section conflicts with the sealed
+15 scope hierarchy under W.S. 43-1-204 through 43-1-209 or the
+16 multi-aspect framework under W.S. 43-1-210, the sealed
+17 scope hierarchy and multi-aspect framework shall control.
+18
+19 43-1-204. Sealed scope hierarchy.
+20
+21 (a) This section shall establish and designate the
+22 sealed scope hierarchy governing the application and
+23 interpretation of all statutes and provisions under this
+37 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 title. The sealed scope hierarchy shall apply in the
+2 following order of precedence:
+3
+4 (i) Statute scope, as provided under W.S.
+5 43-1-205;
+6
+7 (ii) Sealed jurisdictional nexus scope, as
+8 provided under W.S. 43-1-206;
+9
+10 (iii) Distributed-ledger-digital-asset scope, as
+11 provided under W.S. 43-1-207;
+12
+13 (iv) Subject matter scope, as provided under
+14 W.S. 43-1-208;
+15
+16 (v) Legal regime scope, as provided under W.S.
+17 43-1-209.
+18
+19 (b) The sealed scope hierarchy under this section
+20 shall govern courts, agencies, auditors, administrators and
+21 other interpreters in applying this title. Each tier shall
+22 operate as a separate analytical layer and completion of
+38 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 analysis at one (1) tier shall constitute a prerequisite to
+2 analysis at the subsequent tier.
+3
+4 43-1-205. Statute scope.
+5
+6 (a) Statute scope shall provide the threshold
+7 determination of applicable law, including whether this
+8 title, title 34, chapter 29 of the Wyoming statutes, the
+9 UCC or other bodies of law govern a transaction, asset or
+10 relation.
+11
+12 (b) The statute scope analysis shall precede all
+13 other scope determinations under the sealed scope hierarchy
+14 provided by W.S. 43-1-204 through 43-1-209.
+15
+16 43-1-206. Sealed lex situs scope.
+17
+18 (a) The sealed lex situs scope shall provide the
+19 framework to determine:
+20
+21 (i) Whether a digital asset on a distributed
+22 ledger falls within this title;
+23
+39 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (ii) The establishment of lex situs for
+2 jurisdiction in this state over sealed tokens, distributed
+3 ledger digital assets, key holders and other sealed
+4 framework designations;
+5
+6 (iii) The characterization of sealed framework
+7 designations as intangible property for jurisdictional
+8 nexus purposes that shall be separate from subject matter
+9 characterization under W.S. 43-1-208.
+10
+11 43-1-207. Distributed ledger digital asset scope.
+12
+13 (a) The distributed ledger digital asset scope shall
+14 provide the framework to determine the level of
+15 interpretive analysis.
+16
+17 (b) The distributed ledger digital asset scope shall
+18 determine whether classification and interpretation occur
+19 at the level of:
+20
+21 (i) A distributed ledger digital asset,
+22 identifying and classifying multiple tokens across
+40 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 sequential transactions as the same digital asset
+2 construct; or
+3
+4 (ii) An individual token or sealed token
+5 associated with this state.
+6
+7 (c) The distributed ledger digital asset scope shall
+8 include analysis of legal effects arising from execution of
+9 legal instruments, interests or jural relations occurring
+10 over multiple distributed ledger transactions associated
+11 with multiple tokens.
+12
+13 43-1-208. Subject matter scope.
+14
+15 (a) The subject matter scope shall provide the
+16 framework to:
+17
+18 (i) Determine the classification of distributed
+19 ledger digital assets and sealed tokens by identifying the
+20 legal characterization that an indicia may evidence as a
+21 corpus;
+22
+41 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (ii) Conduct a multi-aspect analysis, which
+2 shall include the evaluation of functionality, property
+3 interests, res and jural relations;
+4
+5 (iii) Characterize the subject matter or res as
+6 intangible, tangible or real property, which shall proceed
+7 independently of the sealed lex situs characterization
+8 under W.S. 43-1-206(a)(iii).
+9
+10 43-1-209. Legal regime scope.
+11
+12 The legal regime scope shall apply a multi-regime analysis
+13 as provided under W.S. 43-1-301 to determine the applicable
+14 law for each legal dimension of a distributed ledger
+15 digital asset or sealed token established under the subject
+16 matter scope under W.S. 43-1-208.
+17
+18 43-1-210. Multi-aspect framework.
+19
+20 (a) The sealed scope hierarchy established under W.S.
+21 43-1-204 through 43-1-209 shall be supplemented by the
+22 multi-aspect framework for scope and interpretive matters
+23 as provided under provisions of this title.
+42 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (b) The multi-aspect framework shall apply in
+3 addition to the sealed scope hierarchy and shall provide
+4 analytical methodology at each tier of the sealed scope
+5 hierarchy.
+6
+7 (c) The sealed scope hierarchy shall constitute the
+8 threshold analytical sequence within the multi-aspect
+9 framework.
+10
+11 (d) The sealed scope hierarchy shall be applied
+12 strictly and in order as a prerequisite to detailed
+13 multi-aspect analysis under this title.
+14
+15 (e) Each tier of the sealed scope hierarchy shall be
+16 analyzed through the multi-aspect framework provisions of
+17 this title.
+18
+19 43-1-211. Relationship to title 34, chapter 29 of the
+20 Wyoming statutes; applicability.
+21
+22 (a) This title shall govern digital assets recorded
+23 on or referenced by a distributed ledger through
+43 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 cryptographic procedures. Digital assets recorded on or
+2 referenced by a distributed ledger through cryptographic
+3 procedures shall be designated as distributed ledger
+4 digital assets, sealed tokens and the digital assets and
+5 sealed tokens derivatives under this title.
+6
+7 (b) Digital assets governed by this title shall be
+8 excluded from the provisions of title 34, chapter 29 of the
+9 Wyoming statutes except as provided by subsections (d)
+10 through (f) of this section.
+11
+12 (c) Digital assets that are not recorded on or
+13 referenced by a distributed ledger through cryptographic
+14 procedures shall continue to be governed by title 34,
+15 chapter 29 of the Wyoming statutes and this title shall not
+16 apply to those assets.
+17
+18 (d) The securities provisions under title 34, chapter
+19 29 of the Wyoming statutes shall continue to be applicable
+20 and in force and effect as applied to distributed ledger
+21 digital assets, supplemented by this title. Where this
+22 title supplements the securities provisions under title 34,
+44 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 chapter 29 of the Wyoming statutes, this title shall
+2 control.
+3
+4 (e) The currency provisions under title 34, chapter
+5 29 of the Wyoming statutes shall continue to be applicable
+6 and in force and effect as applied to distributed ledger
+7 digital assets, supplemented by this title. Where this
+8 title supplements the currency provisions under title 34,
+9 chapter 29 of the Wyoming statutes, this title shall
+10 control.
+11
+12 (f) The utility token provisions and consumer
+13 protection provisions under title 34, chapter 29 of the
+14 Wyoming statutes as applied to digital assets shall remain
+15 in force and effect and shall be applicable to distributed
+16 ledger digital assets under this title.
+17
+18 ARTICLE 3
+19 GENERAL INTERPRETIVE PROVISIONS
+20
+21 43-1-301. Multi-situs and multi-lex specialis
+22 framework.
+23
+45 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (a) A distributed ledger digital asset or a sealed
+2 token may simultaneously be subject to multiple and
+3 differing lex specialis. Each distributed ledger digital
+4 asset and sealed token shall govern distinct legal aspects
+5 or domains.
+6
+7 (b) A sealed token, sealed instrument or sealed jural
+8 relation may evidence, record or document any interest,
+9 right, obligation or relation cognizable under law.
+10
+11 (c) No limitation in this title shall restrict the
+12 legal regimes applicable to a distributed ledger digital
+13 asset or a sealed token to any enumerated category.
+14
+15 (d) Multiple legal regimes may apply simultaneously
+16 to the same distributed ledger digital asset or sealed
+17 token, including:
+18
+19 (i) Property law;
+20
+21 (ii) Contract law;
+22
+23 (iii) Commercial law under the UCC;
+46 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (iv) Federal and state securities law;
+3
+4 (v) Commodities law;
+5
+6 (vi) Tax law;
+7
+8 (vii) Bankruptcy law;
+9
+10 (viii) Any other specialized statutory or
+11 regulatory regimes.
+12
+13 (e) Multiple UCC articles may apply to a distributed
+14 ledger digital asset and a sealed token as determined by:
+15
+16 (i) The distributed ledger digital asset's
+17 functionality, classification and taxonomy under this
+18 title; and
+19
+20 (ii) The sealed token's functionality,
+21 classification and taxonomy under this title.
+22
+47 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (f) The lex specialis from other bodies of law may
+2 simultaneously apply to the same distributed ledger digital
+3 asset or sealed token according to the legal domain or
+4 subject matter involved. Each applicable lex specialis
+5 shall govern its respective legal domain independently,
+6 without regard to other lex specialis by applying to the
+7 same distributed ledger digital asset or sealed token.
+8
+9 (g) Each applicable lex specialis and choice of law
+10 principle shall operate independently. Courts and
+11 administrators shall engage in a multi-layered legal
+12 analysis rather than collapsing a distributed ledger
+13 digital asset or sealed token into a single legal
+14 characterization.
+15
+16 (h) Distributed ledger digital assets and sealed
+17 tokens under this title shall be characterized by the
+18 simultaneous application of multiple lex situs and multiple
+19 lex specialis. Federal and state regulatory regimes may
+20 apply concurrently to different aspects of the same
+21 distributed ledger digital asset or sealed token. Multiple
+22 state regimes may apply concurrently where jurisdictional
+23 nexus exists under each regime. Simultaneous application of
+48 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 multiple regimes shall not create conflict where each
+2 regime governs a distinct legal dimension established under
+3 the subject matter scope. The simultaneous application of
+4 the doctrine of conflict of laws and the doctrine of choice
+5 of law shall govern the legal characterization and
+6 interpretation of distributed ledger digital assets and
+7 sealed tokens under this title. Application under this
+8 subsection shall be analogous to how the UCC permits
+9 multiple articles to apply concurrently to the same
+10 property or transaction.
+11
+12 (j) The framework established under this title shall
+13 accommodate an analysis under any legal regime, present or
+14 future and shall apply to interests or relations evidenced
+15 through distributed ledger technology.
+16
+17 43-1-302. Sealed lex situs.
+18
+19 (a) A distributed ledger digital asset or sealed
+20 token shall have lex situs scope in this state if a
+21 keyholder having nexus with Wyoming cryptographically signs
+22 or controls such asset or token.
+23
+49 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (b) The sealed lex situs corpus of a distributed
+2 ledger digital asset or sealed token shall constitute
+3 intangible property under Wyoming law. This designation
+4 shall attach to the token by virtue of the cryptographic
+5 signature and keyholder nexus, independent of:
+6
+7 (i) The nature, content or legal effect of any
+8 data or information recorded on or associated with such
+9 token;
+10
+11 (ii) Whether such data or information
+12 constitutes evidentiary information, descriptive
+13 information or information having legal effect under this
+14 title or any other law.
+15
+16 (c) A distributed ledger digital asset or a sealed
+17 token may have:
+18
+19 (i) A sealed lex situs in Wyoming as intangible
+20 property under subsection (b) of this section; and
+21
+22 (ii) A separate lex situs determination under
+23 the subject matter scope for any interest, right,
+50 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 obligation or relation evidenced by the data or information
+2 recorded on or associated with such token.
+3
+4 (d) The sealed lex situs as intangible property under
+5 this section shall exist and have legal force and effect
+6 independent of any legal characterization or effect of the
+7 recorded data or information. The sealed lex situs corpus
+8 shall provide the jurisdictional foundation for application
+9 of this title regardless of whether the recorded
+10 information:
+11
+12 (i) Has immediate legal effect;
+13
+14 (ii) Has potential future legal effect;
+15
+16 (iii) Has no legal effect; or
+17
+18 (iv) Consists solely of evidentiary information
+19 or descriptive information.
+20
+21 (e) For purposes of establishing a sealed lex situs
+22 under this section, a keyholder nexus with this state may
+23 include:
+51 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (i) A domicile or residence in Wyoming;
+3
+4 (ii) An organization or formation under Wyoming
+5 law;
+6
+7 (iii) A registration or qualification under
+8 Wyoming law;
+9
+10 (iv) Any other connections establishing
+11 jurisdiction under Wyoming law;
+12
+13 (v) A nexus established consistent with the
+14 requirements and limitations under the sealed token lex
+15 situs nexus privacy provisions as provided in this title.
+16
+17 (f) A sealed lex situs under this section shall
+18 constitute the jurisdictional predicate for application of
+19 this title. This title shall apply to a distributed ledger
+20 digital asset or a sealed token only where a sealed lex
+21 situs exists under this section.
+22
+52 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 43-1-303. Distributed ledger as an evidentiary
+2 medium.
+3
+4 (a) A distributed ledger may record, evidence,
+5 document or provide descriptive attributes for any
+6 information, data, state, condition, process or transition,
+7 whether or not such information carries legal force and
+8 effect.
+9
+10 (b) Any information recorded on a distributed ledger
+11 may include evidentiary information and descriptive
+12 information, which shall be distinct categories under this
+13 title.
+14
+15 (c) Any recording on a distributed ledger shall not,
+16 by itself:
+17
+18 (i) Establish legal force and effect;
+19
+20 (ii) Create a property interest, contract,
+21 obligation or jural relation; or
+22
+53 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (iii) Require legal classification solely by
+2 virtue of the recording.
+3
+4 (d) Any legal force and effect may arise through
+5 subsequent analysis determining that recorded information
+6 meets applicable standards under a regime of law.
+7
+8 (e) This title shall distinguish between:
+9
+10 (i) The recording function of a distributed
+11 ledger as an evidentiary medium;
+12
+13 (ii) The evidentiary standards applicable to the
+14 recorded information; and
+15
+16 (iii) The legal characterization and effects, if
+17 any, arising from subsequent analysis of the recorded
+18 information.
+19
+20 (f) No court, agency or administrator shall presume
+21 that information recorded on a distributed ledger
+22 constitutes a security, commodity, financial instrument or
+23 other regulated category solely by virtue of the recording
+54 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 or solely by virtue of meeting the evidentiary standards.
+2 The legal characterization of a distributed ledger shall
+3 require analysis of functionality, legal effects and
+4 subject matter under this title.
+5
+6 43-1-304. Categories of recorded information.
+7
+8 (a) Any information recorded on a distributed ledger
+9 may include:
+10
+11 (i) Evidentiary information meeting standards
+12 under this title, which may subsequently support the legal
+13 force and effect upon application of an applicable regime
+14 of law;
+15
+16 (ii) Descriptive information providing
+17 attributes, metadata, state documentation or processual
+18 data;
+19
+20 (iii) Information having immediate legal force
+21 and effect under this title or any other applicable law;
+22
+55 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (iv) Information having potential future legal
+2 effect, including records that may become relevant to legal
+3 proceedings, transactions or determinations.
+4
+5 (b) Any evidentiary information or descriptive
+6 information recorded on a distributed ledger without
+7 immediate legal force and effect may subsequently acquire
+8 legal significance through:
+9
+10 (i) Subsequent determinations that any recorded
+11 information meets evidentiary standards sufficient for
+12 application of a regime of law;
+13
+14 (ii) Later associations with a sealed token or a
+15 sealed jural relation;
+16
+17 (iii) Use as evidence in legal proceedings;
+18
+19 (iv) Incorporations into a transaction or a
+20 legal determination;
+21
+22 (v) Any other circumstances establishing legal
+23 relevance.
+56 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (c) The sealed scope hierarchy under W.S. 43-1-204
+3 through 43-1-209 shall provide the framework for
+4 determining whether and when information recorded on a
+5 distributed ledger constitutes a legal object, carries
+6 legal effect or requires subject matter classification
+7 under this title.
+8
+9 43-1-305. Sealed instrument classification.
+10
+11 (a) Classification of a token as an instrument under
+12 this title shall relate to the transfer mechanism of the
+13 token.
+14
+15 (b) Instrument classification shall apply regardless
+16 of whether the token carries immediate legal force and
+17 effect.
+18
+19 (c) Each token shall have a transfer mechanism
+20 classification under the instrument framework of this title
+21 to provide the foundation for subsequent legal analysis,
+22 including potential treatment under the UCC.
+23
+57 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 43-1-306. Non-repudiation and data integrity.
+2
+3 (a) A distributed ledger shall constitute a permanent
+4 record of transactions, tokens and references to
+5 transactions and tokens. References to transactions and
+6 tokens shall include pointers to data, whether on-ledger or
+7 off-ledger.
+8
+9 (b) The provisions of this title shall govern:
+10
+11 (i) Issues arising when data referenced by a
+12 pointer constitutes mutable or repudiable data;
+13
+14 (ii) Non-repudiable data and verification
+15 standards;
+16
+17 (iii) The relationship between mutable data and
+18 evidentiary information and descriptive information under
+19 this title.
+20
+21 (c) The issues addressed under subsection (b) of this
+22 section shall constitute foundational issues and shall
+23 apply to all legal analysis under this title.
+58 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 43-1-307. Distributed legal effects; multi-aspect
+3 analysis.
+4
+5 (a) Distributed ledger and token implementations
+6 shall not produce legal objects in discrete forms with
+7 distinct legal effects. Legal effects, rights and
+8 obligations arising from distributed ledger systems shall
+9 be fragmented across network nodes, protocol layers and
+10 sequential transactions. Traditional legal methodologies
+11 premised on unitary instruments or single-regime
+12 classification shall be insufficient to address the
+13 technical realities of distributed ledger architectures.
+14
+15 (b) Classifications and characterizations of a
+16 distributed ledger digital asset or a sealed token shall
+17 require multi-aspect analysis as provided under this title.
+18
+19 (c) The following designations under this title shall
+20 provide the framework for rendering distributed legal
+21 effects coherent under Wyoming law:
+22
+23 (i) Distributed ledger digital assets;
+59 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (ii) Sealed tokens;
+3
+4 (iii) Sealed instruments;
+5
+6 (iv) Sealed interests;
+7
+8 (v) Sealed jural relations.
+9
+10 43-1-308. Application of distributed ledger digital
+11 asset scope.
+12
+13 (a) The distributed ledger digital asset scope shall
+14 apply where the operational realities of distributed ledger
+15 systems and token implementation require aggregate analysis
+16 across multiple tokens to provide comprehensive
+17 interpretation of what constitutes a digital asset.
+18
+19 (b) Traditional legal analysis treating a token as a
+20 single discrete unit shall not provide a sufficient basis
+21 for interpretation where a distributed ledger digital asset
+22 arises from multiple distributed ledger transactions
+23 occurring:
+60 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (i) Sequentially;
+3
+4 (ii) Concurrently; or
+5
+6 (iii) Across multiple parties.
+7
+8 CHAPTER 2
+9 SEALED TOKEN LEX SITUS NEXUS PRIVACY PROVISIONS
+10
+11 ARTICLE 1
+12 FOUNDATIONAL ANCHORS AND NEXUS PROPERTY CLASSIFICATIONS
+13
+14 43-2-101. Scope.
+15
+16 (a) This chapter shall provide the threshold
+17 framework for determining the jurisdictional location of
+18 digital assets and the protection of keyholder privacy
+19 under this title.
+20
+21 (b) The provisions of this chapter shall govern the
+22 establishment of Wyoming lex situs for all distributed
+61 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 ledger digital assets and sealed tokens possessing a sealed
+2 jurisdictional nexus to this state.
+3
+4 (c) This chapter shall apply to the forensic
+5 discovery of jurisdictional vectors and the
+6 characterization of computational corpus as intangible
+7 property located in Wyoming.
+8
+9 43-2-102. Construction and interpretation.
+10
+11 (a) The provisions of this chapter shall be construed
+12 to promote technical clarity and legal certainty for
+13 participants exercising control over distributed ledger
+14 records through cryptographic procedures.
+15
+16 (b) The interpretation of jurisdictional nexus shall
+17 prioritize the establishment of a legal environment that
+18 recognizes the distinct characteristics of distributed
+19 ledger technology.
+20
+21 (c) Courts and agencies shall apply the multi-aspect
+22 hierarchy provided under chapter 1 of this title when
+62 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 evaluating computational indicia to identify lex situs
+2 anchors.
+3
+4 43-2-103. Sealed keyholder lex situs; establishment
+5 and designation.
+6
+7 (a) A sealed keyholder shall establish a sealed
+8 keyholder lex situs in Wyoming upon establishment of a
+9 sealed jurisdictional nexus under W.S. 43-2-105 and
+10 attainment of a sealed keyholder status under this chapter.
+11
+12 (b) A sealed keyholder lex situs shall anchor the
+13 sealed keyholder lex situs corpus to Wyoming for all
+14 purposes under Wyoming law, including jurisdiction, choice
+15 of law, perfection, priority and attachment of security
+16 interests.
+17
+18 43-2-104. Sealed keyholder lex situs corpus;
+19 intangible property designation.
+20
+21 (a) The sealed keyholder lex situs corpus shall be
+22 designated as intangible property located in Wyoming.
+23
+63 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (b) The designation under subsection (a) of this
+2 section shall attach automatically upon attainment of a
+3 sealed keyholder status under this chapter and shall
+4 require no additional filing, registration or action by the
+5 sealed keyholder.
+6
+7 (c) The sealed keyholder lex situs corpus designated
+8 as intangible property under subsection (a) of this section
+9 shall include:
+10
+11 (i) The cryptographic relationship between the
+12 private key and its corresponding public key;
+13
+14 (ii) The juridical position of control over one
+15 (1) or more public addresses and associated distributed
+16 ledger records;
+17
+18 (iii) The capacity to generate valid
+19 cryptographic signatures recognized by the applicable
+20 protocol;
+21
+64 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (iv) All jural relations attaching to the sealed
+2 keyholder's control over distributed ledger digital assets
+3 or sealed tokens; and
+4
+5 (v) All rights, powers, privileges and
+6 immunities arising from the sealed keyholder's status under
+7 this title.
+8
+9 (d) For purposes of establishing the jurisdictional
+10 anchor of the sealed keyholder lex situs corpus as a
+11 distinct object of legal right, the sealed keyholder lex
+12 situs corpus shall be deemed to be located in Wyoming.
+13
+14 43-2-105. Sealed keyholder lex situs; sealed
+15 jurisdictional nexus; sealed keyholders.
+16
+17 (a) The laws of this state shall govern the sealed
+18 keyholder lex situs corpus of any distributed ledger
+19 digital asset or sealed token having a sealed
+20 jurisdictional nexus to Wyoming as provided in this
+21 section.
+22
+65 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (b) A sealed jurisdictional nexus to this state shall
+2 exist only when not less than one (1) keyholder of a
+3 distributed ledger digital asset or a sealed token
+4 satisfies one (1) or more of the following conditions:
+5
+6 (i) The keyholder, if a natural person,
+7 maintains a domicile within this state;
+8
+9 (ii) The keyholder, if a legal entity, has been
+10 organized, formed or registered to do business under the
+11 laws of this state;
+12
+13 (iii) The keyholder serves as a custodian or is
+14 licensed, chartered or authorized to conduct business under
+15 the laws of this state; or
+16
+17 (iv) The keyholder operates as a qualified
+18 custodian maintaining its principal place of business
+19 within this state.
+20
+21 (c) A keyholder satisfying any condition enumerated
+22 in subsection (b) of this section shall be designated as a
+23 sealed keyholder with respect to the distributed ledger
+66 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 digital asset or sealed token for which the keyholder has
+2 demonstrated a sealed jurisdictional nexus.
+3
+4 (d) A contractual designation of Wyoming law as the
+5 governing law of a digital asset or token transaction shall
+6 not establish a sealed jurisdictional nexus to this state
+7 absent not less than one (1) sealed keyholder as provided
+8 in subsection (c) of this section.
+9
+10 (e) When no keyholder qualifies as a sealed keyholder
+11 under subsection (c) of this section, no sealed
+12 jurisdictional nexus to this state shall exist and this
+13 title shall not govern the distributed ledger digital asset
+14 or sealed token.
+15
+16 43-2-106. Subject matter lex situs; independent
+17 determination.
+18
+19 (a) A subject matter lex situs shall be determined
+20 independently of a sealed keyholder lex situs and shall
+21 depend upon the nature, classification, location or
+22 governing law of the subject matter itself.
+23
+67 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (b) A subject matter lex situs shall be established
+2 through examination of subject matter lex situs indicia.
+3
+4 (c) Upon determination of a subject matter lex situs,
+5 the law of the determined jurisdiction shall govern the
+6 subject matter lex situs corpus, independent of the law
+7 governing the sealed keyholder lex situs corpus.
+8
+9 43-2-107. Analytical independence of lex situs
+10 anchors.
+11
+12 (a) A sealed keyholder lex situs corpus and a subject
+13 matter lex situs corpus shall constitute distinct
+14 analytical objects requiring independent legal treatment at
+15 separate stages of the analysis.
+16
+17 (b) A sealed token or a distributed ledger digital
+18 asset may simultaneously have:
+19
+20 (i) A sealed keyholder lex situs in Wyoming; and
+21
+68 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (ii) A subject matter lex situs in Wyoming,
+2 another jurisdiction or multiple jurisdictions depending on
+3 the components of the subject matter.
+4
+5 (c) In analyzing a distributed ledger digital asset
+6 or a sealed token under this title:
+7
+8 (i) A sealed keyholder lex situs shall be
+9 evaluated first at the transaction level through
+10 examination of sealed keyholder lex situs indicia;
+11
+12 (ii) A subject matter lex situs shall be
+13 evaluated subsequently through examination of subject
+14 matter lex situs indicia; and
+15
+16 (iii) The legal consequences applicable to each
+17 corpus shall be determined under the law of each respective
+18 situs and any applicable lex specialis.
+19
+20 43-2-108. Simultaneous lex specialis.
+21
+22 (a) A simultaneous lex specialis may occur when
+23 different legal regimes apply distinct bodies of law to the
+69 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 same subject matter or a sealed keyholder lex situs corpus
+2 is based on the specific jural relations analyzed.
+3
+4 (b) The application of Wyoming law as lex specialis
+5 to the sealed keyholder lex situs corpus shall not preclude
+6 the simultaneous application of other lex specialis to the
+7 subject matter lex situs corpus.
+8
+9 (c) Where simultaneous lex specialis applies, a court
+10 shall harmonize the applicable legal regimes to the maximum
+11 extent permitted by law, giving legal force and effect to
+12 the specific purposes and protections of each regime.
+13
+14 (d) The designation of a sealed keyholder lex situs
+15 corpus as intangible property under this title shall
+16 constitute a specific application of lex specialis for
+17 jurisdictional and property location purposes under Wyoming
+18 law.
+19
+20 43-2-109. Discovery of lex situs; forensic analysis.
+21
+22 (a) The establishment of a sealed keyholder lex situs
+23 or a subject matter lex situs shall result from a discovery
+70 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 process involving forensic and legal analysis of the
+2 computational corpus to identify verifiable jurisdictional
+3 vectors.
+4
+5 (b) The discovery process shall utilize the
+6 multi-aspect hierarchy to examine computational indicia for
+7 the purpose of synthesizing the legal conclusion of a
+8 sealed token or identifying a subject matter situs.
+9
+10 (c) A party to the action or a court conducting a
+11 discovery process may rely upon cryptographic signatures,
+12 metadata, content identifiers, zero-knowledge proofs or
+13 third-party attestations maintained within the
+14 computational corpus.
+15
+16 (d) The discovery process may extend to an associated
+17 sealed token to the extent necessary to determine the legal
+18 consequences of the associated sealed token's interaction
+19 with a sealed token's sealed keyholder lex situs corpus.
+20
+21 43-2-110. Evidentiary standards and presumptions.
+22
+71 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (a) Computational indicia generated through
+2 cryptographic embodiment or forensic discovery shall
+3 constitute prima facie evidence of the corresponding lex
+4 situs corpus, subject to rebuttal through evidence of fraud
+5 or technical malfunction.
+6
+7 (b) The discovery of a sealed keyholder having a
+8 Wyoming nexus shall create a rebuttable presumption of a
+9 Wyoming lex situs for the sealed keyholder lex situs
+10 corpus.
+11
+12 (c) Nonrepudiable data recorded within the
+13 computational corpus shall satisfy the requirements for
+14 attribution and authentication under title 40, chapter 30
+15 of the Wyoming statutes and the Uniform Electronic
+16 Transactions Act.
+17
+18 43-2-111. Associated sealed tokens; applicability and
+19 scope.
+20
+21 (a) An associated sealed token connection shall exist
+22 only where the legal consequences of an associated token
+72 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 affect the sealed token's sealed keyholder lex situs
+2 corpus, subject matter lex situs corpus or jural relations.
+3
+4 (b) Association through metadata, off-chain
+5 references or non-transactional mechanisms shall not
+6 establish the status of an associated sealed token under
+7 this title.
+8
+9 (c) Any associated sealed token engaging in a
+10 distributed ledger transaction with a sealed token may be
+11 subject to a legal analysis under this title to determine
+12 the legal consequences of that transaction.
+13
+14 (d) An associated sealed token shall not become a
+15 sealed token by virtue of the associated sealed token's
+16 association and shall remain subject to the law of the
+17 associated sealed token's own lex situs unless the
+18 associated sealed token independently satisfies the
+19 designation factors.
+20
+21 ARTICLE 2
+22 KEYHOLDER SITUS
+23
+73 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 43-2-201. Establishment of keyholder situs.
+2
+3 (a) A keyholder shall establish keyholder situs by
+4 executing a cryptographic signature using a private key
+5 over a distributed ledger transaction or other data.
+6
+7 (b) A distributed ledger transaction shall contain a
+8 signifier in the form of a public address or wallet address
+9 corresponding to the public key derived from the signing
+10 private key.
+11
+12 (c) A keyholder may demonstrate continued control
+13 over a public address by re-signing a challenge using the
+14 same private key, which shall constitute non-repudiable
+15 proof of control.
+16
+17 43-2-202. Characterization of keyholder situs corpus
+18 and indicia.
+19
+20 (a) The corpus of a keyholder situs shall include the
+21 mathematical relationship between a private key and its
+22 corresponding public key and the juridical position of
+23 control over associated records.
+74 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (b) The indicia of keyholder situs shall include a
+3 valid cryptographic signature, a public address derived
+4 from the corresponding public key and protocol-specific
+5 validation confirming mathematical integrity.
+6
+7 (c) A keyholder situs indicia satisfying subsection
+8 (b) of this section shall constitute prima facie evidence
+9 of a keyholder situs and an intent to sign at the time the
+10 signature was executed.
+11
+12 43-2-203. Signing and finalization; juridical stages.
+13
+14 (a) The act of cryptographically signing a
+15 distributed ledger transaction and the act of finalizing
+16 the distributed ledger transaction shall constitute
+17 distinct juridical events with separate legal consequences.
+18
+19 (b) A cryptographic signature applied to a
+20 transaction that has not been finalized shall establish a
+21 keyholder situs but shall not create, transfer or
+22 extinguish any jural relation.
+23
+75 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (c) A distributed ledger transaction shall achieve
+2 legal validity and operative effect only upon finalization
+3 as determined by the applicable protocol's consensus
+4 mechanism or validation rules.
+5
+6 (d) Where a transaction has been signed but not
+7 finalized and subsequently finalized without alteration,
+8 the keyholder situs established at signing shall be
+9 presumed to continue through finalization.
+10
+11 CHAPTER 3
+12 SEALED JURAL RELATIONS PROVISIONS
+13
+14 ARTICLE 1
+15 GENERAL PROVISIONS
+16
+17 43-3-101. Scope.
+18
+19 (a) This chapter shall apply to all governance jural
+20 relations, governance tokens and governance mechanisms
+21 recorded on or referenced by a distributed ledger.
+22
+76 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (b) The provisions of this chapter shall govern the
+2 legal characterization of collective decision-making
+3 processes associated with distributed ledger digital assets
+4 and sealed tokens.
+5
+6 43-3-102. Construction and interpretation.
+7
+8 (a) Courts, agencies and other interpreters shall
+9 construe the provisions of this chapter to promote legal
+10 certainty for participants in decentralized governance
+11 systems.
+12
+13 (b) Interpretation of governance jural relations
+14 shall proceed through the application of multi-aspect
+15 analysis and the hierarchy of scope established under
+16 article 1, chapter 1 of this title.
+17
+18 (c) The determination of any governance jural
+19 relation shall require an analysis of a governance indicia
+20 to establish the existence of the corresponding governance
+21 corpus.
+22
+23 ARTICLE 2
+77 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 GOVERNANCE PROVISIONS
+2
+3 43-3-201. Governance token; classification; legal
+4 effect.
+5
+6 (a) A governance token shall constitute a sealed
+7 token or distributed ledger digital asset that represents
+8 one (1) or more governance jural relations, including
+9 governance powers, governance liabilities, governance
+10 immunities or governance disabilities, with respect to a
+11 distributed ledger digital asset, sealed token, protocol,
+12 smart contract or organization.
+13
+14 (b) The governance token corpus of a governance token
+15 shall comprise the bundle of governance jural relations
+16 represented by the token, including governance powers,
+17 governance liabilities, governance immunities and
+18 governance disabilities associated with holding, delegating
+19 or disposing of the governance token.
+20
+21 (c) The governance token indicia of a governance
+22 token shall include token balances, token classes, on-chain
+23 role mappings, delegation records, vesting status and
+78 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 protocol logic linking tokens to governance mechanisms,
+2 from which a governance token corpus may be determined
+3 through characterization under this title.
+4
+5 (d) A governance token may evidence one (1) or more
+6 of the following governance jural relations:
+7
+8 (i) Governance power, including voting power,
+9 proposal power, delegation power and veto power;
+10
+11 (ii) Governance liability, including the
+12 correlative liability of a person, organization or protocol
+13 to have the governance token's governance jural relations
+14 changed by the exercise of a governance power;
+15
+16 (iii) Governance immunity, including minority
+17 protections, veto rights, supermajority requirements and
+18 charter-based constraints; and
+19
+20 (iv) Governance disability, including the
+21 correlative absence of governance power by which a person
+22 or class of persons cannot change the governance jural
+23 relations of an immunity holder.
+79 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1
+2 (e) The holder of a governance token may exercise
+3 governance power through:
+4
+5 (i) A vote, by distributed ledger transaction,
+6 smart contract interaction or protocol mechanism;
+7
+8 (ii) A proposal, submitted for consideration
+9 under a governance mechanism;
+10
+11 (iii) A delegation by transferring the exercise
+12 of a governance power to a delegate without transferring
+13 the underlying governance token or governance jural
+14 relation; or
+15
+16 (iv) Any other governance mechanism specified in
+17 the governing instrument or protocol.
+18
+19 (f) A governance action shall have legal force and
+20 effect only upon satisfaction of a quorum as defined by the
+21 applicable governing instrument, protocol or smart
+22 contract.
+23
+80 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 (g) The governing instrument applicable to a
+2 governance token shall define the governance jural
+3 relations, governance mechanisms and decision-making
+4 procedures applicable to the governance token and may take
+5 the form of articles of organization, an operating
+6 agreement, bylaws, governing principles, protocol rules,
+7 smart contract code or any other instrument.
+8
+9 (h) The indicia-corpus characterization and subject
+10 matter characterization of a governance token shall proceed
+11 under the analytical framework established in this title,
+12 and the sealed instrument classification of the governance
+13 token shall determine the governance token's transfer
+14 mechanics and legal effects.
+15
+16 (j) Nothing in this section shall alter or diminish
+17 the application of federal securities law, the UCC or any
+18 other law applicable to a governance token that constitutes
+19 a security, investment property or controllable electronic
+20 record under that law.
+21
+81 HB0160
+
+2026 STATE OF WYOMING 26LSO-0488
+1 Section 2. This act is effective July 1, 2026.
+2
+3 (END)
+82 HB0160

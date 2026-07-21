@@ -1,0 +1,380 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0113HW002 (Committee of the Whole) - Representative Webber (Withdrawn)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0113HW002 (TO ENGROSSED COPY)
+1 Page 1-line 1 After "elections;" insert "providing a process
+2 for certain recounts to be conducted by hand
+3 count; authorizing the secretary of state and
+4 county clerks to require recounts as
+5 specified; providing for hand counts to be
+6 requested by candidates as specified;
+7 specifying the costs of recounts; clarifying
+8 when a counting board is required; amending
+9 dates related to elections; amending
+10 provisions related to election recount
+11 judges;".
+12
+13 Page 1-line 4 After "reporting;" insert "requiring
+14 rulemaking; creating an account; making
+15 conforming amendments; providing
+16 appropriations;".
+17
+18 Page 1-line 9 After "W.S." delete balance of line.
+19
+20 Page 1-line 10 Delete entirely and insert "22-1-
+21 102(a)(xlii), 22-2-104(b) and (d), 22-8-
+22 101(d), 22-8-102, 22-8-108(a), (c), (d) and by
+23 creating a new subsection (e), 22-14-114(a),
+24 22-16-103(c)(i), 22-16-109(a) through (c) and
+25 by creating new subsections (d) through (g),
+26 22-16-110(a)(intro), 22-16-111(a)(intro),
+27 (i), (ii) and (b), 22-16-113(a)(i), (ii), (b)
+28 and (c) and 22-16-118 are amended to read:".
+29
+30 Page 1-after line 10 Insert:
+31
+32 "22-1-102. Definitions.
+33
+34 (a) The definitions contained in this chapter apply to words
+35 and phrases used in this Election Code and govern the construction
+36 of those words and phrases unless they are specifically modified
+37 by the context in which they appear. As used in this Election Code:
+38
+39 (xlii) "Recount" is the counting of ballots by hand or
+40 the processing of ballots through the tabulation system for an
+41 additional time or times, conducted for the specific purpose of
+42 counting votes again in any specific race, based upon the criteria
+43 of W.S. 22-16-109 or 22-16-111 through 22-16-113;
+44
+1
+
+1 22-2-104. Election dates.
+2
+3 (b) A primary election shall be held at the regular polling
+4 places for each precinct on the first Tuesday after the third first
+5 Monday in August in general election years for the nomination of
+6 candidates for partisan and nonpartisan offices to be filled at
+7 the succeeding general election and for the election of major party
+8 precinct committeemen and committeewomen.
+9
+10 (d) Every bond election shall be held on the same day as a
+11 primary election or a general election, or on the first Tuesday
+12 after the first Monday in May or November, or on the first Tuesday
+13 after the third first Monday in August.".
+14
+15 Page 2-line 7 After "boards" insert "or to judges appointed
+16 to conduct recounts in accordance with W.S.
+17 22-16-109 through 22-16-113".
+18
+19 Page 2-line 20 After "(d)" insert "and (e)".
+20
+21 Page 3-after line 2 Insert:
+22
+23 "22-8-108. Appointment, composition and authority of
+24 counting boards; when judges to count.
+25
+26 (a) Unless ballots are tabulated by electronic voting
+27 systems, the county clerk shall appoint a counting board for each
+28 paper ballot polling place casting more than three hundred (300)
+29 votes at the last general election, and may appoint a counting
+30 board in such a polling place in which one hundred fifty (150) or
+31 more such votes were cast at such election. A counting board shall
+32 have three (3) members or more to facilitate the counting of votes.
+33 No more than one (1) person under the age of eighteen (18) may be
+34 appointed as to each counting board.
+35
+36 (c) The counting board in a paper ballot polling place
+37 appointed under subsection (a) of this section has no authority to
+38 act until polls are declared closed as provided in W.S. 22-13-117,
+39 except as provided in W.S. 22-9-125(d). A counting board in an
+40 electronic voting system counting center may commence preparing
+41 absentee ballots for counting at any time on election day, or
+42 before election day as provided in W.S. 22-9-125(d).
+43
+44 (d) For a polling place where a counting board need not be
+45 appointed under subsection (a) of this section, the judges of
+46 election shall count the votes. This subsection shall not apply if
+47 ballots are tabulated by electronic voting system.
+2
+
+1
+2 (e) The county clerk shall appoint a counting board for the
+3 purposes of completing recounts as provided in W.S. 22-16-109. The
+4 counting board under this subsection shall consist of not less
+5 than three (3) members. Additional counting board members may be
+6 appointed if deemed necessary by the county clerk.
+7
+8 22-14-114. Counting of ballots.
+9
+10 (a) The following shall apply to the counting of ballots:
+11
+12 (i) For ballots designed to be counted by machine, each
+13 individual vote shall be determined by the voting equipment and
+14 shall not be determined subjectively by human tabulation except as
+15 provided below:
+16
+17 (A) When the intent of the voter is unmistakable
+18 but the ballot was received in such damaged, soiled, or other
+19 condition that it is rejected by the machine. The secretary of
+20 state may promulgate rules establishing standards for counting
+21 such ballots;.
+22
+23 (B) When being recounted by hand in accordance
+24 with W.S. 22-16-109. The secretary of state may promulgate rules
+25 establishing standards for counting such ballots;
+26
+27 (C) When counting write-in votes by candidate under W.S.
+28 22-16-103(a)(iii).
+29
+30 (ii) For ballots not designed to be counted by machine,
+31 only votes clearly marked, as provided by W.S. 22-14-104 and rules
+32 promulgated pursuant to this code, shall be tallied;.
+33
+34 (iii) For write-in votes, names which are misspelled or
+35 abbreviated or the use of nicknames of candidates shall be counted
+36 for the candidate if the vote is obvious to the board.
+37
+38 22-16-103. County canvass procedures.
+39
+40 (c) The county canvassing board shall:
+41
+42 (i) Meet as soon as all returns have been received and
+43 abstracted, but if any provisional ballots have been cast in the
+44 county, not before the time has passed for provisional voters to
+45 document their eligibility to register or to vote. The board shall
+46 meet at a time and place designated by the county clerk, but no
+47 later than the first second Friday following the election;
+3
+
+1
+2 22-16-109. Recounts.
+3
+4 (a) The county canvassing board shall make a recount of
+5 precinct votes if it appears to the board that a recount is
+6 required due to irregularities in that precinct. The recount under
+7 this subsection may be conducted by a hand count or by using
+8 electronic voting equipment as determined by the county canvassing
+9 board.
+10
+11 (b) Prior to the county canvass, there shall be a recount
+12 made of all the votes:
+13
+14 (i) Cast for any federal, statewide or legislative
+15 office in which the difference in number of votes cast for the
+16 winning candidate receiving the least number of votes and the
+17 number of votes cast for the losing candidate receiving the
+18 greatest number of votes is less than one percent (1%) two percent
+19 (2%) of the number of votes cast for the winning candidate
+20 receiving the least number of votes cast for that office in that
+21 county. This recount shall be made in the entire district in which
+22 the candidates are standing for election in that county. This
+23 recount shall be conducted by a hand count. A recount under this
+24 subsection shall not be required if a recount is required under
+25 paragraph (ii) of this subsection for the same office;
+26
+27 (ii) Cast for any federal, statewide or legislative
+28 office in which the difference in the number of votes cast for the
+29 winning candidate receiving the least number of votes and the
+30 number of votes cast for the losing candidate receiving the
+31 greatest number of votes is less than one percent (1%) of the
+32 number of votes cast for the winning candidate receiving the least
+33 number of votes cast for that office in the entire state or
+34 district. This recount shall be made in each county in which the
+35 candidates are standing for election. This recount shall be
+36 conducted by a hand count;
+37
+38 (iii) Cast for any other office not specified in
+39 paragraph (i) or (ii) of this subsection in which the difference
+40 in number of votes cast for the winning candidate receiving the
+41 least number of votes and the number of votes cast for the losing
+42 candidate receiving the greatest number of votes is less than two
+43 percent (2%) of the number of votes cast for the winning candidate
+44 receiving the least number of votes cast for that office. This
+45 recount shall be made in the entire district in which the
+46 candidates are standing for election. This recount shall be
+47 conducted by electronic voting equipment.
+4
+
+1
+2 (c) There shall be a recount made of all the votes cast for
+3 any office if a losing candidate requests one under provision of
+4 W.S. 22-16-110. This recount shall be made in the entire district
+5 in which the candidate is standing for election. This recount may
+6 be conducted by hand count or by using electronic voting equipment
+7 as determined by the candidate.
+8
+9 (d) Not later than the day following an election, the
+10 secretary of state may require a recount of not more than one (1)
+11 federal, statewide or legislative question or race. The secretary
+12 of state shall specify which precincts are to be recounted. This
+13 recount may be conducted by hand or by using electronic voting
+14 equipment as specified by the secretary of state.
+15
+16 (e) The county clerk shall have the discretion to recount
+17 any ballot proposition or race either by election district or
+18 precinct. This recount may be conducted by hand or by using
+19 electronic voting equipment as specified by the county clerk.
+20
+21 (f) If there is any discrepancy between the recount results
+22 and the preliminary election results, the county canvassing board
+23 shall determine the official result of the election.
+24
+25 (g) There is created the election recount account. Funds in
+26 the account shall not revert and are continuously appropriated to
+27 the secretary of state for costs related to administering hand
+28 recounts. The state treasurer shall invest funds within the account
+29 in accordance with law. All investment earnings from the account
+30 shall be deposited in the general fund.
+31
+32 22-16-110. How candidate may obtain recount; where affidavit
+33 filed.
+34
+35 (a) A candidate may obtain a recount of votes for the office
+36 he is seeking by making and filing an affidavit alleging that fraud
+37 or error occurred in counting, returning or canvassing the votes
+38 cast in any part of the district in which he is standing for
+39 election. The affidavit shall specify whether the recount should
+40 be conducted using electronic voting equipment or by hand count
+41 using tally sheets. The affidavit shall be filed in the same office
+42 the candidate filed his application for nomination:
+43
+44 22-16-111. Recount of ballot proposition.
+45
+46 (a) A recount of votes of a ballot proposition may be
+47 obtained in one (1) of the following manners as follows:
+5
+
+1
+2 (i) A recount will be made:
+3
+4 (A) If the proposition is a statewide proposition
+5 and receives a number of votes, greater or lesser, within one
+6 percent (1%) of the number of votes required for passage. The one
+7 percent (1%) variance shall be calculated based upon the total
+8 number of votes cast on the proposition, except for constitutional
+9 amendments in which case the variance shall be calculated based
+10 upon the total number of votes cast in the election. This recount
+11 shall be conducted by a hand count;
+12
+13 (B) If the ballot proposition is not a statewide
+14 ballot proposition and the proposition receives a number of votes,
+15 greater or lesser, within two percent (2%) of the number of votes
+16 required for passage. This recount shall be conducted by a hand
+17 count.
+18
+19 (ii) A recount will be made if requested in an affidavit
+20 signed by twenty-five (25) electors registered in a district voting
+21 on the question. The affidavit shall be filed with the county clerk
+22 not later than two (2) days after the county canvass has been
+23 completed for propositions voted on in one (1) county, and with
+24 the secretary of state not later than two (2) days after the state
+25 canvass has been completed for propositions voted on in more than
+26 one (1) county. The affidavit shall be accompanied by a deposit of
+27 one hundred dollars ($100.00) as specified in W.S. 22-16-113(a).
+28 The affidavit shall specify whether the recount should be conducted
+29 by hand count or by electronic voting equipment.
+30
+31 (b) The county in which the recount is taken shall pay the
+32 costs of the recount if the recount is required by subsection
+33 paragraph (a)(i) of this section; and the signers of the affidavit
+34 referred to in subsection paragraph (a)(ii) of this section shall
+35 be jointly and severally liable for the costs of the recount
+36 requested by them up to five hundred dollars ($500.00) per county
+37 recounted if the results of the election are not changed by the
+38 recount.
+39
+40 22-16-113. Recount deposit; expense of recount.
+41
+42 (a) An affidavit requesting a recount must be accompanied by
+43 the following deposit:
+44
+45 (i) If the difference in number of votes cast as
+46 calculated pursuant to W.S. 22-16-109(b) is one percent (1%) or
+47 greater but less than five percent (5%), five hundred dollars
+6
+
+1 ($500.00) affidavit requests the recount be conducted by
+2 electronic voting equipment, an amount determined by the county
+3 clerk not to exceed one thousand dollars ($1,000.00);
+4
+5 (ii) If the difference in number of votes cast as
+6 calculated pursuant to W.S. 22-16-109(b) is five percent (5%) or
+7 greater, three thousand dollars ($3,000.00) affidavit requests the
+8 recount be conducted by hand count, an amount determined by the
+9 county clerk not to exceed five thousand dollars ($5,000.00).
+10
+11 (b) If the recount shows sufficient error to change the
+12 result of the election, the county in which the recount is taken
+13 shall pay expenses of the recount and the deposit shall be
+14 returned. Otherwise the applicant or applicants seeking the
+15 recount shall be liable for the actual cost of conducting the
+16 recount up to a maximum of the amount deposited under subsection
+17 (a) of this section, per county recounted. Every county clerk
+18 shall issue a complete accounting of all costs of the recount to
+19 the candidate requesting the recount, and shall refund any surplus
+20 to the candidate. If the actual cost of conducting the recount
+21 exceeds five thousand dollars ($5,000.00), the county clerk may
+22 seek reimbursement of reasonable expenses from the secretary of
+23 state. Reasonable expenses are limited to market facility rental
+24 fees, excluding facility rental fees for facilities owned by the
+25 county or the state, wages at a rate consistent with the
+26 compensation under W.S. 22-8-116, per diem of twenty-five dollars
+27 ($25.00) per day and mileage for election judges and county clerk
+28 staff. The secretary of state shall reimburse those reasonable
+29 expenses from the election recount account. If requesting
+30 reimbursement from the secretary of state, the county clerk shall
+31 provide a complete accounting of all costs of the recount and the
+32 deposit paid by the candidate.
+33
+34 (c) If the recount is initiated by the county clerk or county
+35 canvassing board, or required by W.S. 22-16-109(b), the cost of
+36 the recount shall be paid by the county in which the recount is
+37 taken regardless of the result of the recount. If the recount is
+38 initiated by the secretary of state under W.S. 22-16-109(d) or
+39 required by W.S. 22-16-109(b), the cost of the recount shall be
+40 paid by the secretary of state regardless of the result of the
+41 recount.
+42
+43 22-16-118. Meeting of state canvassing board.
+44
+45 The state canvassing board shall meet no later than the second
+46 third Wednesday following the election. The secretary of state
+47 shall send a messenger to obtain official county abstracts not
+7
+
+1 filed in a reasonable length of time. The canvassing board shall
+2 meet at the time and place set by the secretary of state. The board
+3 shall review the state abstracts prepared by the secretary of
+4 state, compare them with the tabulation and materials prepared by
+5 the secretary of state, resolve any tie votes, and certify the
+6 abstract as the official state canvass.
+7
+8 Section 2. W.S. 22-8-108(b) and 22-16-111(c) are
+9 repealed.".
+10
+11 Page 3-line 4 Delete "Section 2." and insert "Section 3.".
+12
+13 Page 6-after line 14 Insert:
+14
+15 "Section 4. There is appropriated two hundred thousand
+16 dollars ($200,000.00) from the general fund to the election recount
+17 account under W.S. 22 16 109(g), as created by section 1 of this
+18 act.".
+19
+20 Page 6-lines 16 through 19 Delete entirely and insert:
+21
+22 "Section 5.
+23
+24 (a) Except as provided by subsection (b) of this section,
+25 this act is effective January 1, 2027.
+26
+27 (b) Sections 3 and 5 of this act are effective immediately
+28 upon completion of all acts necessary for a bill to become law as
+29 provided by Article 4, Section 8 of the Wyoming Constitution.".
+30 WEBBER, HOEFT, LUCAS
+8

@@ -1,0 +1,559 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0470
+SENATE FILE NO. SF0086
+Wyoming property tax relief authority.
+Sponsored by: Senator(s) Case
+A BILL
+for
+1 AN ACT relating to the administration of the government;
+2 creating the Wyoming property tax relief authority;
+3 specifying duties and powers of the authority; creating a
+4 property tax loan program; authorizing the issuance of
+5 bonds under specified conditions; requiring notice of the
+6 property tax loan program in assessment schedules;
+7 providing an appropriation; authorizing positions; and
+8 providing for effective dates.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 9-7-301 through 9-7-307 are created
+13 to read:
+14
+15 ARTICLE 3
+16 WYOMING PROPERTY TAX RELIEF AUTHORITY
+1 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1
+2 9-7-301. Definitions.
+3
+4 (a) As used in this article:
+5
+6 (i) "Authority" means the Wyoming property tax
+7 relief authority;
+8
+9 (ii) "Board" means the board of the Wyoming
+10 property tax relief authority;
+11
+12 (iii) "Bonds" means notes, warrants, bonds,
+13 temporary bonds and anticipation notes issued by the
+14 authority under this article;
+15
+16 (iv) "Financial institution" means a bank,
+17 savings and loan association, federal chartered credit
+18 union, state chartered credit union or mortgage lender;
+19
+20 (v) "Homeowner" means a person who is a resident
+21 of Wyoming and who owns a home in Wyoming that serves as
+22 the person's primary residence;
+23
+2 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 (vi) "Mortgage lender" means as defined by W.S.
+2 9-7-103(a)(ix).
+3
+4 9-7-302. Wyoming property tax relief authority;
+5 creation; composition.
+6
+7 (a) Commencing July 1, 2026, there is created the
+8 Wyoming property tax relief authority, which is a body
+9 politic and corporate operating as an instrumentality of
+10 the state of Wyoming, with authority to adopt an official
+11 seal and to sue and be sued.
+12
+13 (b) The authority shall be governed by a board
+14 composed of five (5) voting members appointed by the
+15 governor, with the advice and consent of the senate. Except
+16 as provided in this subsection, all voting members shall be
+17 appointed for four (4) year terms. The governor shall
+18 appoint three (3) initial voting board members to a term of
+19 four (4) years and shall appoint the remaining two (2)
+20 initial voting board members to a term of two (2) years.
+21 The governor may remove any member as provided in W.S.
+22 9-1-202. Vacancies shall be filled by appointment by the
+23 governor in accordance with W.S. 28-12-101. The members
+3 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 shall elect from the membership a chairman and
+2 vice-chairman. All persons appointed and serving as members
+3 of the board shall be qualified voters of the state of
+4 Wyoming.
+5
+6 (c) Members of the board may receive the same per
+7 diem, expenses and travel allowance as members of the
+8 legislature under W.S. 28-5-101 while in attendance at
+9 meetings of the board and while performing their duties as
+10 members of the board.
+11
+12 (d) The board may appoint an executive director of
+13 the authority, who serves as the executive secretary of the
+14 board and is the chief executive officer of the authority.
+15 The executive director shall serve at the pleasure of the
+16 board. The executive director shall be an ex officio member
+17 of the board but shall not vote.
+18
+19 (e) Any agency, board, commission, department or
+20 institution of the state and the governing authorities of
+21 political subdivisions may make surveys, reports and
+22 investigations, and may furnish records and information and
+4 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 provide other assistance and advice as the authority may
+2 require.
+3
+4 (f) The authority is subject to the requirements of:
+5
+6 (i) W.S. 16-3-101 through 16-3-105;
+7
+8 (ii) W.S. 16-4-201 through 16-4-205, except as
+9 provided in subsection (g) of this section;
+10
+11 (iii) W.S. 16-4-401 through 16-4-408.
+12
+13 (g) Any applications or records submitted by
+14 applicants or participants in the property tax loan program
+15 established under W.S. 9-7-307 shall be confidential and
+16 shall not be available for disclosure or inspection under
+17 the Public Records Act.
+18
+19 9-7-303. Purposes; budget.
+20
+21 (a) The authority is created to facilitate and
+22 provide loans for Wyoming homeowners in need of assistance
+23 with paying increased property taxes.
+5 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1
+2 (b) The authority may borrow funds for the execution
+3 of the purposes of the authority as provided in W.S.
+4 9-7-305.
+5
+6 (c) The authority shall not exercise the rights or
+7 powers granted to it in this section if private persons,
+8 firms or corporations are performing the acts or are
+9 providing the services authorized for the authority.
+10
+11 (d) The authority shall submit its budget for review
+12 as provided by W.S. 9-2-1010 through 9-2-1014. Any
+13 appropriation to the authority shall be expended only for
+14 administrative purposes.
+15
+16 9-7-304. Powers of the authority.
+17
+18 (a) The authority may:
+19
+20 (i) Employ officers, agents and employees as it
+21 deems necessary for the performance of its duties and
+22 prescribe the powers and duties and fix the compensation of
+23 the officers, agents and employees;
+6 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1
+2 (ii) Contract, upon terms as it may agree upon,
+3 for legal, financial and other professional services
+4 necessary or expedient in the conduct of its affairs;
+5
+6 (iii) Utilize the services of executive agencies
+7 of the state upon mutually agreeable terms and conditions;
+8
+9 (iv) Receive by gift, grant, donation or
+10 otherwise, any sum of money, aid or assistance from the
+11 United States, the state of Wyoming, any political
+12 subdivision or any other public or private entity or any
+13 country in good standing with the United States subject to
+14 state and federal law;
+15
+16 (v) Administer and manage the property tax loan
+17 program established in W.S. 9-7-307. The authority may
+18 promulgate any rules necessary to administer and manage the
+19 program;
+20
+21 (vi) Do any and all things necessary or proper
+22 for the development, regulation and accomplishment of the
+7 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 purposes of the authority within the limitations of
+2 authority granted by this article.
+3
+4 9-7-305. Bonds.
+5
+6 (a) In addition to the powers otherwise granted to
+7 the authority and in order to accomplish its purposes,
+8 including the provision of funding for the property tax
+9 loan program under W.S. 9-7-307, the authority shall have
+10 the power to borrow money and evidence the borrowing in the
+11 issuance and sale of bonds or other obligations of the
+12 authority, the principal and interest of which shall be
+13 payable solely out of revenues authorized to be dedicated
+14 and pledged for the payment.
+15
+16 (b) Bonds issued under this section shall be solely
+17 the obligation of the authority and shall recite on their
+18 face that they do not constitute obligations of the state
+19 of Wyoming or any county, municipality or other political
+20 subdivision of the state. The bonds or other obligations
+21 shall be authorized and issued by resolution of the
+22 authority. The bonds shall be executed in the form and
+8 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 manner provided by the resolution authorizing their
+2 issuance. The resolution shall include:
+3
+4 (i) The series of the bond or obligation;
+5
+6 (ii) The date of issuance of the bond or
+7 obligation;
+8
+9 (iii) The date of maturity of the bond or
+10 obligation;
+11
+12 (iv) That the bond or obligation shall bear
+13 interest, and the interest rate;
+14
+15 (v) The form that the bond or obligation shall
+16 be in;
+17
+18 (vi) The registration and exchangeability
+19 privileges of the bond or obligation;
+20
+21 (vii) The medium of payment and the place of
+22 payment of the bond or obligation;
+23
+9 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 (viii) The terms of redemption and that the bond
+2 or obligation shall be subject to those terms;
+3
+4 (ix) That the bond or obligation shall be
+5 entitled only to a priority on the revenues of the
+6 authority as the authority's resolution provides, subject
+7 to subsection (d) of this section.
+8
+9 (c) The bonds or other obligations issued under this
+10 section may be sold by the authority:
+11
+12 (i) At, above or below par value;
+13
+14 (ii) At public or private sale;
+15
+16 (iii) In a manner and from time to time as the
+17 authority determines.
+18
+19 (d) Any bonds issued under this section shall only be
+20 payable from and be secured by the pledge of the revenues
+21 collected from loans issued under the property tax loan
+22 program, subject only to prior payment of any reasonable
+23 fees to financial institutions assisting in the
+10 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 administration of the property tax loan program. Any holder
+2 of the bonds may, by appropriate legal action, compel
+3 performance of all duties required of the authority in
+4 order to enforce payment of the bonds when due. If any bond
+5 issued under this section is permitted to go into default
+6 as to principal or interest, any court of competent
+7 jurisdiction may, pursuant to the application of the holder
+8 of the bonds, appoint a receiver who shall operate the
+9 property tax loan program and collect and distribute the
+10 revenues thereof pursuant to the provisions and
+11 requirements of the resolution authorizing the bonds.
+12
+13 (e) If more than one (1) series of bonds is issued
+14 payable from the revenues of the bond proceeds, the
+15 priority of any lien on the revenues shall be as provided
+16 by the resolution authorizing the bonds.
+17
+18 (f) All bonds issued under the provisions of this
+19 section shall constitute negotiable instruments within the
+20 meaning of the Uniform Commercial Code. The bonds and
+21 earnings from the bonds shall be exempt from all taxation
+22 within the state of Wyoming.
+23
+11 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 (g) Any resolution of the authority authorizing the
+2 issuance of bonds shall be published once in a newspaper of
+3 general circulation published in Wyoming, and in a
+4 newspaper in the area where the provision of loans under
+5 this article are contemplated. For a period of thirty (30)
+6 days from the date of the publication, any person in
+7 interest may contest the legality of the resolution and of
+8 the bonds to be issued under the resolution and the
+9 provisions securing the bonds, including the validity of
+10 any loan proceeds pledged to the payment thereof. After the
+11 expiration of thirty (30) days from the date of the
+12 publication, no person shall have any right of action to
+13 contest the validity of the bonds, the validity of the
+14 security pledged to the payment thereof or the provisions
+15 of the resolution under which the bonds were issued, and
+16 all the bonds and all related proceedings shall be
+17 conclusively presumed to be legal.
+18
+19 (h) The authority may authorize the issuance of bonds
+20 for the purpose of refunding, extending and unifying the
+21 whole or any part of the principal, interest and redemption
+22 premiums on any outstanding bonds issued under this
+23 article. The refunding bonds may either be sold and the
+12 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 proceeds applied to or deposited in escrow for the
+2 retirement of the outstanding bonds, or may be delivered in
+3 exchange for the outstanding bonds. The refunding bonds
+4 shall be authorized in all respects as original bonds are
+5 herein required or were required at the time of their
+6 issuance to be authorized. The authority, in authorizing
+7 the refunding bonds, shall provide for the security of the
+8 bonds, the sources from which the bonds are to be paid and
+9 for the rights of the holders thereof in all respects as
+10 herein provided for other bonds issued under this article.
+11 The board may also provide that the refunding bonds shall
+12 have the same or different priority of lien on the revenues
+13 pledged for their payment as was enjoyed by the bonds
+14 refunded.
+15
+16 9-7-306. Use of net revenues; legal investments;
+17 exemptions from taxation; state pledge not to impair
+18 bondholder's rights and remedies.
+19
+20 (a) The authority may use and employ any net revenues
+21 derived from the property tax loan program and any bonds
+22 issued under this article and from any other source, after
+23 making the required principal and interest payments on any
+13 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 revenue bonds issued under this article and any other
+2 payments required by this article and any other payments
+3 provided in any resolution authorizing the issuance and
+4 sale of revenue bonds and obligations, for the property tax
+5 loan program established in W.S. 9-7-307.
+6
+7 (b) If the authority determines that no need for
+8 additional funding for the property tax loan program
+9 established by W.S. 9-7-307 exists and after the
+10 administrative expenses of the authority are paid, net
+11 revenues derived under this article shall be paid to the
+12 state treasurer for credit to the general fund.
+13
+14 (c) The bonds of the authority are legal investments
+15 that may be used as collateral for public funds of the
+16 state, insurance companies, banks, savings and loan
+17 associations, investment companies, trustees and other
+18 fiduciaries that may properly and legally invest funds in
+19 their control or belonging to them in bonds of the
+20 authority.
+21
+22 (d) The exercise of the powers granted by this
+23 article constitutes the performance of an essential
+14 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 governmental function. Any bonds issued under this article
+2 and the earnings from the bonds shall be free from taxation
+3 of every kind by the state, municipalities and political
+4 subdivisions of the state.
+5
+6 (e) The state pledges to the holders of any bonds
+7 issued under this article that the state will not limit or
+8 alter the rights vested in the authority to fulfill the
+9 terms of agreements made with the holders, or in any way
+10 impair the rights and remedies of the holders until the
+11 bonds together with the interest, with interest on any
+12 unpaid installments of interest and all costs and expenses
+13 in connection with any action or proceeding by or on behalf
+14 of the holders are fully met and discharged. The authority
+15 is authorized to include this pledge of the state in any
+16 agreement with the holders of the bonds.
+17
+18 9-7-307. Property tax loan program; requirements;
+19 authority duties.
+20
+21 (a) The property tax loan program is hereby created.
+22 The authority shall manage the program in accordance with
+23 the following:
+15 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1
+2 (i) The authority shall use funds collected from
+3 the issuance of bonds and any gifts, grants and other funds
+4 received in accordance with this article to provide loans
+5 to homeowners who require assistance with paying property
+6 taxes as a result of an increase in the amount of property
+7 tax owed by the homeowner on the homeowner's primary
+8 residence;
+9
+10 (ii) Any homeowner seeking a loan under the
+11 program shall submit an application on a form provided by
+12 the authority. Application may be made to the authority or
+13 to a financial institution participating in the loan
+14 program under this section;
+15
+16 (iii) Loans issued to a homeowner under this
+17 section shall not exceed an amount equal to the increase in
+18 property tax on the homeowner's primary residence for the
+19 current tax year compared to the immediately preceding tax
+20 year;
+21
+22 (iv) The interest charged on each loan issued
+23 under this article shall be the current equivalent yield of
+16 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 a United States treasury security of the same duration of
+2 the loan;
+3
+4 (v) The authority may authorize an applicant to
+5 receive subsequent loans as a line of credit, provided
+6 that:
+7
+8 (A) The amount of any credit extended or
+9 funds distributed under this paragraph shall not exceed an
+10 amount equal to the increase in property tax on the
+11 homeowner's primary residence for the applicable tax year
+12 compared to the immediately preceding tax year;
+13
+14 (B) A line of credit issued to an applicant
+15 shall be in effect for and shall have an interest rate
+16 equal to the rate specified in paragraph (iv) of this
+17 subsection and shall have a repayment term of not more than
+18 ten (10) years. An applicant seeking future loans,
+19 additional time to repay a loan or a line of credit shall
+20 reapply as required by the authority;
+21
+22 (C) An applicant seeking to utilize a line
+23 of credit shall provide an annual certification to the
+17 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 authority showing the applicant's need for a property tax
+2 loan.
+3
+4 (vi) Loan proceeds disbursed under this section
+5 shall be disbursed directly to the recipient to be used
+6 only for the loan recipient's property taxes due on the
+7 recipient's primary residence. The recipient shall use the
+8 loan proceeds to pay property taxes not later than the
+9 deadlines specified under W.S. 39-13-108(b)(i);
+10
+11 (vii) Upon the issuance of a loan under this
+12 article, there shall be a lien upon the property for which
+13 the loan for property taxes was issued. The lien shall be
+14 paramount and superior to any other lien or encumbrance
+15 created after a lien is created under this paragraph;
+16
+17 (viii) Loans shall be repaid under a payment
+18 plan prescribed by the authority, provided that no
+19 repayment period shall exceed ten (10) years.
+20
+21 (b) The authority shall authorize financial
+22 institutions to participate in the property tax loan
+23 program under this article. Each financial institution
+18 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 seeking to participate shall apply to the authority on a
+2 form prescribed by the authority. The authority may
+3 disburse loan proceeds directly to a financial institution
+4 for disbursement in accordance with this section. A
+5 financial institution participating in the property tax
+6 loan program shall be entitled to receive a fee not to
+7 exceed one percent (1%) of the proceeds of each property
+8 tax loan program loan disbursed through the financial
+9 institution.
+10
+11 (c) The authority and each financial institution
+12 participating in the property tax loan program shall
+13 advertise the property tax loan program in a form that, in
+14 the discretion of the authority, is likely to attract the
+15 attention of Wyoming residents.
+16
+17 Section 2. W.S. 39-13-103(b)(viii) is amended to
+18 read:
+19
+20 39-13-103. Imposition.
+21
+22 (b) Basis of tax. The following shall apply:
+23
+19 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 (viii) Every assessment schedule sent to a
+2 taxpayer shall contain the property's estimated fair market
+3 value for the current and previous year, or, productive
+4 value in the case of agricultural property. The schedule
+5 shall also contain the assessment ratio as provided by
+6 paragraph (b)(iii) of this section for the taxable
+7 property, the amount of taxes assessed on the taxable
+8 property from the previous year, an estimate of the taxes
+9 which will be due and payable for the current year based on
+10 the previous year's mill levies and, if the property is a
+11 single family residential structure, an estimate of the
+12 taxes that will be avoided if the property is eligible for
+13 the exemptions under W.S. 39-11-105(a)(xliii) and (xliv).
+14 Each assessment schedule issued under this paragraph shall
+15 contain information, including contact information, of any
+16 property tax relief program authorized by state law. The
+17 schedule shall contain a statement of the process to
+18 contest assessments as prescribed by W.S. 39-13-109(b)(i);
+19
+20 Section 3. There is appropriated one hundred thousand
+21 dollars ($100,000.00) from the general fund to the Wyoming
+22 property tax relief authority created by section 1 of this
+23 act to be expended only for purposes of administrative
+20 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 expenses of the Wyoming property tax relief authority. This
+2 appropriation shall be for the period beginning with the
+3 effective date of this section and ending June 30, 2028.
+4 This appropriation shall not be transferred or expended for
+5 any other purpose and any unexpended, unobligated funds
+6 remaining from this appropriation shall revert as provided
+7 by law on June 30, 2028.
+8
+9 Section 4. The governor shall make initial
+10 appointments to the Wyoming property tax relief authority
+11 by making temporary appointments under W.S. 28-12-101(b),
+12 subject to W.S. 28-12-101 through 28-12-103.
+13
+14 Section 5. After members are appointed under section
+15 4 of this act, the Wyoming property tax relief authority
+16 board may take any action necessary to establish and to
+17 prepare to implement the property tax loan program,
+18 provided that no loan under the program shall be created,
+19 issued or disbursed before July 1, 2026.
+20
+21 SF0086
+
+2026 STATE OF WYOMING 26LSO-0470
+1 Section 6.
+2
+3 (a) Except as provided in subsection (b) of this
+4 section, this act is effective immediately upon completion
+5 of all acts necessary for a bill to become law as provided
+6 by Article 4, Section 8 of the Wyoming Constitution.
+7
+8 (b) Sections 1 and 2 of this act are effective July
+9 1, 2026.
+10
+11 (END)
+22 SF0086

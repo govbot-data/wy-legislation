@@ -1,0 +1,267 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0403
+HOUSE BILL NO. HB0151
+Open records act-limitation on copy and production fees.
+Sponsored by: Representative(s) Brady, Guggenmos, Hoeft,
+Webb and Webber and Senator(s) Pearson
+A BILL
+for
+1 AN ACT relating to public records; defining terms; amending
+2 the duties of the ombudsman; imposing limits on copy and
+3 production costs for responding to requests for inspection
+4 and production of public records; increasing penalties;
+5 authorizing attorneys' fees; making conforming amendments;
+6 specifying applicability; and providing for effective
+7 dates.
+8
+9 Be It Enacted by the Legislature of the State of Wyoming:
+10
+11 Section 1. W.S. 16-4-201(a) by creating a new
+12 paragraph (xv), (c)(i), (iii), (iv) and by creating new
+13 paragraphs (vi) through (viii), 16-4-202(d)(i),
+14 16-4-203(f)(i)(intro), 16-4-204(a), (d), (e) and by
+1 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 creating new subsections (f) and (g) and 16-4-205 are
+2 amended to read:
+3
+4 16-4-201. Definitions; short title; designation of
+5 ombudsman; duties of ombudsman.
+6
+7 (a) As used in this act:
+8
+9 (xv) "Public records request" means a single
+10 inquiry for one (1) or more public records that are
+11 reasonably related in subject matter and scope.
+12
+13 (c) The governor shall designate an ombudsman for
+14 purposes of this act. The ombudsman shall:
+15
+16 (i) Receive and investigate complaints as
+17 provided under this act;
+18
+19 (iii) Keep confidential all records submitted by
+20 a governmental entity for the purpose of in-camera review;
+21
+22 (iv) Provide uniform interpretation and training
+23 on the ombudsman's role, and recommendations and duties
+2 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 under this act to governmental entities and the general
+2 public;
+3
+4 (vi) Conduct in-camera review of any public
+5 record to which access has been denied to determine whether
+6 the denial is consistent with law;
+7
+8 (vii) Issue orders directing a governmental
+9 entity to comply with the Wyoming Public Records Act.
+10 Orders issued under this paragraph may direct the release
+11 of records, provide for the waiver or refund of fees or
+12 direct any other action necessary to ensure compliance with
+13 the act;
+14
+15 (viii) Take reasonable action to support the
+16 ombudsman's conduct in any legal proceeding.
+17
+18 16-4-202. Right of inspection; rules and regulations;
+19 unavailability; training.
+20
+21 (d) If a public record exists primarily or solely in
+22 an electronic format, the custodian of the record shall so
+3 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 inform the requester. Electronic record inspection and
+2 copying shall be subject to the following:
+3
+4 (i) The reasonable costs of producing a copy of
+5 the public record shall be borne by the party making the
+6 request. Subject to W.S. 16-4-204(f), the costs may
+7 include the cost of producing a copy of the public record
+8 and the cost of constructing the record, including the cost
+9 of programming and computer services;
+10
+11 16-4-203. Right of inspection; grounds for denial;
+12 access of news media; order permitting or restricting
+13 disclosure; attorneys' fees available; exceptions.
+14
+15 (f) Any person aggrieved by the failure of a
+16 governmental entity to release records on the specified
+17 date mutually agreed upon pursuant to W.S. 16-4-202(c)(iv)
+18 or by the failure of a governmental entity to comply with
+19 an order of the ombudsman pursuant to W.S. 16-4-201(c)(vii)
+20 or 16-4-202(c)(v) may:
+21
+22 (i) Apply to the district court of the district
+23 wherein the record is found for an order to direct the
+4 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 custodian of the record to show cause why he should not
+2 permit the inspection of the record and to compel
+3 production of the record if applicable. An order issued by
+4 the district court under this paragraph may waive any fees
+5 charged by the state governmental entity and shall award
+6 attorneys' fees and court costs to the prevailing
+7 applicant;
+8
+9 16-4-204. Right of inspection; copies, printouts or
+10 photographs; fees.
+11
+12 (a) In all cases in which a person has the right to
+13 inspect and copy any public records he may request that he
+14 be furnished copies, printouts or photographs for a
+15 reasonable fee to be set by the official custodian subject
+16 to subsection (f) of this section. Where fees for certified
+17 copies or other copies, printouts or photographs of the
+18 record are specifically prescribed by law, the specific
+19 fees shall apply. Nothing in this section shall be
+20 construed as authorizing a fee to be charged as a condition
+21 of making a public record available for inspection.
+22
+5 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 (d) Subject to subsections (f) and (g) of this
+2 section, all state agencies may adopt rules and regulations
+3 pursuant to the Wyoming Administrative Procedure Act
+4 establishing reasonable fees and charges that may be
+5 assessed for the costs and services set forth in this
+6 section.
+7
+8 (e) Subject to subsections (f) and (g) of this
+9 section, the department of administration and information
+10 shall adopt uniform rules for the use of state agencies
+11 establishing procedures, fees, costs and charges for
+12 inspection, copies and production of public records under
+13 W.S. 16-4-202(d)(i), 16-4-203(h)(i) and 16-4-204.
+14
+15 (f) Fees for copies of public records shall not
+16 exceed the following amounts:
+17
+18 (i) For electronic records provided by
+19 electronic means, including email or a publicly accessible
+20 download link: zero dollars ($0.00);
+21
+6 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 (ii) For electronic records provided on a data
+2 storage device supplied by the governmental entity: a flat
+3 fee of twenty dollars ($20.00);
+4
+5 (iii) For paper copies: fifteen cents ($0.15)
+6 per page up to six hundred sixty-six (666) pages and five
+7 cents ($0.05) for each additional page over six hundred
+8 sixty-six (666);
+9
+10 (iv) For records provided by mail: other fees
+11 applicable under this section plus the actual cost of
+12 postage and shipping materials, not to exceed the rates
+13 charged by the United States Postal Service for a
+14 comparable shipment;
+15
+16 (v) A governmental entity shall not divide a
+17 single public records request into multiple requests solely
+18 for the purpose of assessing additional fees.
+19
+20 (g) No fee shall be charged for the time and labor
+21 costs associated with locating, reviewing, redacting or
+22 otherwise preparing a public record for inspection or
+23 release. This prohibition does not apply to fees for
+7 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 programming and computer services necessary to construct
+2 electronic records as authorized under W.S. 16-4-202(d)(i).
+3
+4 16-4-205. Penalties; remedies.
+5
+6 (a) Any person who knowingly or intentionally
+7 violates the provisions of this act is liable for a penalty
+8 not to exceed seven hundred fifty dollars ($750.00) of two
+9 thousand dollars ($2,000.00). The penalty may be recovered
+10 in a civil action and damages may be assessed by the court.
+11
+12 (b) Any person who has grounds to believe that a
+13 governmental entity or political subdivision is in
+14 violation of this act shall have the right to file a
+15 petition for a writ of mandamus pursuant to W.S. 1-30-101
+16 through 1-30-118 to require the governmental entity to
+17 comply with this act and shall be awarded the fees and
+18 costs available under W.S. 1-30-112.
+19
+20 (c) A governmental entity that fails to comply with a
+21 final court order issued under this act shall be subject to
+22 a civil penalty of two hundred fifty dollars ($250.00) for
+23 each business day of noncompliance, to be assessed by the
+8 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 court. The daily penalty shall begin to accrue on the first
+2 business day following the deadline for compliance
+3 specified in the court order.
+4
+5 (d) In any action under this act where the court
+6 finds that a governmental entity acted in bad faith in
+7 denying access to public records or in failing to comply
+8 with this act, the court may impose additional punitive
+9 damages of not more than seven thousand five hundred
+10 dollars ($7,500.00). For purposes of this subsection, "bad
+11 faith" includes but is not limited to:
+12
+13 (i) Knowingly denying access to records that are
+14 clearly public;
+15
+16 (ii) Intentionally imposing excessive or
+17 unlawful fees to discourage requests;
+18
+19 (iii) Deliberately delaying the production of
+20 records without lawful justification;
+21
+22 (iv) Destroying or concealing public records to
+23 prevent disclosure.
+9 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1
+2 (e) All damages recovered under this section shall be
+3 paid to the person who brought the action.
+4
+5 Section 2. This act shall apply to public record
+6 requests made on and after July 1, 2026.
+7
+8 Section 3. All agency rules authorized or required
+9 under this act shall be promulgated or repromulgated to
+10 comply with this act not later than July 1, 2026.
+11
+12 Section 4. This act shall apply to any governmental
+13 entity as defined in W.S. 16-4-201(a)(xiii), including any
+14 state agency, political subdivision, or other entity
+15 subject to the Wyoming Public Records Act.
+16
+10 HB0151
+
+2026 STATE OF WYOMING 26LSO-0403
+1 Section 5.
+2
+3 (a) Except as provided in subsection (b) of this
+4 section, this act is effective July 1, 2026.
+5
+6 (b) Sections 3 and 5 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+11 HB0151

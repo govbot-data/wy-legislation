@@ -1,0 +1,487 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0373
+HOUSE BILL NO. HB0129
+Expanding Physician Access Act.
+Sponsored by: Representative(s) Wasserburger, Clouston,
+Geringer and Ottman and Senator(s) Love
+A BILL
+for
+1 AN ACT relating to physicians and surgeons; authorizing the
+2 board of medicine to provide provisional medical licenses
+3 to internationally trained physicians as specified;
+4 providing definitions; making conforming amendments;
+5 requiring rulemaking; and providing for effective dates.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 33-26-801 through 33-26-805 are
+10 created to read:
+11
+12 ARTICLE 8
+13 EXPANDING PHYSICIAN ACCESS ACT
+14
+15 33-26-801. Short title.
+1 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1
+2 This article shall be known and may be cited as the
+3 "Expanding Physician Access Act."
+4
+5 33-26-802. Definitions.
+6
+7 (a) As used in this article:
+8
+9 (i) "Board" means the Wyoming board of medicine;
+10
+11 (ii) "Health care provider" means a facility
+12 that furnishes, bills or is paid for health care procedures
+13 or service delivery in the normal course of business and
+14 includes but is not limited to health systems, hospitals,
+15 hospital-based facilities, freestanding emergency
+16 facilities, medical clinics and urgent care clinics;
+17
+18 (iii) "Internationally trained physician" means
+19 a person who:
+20
+21 (A) Has been granted a medical doctorate or
+22 substantially similar degree by a domestic or international
+2 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 medical program of good standing as determined and approved
+2 by the board;
+3
+4 (B) Has been licensed in good standing with
+5 a medical licensing or regulatory institution of the
+6 person's licensing country at all times in the preceding
+7 five (5) years and does not have any pending investigations
+8 or discipline before the licensing body;
+9
+10 (C) Has completed a residency or
+11 substantially similar post-graduate medical training
+12 program or has practiced as a medical professional
+13 performing the duties of a physician in the person's
+14 licensing country for not less than seven (7) continuous
+15 years after the completion of a medical doctorate;
+16
+17 (D) If the person has completed a
+18 residency, has provided written verification that the
+19 person practiced medicine as a fully licensed physician in
+20 the person's licensing country for not less than five (5)
+21 years after the completion of residency training, or if the
+22 person did not complete a residency training, that the
+23 person has practiced medicine as a fully licensed physician
+3 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 in the person's licensing country for not less than twelve
+2 (12) years after completion of a medical doctorate or a
+3 residency equivalent pursuant to subparagraph (C) of this
+4 paragraph;
+5
+6 (E) Possesses fluency in the English
+7 language in the context of the provision of health care as
+8 demonstrated by certification by the educational commission
+9 of foreign medical graduates or other test designated by
+10 board rule;
+11
+12 (F) Has submitted all necessary forms and
+13 releases for the board to conduct an international criminal
+14 background check on the physician before issuance of a
+15 provisional license under this act; and
+16
+17 (G) Has passed steps one (1) and two (2) of
+18 either the United States medical licensing examination or
+19 the comprehensive osteopathic medical licensing examination
+20 in not more than three (3) attempts for each part.
+21
+22 (iv) "Licensing country" means any foreign
+23 country as designated by board rule where an
+4 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 internationally trained physician is licensed and where the
+2 board has determined that medical licensing is adequate and
+3 in good standing;
+4
+5 (v) "Supervising physician" means a person who:
+6
+7 (A) Holds a full and unrestricted license
+8 in good standing issued by the board to practice medicine
+9 in Wyoming and has held the license for not less than the
+10 immediately preceding three (3) years;
+11
+12 (B) Has not been disciplined by a medical
+13 licensing board in any state;
+14
+15 (C) Is not under investigation by the board
+16 or any other state's medical licensing board;
+17
+18 (D) Is certified in good and active
+19 standing by the American board of medical specialties, the
+20 American osteopathic association board of specialties or
+21 other national board specified by rule of the board;
+22
+5 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 (E) Meets any other requirements set forth
+2 by rule of the board which rule the board determines is
+3 useful or necessary to determine the good standing and
+4 competency of the physician; and
+5
+6 (F) Is approved to supervise an
+7 internationally trained physician in advance by the board.
+8
+9 33-26-803. State license for internationally trained
+10 physicians.
+11
+12 (a) The board may grant a provisional license to
+13 practice medicine in Wyoming to an internationally trained
+14 physician who has a written offer of employment as a
+15 physician at any health care provider that operates in
+16 Wyoming. Before issuing the provisional license, the board
+17 shall require an internationally trained physician to
+18 complete an application form provided and approved by the
+19 board, pass an international criminal background check
+20 investigation, meet all requirements set forth in this
+21 article and in rules adopted by the board and pay all fees
+22 required by the board. The board:
+23
+6 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 (i) Shall not grant a provisional license to
+2 practice medicine in this state to any internationally
+3 trained physician unless the physician is eligible to
+4 obtain federal immigration status that allows the physician
+5 to practice in the United States;
+6
+7 (ii) May suspend a provisional license granted
+8 under this subsection if the internationally trained
+9 physician is not employed by a health care provider that
+10 operates in this state during the provisional license
+11 period. If the internationally trained physician loses
+12 employment with the health care provider, the license shall
+13 be suspended until the internationally trained physician
+14 obtains employment with another Wyoming health care
+15 provider. If the internationally trained physician cannot
+16 obtain required employment within six (6) months, the
+17 provisional license shall be revoked.
+18
+19 (b) The board may suspend or revoke a provisional
+20 license granted under subsection (a) of this section
+21 pursuant to W.S. 33-26-401 through 33-26-410. Licensees may
+22 appeal the suspension or revocation of a provisional
+7 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 license in accordance with the requirements of W.S.
+2 33-26-401 through 33-26-410.
+3
+4 (c) Notwithstanding any other law, the holder of a
+5 provisional license issued under this article shall be
+6 eligible to apply to convert the license to a full,
+7 unrestricted license to practice medicine in this state
+8 after three (3) years of continuous, successful active
+9 practice in this state if the licensee:
+10
+11 (i) Has not been disciplined under W.S.
+12 33-26-401 through 33-26-410;
+13
+14 (ii) Has followed all of the board's rules and
+15 regulations under the medical practice act; and
+16
+17 (iii) Has passed step three (3) of the United
+18 States medical licensing examination or the comprehensive
+19 osteopathic medical licensing examination in not more than
+20 three (3) attempts.
+21
+22 (d) Provisional license holders shall comply with the
+23 continuing medical education requirements and any other
+8 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 requirements for practicing physicians as set forth by the
+2 board's rules and this article.
+3
+4 (e) Nothing in this section shall require the board
+5 to license, on a provisional or full basis, an
+6 internationally trained physician without evidence of full
+7 compliance with the requirements of this article and rules
+8 set forth by the board.
+9
+10 (f) Internationally trained physicians who are
+11 required to obtain federal work authorization before
+12 commencing any work for the sponsoring health care provider
+13 are eligible to apply for a provisional license prior to
+14 receiving federal work authorization but shall not commence
+15 work under the provisional license without the required
+16 work authorization. The provisional license shall be under
+17 a nondisciplinary suspension until the board receives
+18 documentation demonstrating the holder's authorization to
+19 work in the United States. Upon receipt by the board of
+20 such documentation, the suspension of the provisional
+21 license shall be lifted with no additional action required
+22 by the board after the board notifies the internationally
+23 trained physician that the suspension has been lifted.
+9 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1
+2 (g) Internationally trained physicians who become
+3 licensed under subsection (a) of this section shall not be
+4 required to maintain employment with the original
+5 sponsoring health care provider.
+6
+7 33-26-804. Supervision requirements for
+8 internationally trained physicians.
+9
+10 (a) An internationally trained physician's
+11 supervising physician, as approved by the board under this
+12 article, shall submit monthly reports to the board on the
+13 internationally trained physician's supervision and
+14 performance on a form or format designated by board rule.
+15
+16 (b) A health care provider employing a physician
+17 holding a provisional license under this article shall
+18 submit monthly reports to the board on the internationally
+19 trained physician's performance on a form or format
+20 designated by board rule. If the supervising physician is
+21 employed by the sponsoring health care provider, the
+22 requirements of this subsection shall be considered met
+10 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 upon submission of the supervising physician's monthly
+2 report as set forth in subsection (a) of this section.
+3
+4 (c) If a supervising physician fails to submit a
+5 satisfactory report as set forth by subsection (a) of this
+6 section, the supervising physician shall be considered to
+7 be in violation of this article and the provisional license
+8 shall be automatically suspended until the supervising
+9 physician submits all missing reports to the board within
+10 thirty (30) days of receiving notice of the missing
+11 reports.
+12
+13 33-26-805. Protection of the public.
+14
+15 (a) The holder of a provisional license shall not
+16 practice outside of the supervision of a supervising
+17 physician.
+18
+19 (b) The holder of a provisional license shall submit
+20 and keep on file with the board written proof of liability
+21 insurance in an amount and type to be set by board rule. If
+22 at any time the liability insurance covering a provisional
+23 license holder lapses or is otherwise compromised in any
+11 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 way, the provisional license holder and supervising
+2 physician shall notify the board in writing and within two
+3 (2) business days of the lapse or other situation. The
+4 provisional license shall be immediately and automatically
+5 suspended and shall remain so until satisfactory, written
+6 proof of coverage by professional liability insurance as
+7 set forth in this article is provided to the board.
+8
+9 (c) The holder of a provisional license and the
+10 supervising physician shall notify the board in writing of
+11 the termination of the holder's employment or supervising
+12 arrangement, whether or not the termination was for cause.
+13 Upon termination of the holder's employment or supervision,
+14 the provisional license shall be immediately and
+15 automatically suspended, and shall remain so until all
+16 requirements of this article are met.
+17
+18 (d) For the first year beginning on the date of
+19 issuance of a provisional license, where the holder of the
+20 license is engaged in patient contact, the supervising
+21 physician shall be in the same physical facility as the
+22 holder of the provisional license to provide immediate
+23 supervision to ensure patient safety.
+12 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1
+2 (e) Beginning upon the first anniversary of the
+3 issuance of a provisional license, and for the remaining
+4 time an internationally trained physician holds a
+5 provisional license, when the holder has patient contact,
+6 the supervising physician shall be available within fifteen
+7 (15) minutes to consult with and supervise the holder. This
+8 consultation and supervision may be done via telephone,
+9 videoconference or other mode allowing real time two (2)
+10 way communication between the holder and the supervising
+11 physician.
+12
+13 (f) For the first year beginning on the date of
+14 issuance of a provisional license, the holder of the
+15 provisional license shall only prescribe controlled
+16 substances with the signature of the supervising physician.
+17 Upon completion of the first year after issuance of a
+18 provisional license, the holder of the provisional license
+19 may prescribe controlled substances subject to all laws of
+20 Wyoming and the United States, and with regular review of
+21 all controlled substance prescriptions by the supervising
+22 physician.
+23
+13 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 (g) The holder of a provisional license under this
+2 article may not supervise the practice of medicine by a
+3 physician assistant.
+4
+5 Section 2. W.S. 7-19-106(a)(xxiii), 33-26-102(a)(x),
+6 33-26-202(b) by creating a new paragraph (xx), 33-26-301(b)
+7 by creating a new paragraph (ix), 33-26-303 by creating a
+8 new subsection (e), 33-26-305(a), 33-26-401(e),
+9 33-26-402(a) by creating a new paragraph (xxxvii) and
+10 35-1-401(a)(x) are amended to read:
+11
+12 7-19-106. Access to, and dissemination of,
+13 information.
+14
+15 (a) Criminal history record information shall be
+16 disseminated by criminal justice agencies in this state,
+17 whether directly or through any intermediary, only to:
+18
+19 (xxiii) The board of medicine for purposes of
+20 obtaining background information on applicants, including
+21 applicants who are internationally trained physicians under
+22 W.S. 33-26-801 through 33-26-805, for licensure or
+23 certification by the board, whose application or other
+14 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 information received by the board indicates the applicant
+2 has or may have been convicted of a crime, and for purposes
+3 of investigation of complaints and disciplinary action
+4 against licensees of the board;
+5
+6 33-26-102. Definitions.
+7
+8 (a) As used in this chapter:
+9
+10 (x) "Licensee" means any person licensed by the
+11 board under this chapter, including a person granted a
+12 provisional license under W.S. 33-26-801 through 33-26-805;
+13
+14 33-26-202. Board; duties; general powers.
+15
+16 (b) The board is empowered and directed to:
+17
+18 (xx) Adopt rules and regulations regarding
+19 granting internationally trained physicians provisional
+20 licenses, and the practice of medicine by the holder of
+21 such license, pursuant to W.S. 33-26-801 through 33-26-805.
+22
+23 33-26-301. License required.
+15 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1
+2 (b) Upon appropriate application, fulfillment of
+3 eligibility criteria and successful completion of all other
+4 requirements, the board may grant:
+5
+6 (ix) A provisional license to an internationally
+7 trained physician pursuant to W.S. 33-26-801 through
+8 33-26-805.
+9
+10 33-26-303. Requirements for granting license.
+11
+12 (e) Notwithstanding the requirements of this section,
+13 the board may grant a provisional license to practice
+14 medicine in this state to an internationally trained
+15 physician pursuant to the requirements of W.S. 33-26-801
+16 through 33-26-805.
+17
+18 33-26-305. Annual renewal; expiration; reactivation
+19 of lapsed and inactive licenses; restoration of emeritus
+20 licenses to active status; duplicates.
+21
+22 (a) All licenses granted under this chapter other
+23 than temporary licenses and medical training licenses shall
+16 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 lapse annually on a date or dates to be established by
+2 rules adopted by the board. A licensee may renew his
+3 license each year by submitting a renewal application
+4 containing information required by the board, accompanied
+5 by proof of compliance with and fulfillment of continuing
+6 medical education requirements of the board in the manner
+7 set forth in the board’s continuing medical education rules
+8 and regulations and a renewal fee to the board in an amount
+9 set by the board pursuant to W.S. 33-26-307. The licensee,
+10 including the holder of a provisional license under W.S.
+11 33-26-801 through 33-26-805, additionally shall report any
+12 investigative or disciplinary action pending or taken by a
+13 state examining board, a health care entity or the
+14 grievance committee of a medical society during the
+15 preceding year.
+16
+17 33-26-401. Board duties; investigation; interview.
+18
+19 (e) The board retains jurisdiction over only those
+20 licensees to whom provisional licenses under W.S. 33-26-801
+21 through 33-26-805, temporary or full licenses were granted
+22 and who are subject to ongoing investigation by the board,
+23 regardless of whether the license expired, lapsed or was
+17 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1 relinquished during or after the alleged occurrence of
+2 conduct proscribed by W.S. 33-26-402 by the licensee.
+3
+4 33-26-402. Grounds for suspension; revocation;
+5 restriction; imposition of conditions; refusal to renew or
+6 other disciplinary action.
+7
+8 (a) The board may refuse to renew, and may revoke,
+9 suspend or restrict a license or take other disciplinary
+10 action, including the imposition of conditions or
+11 restrictions upon a license on one (1) or more of the
+12 following grounds:
+13
+14 (xxxvii) Violating the provisions of W.S.
+15 33-26-801 through 33-26-805.
+16
+17 35-1-401. Definitions.
+18
+19 (a) As used in this act:
+20
+21 (x) "Physician" means a person authorized or
+22 licensed to practice medicine as provided in W.S. 33-26-101
+23 through 33-26-601 33-26-805;
+18 HB0129
+
+2026 STATE OF WYOMING 26LSO-0373
+1
+2 Section 3. The state board of medicine shall
+3 promulgate all rules necessary to implement this act.
+4
+5 Section 4.
+6
+7 (a) Except as provided by subsection (b) of this
+8 section, this act is effective July 1, 2026.
+9
+10 (b) Sections 3 and 4 of this act are effective
+11 immediately upon completion of all acts necessary for a
+12 bill to become law as provided by Article 4, Section 8 of
+13 the Wyoming Constitution.
+14
+15 (END)
+19 HB0129

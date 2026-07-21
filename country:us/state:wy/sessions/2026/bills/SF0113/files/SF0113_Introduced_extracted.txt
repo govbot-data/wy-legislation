@@ -1,0 +1,173 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0326
+CORRECTED COPY
+SENATE FILE NO. SF0113
+2026 general election hand count comparison.
+Sponsored by: Senator(s) Crago, Barlow, Biteman, Landen,
+Nethercott, Olsen and Salazar and
+Representative(s) Byron, Clouston, Connolly,
+Fornstrom, Harshman, Lawley, Williams and
+Wylie
+A BILL
+for
+1 AN ACT relating to elections; requiring the completion of a
+2 hand count by the county clerk of each county in the 2026
+3 primary and general elections; specifying requirements of
+4 the hand count; requiring reporting; and providing for an
+5 effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 22-8-101(d) and 22-8-102 are amended
+10 to read:
+11
+12 22-8-101. Notice of election officials needed; county
+13 chairmen to submit list of names; municipal clerks list of
+14 names appointment.
+1 SF0113
+
+2026 STATE OF WYOMING 26LSO-0326
+CORRECTED COPY
+1
+2 (d) Not later than June 30, the county clerk on each
+3 general election year shall appoint judges of election and
+4 counting boards and alternates from lists submitted by the
+5 county chairmen of the major and minor political parties.
+6 This subsection shall not apply to judges appointed by the
+7 county clerk to serve on audit boards.
+8
+9 22-8-102. Qualifications.
+10
+11 Except as otherwise provided by this section, judges of
+12 election and members of counting boards shall be registered
+13 electors and shall be physically, morally and mentally
+14 competent to perform their duties. The county clerk may
+15 appoint persons who are at least sixteen (16) years of age
+16 to serve as judges of election or members of counting
+17 boards if such persons meet all other requirements for
+18 qualification of an elector. A judge of election shall not
+19 be a member of a counting board at the same election except
+20 as provided by W.S. 22-8-108(d) and except as provided in
+21 this section. For the 2026 primary and general elections, a
+22 judge of election shall not be a member of a counting board
+2 SF0113
+
+2026 STATE OF WYOMING 26LSO-0326
+CORRECTED COPY
+1 at the same election except as provided by W.S. 22-8-108(d)
+2 or for the purposes of a hand count audit.
+3
+4 Section 2.
+5
+6 (a) In addition to the audits required under W.S.
+7 22-6-130 and 22-11-109, each county clerk shall conduct a
+8 hand count audit of actual ballots cast on election day
+9 following the 2026 primary and 2026 general elections. The
+10 purpose of the hand count audit is to complete a physical
+11 examination of as close to five percent (5%) of the total
+12 number of ballots cast on election day per county as
+13 possible and compare the results of the hand count audit to
+14 the results tabulated by electronic equipment. Each county
+15 clerk shall conduct a hand count audit of the ballots for
+16 one (1) federal race and one (1) statewide race as selected
+17 by the secretary of state. The secretary of state shall
+18 notify the county clerk of each county which races shall be
+19 audited not later than close of business on the Wednesday
+20 following the election. The secretary of state may select
+21 different federal and statewide races to be audited for
+22 each county, but in no instance shall the secretary of
+23 state select more than one (1) federal race and one (1)
+3 SF0113
+
+2026 STATE OF WYOMING 26LSO-0326
+CORRECTED COPY
+1 statewide race per county. In addition to the races
+2 selected by the secretary of state, the county clerk shall
+3 conduct a hand count audit of each legislative race printed
+4 on the ballot. The county canvassing board may audit
+5 additional races in addition to those selected by the
+6 secretary of state pursuant to the requirements of this
+7 section. The results of each hand count audit and the
+8 electronic count shall be compared to determine if there
+9 were any inconsistencies or errors in the electronic voting
+10 system count.
+11
+12 (b) For the 2026 primary election and 2026 general
+13 election, the county canvassing board shall select a
+14 requisite number of electronic tabulating machines whose
+15 cumulative number of ballots cast on election day totals as
+16 close to five percent (5%) of the total number of ballots
+17 cast in their respective county as possible. The county
+18 clerk shall audit the ballots tabulated by those electronic
+19 tabulating machines selected by the county canvassing board
+20 and compare to the hand count audit result. The hand count
+21 audit shall be conducted not later than nine (9) days after
+22 the county canvass.
+23
+4 SF0113
+
+2026 STATE OF WYOMING 26LSO-0326
+CORRECTED COPY
+1 (c) Each hand count audit conducted under this
+2 section shall be conducted as follows:
+3
+4 (i) The county clerk shall appoint audit boards
+5 prior to the conclusion of the county canvass but shall not
+6 be required to appoint the boards by the deadline set in
+7 W.S. 22-8-101(d). The county clerk may appoint as many
+8 audit boards as necessary, provided each audit board shall
+9 be made up of not less than three (3) qualified electors
+10 with not greater than two (2) judges per audit board being
+11 from the same political party;
+12
+13 (ii) In addition to any races selected by the
+14 county canvassing board, audit boards appointed by the
+15 county clerk shall audit those races selected by the
+16 secretary of state and each legislative office printed on
+17 the ballot. The audit boards appointed by the county clerk
+18 shall audit those races on ballots that were tabulated by
+19 the equipment selected by the county canvassing board;
+20
+21 (iii) Audit boards appointed by the county clerk
+22 under this section shall tabulate each mark, undervote or
+23 overvote as would be counted by electronic tabulating
+5 SF0113
+
+2026 STATE OF WYOMING 26LSO-0326
+CORRECTED COPY
+1 equipment according to the instructions printed on the
+2 ballot.
+3
+4 (d) Any inconsistencies or errors between the
+5 original count tabulated by the electronic tabulating
+6 machines and the hand count audit required under this
+7 section shall be reported to the secretary of state not
+8 less than nine (9) days after the date of the county
+9 canvass.
+10
+11 (e) Any ballot inconsistencies or counting errors
+12 between the original electronic ballot count and the hand
+13 count audit required under this section discovered during
+14 the hand count audit process shall be reported by the
+15 secretary of state to the joint corporations, elections and
+16 political subdivisions interim committee on or before May
+17 1, 2027.
+18
+6 SF0113
+
+2026 STATE OF WYOMING 26LSO-0326
+CORRECTED COPY
+1 Section 3. This act is effective immediately upon
+2 completion of all acts necessary for a bill to become law
+3 as provided by Article 4, Section 8 of the Wyoming
+4 Constitution.
+5
+6 (END)
+7 SF0113

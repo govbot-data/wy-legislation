@@ -1,0 +1,445 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0278
+SENATE FILE NO. SF0092
+Wyoming False Claims Act.
+Sponsored by: Senator(s) Nethercott, Crago and Kolb and
+Representative(s) Banks, Byron, Clouston,
+Erickson, Fornstrom and Lawley
+A BILL
+for
+1 AN ACT relating to civil procedure; providing civil
+2 penalties for false claims made against state employees and
+3 officials as specified; providing definitions; providing
+4 exceptions; providing remedies for retaliation regarding
+5 persons who report violations of this act; providing a
+6 statute of limitations; providing procedures for lawsuits
+7 as specified; creating an account; and providing for an
+8 effective date.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 1-44-101 through 1-44-107 are created
+13 to read:
+14
+15 CHAPTER 44
+1 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 WYOMING FALSE CLAIMS ACT
+2
+3 1-44-101. Short title.
+4
+5 This act shall be known and may be cited as the "Wyoming
+6 False Claims Act."
+7
+8 1-44-102. Definitions.
+9
+10 (a) As used in this act:
+11
+12 (i) "Claim" means:
+13
+14 (A) Any request or demand, whether under a
+15 contract or otherwise, for money or property, and whether
+16 or not the state has title to the money or property, that:
+17
+18 (I) Is presented to an officer,
+19 employee or agent of the state; or
+20
+21 (II) Is made to a contractor, grantee
+22 or other recipient, if the money or property is to be spent
+2 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 or used on the state's behalf or to advance a state program
+2 or interest, and if the state:
+3
+4 (1) Provides or has provided any
+5 portion of the money or property requested or demanded; or
+6
+7 (2) Will reimburse the
+8 contractor, grantee or other recipient for any portion of
+9 the money or property that is requested or demanded.
+10
+11 (ii) "False claims law investigation" means any
+12 inquiry conducted by any person on behalf of the state for
+13 the purpose of ascertaining whether any person is or has
+14 engaged in any violations of this act;
+15
+16 (iii) "Knowing" or "knowingly" means:
+17
+18 (A) That a person, with respect to
+19 information and without requiring proof of specific intent
+20 to defraud, does any of the following:
+21
+22 (I) Has actual knowledge of the
+23 information;
+3 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1
+2 (II) Acts in deliberate ignorance of
+3 the truth or falsity of the information; or
+4
+5 (III) Acts in reckless disregard of
+6 the truth or falsity of the information.
+7
+8 (iv) "Material" means having a natural tendency
+9 to influence, or be capable of influencing, the payment or
+10 receipt of money or property;
+11
+12 (v) "Obligation" means an established duty,
+13 whether or not fixed, arising from an express or implied
+14 contractual, grantor-grantee or licensor-licensee
+15 relationship, from a fee-based or similar relationship,
+16 from statute or regulation or from the retention of any
+17 overpayment;
+18
+19 (vi) "Original source" means a person who:
+20
+21 (A) Has voluntarily disclosed to the state
+22 the information on which allegations or transactions in a
+23 claim are based; or
+4 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1
+2 (B) Has knowledge that is independent of
+3 and materially adds to the publicly disclosed allegations
+4 or transactions, and who has voluntarily provided the
+5 information to the state before the state files an action
+6 under this act.
+7
+8 (vii) "Proceeds" means civil penalties and
+9 damages as provided by this act;
+10
+11 (viii) "Prosecuting authority" means any
+12 official other than the attorney general charged with
+13 investigating, filing and conducting civil legal
+14 proceedings on behalf of, or in the name of, the state;
+15
+16 (ix) "State" means the state of Wyoming, its
+17 agencies, boards, political subdivisions as defined by W.S.
+18 9-2-401(a)(iv), instrumentalities, officers and employees,
+19 including the University of Wyoming;
+20
+21 (x) "This act" means W.S. 1-44-101 through
+22 1-44-107.
+23
+5 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 1-44-103. False claims liability; damages; costs;
+2 civil penalties; exceptions.
+3
+4 (a) Notwithstanding any other law to the contrary,
+5 any person who commits any of the following acts shall be
+6 liable to the state for three (3) times the amount of
+7 damages that the state sustains because of the actions of
+8 that person. A person who commits any of the following acts
+9 shall also be liable to the state for the costs of a civil
+10 action brought to recover penalties or damages and shall be
+11 liable to the state for a civil penalty of not less than
+12 five thousand five hundred dollars ($5,500.00) and not more
+13 than eleven thousand dollars ($11,000.00) for each false or
+14 fraudulent claim where the person:
+15
+16 (i) Knowingly presents, or causes to be
+17 presented, a false or fraudulent claim for payment or
+18 approval;
+19
+20 (ii) Knowingly makes, uses or causes to be made
+21 or used a false record or statement material to a false or
+22 fraudulent claim;
+23
+6 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 (iii) Has possession, custody or control of
+2 property or money used, or to be used, by the state and
+3 knowingly delivers, or causes to be delivered, less than
+4 all of that money or property;
+5
+6 (iv) Is authorized to make or deliver a document
+7 certifying receipt of property used, or to be used, by the
+8 state and, intending to defraud the state, makes or
+9 delivers the receipt without knowing whether the
+10 information on the receipt is true;
+11
+12 (v) Knowingly buys, or receives as a pledge of
+13 an obligation or debt, public property from an officer or
+14 employee of the state who lawfully may not sell or pledge
+15 property;
+16
+17 (vi) Knowingly makes, uses or causes to be made
+18 or used a false record or statement material to an
+19 obligation to pay or transmit money or property to the
+20 state, or knowingly conceals or knowingly and improperly
+21 avoids or decreases an obligation to pay or transmit money
+22 or property to the state;
+23
+7 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 (vii) Conspires to commit a violation of this
+2 subsection;
+3
+4 (viii) Is a beneficiary of an inadvertent
+5 submission of a false or fraudulent claim to the state,
+6 subsequently discovers the falsity of the claim and fails
+7 to disclose the false or fraudulent claim to the state; or
+8
+9 (ix) Is the beneficiary of an inadvertent
+10 payment or overpayment by the state of funds not due and
+11 knowingly fails to repay the inadvertent payment or
+12 overpayment to the state.
+13
+14 (b) Notwithstanding subsection (a) of this section, a
+15 court may assess not more than two (2) times the amount of
+16 damages that the state sustains because of a violation of
+17 subsection (a) of this section, and shall assess no civil
+18 penalty, if the court finds all of the following:
+19
+20 (i) The person committing the violation
+21 furnished officials of the state responsible for
+22 investigating false claims violations with all information
+23 known to that person about the violation within thirty (30)
+8 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 days after the date where the person first obtained the
+2 information;
+3
+4 (ii) The person fully cooperated with any
+5 investigation by the state;
+6
+7 (iii) At the time the person furnished the state
+8 with information about the violation, no criminal
+9 prosecution, civil action or administrative action had
+10 commenced with respect to the violation, and the person did
+11 not have actual knowledge of the existence of an
+12 investigation into the violation.
+13
+14 (c) Liability pursuant to this section shall be joint
+15 and several for any act committed by two (2) or more
+16 persons.
+17
+18 (d) This act shall not apply to claims made:
+19
+20 (i) Pursuant to a workers' compensation claim;
+21
+22 (ii) Regarding the payment of sales taxes under
+23 title 39 of the Wyoming statutes;
+9 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1
+2 (iii) Regarding the assets of a person that have
+3 been transferred to the commissioner of the department of
+4 insurance under title 26 of the Wyoming statutes;
+5
+6 (iv) Regarding services requested under the
+7 Wyoming medicaid program;
+8
+9 (v) Regarding federal welfare benefits;
+10
+11 (vi) Regarding money, property or services that
+12 the state has paid to a person as compensation for
+13 employment with the state or as an income subsidy with no
+14 restrictions on that person's use of the money, property or
+15 services.
+16
+17 1-44-104. Investigations and prosecutions; powers of
+18 prosecuting authority; civil actions; jurisdiction of
+19 courts.
+20
+21 (a) The following shall apply to investigations of
+22 false claims under this act:
+23
+10 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 (i) The attorney general or applicable
+2 prosecuting authority shall diligently investigate
+3 violations of this act. If the attorney general finds that
+4 a person has violated this act, the attorney general or the
+5 applicable prosecuting authority may bring a civil action
+6 under this section against that person;
+7
+8 (ii) An applicable prosecuting authority shall
+9 have the right to intervene in an action brought by the
+10 attorney general under this section not more than sixty
+11 (60) days after the attorney general notifies the
+12 prosecuting authority of a violation of this act within the
+13 prosecuting authority's jurisdiction. A court may permit
+14 intervention if the Wyoming Code of Civil Procedure and
+15 Rules of Civil Procedure have been adhered to.
+16
+17 (b) The following shall apply to civil actions
+18 brought due to violations prohibited by this act:
+19
+20 (i) The parties of civil actions shall adhere to
+21 the requirements of the Wyoming Code of Civil Procedure and
+22 Rules of Civil Procedure;
+23
+11 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 (ii) No court shall have jurisdiction over an
+2 action brought pursuant to this act against a member of the
+3 legislature, a member of the judiciary, an elected official
+4 or a member of any governing body if the action is based on
+5 a false claim where evidence or information about the claim
+6 was known to the state when the action is brought;
+7
+8 (iii) The attorney general or applicable
+9 prosecuting authority shall not bring an action that is
+10 based upon allegations or transactions that are the subject
+11 of a civil action or penalty proceeding where the state is
+12 already a party;
+13
+14 (iv) A court may dismiss an action or claim
+15 under this section if substantially the same allegations or
+16 transactions were publicly disclosed in any of the
+17 following:
+18
+19 (A) A criminal, civil or administrative
+20 proceeding where the state or prosecuting authority are a
+21 party;
+22
+12 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 (B) A report, hearing, audit or
+2 investigation of the legislature or the state;
+3
+4 (C) The news media.
+5
+6 (v) Paragraph (iv) of this subsection shall not
+7 apply if the action is brought by the attorney general or
+8 applicable prosecuting authority or the person bringing the
+9 action is the original source of the information;
+10
+11 (vi) Unless otherwise authorized by law, a court
+12 shall not have jurisdiction over an action based upon
+13 information discovered by a present or former employee of
+14 the state during the course of that employee's employment
+15 unless that employee first, in good faith, exhausts
+16 existing internal procedures for reporting and seeking
+17 recovery of the falsely claimed sums through official
+18 channels and unless the state failed to act on the
+19 information provided within a reasonable period of time.
+20
+21 (c) The false claims act account is hereby created.
+22 Notwithstanding W.S. 5-9-106 or any other law, thirty-three
+23 percent (33%) of the proceeds of an action or settlement of
+13 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 a claim by the attorney general or a prosecuting authority
+2 pursuant to this act shall be deposited into the account.
+3 The remaining proceeds of an action or settlement of a
+4 false claim shall be deposited into the public school fund
+5 of the applicable county in which the false claim arose.
+6 Funds in the account, upon appropriation by the
+7 legislature, shall:
+8
+9 (i) Be continuously appropriated to the office
+10 of the attorney general;
+11
+12 (ii) Be used by the attorney general to support
+13 the ongoing investigation and prosecution of false claims
+14 pursuant to this act;
+15
+16 (iii) Unless otherwise specifically provided,
+17 not lapse or revert at the end of the fiscal period and
+18 shall remain in the account; and
+19
+20 (iv) Regarding interest or other earnings on
+21 funds within the account, be credited to the account.
+22
+23 1-44-105. Relief from retaliatory actions.
+14 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1
+2 (a) In addition to the remedies provided by W.S.
+3 9-11-103 if applicable, any employee, contractor or agent
+4 shall be entitled to all relief necessary to make that
+5 employee, contractor or agent whole if that employee,
+6 contractor or agent is discharged, demoted, suspended,
+7 threatened, harassed or in any other manner discriminated
+8 against in the terms and conditions of employment because
+9 of lawful acts done by the employee, contractor, agent or
+10 associated others in furtherance of an action under this
+11 act or other efforts to stop one (1) or more violations of
+12 this act.
+13
+14 (b) The relief authorized under subsection (a) of
+15 this section shall include:
+16
+17 (i) Reinstatement with the same status that the
+18 employee, contractor or agent would have had but for the
+19 retaliation;
+20
+21 (ii) Two (2) times the amount of back pay;
+22
+23 (iii) Interest on the back pay;
+15 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1
+2 (iv) Compensation for any special damages
+3 sustained as a result of the retaliation, including
+4 litigation costs and reasonable attorneys' fees.
+5
+6 (c) An action seeking relief under this section may
+7 be brought in a court of competent jurisdiction, provided
+8 that a civil action seeking relief under this section may
+9 not be brought later than the times specified in W.S.
+10 1-44-106.
+11
+12 1-44-106. Limitation of actions; burden of proof.
+13
+14 (a) A civil action brought under this act shall not
+15 be brought more than three (3) years after the date when
+16 the facts material to the right of action are known or
+17 reasonably should have been known by the attorney general
+18 or other prosecuting authority, but in no event more than
+19 six (6) years after the date where the violation of this
+20 act was committed.
+21
+22 (b) In any civil action brought under this act, the
+23 state shall be required to prove all essential elements of
+16 SF0092
+
+2026 STATE OF WYOMING 26LSO-0278
+1 the cause of action, including damages, by a preponderance
+2 of the evidence.
+3
+4 (c) Notwithstanding any other provision of law, a
+5 judgment of guilt in a criminal proceeding charging false
+6 statement or fraud, upon a verdict after trial or upon a
+7 plea of guilty or nolo contendere, shall estop the
+8 defendant from denying the essential elements of the
+9 offense in any action brought pursuant to this act which
+10 involves the same transaction as in the criminal
+11 proceeding.
+12
+13 1-44-107. Remedies pursuant to other laws;
+14 severability.
+15
+16 The provisions of this act are not exclusive, and the
+17 remedies provided for shall be in addition to any other
+18 remedies provided for in any other law or available
+19 pursuant to common law.
+20
+21 Section 2. This act is effective July 1, 2026.
+22
+23 (END)
+17 SF0092

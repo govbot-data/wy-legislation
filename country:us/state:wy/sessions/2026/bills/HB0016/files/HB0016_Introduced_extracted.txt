@@ -1,0 +1,55 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0011
+HOUSE BILL NO. HB0016
+Secretary of state-expedited filings.
+Sponsored by: Select Committee on Blockchain, Financial
+Technology and Digital Innovation Technology
+A BILL
+for
+1 AN ACT relating to the administration of government;
+2 allowing the secretary of state to charge a fee to expedite
+3 filings of documents as specified; and providing for an
+4 effective date.
+5
+6 Be It Enacted by the Legislature of the State of Wyoming:
+7
+8 Section 1. W.S. 9-1-305(a) by creating a new
+9 paragraph (viii) is amended to read:
+10
+11 9-1-305. Fees; amounts; collection; exceptions.
+12
+13 (a) The secretary of state shall collect the
+14 following fees in advance for:
+15
+1 HB0016
+
+2026 STATE OF WYOMING 26LSO-0011
+1 (viii) Expediting the filing of any document
+2 filed pursuant to title 17, title 34 or title 40, chapters
+3 1 and 2 of the Wyoming statutes, an amount not more than
+4 five thousand dollars ($5,000.00). Notwithstanding any
+5 other law to the contrary, the secretary of state may
+6 charge a fee as specified in this paragraph to expedite the
+7 filing of a document filed with the secretary of state's
+8 office pursuant to title 17, title 34 or title 40, chapters
+9 1 and 2 of the Wyoming statutes upon the request of the
+10 filer. The fee and process for requesting an expedited
+11 filing shall be established by rule of the secretary of
+12 state taking into account the impact the cost of the filing
+13 fee may have on total filings, the costs of expediting the
+14 filing and deadlines for responding to filings as required
+15 by law. The expedition of a filing under this paragraph
+16 shall not alter the prioritization of rights determined by
+17 the timing of the filing.
+18
+19 Section 2. This act is effective July 1, 2026.
+20
+21 (END)
+2 HB0016

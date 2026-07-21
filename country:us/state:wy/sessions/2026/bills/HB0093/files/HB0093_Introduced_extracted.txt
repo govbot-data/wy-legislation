@@ -1,0 +1,279 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0316
+HOUSE BILL NO. HB0093
+The people's right to judicial transparency.
+Sponsored by: Representative(s) Lucas, Bear, Brady, Hoeft,
+Johnson, McCann, Ottman, Singh, Smith,
+Strock, Webb and Webber
+A BILL
+for
+1 AN ACT relating to courts; requiring court records and
+2 audio recordings to be publicly available online at no
+3 cost; specifying exceptions; providing definitions; making
+4 conforming amendments; authorizing and requiring
+5 rulemaking; providing an appropriation; and providing for
+6 effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 5-1-112 is created to read:
+11
+12 5-1-112. Court records and court recordings; free
+13 online access required; exceptions; definitions.
+14
+15 (a) As used in this section:
+1 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1
+2 (i) "Court" means the Wyoming supreme court, the
+3 district courts, chancery court, circuit courts, probate
+4 courts and municipal courts of Wyoming and any other court
+5 in Wyoming established by state law;
+6
+7 (ii) "Court record" means any record created by
+8 or submitted to a court, including but not limited to:
+9
+10 (A) All pleadings, motions, filings, orders
+11 and judgments;
+12
+13 (B) Evidence, exhibits and discovery
+14 materials submitted to a court, including interrogatories,
+15 depositions, affidavits and appendices;
+16
+17 (C) Case metadata, including docket
+18 numbers, filing dates, case status and parties of record.
+19
+20 (iii) "Sensitive and bulky exhibits" means
+21 money, controlled substances, child pornography, firearms,
+22 oversized charts, enlarged pictures and any other physical
+2 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1 evidence that cannot be reduced to online access with
+2 reasonable effort and expense.
+3
+4 (b) Except as provided in subsection (c) of this
+5 section, each court shall make all of its court records
+6 available for public viewing at no cost through an online
+7 portal accessible through the court's website. For purposes
+8 of this subsection:
+9
+10 (i) Each court may include a link on its website
+11 to the website where public access is made available;
+12
+13 (ii) Groups of courts may utilize the same court
+14 information technology system or file access system to
+15 provide public online access to court records;
+16
+17 (iii) Public access shall be made available
+18 through standard internet browsers without requiring
+19 registration or the payment of fees or costs;
+20
+21 (iv) Nothing in this section shall be construed
+22 to prohibit or limit a court from charging fees for:
+23
+3 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1 (A) Parties making electronic filings in
+2 that court;
+3
+4 (B) Paper copies of court records.
+5
+6 (c) Courts may, by rule, exempt or limit online
+7 public access to the following court records:
+8
+9 (i) Court records in proceedings in juvenile
+10 court;
+11
+12 (ii) Court records in adoption, guardianship and
+13 conservatorship proceedings;
+14
+15 (iii) Court records in cases and proceedings
+16 involving minors, except for those cases and proceedings
+17 where:
+18
+19 (A) The minor is charged with a criminal
+20 offense as an adult;
+21
+22 (B) The case is transferred from juvenile
+23 court to district court in accordance with W.S. 14-6-237.
+4 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1 For court records in cases under this subparagraph, only
+2 court records generated after a case is transferred to
+3 district court shall be included in the public access
+4 online system.
+5
+6 (iv) Sensitive and bulky records;
+7
+8 (v) Sexual assault offenses charged under title
+9 6, chapter 2, article 3 of the Wyoming statutes, in
+10 accordance with W.S. 6-2-319;
+11
+12 (vi) Court records in cases that are sealed by a
+13 court, in accordance with all of the following:
+14
+15 (A) A court may seal a case upon motion by
+16 a party and upon a showing by clear and convincing evidence
+17 that:
+18
+19 (I) There exists an interest that will
+20 suffer serious and likely harm from disclosure of the court
+21 records;
+22
+5 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1 (II) The interest identified in
+2 subdivision (I) of this subparagraph outweighs the public's
+3 interest in access to the court records; and
+4
+5 (III) There is no less restrictive
+6 alternative available to adequately protect the interest
+7 identified in subdivision (I) of this subparagraph.
+8
+9 (B) Any sealing of court records made under
+10 this paragraph shall be narrowly tailored;
+11
+12 (C) A court ordering the sealing of court
+13 records under this paragraph shall provide particularized
+14 findings on the record for the need for sealing and shall
+15 specify the duration of the sealing and a mechanism for
+16 periodically reviewing the order sealing the court records;
+17
+18 (D) The court shall give preference to
+19 redaction, anonymization and delayed disclosure over
+20 sealing court records;
+21
+22 (E) For cases or court records sealed under
+23 this paragraph, the case number and a brief description of
+6 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1 the reason for sealing or restricting the court records
+2 shall be included on the website or online portal where
+3 court records may be accessed in accordance with this
+4 section.
+5
+6 (d) Except as provided in subsection (e) of this
+7 section, each court shall:
+8
+9 (i) Provide live, real-time audio or video
+10 streaming of each hearing or proceeding at no cost to the
+11 public;
+12
+13 (ii) Provide audio or video recordings of each
+14 hearing or proceeding on the court's website at no cost to
+15 the public not later than seven (7) days after the hearing
+16 or proceeding concludes;
+17
+18 (iii) Maintain an online archive of its audio
+19 and video recordings searchable by case number, party and
+20 date.
+21
+22 (e) Subsection (d) of this section shall not apply
+23 to:
+7 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1
+2 (i) Courts that have not made audio or video
+3 recordings of its hearings or proceedings at any time
+4 before July 1, 2026;
+5
+6 (ii) Cases and proceedings identified in
+7 paragraphs (c)(i), (ii), (iii), (v) and (vi) of this
+8 section.
+9
+10 (f) In implementing this section, the supreme court
+11 or the judicial conference of district judges, as
+12 applicable, shall:
+13
+14 (i) Individually or collectively for groups of
+15 courts, develop, maintain and operate an online portal or
+16 access system to make court records and recordings
+17 available to the public at no cost;
+18
+19 (ii) Establish technical standards for
+20 uploading, indexing and securing court records;
+21
+22 (iii) Promulgate rules for the redaction of
+23 confidential information in accordance with law.
+8 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1
+2 Section 2. W.S. 5-2-120(a) is amended to read:
+3
+4 5-2-120. Judicial systems automation account created;
+5 purposes; court information technology equipment.
+6
+7 (a) There is created an account entitled the
+8 "judicial systems automation account." No funds shall be
+9 expended from the account unless and until the legislature
+10 appropriates the funds. Funds within the account shall be
+11 used by the supreme court for the purchase, maintenance and
+12 operation of computer hardware, including court information
+13 technology equipment, and software to enhance the
+14 communication, records and management needs of the courts
+15 of the judicial branch of the state of Wyoming. Funds
+16 within the account may be used, as determined by the
+17 supreme court, to provide online public access to court
+18 records and recordings in accordance with W.S. 5-1-112.
+19 Interest accruing to this account shall be retained therein
+20 and shall be expended for the purposes provided in this
+21 section, as appropriated by the legislature. Annually, the
+22 supreme court shall develop a plan for all trial and
+23 appellate courts within the state for the expenditure of
+9 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1 funds from the account. Prior to implementation, the plan
+2 shall be annually submitted to the joint appropriations
+3 interim committee and joint judiciary interim committee for
+4 review and comment.
+5
+6 Section 3. There is appropriated one hundred thousand
+7 dollars ($100,000.00) from the general fund to the Wyoming
+8 supreme court for purposes of implementing this act. The
+9 supreme court shall oversee the distribution of funds from
+10 this appropriation to other courts to ensure that each
+11 court receives funds to comply with this act. This
+12 appropriation shall be for the period beginning July 1,
+13 2026 and ending June 30, 2028. This appropriation shall not
+14 be transferred or expended for any other purpose and any
+15 unexpended, unobligated funds remaining from this
+16 appropriation shall revert as provided by law on June 30,
+17 2028. It is the intent of the legislature that this
+18 appropriation not be included on the supreme court's
+19 standard budget request for the immediately succeeding
+20 fiscal biennium.
+21
+22 Section 4. The supreme court and any other court may
+23 take any action necessary to implement this act.
+10 HB0093
+
+2026 STATE OF WYOMING 26LSO-0316
+1
+2 Section 5.
+3
+4 (a) Except as provided in subsection (b) of this
+5 section, this act is effective July 1, 2026.
+6
+7 (b) Sections 4 and 5 of this act are effective
+8 immediately upon completion of all acts necessary for a
+9 bill to become law as provided by Article 4, Section 8 of
+10 the Wyoming Constitution.
+11
+12 (END)
+11 HB0093

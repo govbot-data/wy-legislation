@@ -1,0 +1,69 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0324
+SENATE FILE NO. SF0082
+Duties of registered agents-amendments.
+Sponsored by: Senator(s) Crago, Nethercott and Olsen and
+Representative(s) Clouston, Connolly and
+Filer
+A BILL
+for
+1 AN ACT relating to corporations, partnerships and
+2 associations; modifying the duties of registered agents;
+3 requiring registered agents to maintain the names of all
+4 owners of each entity; providing exceptions; and providing
+5 for an effective date.
+6
+7 Be It Enacted by the Legislature of the State of Wyoming:
+8
+9 Section 1. W.S. 17-28-107(a)(v) by creating a new
+10 subparagraph (D) is amended to read:
+11
+12 17-28-107. Duties of the registered agent; duties of
+13 the entity.
+14
+15 (a) The registered agent shall:
+1 SF0082
+
+2026 STATE OF WYOMING 26LSO-0324
+1
+2 (v) Maintain at the registered office, the
+3 following information for each domestic entity represented
+4 which shall be current within sixty (60) days of any change
+5 until the entity's first annual report is accepted for
+6 filing with the secretary of state and thereafter when the
+7 annual report is due for filing and shall be maintained in
+8 a format that can be reasonably produced on demand:
+9
+10 (D) The names and addresses of each
+11 domestic entity's owners including but not limited to
+12 partners, members and shareholders, unless the entity meets
+13 one (1) of the following:
+14
+15 (I) Has more than one hundred (100)
+16 owners;
+17
+18 (II) Maintains a fixed, physical
+19 business location within this state that serves as the
+20 entity's principal place of business and is used by the
+21 entity for the entity's ordinary business operations;
+22
+2 SF0082
+
+2026 STATE OF WYOMING 26LSO-0324
+1 (III) Is a decentralized autonomous
+2 organization as defined by W.S. 17-31-102(a)(ii); or
+3
+4 (IV) Is a decentralized unincorporated
+5 nonprofit association as defined by W.S. 17-32-102(a)(iii).
+6
+7 Section 2. This act is effective July 1, 2026.
+8
+9 (END)
+3 SF0082

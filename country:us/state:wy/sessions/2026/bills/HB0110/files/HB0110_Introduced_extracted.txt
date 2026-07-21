@@ -1,0 +1,2683 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0161
+HOUSE BILL NO. HB0110
+K-12 public school finance.
+Sponsored by: Select Committee on School Finance
+Recalibration
+A BILL
+for
+1 AN ACT relating to K-12 public school finance; implementing
+2 the 2025 cost of education study as modified by the
+3 legislature; modifying the education resource block grant
+4 model; modifying cash reserves; restricting expenditure of
+5 funds distributed through the school foundation program
+6 account; requiring school districts to participate in the
+7 state employees' and officials' group insurance program;
+8 making conforming amendments; requiring rulemaking;
+9 continuing the mental health services grant program;
+10 repealing provisions; providing appropriations; authorizing
+11 positions; providing borrowing authority; and providing for
+12 effective dates.
+13
+14 Be It Enacted by the Legislature of the State of Wyoming:
+15
+1 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 Section 1. W.S. 21-13-309.1, 21-13-339 and 21-13-340
+2 are created to read:
+3
+4 21-13-309.1. Education resource block grant model
+5 components; retirement; health insurance.
+6
+7 (a) This section is intended to specify the education
+8 resource block grant model components and computations
+9 necessary to execute the 2025 cost of education study as
+10 required by W.S. 21-13-309(t) and as adopted and modified
+11 by the legislature.
+12
+13 (b) As used in this section:
+14
+15 (i) "Average daily membership" or "ADM" means
+16 as defined by W.S. 21-13-101(a)(i) and calculated pursuant
+17 to W.S. 21-13-309(m)(iv);
+18
+19 (ii) "Education resource block grant model"
+20 means as defined by W.S. 21-13-101(a)(xiv);
+21
+22 (iii) "Co-located school" means two (2) or more
+23 schools, each with its own administrative structure, that
+2 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 operate within the same physical facility, regardless of
+2 whether the schools serve the same or different grade
+3 bands;
+4
+5 (iv) "FTE" means full-time equivalency basis as
+6 computed in accordance with the department of education
+7 rule;
+8
+9 (v) "Grade band" means a school grade
+10 configuration that falls within one (1) of the following
+11 configurations:
+12
+13 (A) An elementary school grade band that
+14 includes grades kindergarten through grade six (6) or any
+15 combination of those grades;
+16
+17 (B) A middle school grade band that
+18 includes grades five (5) through eight (8) or grade six (6)
+19 through grades nine (9) or any combination of grades within
+20 those ranges;
+21
+3 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (C) A high school grade band that includes
+2 grades eight (8) through grade twelve (12) or any
+3 combination of those grades.
+4
+5 (c) The education resource block grant model
+6 components and associated resources are as follows:
+7
+8 (i) Full day kindergarten. Funded for all
+9 elementary school grade bands;
+10
+11 (ii) Core teachers. For any school with greater
+12 than fifty (50) ADM, one (1.0) FTE for every sixteen (16)
+13 ADM for grades kindergarten through three (3), one (1.0)
+14 FTE for every twenty-two (22) ADM for grades four (4)
+15 through eight (8) and one (1.0) FTE for every twenty-five
+16 (25) ADM for grades nine (9) through twelve (12);
+17
+18 (iii) Elective/specialist teachers:
+19
+20 (A) Elementary school grade bands. FTE
+21 equal to twenty percent (20%) of the core teachers
+22 calculated pursuant to paragraph (ii) of this subsection;
+23
+4 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (B) Middle school grade bands. FTE equal to
+2 twenty percent (20%) of the core teachers calculated
+3 pursuant to paragraph (ii) of this subsection;
+4
+5 (C) High school grade bands. FTE equal to
+6 thirty-three and one-third percent (33 1/3%) of the core
+7 teachers calculated pursuant to paragraph (ii) of this
+8 subsection.
+9
+10 (iv) For any school with greater than fifty (50)
+11 ADM, additional career and technical education teachers.
+12 FTE equal to thirty-four percent (34%) of each school's
+13 career and technical education students as determined
+14 pursuant to W.S. 21-13-309(m)(v)(D)(I), divided by
+15 twenty-five (25);
+16
+17 (v) Minimum teachers. Resourced at the highest
+18 prototypical school model:
+19
+20 (A) For any school with greater than fifty
+21 (50) ADM, if the combined total FTE calculated pursuant to
+22 paragraphs (ii), (iii) and (iv) of this subsection is less
+23 than the applicable minimum specified in subdivisions (I)
+5 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 through (III) of this subparagraph, the grade band shall be
+2 provided the applicable minimum teacher FTEs as follows:
+3
+4 (I) For an elementary school grade
+5 band with greater than fifty (50) ADM, six (6) FTE and for
+6 an elementary school grade band with fifty (50) ADM or
+7 less, six (6) FTE reduced on a pro rata basis, calculated
+8 by multiplying six (6) teacher FTEs by a fraction, the
+9 numerator of which is the elementary school grade band ADM
+10 and the denominator of which is fifty (50);
+11
+12 (II) For a middle school grade band
+13 with greater than fifty (50) ADM, seven (7) FTE and for a
+14 middle school grade band with fifty (50) ADM or less, seven
+15 (7) FTE reduced on a pro rata basis, calculated by
+16 multiplying seven (7) teacher FTEs by a fraction, the
+17 numerator of which is the middle school grade band ADM and
+18 the denominator of which is fifty (50);
+19
+20 (III) For a high school grade band
+21 with greater than fifty (50) ADM, nine (9) FTE and for a
+22 high school grade band with fifty (50) ADM or less, nine
+23 (9) FTE reduced on a pro rata basis, calculated by
+6 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 multiplying nine (9) teacher FTEs by a fraction, the
+2 numerator of which is the high school grade band ADM and
+3 the denominator of which is fifty (50).
+4
+5 (B) For any school with fifty (50) ADM or
+6 less, the minimum teacher FTEs shall be provided as
+7 follows:
+8
+9 (I) For an elementary school, six (6)
+10 FTE reduced on a pro rata basis, calculated by multiplying
+11 six (6) teacher FTEs by a fraction, the numerator of which
+12 is the school's ADM and the denominator of which is fifty
+13 (50);
+14
+15 (II) For a middle school, seven (7)
+16 FTE reduced on a pro rata basis, calculated by multiplying
+17 seven (7) teacher FTEs by a fraction, the numerator of
+18 which is the school's ADM and the denominator of which is
+19 fifty (50);
+20
+21 (III) For a high school, nine (9) FTE
+22 reduced on a pro rata basis, calculated by multiplying nine
+23 (9) teacher FTEs by a fraction, the numerator of which is
+7 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 the school's ADM and the denominator of which is fifty
+2 (50).
+3
+4 (vi) Summer school teachers. One (1.0) FTE for
+5 every one hundred twenty (120) at-risk students identified
+6 pursuant to W.S. 21-13-309(m)(v)(A);
+7
+8 (vii) Extended day school teachers. One (1.0)
+9 FTE for every one hundred twenty (120) at-risk students
+10 identified pursuant to W.S. 21-13-309(m)(v)(A);
+11
+12 (viii) English language learner teachers. One
+13 (1.0) FTE for every one hundred (100) students identified
+14 as limited English proficient in accordance with rules
+15 enacted by the department of education pursuant to W.S.
+16 21-13-309(m)(v)(A);
+17
+18 (ix) Instructional facilitators. Resourced at
+19 the highest prototypical school model using total school
+20 ADM:
+21
+22 (A) Elementary schools. One and one-half
+23 (1.5) FTE for every three hundred thirty (330) ADM;
+8 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (B) Middle schools. One and one-half (1.5)
+3 FTE for every three hundred fifteen (315) ADM;
+4
+5 (C) High schools. One and one-half (1.5)
+6 FTE for every three hundred fifteen (315) ADM;
+7
+8 (D) Notwithstanding subparagraphs (A)
+9 through (C) of this paragraph, each school district shall
+10 receive a minimum of one (1.0) FTE.
+11
+12 (x) At-risk/core tutors. Resourced at the
+13 highest prototypical school model using total school ADM.
+14 One (1.0) FTE for every one hundred (100) at-risk students
+15 identified pursuant to W.S. 21-13-309(m)(v)(A), plus:
+16
+17 (A) Elementary schools. One (1.0) FTE for
+18 every three hundred thirty (330) ADM;
+19
+20 (B) Middle schools. One (1.0) FTE for every
+21 three hundred fifteen (315) ADM;
+22
+9 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (C) High schools. One (1.0) FTE for every
+2 three hundred fifteen (315) ADM.
+3
+4 (xi) Substitute teachers. An amount equal to:
+5
+6 (A) For FTEs, five and seven hundred
+7 fifteen thousandths percent (5.715%) of the combined total
+8 FTEs generated by paragraphs (ii) through (x) of this
+9 subsection;
+10
+11 (B) For employer paid social security and
+12 Medicaid benefits, the amount calculated in subparagraph
+13 (A) of this paragraph multiplied by a daily salary as
+14 specified in subparagraph (xxxiv)(P) of this subsection,
+15 multiplied by seven and sixty-five hundredths percent
+16 (7.65%).
+17
+18 (xii) Counselors. Resourced at each grade band:
+19
+20 (A) Elementary school grade bands.
+21 Effective school year 2027-2028 and each school year
+22 thereafter, one (1.0) FTE for every three hundred thirty
+23 (330) ADM;
+10 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (B) Middle school grade bands. One (1.0)
+3 FTE for every two hundred fifty (250) ADM;
+4
+5 (C) High school grade bands. One (1.0) FTE
+6 for every two hundred fifty (250) ADM;
+7
+8 (D) Effective school year 2027-2028 and
+9 each school year thereafter, notwithstanding subparagraphs
+10 (A) through (C) of this paragraph, each school district
+11 shall receive a minimum of one (1.0) FTE.
+12
+13 (xiii) Pupil support positions. Effective school
+14 year 2027-2028 and each school year thereafter, one (1.0)
+15 FTE for every one hundred (100) at-risk students computed
+16 under W.S. 21-13-309(m)(v)(A). For school year 2026-2027
+17 only, the greater of:
+18
+19 (A) One (1.0) FTE for every one hundred
+20 (100) at-risk students computed under W.S.
+21 21-13-309(m)(v)(A); or
+22
+11 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (B) Resourced at the highest prototypical
+2 school model using total school ADM:
+3
+4 (I) Elementary schools. One (1.0) FTE
+5 for every three hundred thirty (330) ADM;
+6
+7 (II) Middle schools. One (1.0) FTE for
+8 every three hundred fifteen (315) ADM;
+9
+10 (III) High schools. One (1.0) FTE for
+11 every three hundred fifteen (315) ADM.
+12
+13 (xiv) Nurses. Effective school year 2027-2028
+14 and each school year thereafter, resourced at the highest
+15 prototypical school model using total school ADM:
+16
+17 (A) Elementary schools. One (1.0) FTE for
+18 every three hundred thirty (330) ADM;
+19
+20 (B) Middle schools. One (1.0) FTE for every
+21 three hundred fifteen (315) ADM;
+22
+12 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (C) High schools. One (1.0) FTE for every
+2 three hundred fifteen (315) ADM;
+3
+4 (D) Notwithstanding subparagraphs (A)
+5 through (C) of this paragraph, each school district shall
+6 receive a minimum of one-half (0.5) FTE.
+7
+8 (xv) Supervisory aides. Resourced at the highest
+9 prototypical school model using total school ADM:
+10
+11 (A) Elementary schools. Two (2.0) FTE for
+12 every three hundred thirty (330) ADM;
+13
+14 (B) Middle schools. Two (2.0) FTE for every
+15 three hundred fifteen (315) ADM;
+16
+17 (C) High schools. Three (3.0) FTE for every
+18 six hundred thirty (630) ADM.
+19
+20 (xvi) Librarians. Resourced at the highest
+21 prototypical school model using total school ADM:
+22
+13 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (A) Elementary schools. One (1.0) FTE for
+2 every three hundred thirty (330) ADM up to three hundred
+3 thirty (330) ADM;
+4
+5 (B) Middle schools. One (1.0) FTE for every
+6 three hundred fifteen (315) ADM up to three hundred fifteen
+7 (315) ADM;
+8
+9 (C) High schools. One (1.0) FTE for every
+10 six hundred thirty (630) ADM up to six hundred thirty (630)
+11 ADM;
+12
+13 (D) Notwithstanding subparagraphs (A)
+14 through (C) of this paragraph, each school district shall
+15 receive a minimum of one-half (0.5) FTE.
+16
+17 (xvii) Library aides. Resourced at the highest
+18 prototypical school model using total school ADM:
+19
+20 (A) Elementary schools. One (1.0) FTE for
+21 each additional three hundred thirty (330) ADM above three
+22 hundred thirty (330) ADM;
+23
+14 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (B) Middle schools. One (1.0) FTE for each
+2 additional three hundred fifteen (315) ADM above three
+3 hundred fifteen (315) ADM;
+4
+5 (C) High schools. One (1.0) FTE for each
+6 additional six hundred thirty (630) ADM above six hundred
+7 thirty (630) ADM.
+8
+9 (xviii) Principals. Resourced at the highest
+10 prototypical school model using total school ADM:
+11
+12 (A) Elementary schools. One (1.0) FTE for
+13 each school with at least one hundred ten (110) ADM;
+14
+15 (B) Middle schools. One (1.0) FTE for each
+16 school with at least one hundred five (105) ADM;
+17
+18 (C) High schools. One (1.0) FTE for each
+19 school with at least one hundred five (105) ADM.
+20
+21 (xix) Assistant principals. Resourced at the
+22 highest prototypical school model using total school ADM:
+23
+15 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (A) Elementary schools. The greater of:
+2
+3 (I) One (1.0) FTE for each additional
+4 three hundred thirty (330) ADM above three hundred thirty
+5 (330) ADM; or
+6
+7 (II) One (1.0) FTE for schools with
+8 less than one hundred ten (110) ADM.
+9
+10 (B) Middle schools. The greater of:
+11
+12 (I) One (1.0) assistant principal
+13 position for each additional three hundred fifteen (315)
+14 ADM above three hundred fifteen (315) ADM; or
+15
+16 (II) One (1.0) FTE for schools with
+17 less than one hundred five (105) ADM.
+18
+19 (C) High schools. The greater of:
+20
+21 (I) One (1.0) assistant principal
+22 position for each additional three hundred fifteen (315)
+23 ADM above three hundred fifteen (315) ADM; or
+16 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (II) One (1.0) FTE for schools with
+3 less than one hundred five (105) ADM.
+4
+5 (xx) School site secretaries. Resourced at the
+6 highest prototypical school model using total school ADM:
+7
+8 (A) Elementary schools. Two (2) FTE for
+9 three hundred thirty (330) ADM, prorated down to one and
+10 one-half (1.5) FTE for two hundred twenty (220) ADM,
+11 prorated down to one (1.0) FTE for one hundred ten (110)
+12 ADM, one (1.0) FTE prorated below one hundred ten (110)
+13 ADM. For schools with greater than three hundred thirty
+14 (330) ADM, one (1.0) additional FTE for each additional one
+15 hundred sixty-five (165) ADM;
+16
+17 (B) Middle schools. Two (2.0) FTE for three
+18 hundred fifteen (315) ADM, prorated down to one and
+19 one-half (1.5) FTE for two hundred ten (210) ADM, prorated
+20 down to one (1.0) FTE for one hundred five (105) ADM, one
+21 (1.0) FTE prorated below one hundred five (105) ADM. For
+22 schools with ADM greater than three hundred fifteen (315)
+17 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 ADM, one (1.0) additional FTE for each additional one
+2 hundred fifty-seven and one-half (157.5) ADM;
+3
+4 (C) High schools. Three (3.0) FTE for six
+5 hundred thirty (630) ADM, prorated down to two (2.0) FTE
+6 for three hundred fifteen (315) ADM, prorated down to one
+7 and one-half (1.5) FTE for two hundred ten (210) ADM,
+8 prorated down to one (1.0) FTE for one hundred five (105)
+9 ADM, one (1.0) FTE prorated below one hundred five (105)
+10 ADM. For schools with ADM greater than six hundred thirty
+11 (630) ADM, one (1.0) additional FTE for each additional two
+12 hundred ten (210) ADM.
+13
+14 (xxi) Instructional and library materials. Three
+15 hundred dollars ($300.00) per ADM;
+16
+17 (xxii) Technology and equipment. Two hundred
+18 fifty dollars ($250.00) per ADM;
+19
+20 (xxiii) Gifted and talented students.
+21 Twenty-five dollars ($25.00) per ADM.
+22
+23 (xxiv) Student activities:
+18 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (A) School districts with two thousand
+3 (2,000) or more ADM: eight hundred thirty-three dollars
+4 ($833.00) per high school grade band ADM, four hundred
+5 forty-seven dollars ($447.00) per middle school grade band
+6 ADM and thirty-five dollars ($35.00) per elementary school
+7 grade band ADM;
+8
+9 (B) School districts with five hundred
+10 (500) ADM: two thousand eighty-two dollars and fifty cents
+11 ($2,082.50) per high school grade band ADM, one thousand
+12 one hundred seventeen dollars and fifty cents ($1,117.50)
+13 per middle school grade band ADM and eighty-seven dollars
+14 and fifty cents ($87.50) per elementary school grade band
+15 ADM;
+16
+17 (C) School districts with one hundred fifty
+18 (150) or fewer ADM: two thousand four hundred ninety-nine
+19 dollars ($2,499.00) per high school grade band ADM, one
+20 thousand three hundred forty-one dollars ($1,341.00) per
+21 middle school grade band ADM and one hundred five dollars
+22 ($105.00) per elementary school grade band ADM;
+23
+19 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (D) For school districts with less than two
+2 thousand (2,000) ADM and more than five hundred (500) ADM
+3 the per ADM amounts specified in subparagraph (A) of this
+4 paragraph shall be proportionally adjusted on a linear per
+5 ADM basis to the per ADM amounts specified in subparagraph
+6 (B) of this paragraph;
+7
+8 (E) For school districts with less than
+9 five hundred (500) ADM and more than one hundred fifty
+10 (150) ADM the per ADM amounts specified in subparagraph (B)
+11 of this paragraph shall be proportionally adjusted on a
+12 linear per ADM basis to the per ADM amounts specified in
+13 subparagraph (C) of this paragraph.
+14
+15 (xxv) Professional development. One hundred
+16 ninety-one dollars and forty-three cents ($191.43) per ADM;
+17
+18 (xxvi) Short cycle and formative assessments.
+19 Twenty-five dollars ($25.00) per ADM;
+20
+21 (xxvii) Central office staff. Central office
+22 staff shall be calculated utilizing the school district's
+23 ADM, as follows:
+20 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (A) For school districts with five hundred
+3 (500) ADM or less:
+4
+5 (I) One (1.0) FTE for a superintendent
+6 position;
+7
+8 (II) One and one-half (1.5) FTE for
+9 deputy/assistant superintendent positions;
+10
+11 (III) Two (2.0) FTE for
+12 secretary/accounting positions;
+13
+14 (IV) One (1.0) FTE for a computer
+15 technician position.
+16
+17 (B) For school districts with more than
+18 five hundred (500) ADM and less than or equal to one
+19 thousand (1,000) ADM:
+20
+21 (I) One (1.0) FTE for a superintendent
+22 position;
+23
+21 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (II) Two (2.0) FTE for
+2 deputy/assistant superintendent positions at one thousand
+3 (1,000) ADM prorated down to one and one-half (1.5) FTE for
+4 five hundred (500) ADM;
+5
+6 (III) Three (3.0) FTE for
+7 secretary/accounting positions at one thousand (1,000) ADM
+8 prorated down to two (2.0) FTE for five hundred (500) ADM;
+9
+10 (IV) Two (2.0) FTE for computer
+11 technician positions at one thousand (1,000) ADM prorated
+12 down to one (1.0) FTE for five hundred (500) ADM.
+13
+14 (C) For school districts with more than one
+15 thousand (1,000) ADM and less than or equal to two thousand
+16 (2,000) ADM:
+17
+18 (I) One (1.0) FTE for a superintendent
+19 position;
+20
+21 (II) Three (3.0) FTE for
+22 deputy/assistant superintendent positions at two thousand
+22 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (2,000) ADM prorated down to two (2.0) FTE for one thousand
+2 (1,000) ADM;
+3
+4 (III) Six and one-half (6.5) FTE for
+5 secretary/accounting positions at two thousand (2,000) ADM
+6 prorated down to three (3.0) FTE for one thousand (1,000)
+7 ADM;
+8
+9 (IV) Two and one-half (2.5) FTE for
+10 computer technician positions at two thousand (2,000) ADM
+11 prorated down to two (2.0) FTE for one thousand (1,000)
+12 ADM.
+13
+14 (D) For school districts with more than two
+15 thousand (2,000) ADM and less than or equal to four
+16 thousand (4,000) ADM:
+17
+18 (I) One (1.0) FTE for a superintendent
+19 position;
+20
+21 (II) Four (4.0) FTE for
+22 deputy/assistant superintendent positions at four thousand
+23 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (4,000) ADM prorated down to three (3.0) FTE for two
+2 thousand (2,000) ADM;
+3
+4 (III) Ten (10.0) FTE for
+5 secretary/accounting positions at four thousand (4,000) ADM
+6 prorated down to six and one-half (6.5) FTE for two
+7 thousand (2,000) ADM;
+8
+9 (IV) Five (5.0) FTE for computer
+10 technician positions at four thousand (4,000) ADM prorated
+11 down to two and one-half (2.5) FTE for two thousand (2,000)
+12 ADM;
+13
+14 (V) Three (3.0) FTE for
+15 director/coordinator positions at four thousand (4,000) ADM
+16 prorated down to zero (0.0) FTE for two thousand (2,000)
+17 ADM;
+18
+19 (VI) One (1.0) FTE for a network
+20 supervisor position at four thousand (4,000) ADM prorated
+21 down to zero (0.0) FTE for two thousand (2,000) ADM;
+22
+24 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (VII) One (1.0) FTE for a software
+2 manager position at four thousand (4,000) ADM prorated down
+3 to zero (0.0) FTE for two thousand (2,000) ADM.
+4
+5 (E) For school districts with more than
+6 four thousand (4,000) ADM and less than or equal to twelve
+7 thousand (12,000) ADM:
+8
+9 (I) One (1.0) FTE for a superintendent
+10 position;
+11
+12 (II) Four (4.0) FTE for
+13 deputy/assistant superintendent positions;
+14
+15 (III) Twenty (20.0) FTE for
+16 secretary/accounting positions at twelve thousand (12,000)
+17 ADM prorated down to ten (10.0) FTE for four thousand
+18 (4,000) ADM;
+19
+20 (IV) Fifteen (15.0) FTE for computer
+21 technician positions at twelve thousand (12,000) ADM
+22 prorated down to five (5.0) FTE for four thousand (4,000)
+23 ADM;
+25 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (V) Nine (9.0) FTE for
+3 director/coordinator positions at twelve thousand (12,000)
+4 ADM prorated down to three (3.0) FTE for four thousand
+5 (4,000) ADM;
+6
+7 (VI) Two (2.0) FTE for network
+8 supervisor positions at twelve thousand (12,000) ADM
+9 prorated down to one (1.0) FTE for four thousand (4,000)
+10 ADM;
+11
+12 (VII) Two (2.0) FTE for software
+13 manager positions at twelve thousand (12,000) ADM prorated
+14 down to one (1.0) FTE for four thousand (4,000) ADM;
+15
+16 (VIII) Ten (10.0) FTE for other
+17 central office professional positions at twelve thousand
+18 (12,000) ADM prorated down to zero (0.0) FTE for four
+19 thousand (4,000) ADM.
+20
+21 (F) For school districts with more than
+22 twelve thousand (12,000) ADM:
+23
+26 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (I) One (1.0) FTE for a superintendent
+2 position;
+3
+4 (II) Four (4.0) FTE for
+5 deputy/assistant superintendent positions;
+6
+7 (III) Twenty (20.0) FTE for
+8 secretary/accounting positions prorated up from twelve
+9 thousand (12,000) ADM;
+10
+11 (IV) Fifteen (15.0) FTE for computer
+12 technician positions prorated up from twelve thousand
+13 (12,000) ADM;
+14
+15 (V) Nine (9.0) FTE for
+16 director/coordinator positions prorated up from twelve
+17 thousand (12,000) ADM;
+18
+19 (VI) Two (2.0) FTE for network
+20 supervisor positions prorated up from twelve thousand
+21 (12,000) ADM;
+22
+27 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (VII) Two (2.0) FTE for software
+2 manager positions prorated up from twelve thousand (12,000)
+3 ADM;
+4
+5 (VIII) Ten (10.0) FTE for other
+6 central office professional positions prorated up from
+7 twelve thousand (12,000) ADM.
+8
+9 (xxviii) Central office nonpersonnel resources.
+10 Six hundred six dollars ($606.00) per ADM;
+11
+12 (xxix) School custodians. Resourced at the
+13 highest prototypical school model for each school operating
+14 for the immediately preceding school year:
+15
+16 (A) For schools with more than fifty (50)
+17 ADM, calculated using the average of the four (4) factors
+18 specified under subdivisions (I) through (IV) of this
+19 subparagraph, plus an additional one-half (0.5) FTE for
+20 middle or high schools:
+21
+28 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (I) One (1.0) FTE for every thirteen
+2 (13) FTE resourced under paragraphs (ii) through (v) of
+3 this subsection;
+4
+5 (II) One (1.0) FTE for every three
+6 hundred twenty-five (325) ADM;
+7
+8 (III) One (1.0) FTE for every thirteen
+9 (13) classrooms;
+10
+11 (IV) One (1.0) FTE for every eighteen
+12 thousand (18,000) square feet of authorized education
+13 space, as determined by W.S. 21-13-309(m)(v)(G).
+14
+15 (B) District custodians. One (1.0) FTE for
+16 every eighteen thousand (18,000) square feet of authorized
+17 education space, multiplied by ten percent (10%) of the
+18 total authorized education space for all school buildings
+19 in the district, as determined under W.S.
+20 21-13-309(m)(v)(G).
+21
+29 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (xxx) Maintenance workers. Resourced at the
+2 highest prototypical school model for each school operating
+3 for the immediately preceding school year:
+4
+5 (A) A base FTE resourced using the average
+6 of the four (4) factors specified under subdivisions (I)
+7 through (IV) of this subparagraph, plus the additional
+8 adjustments to the base FTE amount as provided in
+9 subdivision (V) of this subparagraph:
+10
+11 (I) One and one-tenth (1.1) FTE per
+12 school building;
+13
+14 (II) One (1.0) FTE for every sixty
+15 thousand (60,000) square feet of authorized education
+16 space, as determined under W.S. 21-13-309(m)(v)(G),
+17 multiplied by one and two-tenths (1.2);
+18
+19 (III) One (1.0) FTE for every one
+20 thousand (1,000) ADM, multiplied by one and three-tenths
+21 (1.3);
+22
+30 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (IV) One (1.0) FTE for every five
+2 million dollars ($5,000,000.00) of the school district's
+3 school year 2004-2005 general fund operating expenditures,
+4 multiplied by one and two-tenths (1.2);
+5
+6 (V) The base FTE calculated under this
+7 subparagraph for each school building shall be adjusted as
+8 follows:
+9
+10 (1) A school level adjustment for
+11 elementary schools equal to the product of the base FTE
+12 multiplied by a factor of eight-tenths (0.8) less the base
+13 FTE and for high schools equal to the product of the base
+14 FTE multiplied by two (2) less the base FTE;
+15
+16 (2) A building age adjustment for
+17 a school building that is less than ten (10) years old
+18 equal to the product of the base FTE multiplied by a factor
+19 of ninety-five hundredths (0.95) less the base FTE and for
+20 a school building that is more than thirty (30) years old
+21 equal to the product of the base FTE multiplied by a factor
+22 of one and one-tenth (1.1) less the base FTE;
+23
+31 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (3) A small district adjustment
+2 for a school district with less than one thousand (1,000)
+3 ADM equal to the base FTE plus the adjustments under
+4 subdivisions (1) and (2) of this subdivision, then
+5 multiplied by a factor of one and one-tenth (1.1) less the
+6 base FTE and the adjustments under subdivisions (1) and (2)
+7 of this subdivision.
+8
+9 (xxxi) Groundskeepers. In making calculations
+10 under this subparagraph:
+11
+12 (A) For school land acreage containing more
+13 than one (1) school building, the resources shall be
+14 generated at the highest applicable prototypical school
+15 model using the total ADM of all schools on the land
+16 acreage;
+17
+18 (B) Acreage acquired by a district after
+19 July 1, 1997 shall be calculated using the lesser of the
+20 actual site acreage on which the facility is situated or
+21 the acreage specified in state construction department's
+22 rules, provided that this limitation shall not apply if the
+23 acreage was acquired through an exchange with another
+32 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 governmental entity and the acreages involved in the
+2 exchange were originally acquired by the district and the
+3 governmental entity on or prior to July 1, 1997;
+4
+5 (C) A base groundskeeper FTE for each
+6 school site for the immediately preceding school year shall
+7 be equal to the authorized acreage computed under
+8 subparagraphs (A) and (B) of this paragraph multiplied by
+9 ninety-three (93) hours per acre divided by two thousand
+10 eight (2,008) hours of work per year. The base
+11 groundskeeper FTE shall be adjusted by a factor equal to
+12 the base groundskeeper FTE multiplied by one and
+13 five-tenths (1.5) for middle school sites and two and
+14 five-tenths (2.5) for high school sites;
+15
+16 (D) Groundskeeper FTE positions for
+17 district level sites shall be equal to ten percent (10%) of
+18 the school level groundskeeper FTE positions calculated
+19 under subparagraph (C) of this paragraph.
+20
+21 (xxxii) Operations and maintenance supplies. The
+22 authorized education space for each school building, as
+23 determined under W.S. 21-13-309(m)(v)(G), multiplied by one
+33 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 dollar and two cents ($1.02) per square foot and adjusted
+2 by a factor of one and one-tenth (1.1);
+3
+4 (xxxiii) Utilities. Actual school year 2024-2025
+5 general fund expenditures by school district excluding
+6 amounts reimbursed under W.S. 21-13-320 and 21-13-321
+7 adjusted by the external cost adjustment in accordance with
+8 W.S. 21-13-309(o). For additional buildings added or
+9 removed from school district building inventories after
+10 school year 2024-2025, one hundred percent (100%) of
+11 2024-2025 district average utility expenditures per gross
+12 square foot for district school buildings as adjusted by
+13 the external cost adjustment in accordance with W.S.
+14 21-13-309(o) multiplied by the additional or removed square
+15 footage;
+16
+17 (xxxiv) Salaries. The average salaries for the
+18 positions specified in this subsection shall be as follows:
+19
+20 (A) Superintendents: one hundred sixty-four
+21 thousand three hundred sixty-seven dollars ($164,367.00);
+22
+34 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (B) Deputy/assistant superintendents: one
+2 hundred twenty-four thousand nine hundred ninety-four
+3 dollars ($124,994.00);
+4
+5 (C) Director/coordinators: one hundred
+6 fifteen thousand nine hundred five dollars ($115,905.00);
+7
+8 (D) Other central office professional
+9 personnel: ninety thousand dollars ($90,000.00);
+10
+11 (E) Network supervisor/software managers:
+12 sixty-eight thousand five hundred sixteen dollars
+13 ($68,516.00);
+14
+15 (F) Computer technicians: sixty thousand
+16 three hundred fifty-eight dollars ($60,358.00);
+17
+18 (G) Principals: one hundred fifteen
+19 thousand nine hundred five dollars ($115,905.00);
+20
+21 (H) Assistant principals: one hundred eight
+22 thousand nine hundred fifty-one dollars ($108,951.00);
+23
+35 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (J) Teachers, including instructional
+2 facilitators, tutors, counselors, pupil support, librarians
+3 and nurses: seventy thousand five hundred sixty dollars
+4 ($70,560.00);
+5
+6 (K) Secretary/accounting personnel:
+7 forty-seven thousand four hundred thirty-two dollars
+8 ($47,432.00);
+9
+10 (M) Supervisory/library aides: twenty-nine
+11 thousand four hundred thirty-four dollars ($29,434.00);
+12
+13 (N) Maintenance workers: fifty-three
+14 thousand seven hundred twenty-four dollars ($53,724.00);
+15
+16 (O) Groundskeepers/custodians: thirty-seven
+17 thousand six hundred five dollars ($37,605.00);
+18
+19 (P) Substitute teachers: one hundred
+20 eighty-five dollars ($185.00) per day.
+21
+22 (xxxv) In determining the resources allocated to
+23 each school district, each salary specified in paragraph
+36 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (xxxiv) of this subsection shall be adjusted in the
+2 following order:
+3
+4 (A) Multiplied by the external cost
+5 adjustment adopted by the legislature pursuant to W.S.
+6 21-13-309(o) and in accordance with paragraph (xxxviii) of
+7 this subsection;
+8
+9 (B) Multiplied by the lowest regional cost
+10 adjustment specified in subsection (g) of this section for
+11 the applicable school year to establish a baseline salary;
+12
+13 (C) The baseline salary for each position
+14 computed in subparagraph (B) of this subsection shall be
+15 further multiplied by each school district's rebased
+16 regional cost adjustment determined in subsection (g) of
+17 this section for the applicable school year to determine
+18 the salary for each school district for each position.
+19
+20 (xxxvi) Employer-paid payroll costs. In
+21 determining the resources allocated to each school
+22 district, each salary shall be multiplied by eight and
+23 forty-one hundredths percent (8.41%), including:
+37 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (A) Social security equal to six and
+3 two-tenths percent (6.2%). Social security benefits shall
+4 be limited to each salary up to the maximum taxable
+5 earnings amount as of January 1 of the immediately
+6 preceding school year;
+7
+8 (B) Medicare equal to one and forty-five
+9 hundredths percent (1.45%);
+10
+11 (C) Workers' compensation equal to
+12 seven-tenths percent (0.7%);
+13
+14 (D) Unemployment insurance equal to
+15 six-hundredths percent (0.06%).
+16
+17 (xxxvii) Health insurance. For school year 2026–
+18 2027 only, health insurance benefits shall be computed
+19 under W.S. 21-13-309(m)(v)(F) and multiplied by the total
+20 FTE calculated under this subsection, excluding positions
+21 calculated under paragraphs (vi) and (vii) of this section.
+22 For school year 2027-2028, and each school year thereafter,
+38 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 health insurance benefits shall be computed pursuant to
+2 W.S. 21-13-340;
+3
+4 (xxxviii) External cost adjustment. The
+5 following categories of model components shall be adjusted
+6 by the external cost adjustment adopted by the legislature
+7 pursuant to W.S. 21-13-309(o):
+8
+9 (A) "Education materials category"
+10 including the following components:
+11
+12 (I) Instructional and library
+13 materials component resourced under paragraph (xxi) of this
+14 subsection;
+15
+16 (II) Student activities component
+17 resourced under paragraph (xxiv) of this subsection;
+18
+19 (III) Professional development
+20 component determined under paragraph (xxv) of this
+21 subsection;
+22
+39 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (IV) Central office nonpersonnel
+2 resources under paragraph (xxviii) of this subsection;
+3
+4 (V) Operations and maintenance
+5 supplies resources under paragraph (xxxii) of this
+6 subsection.
+7
+8 (B) "Energy category" includes the
+9 utilities component resourced under paragraph (xxxiii) of
+10 this subsection;
+11
+12 (C) "Nonprofessional labor category"
+13 includes salaries for secretaries and accounting staff,
+14 supervisory and library aides, groundskeepers and
+15 custodians and maintenance workers identified under
+16 paragraph (xxxiv) of this subsection;
+17
+18 (D) "Professional labor category" including
+19 salaries for superintendents, deputy and assistant
+20 superintendents, directors and coordinators, other central
+21 office professional personnel, network supervisors and
+22 software managers, computer technicians, principals,
+40 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 assistant principals and teachers identified under
+2 paragraph (xxxiv) of this subsection.
+3
+4 (d) Amounts resourced through the education resource
+5 block grant model for FTE generated pursuant to paragraphs
+6 (c)(ii) through (x) of this section shall only be expended
+7 by a school district for instructional purposes and shall
+8 not be expended or transferred for any other purpose. As
+9 used in the subsection, "instructional purposes" includes
+10 individual, group or class instructional activities to
+11 provide educational programs required under W.S. 21-9-101
+12 by teachers, tutors, paraeducators or instructional aides
+13 or any combination thereof, the use of instructional
+14 facilitators or any other instructional activity to assist
+15 in the instructional process. Nothing in this subsection
+16 shall prohibit a district from hiring fewer or more
+17 positions than resourced under paragraphs (c)(ii) through
+18 (x) of this section, prohibit a district from hiring
+19 paraeducators or instructional aides for instructional
+20 purposes or prohibit a district from contracting to deliver
+21 the educational program. Expenditures related to
+22 technology and equipment or instructional materials are not
+41 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 appropriate expenditures for instructional purposes under
+2 this subsection.
+3
+4 (e) Notwithstanding any other provision of law, a
+5 superintendent's total compensation paid by a school
+6 district shall not exceed two hundred thirty-three and
+7 one-third percent (233 1/3%) of the average teacher's total
+8 compensation paid by that district for the applicable
+9 school year. This subsection shall only apply to
+10 superintendent employment contracts entered into, renewed
+11 or amended on or after July 1, 2026.
+12
+13 (f) Notwithstanding any other provision of law,
+14 co-located schools shall be treated as a single school for
+15 purposes of funding, staffing and resource allocation
+16 through the education resource block grant model. The ADM
+17 for co-located schools shall be aggregated, and no
+18 component of the education resource block grant model, or
+19 any categorical allocation shall be calculated or
+20 distributed on a separate or duplicative basis for
+21 co-located schools, unless expressly authorized by law.
+22
+42 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (g) The salary for each staffing category shall be
+2 further adjusted for regional cost differences as follows:
+3
+4 (i) By the hedonic wage index as computed in the
+5 2025 cost of education study. For school year 2027-2028 and
+6 each year thereafter, the hedonic wage index shall be
+7 updated annually by the legislative service office until it
+8 is recalibrated in accordance with W.S. 21-13-309(t). Each
+9 salary under paragraph (c)(xxxiv) of this section shall be
+10 adjusted by the lowest annual hedonic wage index to
+11 establish a baseline state average salary for each position
+12 in the education resource block grant model. The baseline
+13 state average salary shall be further adjusted by each
+14 school district's rebased hedonic wage index with a minimum
+15 of one hundred (100) as the index value or an adjusted
+16 rebased hedonic wage index as computed in paragraph (ii) of
+17 this subsection;
+18
+19 (ii) If the difference between a school
+20 district's rebased Wyoming cost-of-living index and its
+21 rebased hedonic wage index is greater than thirty-three
+22 (33) percentage points, the difference, less thirty-three
+23 (33) percentage points, shall be added to a district's
+43 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 rebased hedonic wage index. The version of the Wyoming
+2 cost-of-living index used under this paragraph for any
+3 school year shall be the average of the six (6) consecutive
+4 semi-annual index reports completed by January 1 of the
+5 immediately preceding school year and each semi-annual
+6 index report shall be rebased with the minimum of one (100)
+7 as the index value.
+8
+9 (h) Nothing in this section shall be construed to
+10 require a school district to pay salaries in the amounts
+11 specified in this section. Notwithstanding any other
+12 provision of law, except as provided for school district
+13 superintendents, a school district may compensate employees
+14 in accordance with its adopted salary schedule.
+15
+16 21-13-339. Retirement; K-12 public school employees.
+17
+18 In addition to amounts resourced and computed by the
+19 education resource block grant model and amounts reimbursed
+20 under W.S. 21-13-320 and 21-13-321, the department of
+21 education shall reimburse each school district for
+22 retirement benefits equal to the percentage paid for state
+23 employee members under W.S. 9-3-413 and 9-3-413.1, but
+44 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 only for those employees' salaries paid from amounts
+2 specified by W.S. 21-13-309.1, 21-13-320 or 21-13-321. If a
+3 portion of an employee's total salary is paid from funds
+4 other than those amounts specified by W.S. 21-13-309.1,
+5 21-13-320 or 21-13-321, only the proportional amount shall
+6 be subject to reimbursement. The department shall
+7 promulgate rules regarding employee eligibility for
+8 reimbursement under this section and the information
+9 required from school districts to reimburse retirement
+10 benefit costs under this section. The department shall
+11 reimburse the amount computed under this section to each
+12 school district monthly or in accordance with the schedule
+13 provided under W.S. 21-13-313(c).
+14
+15 21-13-340. State employees' and officials' group
+16 insurance reimbursements for K-12 public school employees.
+17
+18 (a) Commencing school year 2027–2028, in addition to
+19 amounts resourced by the education resource block grant
+20 model and reimbursed under W.S. 21-13-320 and 21-13-321,
+21 each school district shall receive from the department of
+22 education an amount equal to the monthly employer
+23 contribution established by the department of
+45 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 administration and information for school district
+2 employees electing coverage in the state employees' and
+3 officials' group insurance plan pursuant to W.S. 9-3-210
+4 and 9-3-211, but only for those employees hired from
+5 amounts specified by W.S. 21-13-309.1, 21-13-320 or
+6 21-13-321. If a portion of an employee's total salary is
+7 paid from funds other than those amounts specified by W.S.
+8 21-13-309.1, 21-13-320 or 21-13-321, only the proportional
+9 amount for the employer contribution shall be subject to
+10 reimbursement. Each school district shall remit to the
+11 department of administration and information the applicable
+12 monthly premium for each covered employee or official in
+13 accordance with W.S. 21-7-301(b). The department of
+14 education shall promulgate rules regarding the employees
+15 eligible for reimbursement under this section and any other
+16 necessary information required to be collected from school
+17 districts to reimburse the necessary amount for the
+18 employer contribution under this section. The department of
+19 education shall reimburse the amount computed under this
+20 section to each school district monthly or in accordance
+21 with the schedule provided under W.S. 21-13-313(c).
+22
+46 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (b) Commencing school year 2027–2028, each school
+2 district shall participate in the state employees' and
+3 officials' group insurance plan in accordance with W.S.
+4 9-3-201 et seq.
+5
+6 Section 2. W.S. 9-3-413.1(a)(v), 16-4-105(b),
+7 21-2-202(g), 21-2-204(b)(intro), 21-3-314(c)(i) and (vi),
+8 21-13-101(a)(xiv), (xvi)(A)(II) through (IV) and (c),
+9 21-13-102(e), 21-13-307 by creating a new subsection (c),
+10 21-13-309(m)(iv)(A), (v)(intro), (B)(intro), (IV)(intro),
+11 (G)(intro), (I), (II), (vi)(C), (o) and (u), 21-13-310(a)
+12 by creating new paragraph (xv) and by renumbering (xv) as
+13 (xvi), 21-13-313(b), (c), (e) and (g), 21-13-320(b)(intro),
+14 (f), (g)(intro), (v)(intro), (A), (vi) and (m),
+15 21-13-321(b) and (d), 21-13-338(a), (c)(intro), (i) through
+16 (iii) and (e) and 21-13-504 are amended to read:
+17
+18 9-3-413.1. Members' and employers' contributions
+19 based on actuarially determined contribution rates;
+20 calculation of rates; reports.
+21
+22 (a) Beginning with the 2027-2028 fiscal biennium, the
+23 retirement system shall calculate the percentage of salary
+47 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 for members' contributions required under W.S. 9-3-412(a)
+2 and for the employers' contribution required under W.S.
+3 9-3-413 based on an actuarially determined contribution
+4 rate in accordance with the following:
+5
+6 (v) After calculation of the actuarially
+7 determined contribution rate under paragraph (ii) of this
+8 subsection, the state budget department and the retirement
+9 system shall calculate necessary amounts to account for any
+10 changes in the appropriations necessary to fund the
+11 contributions for the public employee retirement plan and
+12 shall include those amounts in the budget prepared under
+13 W.S. 9-2-1010 through 9-2-1014.1, including changes in
+14 amounts for school districts necessary to account for the
+15 employer's share of the actuarially determined contribution
+16 rate in accordance with this section for benefits paid from
+17 the education resource block grant model defined in W.S.
+18 21-13-101(a)(xiv) and as enumerated in Attachment
+19 A(b)(xxxviii), as defined in W.S. 21-13-101(a)(xvii) in
+20 accordance with 21-13-339;
+21
+22 16-4-105. Accumulated retained earnings or fund
+23 surplus; capital improvements reserve.
+48 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (b) Except as specifically prohibited under W.S.
+3 21-13-504(b) for school district boards of trustees, a
+4 municipality may appropriate funds from estimated revenue
+5 in any budget year to a reserve for capital improvements
+6 and for depreciation within any capital improvements fund,
+7 and for the purpose of purchasing or replacing specified
+8 equipment or a depreciation reserve for equipment, which
+9 has been duly established by ordinance. Money in the
+10 reserves may be allowed to accumulate from year to year
+11 until the accumulated total is sufficient to permit
+12 economical expenditure for the specified purposes.
+13 Disbursements from reserves shall be made only by transfer
+14 to a revenue account within a capital improvements fund
+15 pursuant to an appropriation for the fund. The amount
+16 appropriated to reserves under this subsection in any
+17 budget year shall not exceed ten percent (10%) of the
+18 municipality's total revenues for that budget year.
+19
+20 21-2-202. Duties of the state superintendent.
+21
+22 (g) Paragraphs (a)(xxxviii) and (xxxix) of this
+23 section are repealed July 1, 2026 July 1, 2027.
+49 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 21-2-204. Wyoming Accountability in Education Act;
+3 statewide education accountability system created.
+4
+5 (b) A statewide education accountability system shall
+6 be established by the state board through the department of
+7 education in accordance with this section, which implements
+8 the components of the education resource block grant model
+9 as defined by W.S. 21-13-101(a)(xiv) and as contained in
+10 Attachment "A" as defined under W.S. 21-13-101(a)(xvii)
+11 21-13-309.1. The first phase of this system shall be a
+12 school-based system that is based on student performance as
+13 determined through multiple measures of school performance.
+14 The goals of the Wyoming Accountability in Education Act
+15 are to:
+16
+17 21-3-314. Students counted among district ADM;
+18 determination of charter school funding.
+19
+20 (c) The charter school shall be entitled to the
+21 following amounts:
+22
+50 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (i) Except as provided in paragraph (vi) of this
+2 subsection, one hundred percent (100%) of the foundation
+3 program amount computed under W.S. 21-13-309(m) and
+4 21-13-309.1 based upon the average daily membership of the
+5 charter school, less amounts generated by the charter
+6 school's membership under paragraph (b)(xxix) of
+7 "Attachment A" as defined in W.S. 21-13-101(a)(xvii)
+8 21-13-309.1(c)(xxiv) and (xxvii) and less amounts specified
+9 under W.S. 21-13-309(m)(v)(E)(III) through (V);
+10
+11 (vi) A percentage amount calculated by dividing
+12 the charter school's average daily membership by the total
+13 average daily membership of the charter school's respective
+14 school district multiplied by the amounts generated from
+15 the foundation program amount computed under W.S.
+16 21-13-309(m) and paragraph (b)(xxix) of "Attachment A" as
+17 defined in W.S. 21-13-101(a)(xvii) 21-13-309.1(c)(xxiv) and
+18 (xxvii).
+19
+20 21-13-101. Definitions.
+21
+22 (a) As used in this chapter:
+23
+51 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (xiv) "Education resource block grant model"
+2 means the block grant model for Wyoming school finance
+3 contained within the enumeration of model components
+4 summarizing and executing recommendations within the 2010
+5 2025 cost of education study as modified by the legislature
+6 and as referenced in paragraph (xvii) of this subsection
+7 contained in W.S. 21-13-309.1. "Education resource block
+8 grant model" or "model" includes model spreadsheets updated
+9 with technical corrections, all of which are enacted into
+10 law, on file with the secretary of state and are maintained
+11 and made available for public inspection by the state
+12 superintendent under W.S. 21-2-202(e), and as may be
+13 subsequently modified by the legislature prior to future
+14 model recalibration required under W.S. 21-13-309(t);
+15
+16 (xvi) "Prototypical school model" means a school
+17 level, comprised of cost, resource and enrollment
+18 parameters, as described within the education resource
+19 block grant model. The separate school levels identified
+20 with the model are as follows:
+21
+52 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (A) Elementary school - kindergarten
+2 through grade five (5) modeled at cost and resource levels
+3 for:
+4
+5 (II) Ninety-six (96) One hundred ten
+6 (110) ADM;
+7
+8 (III) One hundred ninety-two (192) Two
+9 hundred twenty (220) ADM; and
+10
+11 (IV) Two hundred eighty-eight (288)
+12 Three hundred thirty (330) ADM.
+13
+14 (c) The education resource block grant model as
+15 defined under paragraph (a)(xiv) of this section and as
+16 included in "Attachment A" referenced in paragraph
+17 (a)(xvii) of this section contained in W.S. 21-13-309.1 and
+18 operationalized through the model spreadsheets, as each are
+19 enacted into law, and including any technical correction
+20 which may be implemented by rule and regulation of the
+21 state superintendent under W.S. 21-2-202(e), shall be filed
+22 with the secretary of state.
+23
+53 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 21-13-102. Maximum rate of school district tax;
+2 recapture of excess; equalization of permissive levies.
+3
+4 (e) Annually on or before August 15 September 1 the
+5 department shall notify each district subject to recapture
+6 of the estimated amount due to the state during the current
+7 fiscal year, using data from the previous school year. Upon
+8 receipt of the state assessed values by school districts,
+9 and not later than March 1 May 31 of the current fiscal
+10 year, the department shall certify to each district subject
+11 to recapture the amount of recapture for the fiscal year to
+12 be remitted to the state. The amount certified shall
+13 supersede the estimates certified on or before August 15
+14 September 1. If a district can demonstrate financial
+15 inability to make payments to the state as provided in
+16 subsection (b) of this section, the superintendent of
+17 public instruction may adjust the schedule of payments
+18 provided by subsection (b) of this section if the financial
+19 integrity of the foundation program will not be
+20 jeopardized.
+21
+22 21-13-307. Eligibility to share in distribution of
+23 money from foundation account; mandatory financial
+54 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 reporting; prohibition of spending foundation program funds
+2 on capital construction.
+3
+4 (c) In no event shall any school district transfer or
+5 expend any foundation program amounts, defined under W.S.
+6 21-13-101(a)(v), including but not limited to revenues
+7 collected under W.S. 21-13-310 and amounts paid to the
+8 school district for the purpose of funding operational
+9 expenses under this chapter, for major building and
+10 facility repair or replacement, as defined under W.S.
+11 21-15-109(a)(iii), or for a project, as defined under W.S.
+12 21-15-111(a)(iv) or for any educational building, office
+13 building, portable building, teacherage or warehouse
+14 building, as defined under W.S. 21-15-109(a).
+15
+16 21-13-309. Determination of amount to be included in
+17 foundation program for each district.
+18
+19 (m) In determining the amount to be included in the
+20 foundation program for each district, the state
+21 superintendent shall:
+22
+55 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (iv) Based upon reports from each district on
+2 schools operating within that district for the current
+3 school year and on grade configurations contained within
+4 each reported school during that school year, compute the
+5 average daily membership (ADM) for each reported school and
+6 each grade within each reported school in accordance with
+7 identified grade configurations subject to the following:
+8
+9 (A) If the district's average ADM for the
+10 three (3) immediately preceding school years is greater
+11 than the district's ADM from the previous school year
+12 decreased by more than five percent (5%) compared to one
+13 (1) year from the immediately preceding school year, each
+14 reported school shall be computed based upon the average of
+15 the by multiplying each reported school's ADM counts
+16 completed at the end of the three (3) one (1) year from the
+17 immediately preceding school years year by ninety-five
+18 percent (95%), otherwise each reported school within the
+19 district shall be computed based on the school's ADM for
+20 the previous immediately preceding school year;
+21
+22 (v) Based upon ADM computations and identified
+23 school configurations within each district pursuant to
+56 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 paragraph (iv) of this subsection, compute the foundation
+2 program amount for each district as prescribed by the
+3 education resource block grant model adopted by the Wyoming
+4 legislature as defined under W.S. 21-13-101(a)(xiv)., as
+5 contained within the spreadsheets and accompanying reports
+6 referenced under W.S. 21-13-101(a)(xvii). The following
+7 criteria shall be used by the state superintendent in the
+8 administration of the education resource block grant model:
+9
+10 (B) Alternative schools qualifying for
+11 separate consideration under the education resource block
+12 grant model may be established by a school district for
+13 offering educational programs to students with educational
+14 needs which the district finds are not appropriately met by
+15 other schools in the district, excluding charter schools
+16 established under W.S. 21-3-301 through 21-3-314.
+17 Alternative schools included within a district's
+18 configuration of schools identified under paragraph (iv) of
+19 this subsection shall for purposes of the education
+20 resource block grant model:
+21
+22 (IV) Except as otherwise provided in
+23 subdivision (V) of this subparagraph, on and after July 1,
+57 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 2014, and if not qualifying under subdivision (I) of this
+2 subparagraph, Be approved as an alternative school by the
+3 state superintendent subject to the following:
+4
+5 (G) Amounts within the education resource
+6 block grant model for maintenance and operations shall be
+7 based upon the lesser of the actual educational gross
+8 square footage of school buildings and facilities or the
+9 education space prescribed by statewide adequacy standards
+10 under W.S. 21-15-115 subject to the following:
+11
+12 (I) Actual gross square footage of
+13 school buildings and facilities shall be separated into
+14 education and noneducation space categories by school and
+15 by district, including leased square footage but excluding
+16 square footage not used for delivering the required
+17 educational program and the square footage of any building
+18 or facility closed and not operational as provided under
+19 W.S. 21-15-109(c)(iv);
+20
+21 (II) Actual gross square footage of
+22 education space shall be the gross square footage
+23 prescribed by statewide building adequacy standards
+58 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 promulgated pursuant to W.S. 21-15-115. Except as otherwise
+2 provided in this subdivision, Education space capacity in
+3 excess of one hundred fifteen percent (115%) of the
+4 standard space level shall not be included in actual gross
+5 square footage computations under this subdivision. For
+6 school year 2025-2026, education space capacity in excess
+7 of one hundred thirty-five percent (135%) of the standard
+8 space level shall not be included in actual gross square
+9 footage computations under this subdivision;
+10
+11 (vi) Except for charter schools established
+12 under W.S. 21-3-301 through 21-3-314 and alternative
+13 schools approved under subdivision (v)(B)(IV) of this
+14 subsection, any alteration of the configuration of grades
+15 within a district, school or school facility which differs
+16 from the configuration of grades during the immediately
+17 preceding school year as reported under paragraph (iv) of
+18 this subsection shall be considered a reconfiguration and
+19 shall be documented by the district and reported to the
+20 state superintendent and the director of the state
+21 construction department. Following review and evaluation,
+22 the state superintendent and the director of the state
+23 construction department shall, each acting independently,
+59 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 approve or deny the reconfiguration for purposes of
+2 application to the education resource block grant model and
+3 the determination of school facility needs and remedies.
+4 The following shall apply:
+5
+6 (C) Effective for the school year
+7 commencing after July 1, 2012, and each school year
+8 thereafter, No reconfiguration of grades within any
+9 district, school or facility shall differ from the previous
+10 school year such that more than one (1) school is included
+11 within any one (1) school facility to be reported under
+12 paragraph (iv) of this subsection for purposes of
+13 determining the foundation program amount for that
+14 district;
+15
+16 (o) To the extent specifically provided by the
+17 legislature, and between periods of model recalibration
+18 required under subsection (t) of this section, the amount
+19 computed for each district under subsection (m) of this
+20 section shall be adjusted to provide for the effects of
+21 inflation, excluding those amounts specified under
+22 subparagraphs subparagraph (m)(v)(E) and, for school year
+23 2026-2027 only, subparagraph (F) of this section, the
+60 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 technology and equipment component as specified in W.S.
+2 21-13-309.1(c)(xxii), the gifted and talented students
+3 component as specified in W.S. 21-13-309.1(c)(xxiii) and
+4 the short cycle and formative assessment component
+5 contained in paragraph (b)(xxviii) of "Attachment A" as
+6 referenced as specified in W.S. 21-13-101(a)(xvii)
+7 21-13-309.1(c)(xxvi). The adjustment under this subsection
+8 shall not be applied until the expiration of the school
+9 year immediately following the first school year of
+10 application of the recalibrated model, and shall be
+11 adjusted on a cumulative basis each school year not less
+12 than one (1) time every two (2) school years thereafter and
+13 until the first school year of application of a subsequent
+14 model recalibration. Following analysis of information
+15 reported under subsection (u) of this section, the joint
+16 appropriations interim committee shall submit a
+17 recommendation to the legislature and the governor not
+18 later than November 1 of each applicable year on an
+19 external cost adjustment for purposes of this subsection.
+20
+21 (u) To ensure model components specified under the
+22 education resource block grant model defined under W.S.
+23 21-13-101(a)(xiv), as enumerated and enacted by the
+61 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 legislature and included in "Attachment A" referenced in
+2 W.S. 21-13-101(a)(xvii) as specified by W.S. 21-13-309.1,
+3 remain resourced at cost-based levels between periods of
+4 model recalibration required under subsection (t) of this
+5 section, and prior to adjustment for the effects of
+6 inflation for any school year under subsection (o) of this
+7 section, the joint education interim committee shall
+8 annually receive and review reports in accordance with this
+9 subsection and report to the joint appropriations interim
+10 committee as required by this subsection. The legislative
+11 service office shall assemble information necessary to
+12 develop a model monitoring process and other reports for
+13 the committee using data maintained by the department of
+14 education and other state agencies. For this purpose, the
+15 department shall annually update and compile information,
+16 in a format contained within reports provided during 2010
+17 2025 model recalibration, reported at the model component
+18 level, on school district allocation of model resources, as
+19 well as other information provided for purposes of
+20 developing and completing the 2010 2025 cost of education
+21 studies. Each year Not less than one (1) time every two
+22 (2) years, excluding the first school year of application
+23 of any model recalibration performed under subsection (t)
+62 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 of this section, the information and analysis assembled by
+2 the legislative service office under this subsection shall
+3 be reported to the joint education interim committee in
+4 sufficient time to allow committee review of and
+5 deliberation on the report and the submission of
+6 recommendations to the joint appropriations interim
+7 committee by October 15 of the applicable school year.
+8 Report recommendations shall be used by the joint
+9 appropriations interim committee in its determination of
+10 legislative recommendation on model adjustment under
+11 subsection (o) of this section.
+12
+13 21-13-310. Annual computation of district revenues.
+14
+15 (a) To ensure revenues available to each district are
+16 uniformly sufficient to enable compliance with the uniform
+17 standards for educational programs prescribed under W.S.
+18 21-9-101 and 21-9-102 and to secure state board
+19 accreditation of educational programs under W.S.
+20 21-2-304(a)(ii), the revenues specified under this
+21 subsection shall be deemed state revenues and shall be
+22 considered in determining the amount to be distributed to
+63 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 each district under W.S. 21-13-311. A district shall make
+2 an annual computation of the following revenues:
+3
+4 (xv) One-half (1/2) of the amount of realized
+5 investment earning received on school district investments;
+6
+7 (xv)(xvi) All other revenues received or
+8 collected by the district during the previous school year,
+9 but excluding any amount received from private
+10 contributions and gifts, excluding any revenues dedicated
+11 by law to the payment of bonded indebtedness, and any
+12 revenues from the disposition of school buildings and land
+13 pursuant to W.S. 21-15-123(f)(vi), and excluding fees or
+14 other charges imposed by the district for goods or
+15 services, such as rental fees and the price paid for
+16 admission into any place for recreation, entertainment or
+17 an athletic event. Upon application of a district, the
+18 department shall exclude from this paragraph revenue
+19 received by the district if the department finds that the
+20 revenue could not be used by the district to provide
+21 educational services to students.
+22
+64 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 21-13-313. Distribution of funds from foundation
+2 account; property tax and cash reserve adjustment;
+3 regulations.
+4
+5 (b) The state superintendent shall determine on or
+6 before August 15 September 1 of each year the tentative
+7 allotment of foundation funds to which each district is
+8 entitled under this article. In making this determination,
+9 the state superintendent may, if current fiscal information
+10 required by law to compute the tentative allotment is not
+11 available for any district, by August 1 of that year, use
+12 fiscal information available to the state superintendent
+13 from the foundation program computations of the previous
+14 school year for that district. The previous year's fiscal
+15 information shall be adjusted to reflect current fiscal
+16 changes and other information known by or available to the
+17 state superintendent. Upon receiving actual fiscal
+18 information from a district, the state superintendent shall
+19 accordingly adjust future foundation program determinations
+20 for that district such that foundation program payments
+21 appropriately reflect current fiscal information for the
+22 applicable school year.
+23
+65 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (c) Fifteen percent (15%) Ten percent (10%) of each
+2 district's entitlement shall be paid to the district on or
+3 before August 15 July 15 of each year and subject to any
+4 adjustment under subsections (d) and (e) of this section,
+5 ten percent (10%) nine percent (9%) of each district's
+6 entitlement shall be paid on or about the fifteenth day of
+7 each month through April of each year. The final payment
+8 for the balance of each district's entitlement shall be
+9 distributed on or before May 15 of each year. If, after
+10 March 1 and before April 1, the state superintendent
+11 determines that the entitlement to be paid to a district
+12 for that school year is not accurate, the state
+13 superintendent shall adjust payments to or payments from
+14 that district as necessary to correct the inaccuracy as
+15 soon as practicable. Except as provided under W.S.
+16 21-2-202(e) and 21-13-307(b), after March 31 June 30 of any
+17 school year, the state superintendent shall not adjust any
+18 district's entitlement or fiscal information used to
+19 compute a district's entitlement for that school year, and
+20 the entitlement or fiscal information shall only be
+21 adjusted thereafter in accordance with audit review
+22 pursuant to W.S. 9-1-513.
+23
+66 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (e) Not later than January 31 of each fiscal year,
+2 and except where a different percentage is otherwise
+3 specified in this subsection, the department shall compute
+4 the amount by which each district's operating balance and
+5 cash reserves at the end of the preceding fiscal year
+6 exceed fifteen percent (15%) twenty percent (20%) of the
+7 total foundation program amount computed under W.S.
+8 21-13-309, 21-13-309.1, 21-13-321, 21-13-339 and 21-13-340
+9 for the preceding fiscal year. In making this calculation,
+10 the entire operating balance and cash reserves for each
+11 district for the fiscal year ending June 30, 1997, as
+12 computed by the department, shall be separately accounted
+13 for and excluded, until it has been completely expended by
+14 the district. Revenues from settlements of protested
+15 amounts attributable to levies assessed under W.S.
+16 21-13-102(a)(i)(A) and (ii)(A) and 21-13-201, regardless of
+17 the assessment year, shall be accounted for and excluded
+18 from the calculation under this subsection for a period of
+19 not more than one (1) year following that fiscal year in
+20 which the revenue was received by a district, as verified
+21 in writing by the district and certified by the county
+22 treasurer. Except as otherwise provided in 1997 Special
+23 Session Laws, chapter 3, section 306(e), as amended, and
+67 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 except as excluded under this subsection, that excess shall
+2 be deemed to be a state revenue under W.S. 21-13-310(a) for
+3 the purpose of determining distributions under W.S.
+4 21-13-311 and amounts to be rebated under W.S. 21-13-102.
+5 The department shall promulgate rules, including reporting
+6 requirements and procedures for districts, to implement
+7 this subsection. As used in this section, "operating
+8 balance and cash reserves" means those financial resources
+9 of the district which are not encumbered by the district
+10 board of trustees for expenditure to meet an existing legal
+11 obligation or otherwise restricted by law or regulation for
+12 expenditure on specific educational programs. For purposes
+13 of this subsection, any balance within a district's
+14 separate account established under W.S. 21-15-109(e) for
+15 major building and facility repair and replacement shall be
+16 deemed restricted by law for expenditure as provided by
+17 W.S. 21-15-109(e) and shall not be considered an operating
+18 balance and cash reserve under this section. For the fiscal
+19 year ending June 30, 2022 through the fiscal year ending
+20 June 30, 2028, the department shall compute the amount by
+21 which each district's operating balance and cash reserves
+22 at the end of the preceding fiscal year exceed thirty
+23 percent (30%) of the total foundation program amount
+68 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 computed under W.S. 21-13-309, 21-13-309.1, 21-13-321,
+2 21-13-339 and 21-13-340 for the preceding fiscal year.
+3 During this period, the amount of a district's operating
+4 balance and cash reserves that may be increased from
+5 fifteen percent (15%) to thirty percent (30%) of the total
+6 foundation program amount computed under W.S. 21-13-309 for
+7 the preceding fiscal year shall be accounted for and
+8 reported separately and shall not be transferred or
+9 expended for purposes of capital construction. For purposes
+10 of this subsection, "capital construction" does not include
+11 major building and facility repair and replacement as
+12 defined under W.S. 21-15-109(a)(iii).
+13
+14 (g) In addition to subsections (b) and (c) of this
+15 section, the state superintendent shall, for any district
+16 subject to W.S. 21-13-102(b) as determined by the
+17 department for any school year, or for any district not
+18 subject to W.S. 21-13-102(b) whose entitlement amount
+19 determined under W.S. 21-13-311(a) for any school year is
+20 equal to or less than twenty percent (20%) of the
+21 foundation program amount computed under W.S. 21-13-309(p),
+22 and upon demonstration by the district of financial need as
+23 documented by cash flow analysis, provide payments from the
+69 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 public school foundation program account in an amount not
+2 to exceed one-fifth (1/5) of the foundation program amount
+3 computed for that district for that school year in
+4 accordance with W.S. 21-13-309. The computed amount shall
+5 be paid to each eligible district on or before September 1
+6 after July 1 based upon tentative computations under W.S.
+7 21-13-309, for which the department may use fiscal
+8 information available from foundation program computations
+9 for the previous school year in the manner provided under
+10 subsection (b) of this section. Any district receiving a
+11 payment under this subsection shall repay the public school
+12 foundation program account not later than December 15 June
+13 15 of that school year.
+14
+15 21-13-320. Student transportation; amount within
+16 school foundation program formula for transportation
+17 maintenance and operations expenditures and school bus
+18 purchases; district reporting requirements.
+19
+20 (b) There shall be an amount computed for each school
+21 district equal to the base price amount for bus purchase
+22 and lease payment expenditures made by the district during
+23 the previous school year pursuant to subsection (g) of this
+70 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 section and for the amount actually expended by the
+2 district during the previous school year for:
+3
+4 (f) The department of education shall adopt necessary
+5 rules and regulations to implement and enforce state
+6 standards established under this section and to administer
+7 this section. District expenditures computed under
+8 subsection (b) of this section shall not include
+9 expenditures for employee contributions to the Wyoming
+10 retirement system exceeding the amount specified in W.S.
+11 9-3-413.1(b)(iii) 21-13-339 of any member employee's
+12 salary. Beginning school year 2027-2028, district
+13 expenditures computed under subsection (b) of this section
+14 shall not include expenditures for employer contributions
+15 to the state group insurance plan specified in W.S.
+16 21-13-340. In addition, the department shall, in accordance
+17 with procedures prescribed by department rule, and
+18 regulation, establish a base price for each school bus type
+19 or other student transportation vehicle type for the
+20 applicable fiscal period that complies with minimum state
+21 standards for vehicle specifications and equipment. The
+22 department shall also establish a process including
+23 competitive bidding which guarantees the acquisition of
+71 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 school buses and other student transportation vehicles
+2 approved for reimbursement and complying with state minimum
+3 standards and district fleet size restrictions at the
+4 established base price for the applicable fiscal year.
+5 Department rules shall establish appropriate restrictions
+6 on how and under which conditions a school district may
+7 procure a school bus or other student transportation
+8 vehicle, either through purchase or lease, to ensure that
+9 the procurement method used is the most cost effective.
+10 School districts shall notify the department of school bus
+11 and other student transportation vehicle needs and
+12 requirements for the appropriate fiscal year in the manner
+13 and within the times prescribed by department rule, and
+14 regulation, and shall report expenditures, and purchases
+15 and lease arrangements for the applicable reporting period,
+16 including vehicles replaced by purchases, and leases, as
+17 required by department rule. and regulation. The department
+18 shall annually review and conduct audits as necessary of
+19 information submitted under this section. As authorized
+20 under W.S. 21-13-307(b), the department may correct the
+21 information reported by districts under this section as
+22 necessary to fairly and accurately reflect the data type,
+23 classification and format required to administer this
+72 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 section in accordance with law and department rules. and
+2 regulations.
+3
+4 (g) In addition to amounts provided pursuant to
+5 subsection (b) of this section, and for purchases and
+6 leases conducted in a manner consistent with department
+7 rules, the transportation adjustment for each district
+8 under this section shall include an department shall
+9 reimburse each school district for the amount computed
+10 under this subsection expended for the purchase or lease of
+11 school buses and other vehicles used primarily for the
+12 transportation of students to and from school and to and
+13 from school activities. Computations of Amounts provided
+14 under this subsection shall be in addition to and shall not
+15 be considered in determining the school foundation program
+16 amount under the education resource block grant model
+17 pursuant to W.S. 21-13-309. Amounts reimbursed under this
+18 subsection shall be based upon the base price established
+19 by the department under subsection (f) of this section for
+20 the student transportation vehicle type. Amounts included
+21 within the adjustment under this subsection and shall be
+22 subject to the following:
+23
+73 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (v) The adjustment Reimbursement for the
+2 purchase or lease of buses and other student transportation
+3 vehicles authorized under this subsection shall be paid by
+4 the department not later than three (3) months after the
+5 month in which the school district expends the funds for
+6 the purchase and shall be in an amount equal to:
+7
+8 (A) One-fifth (1/5) of The base price
+9 established under subsection (f) of this section for each
+10 purchased school bus or other purchased student
+11 transportation vehicle for which reimbursement is
+12 authorized and which is made purchased by the district;
+13 during the preceding five (5) years;
+14
+15 (vi) Amounts included within the adjustment for
+16 School bus purchases or leases that are fully or partially
+17 paid for or rebated under the Diesel Emissions Reduction
+18 Act, 42 U.S.C. § 16131 et seq., or other similar program,
+19 shall be made in accordance with department rule and
+20 regulation.
+21
+22 (m) No district shall purchase or lease a school bus
+23 unless it first demonstrates to the department and the
+74 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 department determines that the school district has in good
+2 faith attempted to purchase or lease a bus that will be
+3 fully or partially paid for or rebated under the Diesel
+4 Emissions Reduction Act, 42 U.S.C. § 16131 et seq., or
+5 other similar program.
+6
+7 21-13-321. Special education; amount provided for
+8 special education programs and services; reimbursement for
+9 out-of-district placements; district reporting
+10 requirements; billing for Medicaid authorized school based
+11 services.
+12
+13 (b) Except for expenditures for out-of-district
+14 special education placements, the amount provided to a
+15 school district for special education shall be equal to one
+16 hundred percent (100%) of the amount actually expended by
+17 the district during the previous school year for special
+18 education programs and services, which shall include the
+19 amount actually expended by the district during the
+20 previous school year for reasonable administrative costs to
+21 bill for authorized Medicaid services under subsection (h)
+22 of this section. Amounts awarded provided under this
+23 section shall be in addition to and shall not be considered
+75 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 in determining the school foundation program amount under
+2 the education resource block grant model pursuant to W.S.
+3 21-13-309. Except for expenditures for out-of-district
+4 special education placements, the department of education
+5 shall distribute the amount computed under this section to
+6 each school district in the same proportion and schedule of
+7 distributions under W.S. 21-13-313(c). Expenditures by a
+8 district for out-of-district special education placements
+9 shall be reimbursed in the year in which the costs are
+10 incurred and shall be distributed to each school district
+11 on a quarterly basis in accordance with rules adopted by
+12 the department of education.
+13
+14 (d) The department of education shall adopt necessary
+15 rules and regulations to implement and administer this
+16 section. Districts shall report special education program
+17 expenditures for the applicable reporting period as
+18 required by department rule and regulation. District
+19 expenditures computed under subsection (b) of this section
+20 shall not include expenditures for employee contributions
+21 to the Wyoming retirement system exceeding the amount
+22 specified in W.S. 9-3-413.1(b)(iii) 21-13-339 of any member
+23 employee's salary. Beginning school year 2027-2028,
+76 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 district expenditures computed under subsection (b) of this
+2 section shall not include expenditures for employer
+3 contributions to the state group insurance plan specified
+4 in W.S. 21-13-340. The department shall annually review and
+5 report to the joint education interim committee regarding
+6 services provided to special education students by school
+7 districts. In addition, the department shall when
+8 necessary, conduct audits of information submitted by
+9 districts under this section and may, in accordance with
+10 W.S. 21-13-307(b), correct the information reported by
+11 districts as necessary to fairly and accurately reflect the
+12 data type, classification and format required to administer
+13 this section in accordance with law and department rule and
+14 regulation.
+15
+16 21-13-338. Career and technical education supplies,
+17 materials, equipment and repair of equipment; criteria;
+18 limitations.
+19
+20 (a) Commencing with school year 2025-2026, To augment
+21 amounts within the education resource block grant model
+22 available to districts for career and technical education
+23 programs, the department of education shall distribute
+77 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 career and technical education supplies, materials,
+2 equipment and repair of equipment funding in accordance
+3 with this section.
+4
+5 (c) Amounts distributed to each school district for
+6 career and technical education supplies, materials,
+7 equipment and repair of equipment funding under this
+8 section shall be calculated as follows:
+9
+10 (i) Except as provided in paragraph (ii) of this
+11 subsection, the product of each school's FTE career and
+12 technical education teachers reported under subsection (b)
+13 of this section multiplied by fourteen thousand one hundred
+14 eighty-four dollars and sixty-eight cents ($14,184.68)
+15 fourteen thousand three hundred thirty-six dollars
+16 ($14,336.00);
+17
+18 (ii) If a school's FTE career and technical
+19 education teachers reported in subsection (b) of this
+20 section is less than two (2), the amount of funding for the
+21 school's career and technical education supplies,
+22 materials, equipment and repair of equipment funding shall
+23 be equal to twenty-eight thousand three hundred sixty-nine
+78 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 dollars and thirty-six cents ($28,369.36) twenty-eight
+2 thousand six hundred seventy-two dollars ($28,672.00);
+3
+4 (iii) The department shall further adjust the
+5 amounts for career and technical education supplies,
+6 materials, equipment and repair of equipment funding in
+7 paragraphs (i) and (ii) of this subsection by any external
+8 cost adjustment enacted by the legislature for the
+9 educational materials category of the educational resource
+10 block grant model.
+11
+12 (e) Each district shall report to the department on
+13 the expenditure of amounts distributed under this section
+14 and shall provide other information as required by rule of
+15 the department. Amounts distributed under this section
+16 shall only be expended on supplies, materials, equipment
+17 and repair of equipment for career and technical education
+18 programs.
+19
+20 21-13-504. Special reserve fund.
+21
+22 (a) Except as prohibited under subsection (b) of this
+23 section, the board of trustees of each Wyoming school
+79 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 district may create a special reserve fund of a specified
+2 amount, for the purpose of purchasing or replacing
+3 specified equipment or a depreciation reserve for equipment
+4 and school building repair. The board may annually include
+5 in its budget for the ensuing fiscal year, the amount so
+6 designated, as a special fund, expendable only for the
+7 purposes stated and segregated as such, from general and
+8 other special school funds, disbursements therefrom to be
+9 made from time to time by the school clerk's warrants drawn
+10 against said special fund, as duly ordered by said board;
+11 provided, that said amount so specially budgeted for any
+12 fiscal year shall not exceed ten percent (10%) of the total
+13 amount budgeted for the same year; and further provided,
+14 that any difference in the amount so specially budgeted for
+15 any such year and the amount expended from said fund during
+16 such year, may be retained in and carried over as a part of
+17 the special reserve fund.
+18
+19 (b) In no event shall any funds generated by the
+20 school foundation program, defined by W.S. 21-13-101(a)(v),
+21 that are transferred to a special reserve fund be expended
+22 by the board of trustees of a school district for major
+23 building and facility repair or replacement, as defined
+80 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 under W.S. 21-15-109(a)(iii), for a project, as defined
+2 under W.S. 21-15-111(a)(iv) or for any educational
+3 building, office building, portable building, teacherage or
+4 warehouse building, as defined under W.S. 21-15-109(a).
+5
+6 Section 3. W.S. 9-3-201(a) and (c) through (e),
+7 9-3-203(a)(iv), 9-3-205(a)(xvi), 9-3-207(a) and (b),
+8 9-3-210(a), (e) and (f), 9-3-211(a), 9-3-217 and 21-7-301
+9 are amended to read:
+10
+11 9-3-201. Group prepaid plans authorized; agreements
+12 with insurance companies authorized; limitation on
+13 authorized plans and companies; payroll deductions;
+14 self-insurance programs; school district and boards of
+15 cooperative services participation.
+16
+17 (a) Expect as otherwise specified in this subsection,
+18 the state of Wyoming and its political subdivisions and
+19 school districts may obtain group prepaid plans or
+20 insurance for life, health, accident or hospitalization for
+21 their employees and for elected officials, except for
+22 members of the legislature, and enter into agreements with
+23 prepaid plans or insurance companies to provide this
+81 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 coverage. Each school district and board of cooperative
+2 educational services shall provide insurance coverage for
+3 school district or board of cooperative educational
+4 services its employees meeting the definition of employee
+5 under as defined by W.S. 9-3-203(a)(iv), shall, if elected
+6 by the district or board under subsection (e) of this
+7 section, be provided through the state employees' and
+8 officials' group insurance plan in accordance with W.S.
+9 9-3-202 through 9-3-218 and as required by W.S. 21-13-340
+10 and subsection (e) of this section. Insurance coverage for
+11 retired school district or board of cooperative educational
+12 services employees shall, if elected by the board or
+13 district under subsection (e) of this section and if the
+14 retired employee was who were continuously covered under
+15 the board's or district's insurance plan prior to the
+16 election, the board's or district's enrollment in the state
+17 employees' and officials' group insurance program, shall be
+18 provided through the state employees' and officials' group
+19 insurance plan in accordance with W.S. 9-3-202 through
+20 9-3-218. If a school district or board of cooperative
+21 educational services elects to cease participation in the
+22 group insurance plan pursuant to subsection (f) of this
+23 section, the election shall apply to retired employees of
+82 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 that board or district who are receiving coverage under
+2 this subsection.
+3
+4 (c) Upon a request in writing from any employee of
+5 the state of Wyoming, any covered political subdivision
+6 thereof or a participating school district, the state
+7 auditor or the proper officer in any political subdivision
+8 or school district may deduct from the wages of the
+9 employee the amount of the premium which the employee has
+10 agreed to pay for the prepaid plans or insurance, and to
+11 pay or remit the payment directly to the prepaid plan or
+12 insurance company issuing the group plan or insurance.
+13
+14 (d) The state and any political subdivision are
+15 authorized to utilize a self-insurance program, provided
+16 that a defined plan with proper funding is first adopted
+17 and the cost of the plan is included in the annual budget
+18 and provided the self-insurance program includes any
+19 coverage mandated by Wyoming insurance law. Any
+20 self-insurance program, including the Wyoming state
+21 employees' and officials' group insurance plan, adopted
+22 pursuant to this section shall be within the jurisdiction
+23 of the insurance commissioner under the provisions of title
+83 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 26, Wyoming statutes. This subsection shall not be
+2 construed to authorize a school district or board of
+3 cooperative educational services to provide insurance
+4 coverage for employees outside the state employees' and
+5 officials' group insurance plan.
+6
+7 (e) Each school district or board of cooperative
+8 educational services may elect to shall participate in the
+9 state employees' and officials' group insurance plan by
+10 filing notification of election with the department of
+11 administration and information on a form and in a manner as
+12 prescribed by the department. Participation in the plan
+13 for any electing board or district by all boards and
+14 districts shall commence not less than one hundred twenty
+15 (120) days following the date on which the board or
+16 district filed notification under this subsection later
+17 than July 1, 2027 and shall be identical to plans and
+18 coverage provided other enrollees under this act. The
+19 department shall notify the electing board or district of
+20 the date on which the board or district is eligible to
+21 participate in the state group insurance plan. An election
+22 by a board or district to participate in the state group
+23 insurance plan under this subsection is irrevocable for a
+84 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 period of five (5) years from the date on which plan
+2 participation originally commenced. In addition to all
+3 other remedies available to the department, if a district
+4 or board withdraws from the state group insurance plan
+5 during the period of irrevocability, the department may
+6 assess against the withdrawing board or district the amount
+7 by which all claims paid on behalf of employees of the
+8 board or district exceeds total premiums paid by the board
+9 or district and their employees. A board or district may
+10 renew its initial participation in the state group
+11 insurance plan without interruption upon submitting
+12 notification of renewal to the department prior to
+13 expiration of the initial five (5) year participation
+14 period. Renewal of plan participation shall be irrevocable
+15 for an additional period of not less than five (5) years.
+16
+17 9-3-203. Definitions.
+18
+19 (a) As used in this act:
+20
+21 (iv) "Employee" means any employee of a
+22 participating school district or participating board of
+23 cooperative educational services whose salary is paid by
+85 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 funds of the district or board, a volunteer firefighter,
+2 volunteer emergency medical technician or a volunteer
+3 search and rescue person as provided by W.S. 9-3-220 or any
+4 official or employee of the state of Wyoming whose salary
+5 is paid by state funds, including employees and faculty
+6 members of the University of Wyoming and various community
+7 colleges in the state, except persons employed on
+8 intermittent, irregular, or less than halftime basis and
+9 any at-will contract employee who does not meet the
+10 requirements established under W.S. 9-2-3207(a)(xi)(F)(III)
+11 or (IV). "Employee" shall not include employees of the
+12 agricultural extension service of the University of Wyoming
+13 who hold federal civil service appointments, are required
+14 to participate in federal civil service retirement and who
+15 elect to participate in the federal employees' health
+16 benefit program as authorized in W.S. 9-3-210(d);
+17
+18 9-3-205. Administration and management of group
+19 insurance program; powers and duties; adoption of rules and
+20 regulations; interfund borrowing authority.
+21
+22 (a) The department shall administer and manage the
+23 state employees' and officials' group insurance program in
+86 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 accordance with all provisions of title 26 of the Wyoming
+2 statutes governing group health benefit plans and rules
+3 promulgated thereto. The department, subject to the
+4 provisions of this act:
+5
+6 (xvi) Have authority to audit payroll records of
+7 voluntary participating employers, school districts and
+8 boards of cooperative services to ensure compliance with
+9 requirements of this act.
+10
+11 9-3-207. Eligibility for membership in plan; state
+12 employees; thirty-one (31) day period to elect enrollment;
+13 new employees; later enrollment.
+14
+15 (a) Any state, school district or board of
+16 cooperative services employee eligible for membership in
+17 the group insurance plan at the time the plan becomes
+18 effective shall have thirty-one (31) days to either elect
+19 to be enrolled or not be enrolled in the plan. The
+20 department shall establish the procedure by which eligible
+21 employees shall notify the department of their decision
+22 within the prescribed thirty-one (31) day period.
+23
+87 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (b) An eligible employee who enters state service,
+2 enters service as a volunteer firefighter, volunteer
+3 emergency medical technician or volunteer search and rescue
+4 person or enters service of a voluntary participating
+5 employer has thirty-one (31) days from the initial date of
+6 employment or ninety (90) days from the initial date of
+7 becoming a volunteer firefighter, volunteer emergency
+8 medical technician or volunteer search and rescue person as
+9 provided by W.S. 9-3-220 to elect to be enrolled or not be
+10 enrolled in the group insurance plan. A person who enters
+11 service as a volunteer firefighter, volunteer emergency
+12 medical technician or volunteer search and rescue person
+13 shall volunteer for ninety (90) days before becoming
+14 eligible for coverage under the group insurance plan. After
+15 the ninety (90) day period is over, a volunteer shall have
+16 thirty-one (31) days to elect to be enrolled or not be
+17 enrolled in the group insurance plan.
+18
+19 9-3-210. Amount of state's contribution; estimates
+20 submitted to state budget officer; specified employees
+21 participation in federal program; participating employers
+22 contributions.
+23
+88 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (a) Except for voluntary participating employers,
+2 school districts, boards of cooperative services, volunteer
+3 firefighters, volunteer emergency medical technicians and
+4 volunteer search and rescue persons under W.S. 9-3-220, the
+5 state shall contribute monthly the amount established and
+6 appropriated by the legislature for each employee and
+7 official enrolled in the plan in accordance with
+8 subsections (b) and (c) of this section.
+9
+10 (e) A participating Each school district shall pay to
+11 the department the monthly premium established by the
+12 department for coverage of each eligible employee or
+13 official of that district electing to become covered by any
+14 portion of the group insurance plan. Monthly premiums
+15 shall be at minimum no less than rates assessed for
+16 coverage of other enrollees qualified under W.S.
+17 9-3-203(a)(iv), and shall be based upon information
+18 reported by the participating district to the department,
+19 to be in a form and manner prescribed by the department.
+20
+21 (f) A participating Each board of cooperative
+22 educational services shall pay to the department the
+23 monthly premium established by the department for coverage
+89 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 of each eligible employee of the employer electing to
+2 become covered by any portion of the group insurance plan.
+3 Additionally, each participating board of cooperative
+4 educational services shall pay to the department a monthly
+5 amount equal to the lowest premium for nonsupplemental
+6 coverage for each eligible employee of the employer not
+7 electing to become covered under the nonsupplemental
+8 portion of the group insurance plan. For purposes of this
+9 subsection an employee shall not be considered as not
+10 electing coverage if that employee is covered by other
+11 insurance with benefits comparable to or greater than the
+12 coverage provided by the least expensive non-supplemental
+13 plan available under this act. Monthly premiums shall be
+14 at minimum no less than rates assessed for coverage of
+15 other enrollees qualified under W.S. 9-3-203(a)(iv), and
+16 shall be based upon information reported by the
+17 participating board of cooperative educational services to
+18 the department, to be in a form and manner prescribed by
+19 the department.
+20
+21 9-3-211. Deductions from salaries of monthly
+22 contributions by employees and officials; establishment of
+23 procedure.
+90 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (a) The amount of monthly contribution to be made by
+3 eligible employees and officials, excluding volunteer
+4 firefighters, volunteer emergency medical technicians and
+5 volunteer search and rescue persons under W.S. 9-3-220,
+6 enrolled in the group insurance plan for themselves and
+7 their dependents shall be deducted from the monthly
+8 salaries of the employees and officials by the various
+9 agencies or voluntary participating employers, school
+10 districts and boards of cooperative services and remitted
+11 to the department. The procedure for deductions and
+12 remittances shall be established by the department. If a
+13 flexible benefits plan is chosen, the employees' and
+14 officials' contribution shall be applied to the chosen
+15 benefits in an amount determined by the employee or
+16 official.
+17
+18 9-3-217. Advisory panel; composition; compensation.
+19
+20 (a) The director of the department shall establish an
+21 advisory panel consisting of active plan participants
+22 employed by the state, participating school districts, the
+23 University of Wyoming and Wyoming community colleges and of
+91 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 retired employees who are plan participants. The panel
+2 shall consist of no more than ten (10) members if there are
+3 less than five (5) participating school districts or no
+4 more than twelve (12) members if there are at least five
+5 (5) participating school districts and, insofar as
+6 possible, shall proportionally represent the specified
+7 employee groups participating in the group health insurance
+8 plan. The advisory panel shall be consulted regarding plan
+9 benefits and costs. The director of the department shall,
+10 upon receiving notification from at least five (5) school
+11 districts electing group insurance plan participation under
+12 W.S. 9-3-201(e), appoint two (2) additional advisory panel
+13 members to increase the advisory panel to twelve (12)
+14 members as provided in this section.
+15
+16 (b) State, participating school district, university
+17 and community college employee members of the panel shall
+18 suffer no loss of wages for the time devoted to attending
+19 meetings of the panel called by the department. All
+20 members shall be provided per diem and travel expenses
+21 incurred for attending such meetings at the rates provided
+22 under W.S. 9-3-102 and 9-3-103.
+23
+92 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 21-7-301. Insurance and other fringe and employment
+2 benefits.
+3
+4 (a) The board of trustees of each school district
+5 within the state may provide health insurance, life
+6 insurance, and other fringe and employment benefits of all
+7 types for the teachers, administrative personnel and other
+8 employees of the school district to such extent as it deems
+9 such benefits to be in the best interest of the school
+10 district. Benefits under this subsection may be paid for
+11 entirely by the school district or partly by the school
+12 district and partly by the employee, the degree of
+13 participation of each being entirely within the discretion
+14 of the board of trustees. Benefits under this subsection
+15 may be in addition to any benefits obtained through the
+16 state employees' and officials' group insurance plan if
+17 elected by the school district under W.S. 9-3-201(e) and
+18 21-13-340(b).
+19
+20 (b) The board of trustees of each school district
+21 which is a participating district in the state employees'
+22 and officials' group insurance plan, as defined under W.S.
+23 9-3-203(a)(xvi), shall provide insurance under the state
+93 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 employees' and officials' group plan for the teachers,
+2 administrative personnel and other employees meeting the
+3 definition of employee under W.S. 9-3-203(a)(iv), as
+4 provided by W.S. 9-3-202 through 9-3-218. Each
+5 participating school district shall report to the
+6 department of administration and information and make
+7 payments for employer and employee contributions as
+8 provided by W.S. 9-3-210 and 9-3-211. The amount of
+9 contributions paid under W.S. 9-3-211 for each employee
+10 electing coverage shall be deducted from the employee's
+11 monthly salary in accordance with W.S. 9-3-211.
+12
+13 Section 4. W.S. 21-13-101(a)(xvi)(A)(I), (B)(I),
+14 (C)(I) and (xvii), 21-13-309(m)(v)(B)(I), (V), (C) and
+15 (G)(III), 21-13-320(g)(v)(B) and (h)(i) are repealed.
+16
+17 Section 5. W.S. 9-3-201(f), 9-3-203(a)(xiv), (xv) and
+18 (xvi), 9-3-207(e), 21-13-309.1(c)(xxxvi), as created by
+19 this act, and 21-13-309(m)(v)(F) are repealed.
+20
+21 Section 6. 2011 Wyoming Session Laws, Chapter 185,
+22 ATTACHMENT "A", 2012 Wyoming Session Laws, Chapter 99,
+23 Section 3, 2017 Wyoming Session Laws, Chapter 205, Sections
+94 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 3 and 4, 2018 Wyoming Session Laws, Chapter 185 Sections 2
+2 and 3 and 2025 Wyoming Session Laws, Chapter 108, Section 3
+3 are repealed.
+4
+5 Section 7.
+6
+7 (a) The select committee on school finance
+8 recalibration as created by 2025 Wyoming Session Laws,
+9 Chapter 140 is hereby continued. As specified in subsection
+10 (b) of this section, the select committee shall continue
+11 the recalibration study of the education resource block
+12 grant model as required by W.S. 21-13-309(t) to ensure the
+13 model remains cost-based. The study shall include any
+14 potential responses to judicial directives. The legislative
+15 service office shall staff the select committee.
+16
+17 (b) At a minimum, the select committee on school
+18 finance recalibration shall study the following areas in
+19 the context of K-12 public education:
+20
+21 (i) Mental health supports, including core
+22 counselors, nurses and at-risk pupil support resources. The
+23 study shall include consideration of data collected from
+95 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 school years 2024-2025 and 2025-2026 for amounts
+2 distributed pursuant to 2024 Wyoming Session Laws, Chapter
+3 118, Section 2, Section 331 to schools for mental health
+4 services;
+5
+6 (ii) School safety and security personnel,
+7 including employment of school resource officers;
+8
+9 (iii) School nutrition programs, including the
+10 school lunch programs;
+11
+12 (iv) Technology, including the necessity of one
+13 (1) computer for each student for all K-12 public students
+14 and district and school-level technology infrastructure and
+15 cyber security.
+16
+17 (c) The select committee on school finance
+18 recalibration shall report its recommendations and any
+19 associated legislation to the legislature. The select
+20 committee may sponsor and introduce legislation as provided
+21 in W.S. 28-8-104(e).
+22
+96 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (d) The select committee on school finance
+2 recalibration shall remain in existence until December 31,
+3 2026. Composition of the select committee and appointment
+4 of members shall be as contained in 2025 Wyoming Session
+5 Laws, Chapter 140, Section 1(a) and (b). Any vacancy
+6 occurring on the select committee shall be filled without
+7 delay by the president of the senate or the speaker of the
+8 house of representatives, as appropriate.
+9
+10 (e) The department of education, other state
+11 agencies, school districts and the school data advisory
+12 committee established under W.S. 21-2-203(d) shall collect
+13 and provide information requested by the select committee
+14 or professional consultant experts working with the select
+15 committee.
+16
+17 Section 8. Five hundred thousand dollars
+18 ($500,000.00) is appropriated from the general fund to the
+19 legislative service office to fund the model recalibration
+20 study in accordance with section 7 of this act and for the
+21 purposes of providing salary, including salary for the
+22 chairmen under W.S. 28-5-101(e)(i), mileage and per diem to
+23 members of the select committee on school finance
+97 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 recalibration and for other expenses of the select
+2 committee authorized by law or policy of the legislature.
+3 Funds appropriated under this section expended to conduct
+4 the recalibration of the education resource block grant
+5 model shall be in accordance with a contractual agreement
+6 entered into between the management council and
+7 professional consultants. This appropriation shall be for
+8 the period beginning with the effective date of this
+9 section and ending June 30, 2028. This appropriation shall
+10 not be transferred or expended for any other purpose and
+11 any unexpended, unobligated funds remaining from this
+12 appropriation shall revert as provided by law on June 30,
+13 2028.
+14
+15 Section 9.
+16
+17 (a) Twenty million five hundred sixty-five thousand
+18 nine hundred fifty-five dollars ($20,565,955.00) is
+19 appropriated from the public school foundation program
+20 account to the department of education-school finance to
+21 reimburse school districts for the remaining balance of
+22 buses and other student transportation vehicles previously
+23 authorized for reimbursement under W.S. 21-13-320. This
+98 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 appropriation shall be for the period beginning with the
+2 effective date of this section and ending June 30, 2028.
+3 This appropriation shall not be transferred or expended for
+4 any other purpose and any unexpended, unobligated funds
+5 remaining from this appropriation shall revert as provided
+6 by law on June 30, 2028.
+7
+8 (b) Two hundred sixteen million five hundred thousand
+9 dollars ($216,500,000.00) is appropriated from the public
+10 school foundation program account to the department of
+11 education-school finance for payments to school districts
+12 in accordance with W.S. 21‑13‑311, 21‑13‑313(b), (c) and (g),
+13 21-13-339 and 21-13-340 to supplement amounts otherwise
+14 appropriated by the 2026 legislature in 2026 Senate File
+15 0001 for the school foundation program. This appropriation
+16 shall be for the period beginning with the effective date
+17 of this section and ending June 30, 2028. This
+18 appropriation shall not be transferred or expended for any
+19 other purpose and any unexpended, unobligated funds
+20 remaining from this appropriation shall revert as provided
+21 by law on June 30, 2028.
+22
+23 Section 10.
+99 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1
+2 (a) For the period beginning on the effective date of
+3 this section and ending June 30, 2028, three million
+4 twenty-six thousand five hundred eighty-seven dollars
+5 ($3,026,587.00) or so much thereof as is necessary is
+6 appropriated to the department of administration and
+7 information from the separate employee health insurance
+8 account established under W.S. 9‑3‑213(a). The department of
+9 administration and information is authorized up to eleven
+10 (11) full-time permanent positions. The appropriation under
+11 this section shall be expended on the positions authorized
+12 by this subsection, support costs, equipment and
+13 contracting costs necessary to administer and implement
+14 participation in the state employees' and officials' group
+15 insurance plan as required under this act. It is the intent
+16 of the legislature that, of this appropriation, one hundred
+17 thirty-eight thousand eight hundred dollars ($138,800.00)
+18 not be included in the department of administration and
+19 information's standard budget for the immediately
+20 succeeding fiscal biennium.
+21
+22 (b) The department of education, in consultation with
+23 the department of administration and information, shall
+100 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 collect necessary data from school districts and boards of
+2 cooperative educational services to estimate the impact of
+3 adding school districts and boards of cooperative services
+4 to the state employees' and officials' group insurance plan
+5 as required by this act. Each school district and board of
+6 cooperative educational services not currently
+7 participating in the state employees' and officials' group
+8 insurance plan shall report to the department of education
+9 an estimated timeline when the school district or board of
+10 cooperative educational services will begin participation
+11 in the state employees' and officials' group insurance
+12 plan, the number of eligible employees and dependents, the
+13 number of eligible retired employees and dependents, a
+14 three (3) year history of total medical, prescription and,
+15 to the extent available, dental claims, incurred and paid
+16 by the district, and any other data or information the
+17 department of administration and information deems
+18 necessary. Each district or board of cooperative
+19 educational services shall report the data and information
+20 required under this subsection or requested by the
+21 department of administration and information to the
+22 department of education not later than May 1, 2026.
+23
+101 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (c) Any school district that intends to participate
+2 in the state employees' and officials' group insurance plan
+3 prior to July 1, 2027 shall notify the department of
+4 administration and information one hundred twenty (120)
+5 days prior to the date of participation in the state
+6 employees' and officials' group insurance plan. The
+7 effective date of the plan commences on the first day of
+8 the month, one hundred twenty (120) days after notification
+9 by the district to the department of administration and
+10 information.
+11
+12 (d) The governor is authorized to borrow from the
+13 legislative stabilization reserve account up to eighty
+14 million dollars ($80,000,000.00), in aggregate, as
+15 necessary to meet cash flow needs of the separate employee
+16 health insurance account established under W.S. 9‑3‑213(a).
+17 The department of administration and information shall
+18 establish premiums pursuant to W.S. 9-3-205 to ensure that
+19 any funds borrowed from the legislative stabilization
+20 reserve account are repaid in full in not less than sixty
+21 (60) months from the date funds are first borrowed.
+22 Notwithstanding W.S. 9-1-418(b) no interest shall be
+23 charged on any interfund borrowing authorized by this
+102 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 subsection. The governor shall report to the joint
+2 appropriations committee immediately upon exercise of this
+3 authority. This subsection shall only be effective from the
+4 effective date of this section until June 30, 2028.
+5
+6 Section 11.
+7
+8 (a) There is appropriated five million dollars
+9 ($5,000,000.00) from the public school foundation program
+10 account to the department of education-school finance to
+11 continue the mental health service grant program
+12 established through 2024 Wyoming Session Laws, Chapter 118,
+13 Section 3, Section 331 for school year 2026-2027. The
+14 appropriation under this section is intended to augment
+15 amounts made available to school districts within the
+16 education resource block grant model to address mental
+17 health needs of the K-12 student population. Amounts
+18 allocated under this section shall be based on the average
+19 daily membership used to compute amounts within the
+20 education resource block grant model for school year
+21 2026-2027 as amended by section 2 of this act.
+22
+103 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 (b) Each district receiving a grant under this
+2 section shall report to the department of education-school
+3 finance the expenditure of amounts awarded under this
+4 section, the number of students that received services as a
+5 result of the grant and the impact of the services provided
+6 by the department.
+7
+8 (c) It is the intent of the legislature that the
+9 appropriation in this section not be included in the
+10 department of education's standard budget for the
+11 immediately succeeding fiscal biennium.
+12
+104 HB0110
+
+2026 STATE OF WYOMING 26LSO-0161
+1 Section 12.
+2
+3 (a) Except as provided in subsections (b) and (c) of
+4 this section, this act is effective July 1, 2026.
+5
+6 (b) Sections 3 and 5 are effective July 1, 2027.
+7
+8 (c) Sections 7, 8, 10 and 11 are effective
+9 immediately upon completion of all acts necessary for a
+10 bill to become law as provided by Article 4, Section 8 of
+11 the Wyoming Constitution.
+12
+13 (END)
+105 HB0110

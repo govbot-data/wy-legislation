@@ -1,0 +1,239 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0450
+SENATE FILE NO. SF0103
+Courts-retired judges, constitutional cases and
+injunctions.
+Sponsored by: Senator(s) Boner, Biteman, Crum, Dockstader,
+Hicks, Kolb, Salazar and Steinmetz and
+Representative(s) Haroldson, Heiner, Lawley,
+Lien, Neiman, Rodriguez-Williams, Singh and
+Washut
+A BILL
+for
+1 AN ACT relating to courts; amending requirements for the
+2 assignment of retired judges and justices to active cases;
+3 specifying limitations on the assignment of retired
+4 justices and judges to service; specifying duties of the
+5 Wyoming supreme court; requiring the use of three (3) judge
+6 panels for district courts to resolve the constitutionality
+7 of statutes and session laws as specified; making
+8 conforming amendments; specifying applicability; and
+9 providing for an effective date.
+10
+11 Be It Enacted by the Legislature of the State of Wyoming:
+12
+13 Section 1. W.S. 5-3-114 is created to read:
+1 SF0103
+
+2026 STATE OF WYOMING 26LSO-0450
+1
+2 5-3-114. Assignment of panels to resolve
+3 constitutional issues.
+4
+5 (a) Upon written request of the attorney general or a
+6 district attorney, a panel of three (3) district judges
+7 shall be convened in accordance with this section for any
+8 case or action commenced in which the constitutionality of
+9 any statute or session law of this state is challenged. For
+10 purposes of this subsection, a challenge requiring the
+11 convening of a panel shall include any action challenging
+12 the constitutionality of a statute or session law in which
+13 an injunction restraining the enforcement, operation or
+14 execution of the statute or session law is sought.
+15
+16 (b) Upon the filing of an action or case specified in
+17 subsection (a) of this section or upon a party raising an
+18 argument challenging the constitutionality of a statute or
+19 session law in a filed case or action, the clerk of the
+20 district court of the district in which the action or case
+21 is filed shall immediately notify the state court
+22 administrator.
+23
+2 SF0103
+
+2026 STATE OF WYOMING 26LSO-0450
+1 (c) The panel of district court judges for actions
+2 and cases specified in this section shall consist of:
+3
+4 (i) One (1) district court judge of the district
+5 in which the action or case was filed;
+6
+7 (ii) Two (2) district court judges from judicial
+8 districts other than the district in which the action or
+9 case was filed, selected at random by the state court
+10 administrator.
+11
+12 (d) The judge with the most seniority of the three
+13 (3) selected judges shall serve as presiding judge of the
+14 panel. A majority of two (2) of the three (3) judges
+15 selected under this section shall be sufficient to render a
+16 decision in an action or case specified in this section.
+17
+18 (e) For cases or actions commenced in which the
+19 constitutionality of any statute or session law of this
+20 state is challenged, no one (1) district court judge shall
+21 have the jurisdiction to issue a preliminary or permanent
+22 injunction to enjoin or restrain the enforcement, operation
+23 or execution of a statute or session law, provided that a
+3 SF0103
+
+2026 STATE OF WYOMING 26LSO-0450
+1 district court judge may issue a temporary restraining
+2 order pending a hearing and determination by a panel
+3 convened under this section. A hearing on an injunction
+4 shall be held not later than thirty (30) days after the
+5 issuance of any temporary restraining order under this
+6 subsection.
+7
+8 (f) The proceedings for any action or case subject to
+9 this section may be held in the judicial district in which
+10 the action or case was filed or may be conducted using
+11 electronic and video means in accordance with rules
+12 promulgated by the judicial conference of district judges
+13 created in W.S. 5-3-102(b).
+14
+15 (g) Any appeal from an order or decision by a panel
+16 convened under this section shall be to the Wyoming supreme
+17 court in accordance with the Wyoming rules of appellate
+18 procedure.
+19
+20 Section 2. W.S. 1-28-102, 1-28-103, 1-37-102 and
+21 5-1-106(f) are amended to read:
+22
+4 SF0103
+
+2026 STATE OF WYOMING 26LSO-0450
+1 1-28-102. Causes for injunction; granting temporary
+2 order.
+3
+4 When it appears by the petition that the plaintiff is
+5 entitled to relief consisting of restraining the commission
+6 or continuance of some act the commission or continuance of
+7 which during the litigation would produce great or
+8 irreparable injury to the plaintiff, or when during the
+9 litigation it appears that the defendant is doing,
+10 threatens to do, or is procuring to be done some act in
+11 violation of the plaintiff's rights respecting the subject
+12 of the action and tending to render the judgment
+13 ineffectual, a temporary order may be granted restraining
+14 the act, subject to W.S. 5-3-114. The order may also be
+15 granted in any case where it is specially authorized by
+16 statute and by municipal ordinance adopted pursuant to W.S.
+17 15-1-103(a)(xlvi).
+18
+19 1-28-103. When and by whom granted.
+20
+21 The injunction may be granted at the time of commencing the
+22 action, or at any time before judgment, by the district
+23 court or a judge thereof or a panel of judges convened
+5 SF0103
+
+2026 STATE OF WYOMING 26LSO-0450
+1 under W.S. 5-3-114, or in the absence from the county of
+2 the judge, by the court commissioner of the county, when it
+3 appears by affidavit of the plaintiff or his agent that the
+4 plaintiff is entitled thereto. When an injunction has been
+5 vacated during the pendency of the action in the district
+6 court, and an appeal is taken to the supreme court from the
+7 judgment or final order after trial in the district court,
+8 an injunction may be granted at any time before judgment or
+9 final order in the supreme court by a judge of the supreme
+10 court, when it appears to the court or judge by affidavit
+11 of the party or his agent that the party is entitled
+12 thereto. Upon like proof, an injunction may also be allowed
+13 by the supreme or district court or by a judge of either as
+14 a temporary remedy, during the pendency of a case on error
+15 or appeal. Any injunction entered in an action or case in
+16 which the constitutionality of a statute or session law is
+17 challenged shall be entered in accordance with W.S.
+18 5-3-114.
+19
+20 1-37-102. Scope and general consideration.
+21
+22 (a) Courts of record within their respective
+23 jurisdictions may declare rights, status and other legal
+6 SF0103
+
+2026 STATE OF WYOMING 26LSO-0450
+1 relations whether or not further relief is or could be
+2 claimed. No proceeding is open to objection on the ground
+3 that a declaratory judgment or decree is prayed for. The
+4 declaration may be either affirmative or negative in form
+5 and effect, and such declarations shall have the effect of
+6 a final judgment.
+7
+8 (b) Actions filed under this chapter in which the
+9 constitutionality of any statute or session law of this
+10 state is challenged shall be resolved by a panel of
+11 district court judges in accordance with W.S. 5-3-114.
+12
+13 5-1-106. Retirement of judges of the supreme court or
+14 district courts; pension; assignment of retired judges.
+15
+16 (f) Any justice of the supreme court, chancery court
+17 judge or district court judge of this state, who has
+18 retired pursuant to the provisions of this section, and who
+19 is not practicing law, may, notwithstanding his retirement,
+20 be called upon, with his consent, at the request of a
+21 district court judge or circuit court judge, with the
+22 consent of the chief justice, or by the chief justice, and
+23 assigned to service on any court. No retired justice or
+7 SF0103
+
+2026 STATE OF WYOMING 26LSO-0450
+1 judge shall be assigned under this subsection to service on
+2 any court in any case or cause of action in which the
+3 constitutionality of any statute or session law of this
+4 state is challenged, whether in the initial filing or in a
+5 subsequent filing or hearing in the case or action. A
+6 retired justice or judge shall receive as a salary during
+7 any period of assignment an amount equal to the current
+8 compensation of a judge of the court to which he is
+9 assigned. The salary received by a retired justice or
+10 judge during any period of assignment shall not affect the
+11 receipt of any retirement allowance received by the retired
+12 justice or judge during the period of assignment.
+13 Assignments of retired justices or judges under this
+14 section shall only be made in a manner that does not
+15 jeopardize the qualified status of state retirement plans
+16 established by the Wyoming legislature. When called to
+17 serve, a retired judge or justice shall receive the same
+18 per diem and travel allowances as allowed active judges or
+19 justices. Per diem, allowances and compensation shall be
+20 paid from the contingent fund of the court to which the
+21 judge or justice is assigned.
+22
+23 Section 3.
+8 SF0103
+
+2026 STATE OF WYOMING 26LSO-0450
+1
+2 (a) This act shall apply to:
+3
+4 (i) All actions and cases commenced on and after
+5 the effective date of this act;
+6
+7 (ii) All actions and cases filed before the
+8 effective date of this act but in which a challenge to the
+9 constitutionality of a statute or session law is raised on
+10 and after the effective date of this act;
+11
+12 (iii) All assignments of retired justices and
+13 judges made under W.S. 5-1-106, as amended by section 1 of
+14 this act, on and after the effective date of this act.
+15
+16 (b) Nothing in this act shall be construed to affect
+17 the validity of any injunction or order issued before the
+18 effective date of this act.
+19
+20 Section 4. This act is effective July 1, 2026.
+21
+22 (END)
+9 SF0103

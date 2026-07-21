@@ -1,0 +1,205 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0106SW001 (Committee of the Whole) - Senator Biteman (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0106SW001
+1 Page 1-line 2 After "health" insert "and department of
+2 family services".
+3
+4 Page 2-line 2 Delete "42-10-111" and insert "42-10-110";
+5 delete "42-10-204" and insert "42-10-201".
+6
+7 Page 2-line 9 Delete "with zero".
+8
+9 Page 2-line 10 Delete "(0) net income, households".
+10
+11 Page 2-line 11 Delete "or" and insert "and".
+12
+13 Page 3-line 12 After "Income" insert "in excess of zero
+14 dollars ($0.00)".
+15
+16 Page 3-line 18 Delete entirely and renumber as necessary.
+17
+18 Page 3-line 20 Delete "(v)" and insert "(iv)"; delete
+19 "Citizenship" and insert "Except for any
+20 presumptive eligibility period, citizenship".
+21
+22 Page 4-line 12 After "department" insert "of health".
+23
+24 Page 4-line 16 After "department" insert "of health".
+25
+26 Page 4-lines 21 and 22 Delete entirely and renumber as
+27 necessary.
+28
+29 Page 5-lines 1 and 2 Delete entirely.
+30
+31 Page 5-line 4 Delete "(e)" and insert "(d)"; after
+32 "department" insert "of health".
+33
+34 Page 5-line 6 Delete "or public benefits".
+35
+36 Page 5-line 10 Delete "(f)" and insert "(e)".
+37
+38 Page 5-line 11 After "department" insert "of health".
+39
+40 Page 6-line 2 After "department" insert "of health".
+41
+42 Page 6-line 8 After "program." delete balance of line.
+43
+44 Page 6-lines 9 through 12 Delete entirely.
+1
+
+1
+2 Page 7-line 11 After "department" insert "of health".
+3
+4 Page 7-line 15 After "department" insert "of health".
+5
+6 Page 8-lines 8 through 21 Delete entirely.
+7
+8 Page 9-line 3 Delete "42-10-204" and insert "42-10-201".
+9
+10 Page 9-line 6 After "department" insert "of family
+11 services".
+12
+13 Page 9-line 12 After "department" insert "of family
+14 services".
+15
+16 Page 10-line 1 Before "No" insert "Unless required by federal
+17 law,".
+18
+19 Page 11-line 2 After "department" insert "of family
+20 services".
+21
+22 Page 11-line 15 After "department" insert "of health".
+23
+24 Page 12-line 2 After "department" insert "of family services
+25 or other applicable agency".
+26
+27 Page 12-line 12 After "department" insert "of family
+28 services".
+29
+30 Page 12-line 14 Delete "household" and insert "assistance
+31 unit".
+32
+33 Page 12-line 17 After "department" insert "of health".
+34
+35 Page 12-line 19 Delete "household member" and insert "person".
+36
+37 Page 13-line 2 Delete "The department of human resources" and
+38 insert "The department of health and
+39 department of family services".
+40
+41 Page 13-line 5 After "member" insert "or assistance unit
+42 member".
+43
+44 Page 13-line 6 After "determined" insert "by the applicable
+45 department while applying the requirements of
+46 this title".
+47
+2
+
+1 Page 13-line 7 After "member" insert "or assistance unit
+2 member".
+3
+4 Page 14-line 4 After "department" insert "of health".
+5
+6 Page 15-line 2 After "applicant" insert "for medicaid".
+7
+8 Page 15-line 7 After "integrity" insert "; medicaid".
+9
+10 Page 15-line 9 After "department" insert "of health".
+11
+12 Page 15-line 21 After "department" insert "of health".
+13
+14 Page 16-line 15 Delete "agency" and insert "department of
+15 health".
+16
+17 Page 16-line 22 After "answer" insert "together with other
+18 information required by the department".
+19
+20 Page 17-line 2 After "the governor" delete balance of line.
+21
+22 Page 17-line 3 Delete "of the house of representatives" and
+23 insert "and the joint labor, health and social
+24 services interim committee"
+25
+26 Page 18-line 10 After "Conduct the" insert "applicable".
+27
+28 Page 18-line 12 Delete "42-10-111" and insert "42-10-110".
+29
+30 Page 19-line 3 Delete "not less than on a monthly basis" and
+31 insert "at every application and
+32 recertification period".
+33
+34 Page 19-line 16 Delete "not less than on a monthly basis" and
+35 insert "of family services at every
+36 application and recertification period".
+37
+38 Page 19-line 19 After "department" insert "of family
+39 services".
+40
+41 Page 19-line 20 Delete "not less than on a monthly basis" and
+42 insert "at every application and
+43 recertification period".
+44
+45 Page 20-line 2 Delete "not less" and insert "of family
+46 service".
+47
+3
+
+1 Page 20-line 3 Delete "than on a monthly basis" and insert
+2 "at every application and recertification
+3 period".
+4
+5 Page 20-line 8 Delete "not less than".
+6
+7 Page 20-line 9 Delete "on a monthly basis" and insert "at
+8 every application and recertification
+9 period".
+10
+11 Page 20-line 14 Delete "not less than on a monthly basis" and
+12 insert "at every application and
+13 recertification period".
+14
+15 Page 20-line 18 Delete "not less than on a monthly basis" and
+16 insert "of family services at every
+17 application and recertification period and by
+18 the department of health upon the receipt of
+19 applicable information from the Wyoming
+20 retirement system".
+21
+22 Page 20-line 20 Strike "maintained by the".
+23
+24 Page 20-line 21 Strike "department of workforce services".
+25
+26 Page 20-line 22 Delete "not less than on a monthly basis" and
+27 insert "at every application and
+28 recertification period".
+29
+30 Page 21-line 4 Delete "not less than on a monthly basis" and
+31 insert "of family services at every
+32 application and recertification period".
+33
+34 Page 21-line 9 Delete "not less than".
+35
+36 Page 21-line 10 Delete "on a monthly basis" and insert "at
+37 every application and recertification
+38 period".
+39
+40 Page 21-line 13 After "department" insert "of family services
+41 and department of health"; after "shall"
+42 insert "each"; delete "its" and insert
+43 "their"; delete "website" and insert
+44 "websites".
+45
+46 Page 22-lines 10 through 13 Delete entirely and insert:
+47
+4
+
+1 "Section 3. This act is effective January 1, 2027.".
+2 BITEMAN
+5

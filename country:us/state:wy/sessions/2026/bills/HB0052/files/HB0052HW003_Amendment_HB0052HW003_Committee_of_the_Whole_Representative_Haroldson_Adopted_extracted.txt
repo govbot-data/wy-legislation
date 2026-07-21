@@ -1,0 +1,195 @@
+Title: 
+Official Title: 
+Source: versions - Amendment HB0052HW003 (Committee of the Whole) - Representative Haroldson (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+HB0052HW003
+1 Delete the Yin committee of the whole amendment (HB0052HW001/A)
+2 and the Heiner committee of the whole
+3 amendment (HB0052HW0002/A) entirely and
+4 further amend as follows:
+5
+6 Page 1-line 7 After "appointed;" insert "amending dates
+7 related to elections; amending provisions
+8 related to election recount judges; requiring
+9 the completion of a hand count by the county
+10 clerk of each county in the 2026 primary and
+11 general elections; specifying requirements
+12 for the hand count;".
+13
+14 Page 1-line 9 Delete "an effective date" and insert
+15 "effective dates".
+16
+17 Page 1-line 13 Before "22-8-102" insert "22-2-104(b) and (d),
+18 22-8-101(d),".
+19
+20 Page 1-line 15 After "22-14-114(a)," insert "22-16-
+21 103(c)(i),".
+22
+23 Page 2-line 2 After "(b)" delete "and" and insert ",".
+24
+25 Page 2-line 3 After "(c)" insert "and 22-16-118".
+26
+27 Page 2-after line 18 Insert:
+28
+29 "22-2-104. Election dates.
+30
+31 (b) A primary election shall be held at the regular polling
+32 places for each precinct on the first Tuesday after the third first
+33 Monday in August in general election years for the nomination of
+34 candidates for partisan and nonpartisan offices to be filled at
+35 the succeeding general election and for the election of major party
+36 precinct committeemen and committeewomen.
+37
+38 (d) Every bond election shall be held on the same day as a
+39 primary election or a general election, or on the first Tuesday
+40 after the first Monday in May or November, or on the first Tuesday
+41 after the third first Monday in August.
+42
+1
+
+1 22-8-101. Notice of election officials needed; county
+2 chairmen to submit list of names; municipal clerks list of names
+3 appointment.
+4
+5 (d) Not later than June 30, the county clerk on each general
+6 election year shall appoint judges of election and counting boards
+7 and alternates from lists submitted by the county chairmen of the
+8 major and minor political parties. This subsection shall not apply
+9 to judges appointed to conduct recounts in accordance with W.S.
+10 22-16-109 through 22-16-113.".
+11
+12 Page 6-after line 9 Insert:
+13
+14 "22-16-103. County canvass procedures.
+15
+16 (c) The county canvassing board shall:
+17
+18 (i) Meet as soon as all returns have been received and
+19 abstracted, but if any provisional ballots have been cast in the
+20 county, not before the time has passed for provisional voters to
+21 document their eligibility to register or to vote. The board shall
+22 meet at a time and place designated by the county clerk, but no
+23 later than the first second Friday following the election;".
+24
+25 Page 14-line 22 After "board" strike balance of line.
+26
+27 Page 14-line 23 Strike "22-16-109(b)".
+28
+29 Page 15-line 3 After "22-16-109(d)" insert "or required by
+30 W.S. 22-16-109(b)".
+31
+32 Page 15-after line 5 Insert:
+33
+34 "22-16-118. Meeting of state canvassing board.
+35
+36 The state canvassing board shall meet no later than the second
+37 third Wednesday following the election. The secretary of state
+38 shall send a messenger to obtain official county abstracts not
+39 filed in a reasonable length of time. The canvassing board shall
+40 meet at the time and place set by the secretary of state. The board
+41 shall review the state abstracts prepared by the secretary of
+42 state, compare them with the tabulation and materials prepared by
+43 the secretary of state, resolve any tie votes, and certify the
+44 abstract as the official state canvass.".
+45
+46 Page 15-after line 8 Insert and renumber as necessary:
+47
+2
+
+1 "Section 3.
+2
+3 (a) In addition to the audits required under W.S. 22-6-130
+4 and 22-11-109, each county clerk shall conduct a hand count audit
+5 of actual ballots cast on election day following the 2026 primary
+6 and 2026 general elections. Each county clerk shall conduct a hand
+7 count audit of the ballots for one (1) federal race and one (1)
+8 statewide race as selected by the secretary of state. The secretary
+9 of state shall notify the county clerk of each county which races
+10 shall be audited not later than close of business on the Wednesday
+11 following the election. The secretary of state may select different
+12 federal and statewide races to be audited for each county, but in
+13 no instance shall the secretary of state select more than one (1)
+14 federal race and one (1) statewide race per county. In addition to
+15 the races selected by the secretary of state, the county clerk
+16 shall conduct a hand count audit of each legislative race printed
+17 on the ballot. The county canvassing board may audit additional
+18 races in addition to those selected by the secretary of state
+19 pursuant to the requirements of this section. The results of each
+20 hand count audit and the electronic count shall be compared to
+21 determine if there were any inconsistencies or errors in the
+22 electronic voting system count.
+23
+24 (b) Notwithstanding any other law, for the 2026 primary and
+25 general elections, a judge of election shall not be a member of a
+26 counting board at the same election except as provided by W.S. 22-
+27 8-108(d) or for purposes of a hand count audit under this section.
+28
+29 (c) Pursuant to the requirements of subsection (a) of this
+30 section, for the 2026 primary and general elections, the county
+31 canvassing board shall select a requisite number of electronic
+32 tabulating machines whose cumulative number of ballots cast on
+33 election day totals as close to five percent (5%) of the total
+34 number of ballots cast in the respective county as possible. The
+35 county clerk shall audit the ballots tabulated by those electronic
+36 tabulating machines selected by the county canvassing board and
+37 compare the ballots to the hand count audit result. The hand count
+38 audit shall be conducted not later than nine (9) days after the
+39 county canvas.
+40
+41 (d) Each hand count audit conducted under this section shall
+42 be conducted as follows:
+43
+44 (i) The county clerk shall appoint audit boards prior
+45 to the conclusion of the county canvass but shall not be required
+46 to appoint the boards by the deadline set in W.S. 22-8-101(d). The
+47 county clerk may appoint as many audit boards as necessary,
+3
+
+1 provided that each audit board shall be made up of not less than
+2 three (3) qualified electors with not greater than two (2) judges
+3 per audit board being from the same political party;
+4
+5 (ii) In addition to any races selected by the county
+6 canvassing board, audit boards appointed by the county clerk shall
+7 audit those races selected by the secretary of state and each
+8 legislative office printed on the ballot. The audit boards
+9 appointed by the county clerk shall audit those races on ballots
+10 that were tabulated by the equipment selected by the county
+11 canvassing board;
+12
+13 (iii) Audit boards appointed by the county clerk under
+14 this section shall tabulate each mark, undervote or overvote as
+15 would be counted by electronic tabulating equipment according to
+16 the instructions printed on the ballot.
+17
+18 (e) Any inconsistencies or errors between the original count
+19 tabulated by the electronic tabulating machines and the hand count
+20 audit required under this section shall be reported to the
+21 secretary of state not less than nine (9) days after the date of
+22 the county canvass.
+23
+24 (f) Any ballot inconsistencies or counting errors between
+25 the original electronic ballot count and the hand count audit
+26 required under this section discovered during the hand count audit
+27 process shall be reported to the secretary of state and the joint
+28 corporations, elections and political subdivisions interim
+29 committee on or before May 1, 2027.".
+30
+31 Page 15-line 10 Delete "Section 3." and insert "Section 4.".
+32
+33 Page 15-line 15 Delete entirely and insert:
+34
+35 "Section 5.
+36
+37 (a) Except as provided by subsection (b) of this section,
+38 this act is effective January 1, 2027.
+39
+40 (b) Sections 3 and 5 of this act are effective immediately
+41 upon completion of all acts necessary for a bill to become law as
+42 provided by Article 4, Section 8 of the Wyoming Constitution.".
+43 HAROLDSON
+4

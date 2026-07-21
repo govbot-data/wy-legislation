@@ -1,0 +1,351 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0013
+SENATE FILE NO. SF0054
+State banks and SPDI conversions.
+Sponsored by: Senator(s) Rothfuss, Crago, Nethercott and
+Olsen and Representative(s) Filer, Singh and
+Yin
+A BILL
+for
+1 AN ACT relating to banks, banking and finance; providing
+2 for the conversion of special purpose depository
+3 institutions into state banks; providing for the conversion
+4 of state banks into special purpose depository
+5 institutions; requiring rulemaking; and providing for
+6 effective dates.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 13-2-216 and 13-12-127 are created to
+11 read:
+12
+13 13-2-216. Conversion of special purpose depository
+14 institution into state bank.
+15
+1 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 (a) The commissioner, with approval of the board, may
+2 convert the charter of a special purpose depository
+3 institution chartered under W.S. 13‑12‑115 to a state bank
+4 chartered under this article. A conversion shall occur as
+5 follows:
+6
+7 (i) A special purpose depository institution
+8 seeking to convert its charter to a state bank shall file
+9 an application to convert that contains a comprehensive
+10 plan for conversion as required by this section and rules
+11 promulgated by the commissioner. The application shall
+12 include a certificate signed by the institution's president
+13 and a majority of the board of directors setting forth the
+14 action taken to support the proposed conversion in
+15 compliance with this section. The plan of conversion and a
+16 proposed organizational instrument that includes the
+17 information required by W.S. 13‑2-202 shall be approved by
+18 the shareholders of the special purpose depository
+19 institution prior to submitting an application for
+20 conversion;
+21
+22 (ii) The application to convert shall include a
+23 comprehensive plan for conversion setting forth any
+2 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 necessary disposition of assets and liabilities in
+2 reasonable detail to effect the conversion, and any other
+3 plans required by the commissioner. The application shall
+4 be accompanied by a fee consistent with W.S. 13-2-208. The
+5 plan of conversion shall provide for the discharge or
+6 assumption of all known and unknown claims and liabilities
+7 of the special purpose depository institution.
+8 Additionally, the application for conversion shall include
+9 other evidence, certifications, affidavits, documents or
+10 information as the commissioner may require, including
+11 demonstration of how assets and liabilities will be
+12 disposed, the timetable for effecting disposition or
+13 transfer of the assets and liabilities and a proposal for
+14 addressing any claims that are asserted after conversion
+15 has been completed;
+16
+17 (iii) The commissioner shall examine the
+18 application for compliance with this section, the
+19 requirements of W.S. 13‑2-207 through 13-2-212 that are not
+20 inconsistent with this section and applicable rules.
+21
+22 (b) Upon receipt of a complete application, the
+23 commissioner shall notify the board. The board, in its
+3 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 discretion, may allow the commissioner to proceed with
+2 approval of an application on an expedited basis without
+3 further oversight or approval by the board or, if deemed
+4 necessary by the board, the board may require a process
+5 consistent with W.S. 13‑2-207, 13-2-209 and 13‑2-211. Where
+6 an expedited review is allowed by the board, the
+7 commissioner shall approve or deny a conversion application
+8 under this section not more than ninety (90) days after
+9 receipt of a complete application.
+10
+11 (c) The application shall not be approved under this
+12 section until the board or commissioner, as applicable, has
+13 ascertained to the board's or commissioner's satisfaction
+14 that the proposed state bank satisfies all criteria under
+15 W.S. 13-2-212(a)(i) through (iii), (v) and (vi), complies
+16 with all applicable capital requirements and capital levels
+17 are sufficient in light of current and prospective
+18 conditions and meets all applicable requirements and any
+19 applicable rules to operate as a state bank. If the
+20 application is to be approved by the board, the board shall
+21 take action consistent with W.S. 13-2-212(b).
+22
+4 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 (d) If the application is approved and a charter
+2 granted by the board or commissioner, the converting
+3 special purpose depository institution shall not commence
+4 business as a state bank before receiving a certificate of
+5 authority to operate as a state bank from the state banking
+6 commissioner. Upon approval of an application the special
+7 purpose depository institution shall apply for a
+8 certificate of authority to the state banking commissioner
+9 and shall certify that the capital levels comply with all
+10 applicable capital requirements and any additional capital
+11 requirements imposed by the state banking commissioner have
+12 been paid in, the address at which the converted state bank
+13 will operate and that all of the bylaws adopted have been
+14 attached as an exhibit to the application for certificate
+15 of authority. The application for a certificate of
+16 authority shall state who the officers, directors and
+17 stockholders are at that time and attach evidence that
+18 appropriate federal insurance of deposits has been
+19 obtained, where applicable. The state banking commissioner
+20 shall approve or deny an application for a certificate of
+21 authority not more than thirty (30) days after a complete
+22 application has been filed. If the state banking
+23 commissioner approves the application, he shall issue a
+5 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 certificate of authority to the converted state bank not
+2 later than twenty (20) days after approval of the
+3 application. If the state banking commissioner denies the
+4 application, he shall mail a notice of denial to the
+5 converted state bank not later than twenty (20) days after
+6 denial of the application, stating the reasons for denying
+7 the application, and grant to the converted state bank not
+8 more than ninety (90) days to resubmit the application with
+9 the necessary corrections. If the converted state bank
+10 fails to comply with requirements of the notice of denial
+11 within ninety (90) days from the receipt of the notice, the
+12 approval of the application and articles of incorporation
+13 previously issued to the converted state bank shall be
+14 revoked by the state banking commissioner. The failure of
+15 the state banking commissioner to act upon receipt of a
+16 complete application for a certificate of authority within
+17 thirty (30) days shall be deemed an approval. If a
+18 converted state bank fails to commence business in good
+19 faith within one (1) year after the issuance of a
+20 certificate of authority by the state banking commissioner
+21 or any required federal approval, whichever is later, the
+22 charter and certificate of authority shall expire.
+23
+6 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 (e) A state bank that results from a conversion under
+2 this section shall be deemed to have been in existence for
+3 the same period of time as the special purpose depository
+4 institution from which it converted and shall surrender its
+5 certificate of authority under W.S. 13-12-116. Upon
+6 completion of the conversion the state bank shall not use
+7 the term "special purpose depository institution" in its
+8 business name or in connection with its ongoing business.
+9
+10 (f) The commissioner shall adopt all rules necessary
+11 to implement this section.
+12
+13 13-12-127. Conversion of state bank into special
+14 purpose depository institution.
+15
+16 (a) The commissioner, with approval of the board, may
+17 convert the charter of a state bank chartered under W.S.
+18 13-2-201 et. seq, to a special purpose depository
+19 institution chartered under this article. A conversion
+20 shall occur as follows:
+21
+22 (i) A state bank seeking to convert its charter
+23 to a special purpose depository institution shall file an
+7 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 application to convert that contains a comprehensive plan
+2 for conversion as required by this section and rules
+3 promulgated by the commissioner. The application shall
+4 include a certificate signed by the institution's president
+5 and a majority of the board of directors setting forth the
+6 action taken to support the proposed conversion in
+7 compliance with this section. The plan of conversion and a
+8 proposed organizational instrument that includes the
+9 information required by W.S. 13‑12-109 shall be approved by
+10 the shareholders of the state bank prior to submitting an
+11 application for conversion;
+12
+13 (ii) The application to convert shall include a
+14 comprehensive plan for conversion setting forth any
+15 necessary disposition of assets and liabilities in
+16 reasonable detail to effect the conversion, and any other
+17 plans required by the commissioner. The application shall
+18 be accompanied by a fee consistent with W.S. 13-12-111. The
+19 plan of conversion shall provide for the discharge or
+20 assumption of all known and unknown claims and liabilities
+21 of the state bank. Additionally, the application for
+22 conversion shall include other evidence, certifications,
+23 affidavits, documents or information as the commissioner
+8 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 may require, including demonstration of how assets and
+2 liabilities will be disposed, the timetable for effecting
+3 disposition or transfer of the assets and liabilities and a
+4 proposal for addressing any claims that are asserted after
+5 conversion has been completed;
+6
+7 (iii) The commissioner shall examine the
+8 application for compliance with this section, the
+9 requirements of W.S. 13-12-102 through 13-12-116 and
+10 13-12-118 that are not inconsistent with this section and
+11 applicable rules.
+12
+13 (b) Upon receipt of a complete application, the
+14 commissioner shall notify the board. The board, in its
+15 discretion, may allow the commissioner to proceed with
+16 approval of an application on an expedited basis without
+17 further oversight or approval by the board or, if deemed
+18 necessary by the board, the board may require a process
+19 consistent with W.S. 13‑12-112 through 13-12-115. Where an
+20 expedited review is allowed by the board, the commissioner
+21 shall approve or deny a conversion application under this
+22 section not more than ninety (90) days after receipt of a
+23 complete application.
+9 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1
+2 (c) The application shall not be approved under this
+3 section until the board or commissioner, as applicable, has
+4 ascertained to the board's or commissioner's satisfaction
+5 that the proposed special purpose depository institution
+6 satisfies all criteria under W.S. 13-12-115(a) and meets
+7 all applicable requirements and any applicable rules to
+8 operate as a special purpose depository institution. If the
+9 application is to be approved by the board, the board shall
+10 take action consistent with W.S. 13-12-115(b).
+11
+12 (d) If the application is approved and a charter is
+13 granted by the board or commissioner, the converting state
+14 bank shall not commence business as a special purpose
+15 depository institution before receiving a certificate of
+16 authority to operate as a special purpose depository
+17 institution from the state banking commissioner. Upon
+18 approval of an application, the converting state bank shall
+19 apply for a certificate of authority to the state banking
+20 commissioner and shall certify that the capital and surplus
+21 have been paid in, the address at which the converting
+22 state bank will operate as a special purpose depository
+23 institution and that all of the bylaws adopted have been
+10 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 attached as an exhibit to the application for a certificate
+2 of authority. The application for a certificate of
+3 authority shall state who the officers, directors and
+4 stockholders are at that time and attach evidence that
+5 appropriate federal insurance of deposits has been
+6 obtained, where applicable. The state banking commissioner
+7 shall approve or deny an application for a certificate of
+8 authority not more than thirty (30) days after a complete
+9 application has been filed. If the state banking
+10 commissioner approves the application, he shall issue a
+11 certificate of authority to the converted special purpose
+12 depository institution not later than twenty (20) days
+13 after approval of the application. If the state banking
+14 commissioner denies the application, he shall mail a notice
+15 of denial to the converted special purpose depository
+16 institution not later than twenty (20) days after denial of
+17 the application, stating the reasons for denying the
+18 application, and grant to the converted special purpose
+19 depository institution not more than ninety (90) days to
+20 resubmit the application with the necessary corrections. If
+21 the converted special purpose depository institution fails
+22 to comply with requirements of the notice of denial within
+23 ninety (90) days from the receipt of the notice, the
+11 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 approval of the application and articles of incorporation
+2 previously issued to the converted special purpose
+3 depository institution shall be revoked by the state
+4 banking commissioner. The failure of the state banking
+5 commissioner to act upon receipt of a complete application
+6 for a certificate of authority within thirty (30) days
+7 shall be deemed an approval. If a converted special purpose
+8 depository institution fails to commence business in good
+9 faith within one (1) year after the issuance of a
+10 certificate of authority by the state banking commissioner
+11 or any required federal approval, whichever is later, the
+12 charter and certificate of authority shall expire.
+13
+14 (e) A special purpose depository institution that
+15 results from a conversion under this section shall be
+16 deemed to have been in existence for the same period of
+17 time as the state bank from which it converted and shall
+18 surrender its certificate of authority under W.S. 13-2-213.
+19 Upon completion of the conversion the special purpose
+20 depository institution shall not use the term "state bank"
+21 in its business name or in connection with its ongoing
+22 business.
+23
+12 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 (f) The commissioner shall adopt all rules necessary
+2 to implement this section.
+3
+4 Section 2. W.S. 13-12-102(b)(iv) is amended to read:
+5
+6 13-12-102. Applicability of other provisions.
+7
+8 (b) The following provisions of this title shall not
+9 apply to this chapter:
+10
+11 (iv) W.S. 13-2-201 through 13-2-214 except as
+12 otherwise provided in W.S. 13-2-216;
+13
+14 Section 3. The banking commissioner shall adopt all
+15 rules necessary to implement this act on or before July 1,
+16 2026.
+17
+13 SF0054
+
+2026 STATE OF WYOMING 26LSO-0013
+1 Section 4.
+2
+3 (a) Except as otherwise provided by subsection (b) of
+4 this section, this act is effective July 1, 2026.
+5
+6 (b) Sections 3 and 4 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+14 SF0054

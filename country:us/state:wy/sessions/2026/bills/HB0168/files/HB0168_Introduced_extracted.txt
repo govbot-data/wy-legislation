@@ -1,0 +1,150 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0420
+HOUSE BILL NO. HB0168
+Experience ratings-amendments.
+Sponsored by: Representative(s) Larsen, L and Wylie and
+Senator(s) Pappas
+A BILL
+for
+1 AN ACT relating to labor and employment; prohibiting the
+2 request of experience ratings as specified; amending
+3 provisions related to experience rating chargeability;
+4 providing definitions; making conforming amendments;
+5 requiring rulemaking; specifying applicability; and
+6 providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 27-14-208 is created to read:
+11
+12 27-14-208. Experience ratings; prohibition;
+13 penalties; definitions.
+14
+1 HB0168
+
+2026 STATE OF WYOMING 26LSO-0420
+1 (a) As used in this section, "experience rating"
+2 means a rating procedure used by the division to set
+3 worker's compensation premiums that utilizes the past
+4 claims experience of an employer to forecast future losses
+5 associated with that specific employer. For purposes of
+6 this subsection, the calculation of the rating includes
+7 calculations where the employer's claims experience is
+8 measured against the claims experience of employers in the
+9 same classification, producing a prospective premium
+10 credit, debit or unity modification. For purposes of
+11 employment, "experience rating" shall not be considered a
+12 reflection of an employer's safety record.
+13
+14 (b) Except for litigation purposes and for actions by
+15 the division related to the operation of the worker's
+16 compensation system, the following actions are prohibited:
+17
+18 (i) Requesting a person's experience rating for
+19 the purpose of determining the person's employment safety
+20 record;
+21
+22 (ii) Regarding any construction project taking
+23 place in this state, requesting an experience rating in
+2 HB0168
+
+2026 STATE OF WYOMING 26LSO-0420
+1 order to obtain the safety record of any contractor or
+2 supplier, regardless of whether the contractor or supplier
+3 is domiciled within the state.
+4
+5 Section 2. W.S. 27-14-201(d) and by creating an new
+6 subsection (w) is amended to read:
+7
+8 27-14-201. Rates and classifications; rate surcharge.
+9
+10 (d) In addition, the plan of rating shall use an
+11 experience rating system based on three (3) years claim
+12 experience, or as much thereof as is available, for
+13 employers enrolled under it. This system shall reward
+14 employers with a better than average claim experience,
+15 penalize employers with a worse than average claim
+16 experience and may provide for premium volume discount so
+17 long as the account remains actuarially sound. Discounts
+18 from or penalties added to base employment classification
+19 rates because of claim experience shall not exceed
+20 sixty-five percent (65%) for rates through calendar year
+21 2016 and shall not exceed eighty-five percent (85%) for
+22 rates beginning with calendar year 2017. An employer who is
+23 current on premium payments required by this act may apply
+3 HB0168
+
+2026 STATE OF WYOMING 26LSO-0420
+1 to the division for a determination of experience
+2 modification rating chargeability for an injury to the
+3 employer's employee. The division's determination of
+4 chargeability shall be reviewable as provided in W.S.
+5 27-14-601(k)(iii) and (iv). If the division, by a
+6 preponderance of the evidence, determines that an
+7 employee's injury was primarily caused by a third party,
+8 the injury shall not be charged to the employer's account.
+9 The employer shall bear the burden of proof in any action
+10 brought by the employer for a chargeability determination.
+11 If an employer's account is determined to be unchargeable
+12 under this subsection, the employer's account shall not be
+13 further credited upon recovery from a third party by the
+14 division. The division shall by rule and regulation
+15 establish necessary procedures for a determination of
+16 chargeability. Any determination by the division regarding
+17 causation of an injury pursuant to this subsection shall be
+18 used only for ratemaking purposes and shall not be
+19 admissible in any civil litigation regarding the injury.
+20
+21 (w) The division shall make a determination of
+22 experience rating chargeability within fifteen (15) days of
+23 the filing of a report of injury or within forty-five (45)
+4 HB0168
+
+2026 STATE OF WYOMING 26LSO-0420
+1 days after the division's issuance of a request for
+2 additional information, if the additional information is
+3 provided in a timely manner. The division's determination
+4 of chargeability shall be reviewable as provided by W.S.
+5 27-14-601(k)(iii) and (iv). If the division determines that
+6 an employee's injury was primarily caused by a third party,
+7 the injury shall not be charged to the employer's account.
+8 If an employer's account is determined to be unchargeable
+9 under this subsection, the employer's account shall not be
+10 further credited upon recovery from a third party by the
+11 division. If a written request for hearing on the issue of
+12 chargeability is not filed within fifteen (15) days of a
+13 determination of chargeability, and information not
+14 available at the time of the initial chargeability
+15 determination shows that an employee's injury was primarily
+16 caused by a third party, an employer who is current on
+17 premium payments required by this act may apply to the
+18 division for a redetermination of experience rating
+19 chargeability for an injury to the employer's employee not
+20 more than one (1) year after the date of an original
+21 determination. The employer shall bear the burden of proof
+22 in any action brought by the employer for a chargeability
+23 determination. The division shall promulgate rules to
+5 HB0168
+
+2026 STATE OF WYOMING 26LSO-0420
+1 establish necessary procedures for a determination of
+2 chargeability. Any determination by the division regarding
+3 causation of an injury pursuant to this section shall be
+4 used only for ratemaking purposes and shall not be
+5 admissible in any civil litigation regarding the injury.
+6
+7 Section 3. This act shall not be construed to impair
+8 any contract or agreement involving experience ratings
+9 entered into before July 1, 2026.
+10
+11 Section 4. This act is effective July 1, 2026.
+12
+13 (END)
+6 HB0168

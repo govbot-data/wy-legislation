@@ -1,0 +1,177 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0454
+SENATE FILE NO. SF0107
+Motor vehicle registration and plate issuance system.
+Sponsored by: Senator(s) Nethercott, Kolb, Love and Pappas
+and Representative(s) Brown, L, Byron,
+Geringer, Larson, JT and Wylie
+A BILL
+for
+1 AN ACT relating to motor vehicles; creating a motor vehicle
+2 registration and license plate issuance system; requiring
+3 the department of transportation to implement and
+4 administer the system; requiring county treasurers to use
+5 the system; providing definitions; specifying that
+6 development of the system is part of the replacement of the
+7 revenue information system; requiring rulemaking; making
+8 conforming amendments; and providing for effective dates.
+9
+10 Be It Enacted by the Legislature of the State of Wyoming:
+11
+12 Section 1. W.S. 31-2-236 is created to read:
+13
+14 31-2-236. Motor vehicle registration and license
+15 plate issuance system.
+1 SF0107
+
+2026 STATE OF WYOMING 26LSO-0454
+1
+2 (a) As used in this section, "motor vehicle
+3 registration and license plate issuance system" means a
+4 statewide electronic motor vehicle registration and license
+5 plate issuance system implemented and administered by the
+6 department that supports all functions necessary to
+7 register motor vehicles and issue license plates under this
+8 title.
+9
+10 (b) The department shall implement and administer a
+11 motor vehicle registration and license plate issuance
+12 system not later than July 1, 2028. The motor vehicle
+13 registration and license plate issuance system shall, at a
+14 minimum:
+15
+16 (i) Record and process all motor vehicle
+17 registration transactions, including initial registrations,
+18 renewals, transfers, corrections, replacements and any
+19 other transactions as authorized by the department;
+20
+21 (ii) Facilitate the issuance, replacement and
+22 renewal of license plates, validation stickers, decals,
+2 SF0107
+
+2026 STATE OF WYOMING 26LSO-0454
+1 temporary permits and any other related items as determined
+2 by the department;
+3
+4 (iii) Calculate, accept payment for and document
+5 motor vehicle registration fees under W.S. 31-3-101 and
+6 31-3-102;
+7
+8 (iv) Calculate, accept payment for and document
+9 specialty license plate fees and donations related to
+10 specialty license plates;
+11
+12 (v) Calculate, accept payment for and document
+13 sales and use taxes pursuant to W.S. 39-15-107(b) or
+14 39-16-107(b).
+15
+16 (c) The department may contract with one (1) or more
+17 vendors to develop, implement and provide ongoing
+18 administration of the motor vehicle registration and
+19 license plate issuance system required under subsection (b)
+20 of this section.
+21
+22 (d) The department may charge a transaction fee of
+23 not more than five dollars ($5.00) for each transaction
+3 SF0107
+
+2026 STATE OF WYOMING 26LSO-0454
+1 processed through the motor vehicle registration and
+2 license plate issuance system to recover the department's
+3 costs associated with the maintenance and ongoing
+4 administration of the system.
+5
+6 (e) Upon activation of the motor vehicle registration
+7 and license plate issuance system, all county treasurers
+8 shall use the system to carry out the county treasurers'
+9 duties under this title related to motor vehicle
+10 registration and license plate issuance.
+11
+12 Section 2. W.S. 31-1-202(c) and (d) as amended by
+13 2025 Wyoming Session Laws Chapter 35, Section 2 and
+14 effective July 1, 2027, is amended to read:
+15
+16 31-1-202. Records.
+17
+18 (c) Within three (3) business days after issuance of
+19 a vehicle registration or certificate of title, county
+20 treasurers and county clerks shall forward a record thereof
+21 to the department. County clerks shall forward a record of
+22 certificate of title electronically through the electronic
+23 lien and title system established under W.S. 31-2-113.
+4 SF0107
+
+2026 STATE OF WYOMING 26LSO-0454
+1 County treasurers shall forward records of vehicle
+2 registration electronically through the motor vehicle
+3 registration and license plate issuance system established
+4 under W.S. 31-2-236. County treasurers shall notify the
+5 department and sheriff of his county of loss or mutilation
+6 of license plates.
+7
+8 (d) The department shall maintain records of vehicle
+9 registrations in the motor vehicle registration and license
+10 plate issuance system established under W.S. 31-2-236 from
+11 all counties indexed by distinctive vehicle numbers
+12 assigned by the department, the name of the registered
+13 owner and vehicle identification numbers. The department
+14 shall maintain a record of all vehicle certificates of
+15 title from all counties in the electronic lien and title
+16 system established under W.S. 31-2-113. Records are public
+17 and open to inspection by the public during reasonable
+18 office hours. The department shall maintain a vehicle
+19 identification number index of all vehicles for which
+20 certificates of title have been issued. Upon receipt of a
+21 notice of issuance of a certificate of title from any
+22 county clerk the department may destroy all records
+23 relating to former transfers of title to the vehicle and
+5 SF0107
+
+2026 STATE OF WYOMING 26LSO-0454
+1 shall retain only the notice of issuance of the certificate
+2 of title in effect at any time. The department may annually
+3 compile and publish a list of all registered vehicles and
+4 supplements thereto which shall be furnished to Wyoming
+5 peace officers and the Wyoming office of homeland security
+6 without charge.
+7
+8 Section 3. The development and implementation of the
+9 motor vehicle registration and license plate issuance
+10 system as required under section 1 of this act shall be
+11 considered part of the replacement of the revenue
+12 information system and shall be eligible for funding under
+13 W.S. 31-1-204.
+14
+15 Section 4.
+16
+17 (a) The department of transportation shall promulgate
+18 all rules necessary to implement this act.
+19
+20 (b) The department of transportation may contract
+21 with one (1) or more vendors to develop and implement the
+22 motor vehicle registration and license plate issuance
+6 SF0107
+
+2026 STATE OF WYOMING 26LSO-0454
+1 system as authorized and required under section 1 of this
+2 act.
+3
+4 Section 5.
+5
+6 (a) Except as provided in subsection (b) of this
+7 section, this act is effective July 1, 2028.
+8
+9 (b) Sections 3 through 5 of this act are effective
+10 immediately upon completion of all acts necessary for a
+11 bill to become law as provided by Article 4, Section 8 of
+12 the Wyoming Constitution.
+13
+14 (END)
+7 SF0107

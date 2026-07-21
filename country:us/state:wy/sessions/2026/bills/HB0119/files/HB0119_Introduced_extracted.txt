@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0261
+HOUSE BILL NO. HB0119
+No foreign law in Wyoming.
+Sponsored by: Representative(s) Rodriguez-Williams, Hoeft
+and Webber and Senator(s) Hutchings and
+Laursen, D
+A BILL
+for
+1 AN ACT relating to the common law, statutes and rules of
+2 construction; limiting the application and use of foreign
+3 law under Wyoming law; specifying exceptions to a change of
+4 venue in civil actions; providing legislative findings;
+5 making conforming amendments; providing definitions; and
+6 providing for an effective date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 8-1-111 is created to read:
+11
+12 8-1-111. Limitations on the application of foreign
+13 law.
+14
+1 HB0119
+
+2026 STATE OF WYOMING 26LSO-0261
+1 (a) As used in this section, "foreign law" means any
+2 law, legal code or legal system of a jurisdiction outside
+3 of any state or territory of the United States, including
+4 the law, legal code or legal system of any international
+5 organization or international tribunal.
+6
+7 (b) The legislature finds that the application of
+8 foreign law shall be circumscribed when the application of
+9 foreign law would violate the fundamental liberties, rights
+10 and privileges guaranteed by the United States constitution
+11 and the Wyoming constitution, including but not limited to
+12 equal protection, due process of the laws, the free
+13 exercise of religion, the freedoms of speech and the press,
+14 the right of privacy and the right of marriage.
+15
+16 (c) Any ruling or decision of a state court,
+17 arbitration panel, tribunal or administrative agency of
+18 Wyoming that is based, in whole or in part, on foreign law
+19 shall be void and unenforceable if the ruling or decision
+20 allows the application of any foreign law that denies the
+21 parties the fundamental liberties, rights and privileges
+22 guaranteed under the United States constitution and the
+23 Wyoming constitution.
+2 HB0119
+
+2026 STATE OF WYOMING 26LSO-0261
+1
+2 (d) The limitation in subsection (c) of this section
+3 shall not be construed to:
+4
+5 (i) Limit the application of the common law as
+6 specified in W.S. 8-1-101;
+7
+8 (ii) Limit the application of the law of any
+9 federally recognized Indian tribe whose reservations are
+10 located in Wyoming, in accordance with state, tribal and
+11 federal law;
+12
+13 (iii) Disapprove or abrogate any existing
+14 opinion of the Wyoming supreme court;
+15
+16 (iv) Limit adjudication of ecclesiastical
+17 matters of a religious organization, including the
+18 selection, appointment, discipline or removal of clergy or
+19 the adoption, amendment or interpretation of religious
+20 doctrine;
+21
+3 HB0119
+
+2026 STATE OF WYOMING 26LSO-0261
+1 (v) Apply to any person that voluntarily agrees
+2 to be subjected to foreign law or to the jurisdiction of a
+3 foreign court;
+4
+5 (vi) Apply where federal law preempts state law,
+6 including obligations under treaties or international
+7 agreements;
+8
+9 (vii) Impair any contract or other agreement
+10 entered into by two (2) or more persons.
+11
+12 Section 2. W.S. 1-7-103(a) and by creating a new
+13 subsection (d) is amended to read:
+14
+15 1-7-103. Change of venue in civil actions;
+16 limitation.
+17
+18 (a) For any civil action brought in an incorrect
+19 venue, the district court may, on its own or upon motion of
+20 the parties, order the action to be transferred to a court
+21 that would be a proper venue, except as provided by
+22 subsection (d) of this section.
+23
+4 HB0119
+
+2026 STATE OF WYOMING 26LSO-0261
+1 (d) No court shall transfer any civil action to a
+2 proper venue under this section if the transfer would
+3 result in the application of foreign law as defined by W.S.
+4 8-1-111(a) that would violate or likely violate the
+5 fundamental liberties, rights and privileges of the parties
+6 guaranteed under the United States constitution or the
+7 Wyoming constitution.
+8
+9 Section 3. This act is effective July 1, 2026.
+10
+11 (END)
+5 HB0119

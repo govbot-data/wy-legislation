@@ -1,0 +1,143 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0001S2019 (2nd reading) - Senator Steinmetz (Withdrawn)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0001S2019
+[BUDGET(s) AFFECTED]
+Section Under Consideration:
+Section 328. [ADDITIONS TO 300 SECTIONS]
+* * * * * * * * * *
+1 Page 141-after line 19 Insert the following new section and
+2 renumber as necessary:
+3
+4 "[TECHNOLOGY REPLACEMENT PROGRAM]
+5
+6 Section 328.
+7
+8 (a) For the period beginning July 1, 2026 and ending June 30,
+9 2028, there is appropriated to the state auditor for the technology
+10 replacement program seven hundred ninety-one thousand two hundred
+11 eighty three dollars ($791,283.00) from the funds and to the
+12 departments specified in this section:
+13
+14 DEPARTMENT GF FF OF Total
+15 004 State Treasurer 33,658 SR 33,658
+16 006 Administration and Information 17,814 IS
+17 3,440 SR 21,254
+18 008 Office of the Public Defender 6,945 SR 6,945
+19 011 Department of Revenue 15,589 EF 15,589
+20 014 Miners' Hospital Board 4,930 T2 4,930
+21 015 Attorney General 1,642 2,190 S5
+22 4,380 SR
+23 730 TT 8,942
+24 018 Real Estate Commission 7,009 SR 7,009
+25 019 Professional Teaching Standards Board 11,120 SR 11,120
+26 021 Department of Audit 12,117 31,057 SR 43,174
+27 024 State Parks & Cultural Resources 15,966 SR 15,966
+28 027 State Construction Department 14,680 S5 14,680
+29 033 Board of Cosmetology 4,840 SR 4,840
+30 038 Wyoming Gaming Commission 14,709 SR 14,709
+31 039 Wildlife/Natural Resource Trust 2,421 SR 2,421
+32 045 Department of Transportation 161,740 S7 161,740
+33 049 Department of Family Services 7,145 7,145
+34 051 Livestock Board 36,622 SR 36,622
+35 052 Board of Medicine 6,185 SR 6,185
+36 053 Department of Workforce Services 161,326 84,610 EF 245,936
+37 054 Board of Nursing 5,237 SR 5,237
+38 055 Oil and Gas Commission 16,289 SR 16,289
+39 066 Wyoming Tourism Board 11,310 S14 11,310
+40 072 Retirement System 33,647 PF 33,647
+41 075 Board of Outfitters and Guides 3,552 SR 3,552
+42 077 Enterprise Technology Services 50,332 IS
+43 3,770 S5 54,102
+44 098 Office of Guardian ad Litem 1,118 SR 1,118
+45 270 Office of Administrative Hearings 3,163 SR 3,163
+46 182,230 609,053 791,283
+1
+
+1
+2 (b) Appropriations in subsection (a) of this section are exempt
+3 from the limitations on transfer of funds under Section 305 of
+4 this act in a total amount not to exceed seven hundred ninety-one
+5 thousand two hundred eighty three dollars ($791,283.00).".
+6
+7 Page 141-after line 19 In the first Driskill, et al. second
+8 reading amendment (SF0001S2001/A) to this
+9 line, in section 328(a) created by that
+10 amendment, for 004, State Treasurer, under
+11 OTHER FUNDS decrease amount by "33,658 SR";
+12 for 006, Administration and Information, under
+13 OTHER FUNDS decrease amount by "17,814 IS";
+14 for 006, Administration and Information, under
+15 OTHER FUNDS decrease amount by "3,440 SR"; for
+16 008, Office of the Public Defender, under
+17 OTHER FUNDS decrease amount by "6,945 SR"; for
+18 011, Department of Revenue, under OTHER FUNDS
+19 decrease amount by "15,589 EF"; for 014,
+20 Miners' Hospital Board, under OTHER FUNDS
+21 decrease amount by "4,930 T2"; for 015,
+22 Attorney General, under FEDERAL FUNDS decrease
+23 amount by "1,642"; for 015, Attorney General,
+24 under OTHER FUNDS decrease amount by "2,190
+25 S5"; for 015, Attorney General, under OTHER
+26 FUNDS decrease amount by "4,380 SR"; for 015,
+27 Attorney General, under OTHER FUNDS decrease
+28 amount by "730 TT"; for 018, Real Estate
+29 Commission, under OTHER FUNDS decrease amount
+30 by "7,009 SR"; for 019, Professional Teaching
+31 Standards Board, under OTHER FUNDS decrease
+32 amount by "11,120 SR"; for 021, Department of
+33 Audit, under FEDERAL FUNDS decrease amount by
+34 "12,117"; for 021, Department of Audit, under
+35 OTHER FUNDS decrease amount by "31,057 SR";
+36 for 024, State Parks & Cultural Resources,
+37 under OTHER FUNDS decrease amount by "15,966
+38 SR"; for 027, State Construction Department,
+39 under OTHER FUNDS decrease amount by "14,680
+40 S5"; for 033, Board of Cosmetology, under
+41 OTHER FUNDS decrease amount by "4,840 SR"; for
+42 038, Wyoming Gaming Commission, under OTHER
+43 FUNDS decrease amount by "14,709 SR"; for 039,
+44 Wildlife/Natural Resource Trust, under OTHER
+45 FUNDS decrease amount by "2,421 SR"; for 045,
+46 Department of Transportation, under OTHER
+47 FUNDS decrease amount by "161,740 S7"; for
+2
+
+1 049, Department of Family Services, under
+2 FEDERAL FUNDS decrease amount by "7,145"; for
+3 051, Livestock Board, under OTHER FUNDS
+4 decrease amount by "36,622 SR"; for 052, Board
+5 of Medicine, under OTHER FUNDS decrease amount
+6 by "6,185 SR"; for 053, Department of
+7 Workforce Services, under FEDERAL FUNDS
+8 decrease amount by "161,326"; for 053,
+9 Department of Workforce Services, under OTHER
+10 FUNDS decrease amount by "84,610 EF"; for 054,
+11 Board of Nursing, under OTHER FUNDS decrease
+12 amount by "5,237 SR"; for 055, Oil and Gas
+13 Commission, under OTHER FUNDS decrease amount
+14 by "16,289 SR"; for 066, Wyoming Tourism
+15 Board, under OTHER FUNDS decrease amount by
+16 "11,310 S14"; for 072, Retirement System,
+17 under OTHER FUNDS decrease amount by "33,647
+18 PF"; for 075, Board of Outfitters and Guides,
+19 under OTHER FUNDS decrease amount by "3,552
+20 SR"; for 077, Enterprise Technology Services,
+21 under OTHER FUNDS decrease amount by "50,332
+22 IS"; for 077, Enterprise Technology Services,
+23 under OTHER FUNDS decrease amount by "3,770
+24 S5"; for 098, Office of Guardian ad Litem,
+25 under OTHER FUNDS decrease amount by "1,118
+26 SR"; for 270, Office of Administrative
+27 Hearings, under OTHER FUNDS decrease amount by
+28 "3,163 SR".
+29
+30 To the extent required by this amendment: adjust totals; and
+31 renumber as necessary. STEINMETZ
+32
+3

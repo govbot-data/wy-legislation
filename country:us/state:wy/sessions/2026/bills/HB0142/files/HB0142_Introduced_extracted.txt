@@ -1,0 +1,324 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0287
+HOUSE BILL NO. HB0142
+Literacy screening assessment and intervention.
+Sponsored by: Representative(s) Jarvis, Brown, L, Clouston,
+Erickson, Posey and Williams and Senator(s)
+Anderson and Crago
+A BILL
+for
+1 AN ACT relating to literacy screening assessment and
+2 intervention; providing requirements for screening
+3 assessments, evidence based interventions and evidence
+4 based core literacy instruction for specified grade levels;
+5 requiring schools and school districts to submit
+6 improvement plans; requiring specific skills for literacy
+7 proficiency used in data collection; requiring school
+8 districts to maintain records; requiring professional
+9 development; requiring school districts to employ or
+10 consult with persons with literacy endorsements as
+11 specified; specifying additional duties for the Wyoming
+12 professional teaching standards board; repealing the
+13 reading assessment and intervention program; requiring
+14 reporting; requiring rulemaking; making conforming
+1 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 amendments; providing definitions; specifying
+2 applicability; and providing for effective dates.
+3
+4 Be It Enacted by the Legislature of the State of Wyoming:
+5
+6 Section 1. W.S. 21-3-402 is created to read:
+7
+8 ARTICLE 4
+9 LITERACY SCREENING ASSESSMENT AND INTERVENTION
+10
+11 21-3-402. Literacy screening assessment and
+12 intervention.
+13
+14 (a) As used in this section, "reading difficulties"
+15 means conditions or patterns that interfere with the
+16 development of accurate and fluent word recognition,
+17 spelling or comprehension, including but not limited to
+18 dyslexia and developmental language disorder, as
+19 demonstrated by a student's performance on literacy
+20 screening assessments.
+21
+22 (b) Each school district shall implement literacy
+23 screening assessments and multi-tiered system of support
+2 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 literacy programming that shall include literacy screening
+2 assessments, evidence based intervention programming and
+3 evidence based core literacy instruction for grades
+4 kindergarten through five (5). Each school district shall
+5 select and implement literacy screening assessments that
+6 use one (1) or more instruments identified by the state
+7 superintendent under subsection (g) of this section that
+8 identify students at-risk for reading difficulties. The
+9 literacy screening assessments shall be administered three
+10 (3) times per year to all students in kindergarten through
+11 grade three (3) and students in grades four (4) and five
+12 (5) who scored below the proficient standard in English
+13 language arts on the statewide assessment administered
+14 under W.S. 21-2-304(a)(v) during the previous school year.
+15
+16 (c) As soon as practicable after the applicable
+17 literacy screening assessment administration period has
+18 concluded under subsection (b) of this section, each school
+19 district shall provide a copy of the literacy screening
+20 assessments results, including an explanation of the
+21 results, to the parent, guardian or other person having
+22 control of a student whose composite score on the literacy
+23 screening assessments indicates high risk for reading
+3 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 difficulties. Students identified to be at the highest risk
+2 level for reading difficulties on literacy screening
+3 assessments under this section shall be placed in the most
+4 intensive level of the school district's evidence based
+5 intervention programming with an individualized reading
+6 plan anytime between the middle of the school year in
+7 kindergarten through the end of grade five (5), only if the
+8 student's parent or guardian provides written consent. If a
+9 student's parent or guardian does not provide written
+10 consent under this subsection then the student may receive
+11 classroom based skill-specific evidence based literacy
+12 instructional supports during intervention or enrichment
+13 times. Each school district shall maintain individual
+14 reading plan records of all evidence based interventions
+15 implemented for each student identified as at-risk for
+16 reading difficulties, including but not limited to,
+17 progress monitoring data. Literacy interventions shall not
+18 occur during literacy core instructional time. For students
+19 under an individualized education plan (IEP) or English
+20 language learning plan (ELP) that addresses reading
+21 difficulties, the IEP or ELP shall be deemed sufficient to
+22 meet the requirements of this subsection and no additional
+23 documentation shall be required.
+4 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1
+2 (d) Each school district shall implement multi-tiered
+3 evidence based intervention programming that shall provide
+4 skill-specific evidence based interventions for students
+5 identified by the literacy screening assessments or
+6 additional literacy diagnostic assessments as at-risk for
+7 reading difficulties.
+8
+9 (e) Each school district shall implement evidence
+10 based core literacy instruction to all students. The
+11 evidence based core literacy instruction implemented under
+12 this subsection shall include instructional opportunities
+13 for:
+14
+15 (i) Grades kindergarten through three (3) in
+16 phonological or phonemic awareness;
+17
+18 (ii) Grades kindergarten through five (5) in:
+19
+20 (A) Decoding and encoding;
+21
+22 (B) Reading comprehension;
+23
+5 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 (C) Language comprehension, including
+2 vocabulary; and
+3
+4 (D) Written expression.
+5
+6 (iii) Grades one (1) through five (5) in oral
+7 reading fluency.
+8
+9 (f) Not later than June 30, 2026 and each June 30
+10 thereafter, each school district shall annually report to
+11 the department of education on the progress of each of its
+12 schools toward achieving the goal of eighty percent (80%)
+13 of all students in grades kindergarten through three (3)
+14 scoring low risk for reading difficulties as determined by
+15 the end of the school year literacy screening assessments.
+16 This report shall also include grade level data for
+17 kindergarten through grade five (5) for those students
+18 identified as high risk for reading difficulties by the
+19 literacy screening assessments. The report shall include a
+20 list of the evidence based core literacy instruction and
+21 intervention programming resources implemented in each
+22 grade level. Each school not meeting the eighty percent
+23 (80%) goal specified under this subsection or not showing
+6 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 improvement the past three (3) years toward meeting the
+2 eighty percent (80%) goal shall submit an improvement plan
+3 to the school district, and the school district shall
+4 submit an overall improvement plan for that school to the
+5 department not later than November 15, 2026 and each
+6 November 15 thereafter. At a minimum, each school district
+7 improvement plan for each school not meeting the eighty
+8 percent (80%) goal shall outline its evidence based
+9 strategies for increasing literacy proficiency for the next
+10 school year and shall specifically address the changes in
+11 evidence based instruction, intervention or professional
+12 development. Each school district that is required to
+13 submit a school improvement plan to the department under
+14 this subsection may combine any literacy requirements under
+15 this subsection with the improvement plan submitted under
+16 W.S. 21-2-204(h)(v).
+17
+18 (g) The state superintendent, in consultation with
+19 Wyoming school districts, professionals in the area of
+20 literacy and administration and other stakeholders, shall
+21 promulgate rules to assist school districts in the
+22 selection of literacy screening assessments to assess the
+23 skills in paragraphs (i) and (ii) of this subsection. Based
+7 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 on the criteria incorporated by rule, the state
+2 superintendent shall identify literacy screening assessment
+3 instruments and recommended diagnostic assessments that are
+4 approved for use by school districts to provide data that
+5 informs identification and intervention of students at-risk
+6 for reading difficulties as required under subsection (b)
+7 of this section. The rules shall provide mechanisms for the
+8 state superintendent to support schools and school
+9 districts in meeting the goals of school improvement plans
+10 developed pursuant to subsection (f) of this section. The
+11 rules shall establish procedures for the state
+12 superintendent to impose corrective action on any school
+13 district that for three (3) consecutive years after being
+14 placed on a school improvement plan has failed to show
+15 improvement toward meeting the eighty percent (80%) goal of
+16 all students scoring low risk for reading difficulties
+17 pursuant to subsection (f) of this section. To accomplish
+18 the purposes of this subsection, the department of
+19 education shall collect kindergarten through grade five (5)
+20 statewide longitudinal data from literacy screening
+21 assessments selected and performed by each school district,
+22 which measures the risk levels in the following areas of
+23 literacy in:
+8 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1
+2 (i) Grades kindergarten through five (5) in:
+3
+4 (A) Decoding and encoding;
+5
+6 (B) Oral reading fluency;
+7
+8 (C) Reading comprehension; and
+9
+10 (D) Language comprehension, including
+11 vocabulary.
+12
+13 (ii) Grades kindergarten through two (2) in
+14 phonological or phonemic awareness.
+15
+16 (h) Commencing with school year 2026-2027, each
+17 school district shall require each district employee who
+18 holds an elementary education endorsement, an early
+19 childhood education endorsement, an exceptional generalist
+20 endorsement or exceptional specialist endorsement, who
+21 provides instruction in grades kindergarten through five
+22 (5) within the district and who does not hold a Wyoming
+23 structured literacy certificate endorsement, dyslexia
+9 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 specialist endorsement or a reading endorsement to receive
+2 not less than fourteen (14) hours of professional
+3 development annually in evidence based literacy
+4 instruction, intervention and assessment until the district
+5 employee obtains a Wyoming structured literacy certificate
+6 endorsement, a dyslexia specialist endorsement or a reading
+7 endorsement. Commencing with school year 2026-2027 and
+8 every three (3) years thereafter, each school district
+9 shall require each school district employee that provides
+10 or supports instruction in grades kindergarten through five
+11 (5) within the district or who holds a Wyoming structured
+12 literacy certificate endorsement, a dyslexia specialist
+13 endorsement or a reading endorsement to receive not less
+14 than three and one-half (3.5) hours of professional
+15 development in evidence based literacy instruction. The
+16 rules required under subsection (g) of this section shall
+17 contain criteria recommendations identifying appropriate
+18 and suitable professional development for district
+19 employees in evidence based literacy instruction.
+20
+21 (j) Commencing with school year 2029-2030, each
+22 school district shall employ or consult with not less than
+23 one (1) person who holds a Wyoming structured literacy
+10 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 certificate endorsement, a dyslexia specialist endorsement
+2 or a reading endorsement to support school district
+3 literacy professional development.
+4
+5 Section 2. W.S. 21-2-802(a) by creating a new
+6 paragraph (iv) and 21-3-110(a)(xxiii) are amended to read:
+7
+8 21-2-802. Powers and duties; teacher certification;
+9 suspension and revocation; certification fees; disposition
+10 of collected fees; required data submissions to department
+11 of education.
+12
+13 (a) The board shall promulgate rules and regulations:
+14
+15 (iv) Not later than school year 2027-2028,
+16 establish a structured literacy certificate endorsement and
+17 a dyslexia specialist endorsement for grades kindergarten
+18 through twelve (12).
+19
+20 21-3-110. Duties of boards of trustees.
+21
+22 (a) The board of trustees in each school district
+23 shall:
+11 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1
+2 (xxiii) Implement and administer the reading
+3 literacy screening assessment and intervention program
+4 multi-tiered system of support literacy programming for
+5 students in kindergarten through grade three (3) five (5)
+6 as required by W.S. 21-3-401 21-3-402;
+7
+8 Section 3. W.S. 21-3-401 is repealed.
+9
+10 Section 4. This act shall apply to school year
+11 2026-2027 and each school year thereafter.
+12
+13 Section 5. The department of education and the
+14 Wyoming professional teaching standards board shall
+15 promulgate all rules necessary to implement this act.
+16
+12 HB0142
+
+2026 STATE OF WYOMING 26LSO-0287
+1 Section 6.
+2
+3 (a) Except as provided by subsection (b) of this
+4 section, this act is effective July 1, 2026.
+5
+6 (b) Sections 5 and 6 of this act are effective
+7 immediately upon completion of all acts necessary for a
+8 bill to become law as provided by Article 4, Section 8 of
+9 the Wyoming Constitution.
+10
+11 (END)
+13 HB0142

@@ -1,0 +1,23 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0117SS001 (Standing Committee) - Senate Corporations, Elections & Political Subdivisions Committee (Divided)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0117SS001
+1 Page 1-line 7 After "15-1-603(a)" insert "and by creating a
+2 new subsection (c)".
+3
+4 Page 1-line 14 Delete "who".
+5
+6 Page 1-line 15 Delete entirely and insert "of record, as
+7 shown by the county assessor, who".
+8
+9 Page 2-after line 10 Insert:
+10
+11 "(c) The municipal clerk's certification of sufficiency shall
+12 be final and shall not be subject to further administrative
+13 review.". CASE, CHAIRMAN
+1

@@ -1,0 +1,121 @@
+Title: 
+Official Title: 
+Source: versions - Introduced
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+2026 STATE OF WYOMING 26LSO-0370
+HOUSE BILL NO. HB0139
+Exempting specified retail electric sales from regulation.
+Sponsored by: Representative(s) Filer, Andrew, Davis,
+Geringer, Sherwood and Thayer and Senator(s)
+Love and Rothfuss
+A BILL
+for
+1 AN ACT relating to public utilities; specifying that the
+2 retail sale of electricity by specified persons to
+3 specified customers is exempt from regulation by the public
+4 service commission; making conforming amendments;
+5 specifying applicability; and providing for an effective
+6 date.
+7
+8 Be It Enacted by the Legislature of the State of Wyoming:
+9
+10 Section 1. W.S. 37-1-101(a)(vi)(H) by creating a new
+11 subdivision (XI) and 39-15-103(a)(i)(E) are amended to
+12 read:
+13
+14 37-1-101. Definitions.
+15
+1 HB0139
+
+2026 STATE OF WYOMING 26LSO-0370
+1 (a) As used in chapters 1, 2, 3, 12, 17 and 18 of
+2 this title:
+3
+4 (vi) "Public utility" means and includes every
+5 person that owns, operates, leases, controls or has power
+6 to operate, lease or control:
+7
+8 (H) None of the provisions of this chapter
+9 shall apply to:
+10
+11 (XI) The retail sale of electricity by
+12 a person who is not otherwise regulated as a public utility
+13 under this title, a cooperative electric utility defined in
+14 W.S. 37-17-101(a)(i) or a utility owned and operated by a
+15 municipality, to:
+16
+17 (1) One (1) customer within the
+18 certificated service territory of a public utility,
+19 excluding a cooperative electric utility as defined by W.S.
+20 37-17-101(a)(i) or a utility owned and operated by a
+21 municipality;
+22
+2 HB0139
+
+2026 STATE OF WYOMING 26LSO-0370
+1 (2) Not more than four (4)
+2 customers with a total combined electric load of not less
+3 than five (5) megawatts within the certificated service
+4 territory of a public utility, excluding a cooperative
+5 electric utility as defined by W.S. 37-17-101(a)(i) or a
+6 utility owned and operated by a municipality; or
+7
+8 (3) Not more than four (4)
+9 customers within the certificated service territory of a
+10 public utility, subject to all of the following:
+11
+12 a. The customers submit an
+13 application for new or additional electric service to the
+14 certificated public utility;
+15
+16 b. The public utility does
+17 not respond to the customer's request with an evaluation of
+18 the request within six (6) months or the public utility
+19 determines that the public utility is unable to provide the
+20 requested service within one (1) year of the request or
+21 within another period as agreed upon by the public utility
+22 and the customer;
+23
+3 HB0139
+
+2026 STATE OF WYOMING 26LSO-0370
+1 c. The public utility and
+2 the customer cannot agree to a tariff, agreement or
+3 electric service agreement as provided in W.S. 37-3-116.
+4
+5 39-15-103. Imposition.
+6
+7 (a) Taxable event. The following shall apply:
+8
+9 (i) Except as provided by W.S. 39-15-105, there
+10 is levied an excise tax upon:
+11
+12 (E) The sales price paid to public
+13 utilities as defined in W.S. 37-1-101 through 37-3-114 and
+14 to persons furnishing gas, electricity or heat for
+15 domestic, industrial or commercial consumption, including
+16 persons that sell electricity and are not regulated as a
+17 public utility as provided in W.S. 37-1-101(a)(vi)(H)(XI);
+18
+19 Section 2. This act shall apply to all tariffs,
+20 contracts and other agreements entered into on and after
+21 the effective date of this act. Nothing in this act shall
+22 be construed to alter, amend or impair any agreement
+23 entered into before the effective date of this act,
+4 HB0139
+
+2026 STATE OF WYOMING 26LSO-0370
+1 provided that nothing shall prohibit an electric customer
+2 or public utility from entering into or renewing an
+3 agreement, contract or tariff after the effective date of
+4 this act for the agreement, contract or tariff to conform
+5 with this act.
+6
+7 Section 3. This act is effective July 1, 2026.
+8
+9 (END)
+5 HB0139

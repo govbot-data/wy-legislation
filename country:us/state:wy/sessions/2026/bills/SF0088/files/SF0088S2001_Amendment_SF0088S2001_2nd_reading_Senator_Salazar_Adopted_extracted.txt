@@ -1,0 +1,65 @@
+Title: 
+Official Title: 
+Source: versions - Amendment SF0088S2001 (2nd reading) - Senator Salazar (Adopted)
+Media Type: application/pdf
+Visual Markup Detected: true -- this document likely contains redline (strikethrough/underline) formatting; plain text extraction may not faithfully represent what the bill changes. See the saved original file.
+
+================================================================================
+
+SF0088S2001
+1 Delete the Senate standing committee amendment (SF0088SS001/A)
+2 entirely and further amend as follows:
+3
+4 Page 1-line 9 After "paragraph (iii)" delete "is" and insert
+5 ", 7-19-302 by creating a new subsection (w)
+6 and 7-19-303(c)(ii) are".
+7
+8 Page 2-line 20 Delete entirely and insert:
+9
+10 "(A) A facility licensed as a child care provider
+11 by the department of family services;".
+12
+13
+14 Page 3-lines 8 through 12 Delete entirely and renumber as
+15 necessary.
+16
+17 Page 3-after line 12 Insert:
+18
+19 "7-19-302. Registration of offenders; procedure;
+20 verification; fees.
+21
+22 (w) Upon receiving information from an offender under this
+23 section, the division shall verify the residential address of the
+24 offender to determine whether the offender lives near a child care
+25 facility as defined by W.S. 6-2-320(e)(iii). Upon request by an
+26 offender, the sheriff or the division shall determine whether an
+27 address provided by the offender is within one thousand (1,000)
+28 feet of a child care facility as defined by W.S. 6-2-320(e)(iii).
+29
+30 7-19-303. Offenders central registry; dissemination of
+31 information.
+32
+33 (c) The division shall provide notification of registration
+34 under this act, including all registration information, to the
+35 district attorney of the county where the registered offender is
+36 residing at the time of registration or to which the offender
+37 moves. In addition, the following shall apply:
+38
+39 (ii) If the offender was convicted of an offense specified
+40 in W.S. 7-19-302(h) or (j), notification shall be provided by mail,
+41 personally or by any other means reasonably calculated to ensure
+42 delivery of the notice to residential neighbors within at least
+43 seven hundred fifty (750) feet of the offender's residence,
+44 organizations in the community, including schools, religious and
+1
+
+1 youth organizations by the sheriff or his designee. The division
+2 shall provide notice to each child care facility as defined by
+3 W.S. 6-2-320(e)(iii) within at least one thousand (1,000) feet of
+4 the offender's residence. In addition, notification regarding an
+5 offender employed by or attending school at any educational
+6 institution shall be provided upon request by the educational
+7 institution to a member of the institution's campus community as
+8 defined by subsection (h) of this section;". SALAZAR, OLSEN,
+9 ROTHFUSS
+2
