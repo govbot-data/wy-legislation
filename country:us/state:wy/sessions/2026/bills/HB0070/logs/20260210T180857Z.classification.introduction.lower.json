@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "H Introduced and Referred to H01 - Judiciary 57-5-0-0-0",
+    "occurred_at": "2026-02-10T18:08:57+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0070",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0070"
+}

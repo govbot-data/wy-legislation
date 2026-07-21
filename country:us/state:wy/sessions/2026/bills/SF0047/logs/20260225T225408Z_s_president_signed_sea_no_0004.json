@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "S President Signed SEA No. 0004",
+    "occurred_at": "2026-02-25T22:54:08+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0047",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0047"
+}

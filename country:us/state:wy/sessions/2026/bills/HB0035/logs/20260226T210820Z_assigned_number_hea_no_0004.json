@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Assigned Number HEA No. 0004",
+    "occurred_at": "2026-02-26T21:08:20+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0035",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0035"
+}

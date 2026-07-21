@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Assigned Number SEA No. 0043",
+    "occurred_at": "2026-03-04T19:25:37+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0059",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0059"
+}

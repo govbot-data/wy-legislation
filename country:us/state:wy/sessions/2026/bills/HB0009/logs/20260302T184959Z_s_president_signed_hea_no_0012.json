@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "S President Signed HEA No. 0012",
+    "occurred_at": "2026-03-02T18:49:59+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0009",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0009"
+}

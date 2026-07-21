@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned Chapter Number 88",
+    "occurred_at": "2026-03-08T00:43:55+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0098",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0098"
+}

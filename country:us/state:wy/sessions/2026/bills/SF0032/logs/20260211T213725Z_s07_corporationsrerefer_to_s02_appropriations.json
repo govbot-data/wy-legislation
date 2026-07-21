@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S07 - Corporations:Rerefer to S02 - Appropriations",
+    "occurred_at": "2026-02-11T21:37:25+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0032",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0032"
+}

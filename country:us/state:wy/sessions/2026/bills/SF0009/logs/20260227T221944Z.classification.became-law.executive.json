@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned Chapter Number 14",
+    "occurred_at": "2026-02-27T22:19:44+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0009",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0009"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Governor Vetoed SEA No. 0064",
+    "occurred_at": "2026-03-10T17:36:05+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0101",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0101"
+}

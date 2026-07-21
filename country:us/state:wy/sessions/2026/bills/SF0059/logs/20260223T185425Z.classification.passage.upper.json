@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "S 3rd Reading:Passed 29-2-0-0-0",
+    "occurred_at": "2026-02-23T18:54:25+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0059",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0059"
+}

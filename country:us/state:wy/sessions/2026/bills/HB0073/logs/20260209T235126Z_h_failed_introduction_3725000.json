@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H Failed Introduction 37-25-0-0-0",
+    "occurred_at": "2026-02-09T23:51:26+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0073",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0073"
+}

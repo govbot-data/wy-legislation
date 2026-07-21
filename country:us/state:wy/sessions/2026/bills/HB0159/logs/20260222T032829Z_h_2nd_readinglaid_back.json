@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H 2nd Reading:Laid Back",
+    "occurred_at": "2026-02-22T03:28:29+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0159",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0159"
+}

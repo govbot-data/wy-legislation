@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S Received for Introduction",
+    "occurred_at": "2026-02-23T16:15:46+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0092",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0092"
+}

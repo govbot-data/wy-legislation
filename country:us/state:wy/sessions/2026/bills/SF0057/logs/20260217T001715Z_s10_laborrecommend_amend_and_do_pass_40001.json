@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S10 - Labor:Recommend Amend and Do Pass 4-0-0-0-1",
+    "occurred_at": "2026-02-17T00:17:15+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0057",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0057"
+}

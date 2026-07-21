@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H Received for Introduction",
+    "occurred_at": "2026-02-05T20:40:31+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "filing"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0063",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0063"
+}

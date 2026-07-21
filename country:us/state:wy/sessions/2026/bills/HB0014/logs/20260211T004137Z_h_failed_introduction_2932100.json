@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H Failed Introduction 29-32-1-0-0",
+    "occurred_at": "2026-02-11T00:41:37+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0014",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0014"
+}

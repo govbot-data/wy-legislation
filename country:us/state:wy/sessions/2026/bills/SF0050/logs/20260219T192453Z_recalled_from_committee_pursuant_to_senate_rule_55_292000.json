@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Recalled from Committee Pursuant to Senate Rule 5-5: 29-2-0-0-0",
+    "occurred_at": "2026-02-19T19:24:53+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0050",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0050"
+}

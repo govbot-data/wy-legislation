@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S02 - Appropriations:Recommend Do Pass 4-1-0-0-0",
+    "occurred_at": "2026-03-03T01:55:44+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0070",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0070"
+}

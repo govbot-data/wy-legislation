@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S04 - Education:Recommend Do Pass 4-0-1-0-0",
+    "occurred_at": "2026-02-25T17:18:55+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0024",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0024"
+}

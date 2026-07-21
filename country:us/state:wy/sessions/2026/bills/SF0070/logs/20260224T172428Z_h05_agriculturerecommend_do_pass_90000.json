@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H05 - Agriculture:Recommend Do Pass 9-0-0-0-0",
+    "occurred_at": "2026-02-24T17:24:28+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0070",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0070"
+}

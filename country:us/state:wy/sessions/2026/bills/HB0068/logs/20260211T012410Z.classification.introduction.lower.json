@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "H Introduced and Referred to H03 - Revenue 58-1-2-0-1",
+    "occurred_at": "2026-02-11T01:24:10+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0068",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0068"
+}

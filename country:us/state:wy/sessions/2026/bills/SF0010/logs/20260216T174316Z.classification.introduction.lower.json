@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "H Introduced and Referred to H10 - Labor",
+    "occurred_at": "2026-02-16T17:43:16+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0010",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0010"
+}

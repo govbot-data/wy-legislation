@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H02 - Appropriations:Do Pass Failed 1-6-0-0-0",
+    "occurred_at": "2026-02-27T17:51:32+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0109",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0109"
+}

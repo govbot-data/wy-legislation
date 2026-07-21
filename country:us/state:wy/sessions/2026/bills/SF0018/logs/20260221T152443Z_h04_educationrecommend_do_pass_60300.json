@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H04 - Education:Recommend Do Pass 6-0-3-0-0",
+    "occurred_at": "2026-02-21T15:24:43+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0018",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0018"
+}

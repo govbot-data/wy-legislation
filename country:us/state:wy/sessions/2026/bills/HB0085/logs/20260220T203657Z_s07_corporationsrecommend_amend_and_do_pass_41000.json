@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S07 - Corporations:Recommend Amend and Do Pass 4-1-0-0-0",
+    "occurred_at": "2026-02-20T20:36:57+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0085",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0085"
+}

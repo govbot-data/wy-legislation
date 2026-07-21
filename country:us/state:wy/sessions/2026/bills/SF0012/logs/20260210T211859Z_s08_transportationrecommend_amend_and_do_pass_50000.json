@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S08 - Transportation:Recommend Amend and Do Pass 5-0-0-0-0",
+    "occurred_at": "2026-02-10T21:18:59+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0012",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0012"
+}

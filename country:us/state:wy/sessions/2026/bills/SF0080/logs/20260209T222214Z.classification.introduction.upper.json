@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "S Introduced and Referred to S03 - Revenue 30-1-0-0-0",
+    "occurred_at": "2026-02-09T22:22:14+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0080",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0080"
+}

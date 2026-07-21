@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "S 3rd Reading:Passed 30-0-1-0-0",
+    "occurred_at": "2026-02-26T17:57:38+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0034",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0034"
+}

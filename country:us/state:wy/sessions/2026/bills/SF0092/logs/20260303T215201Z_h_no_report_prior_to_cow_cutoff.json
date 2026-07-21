@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H No report prior to CoW Cutoff",
+    "occurred_at": "2026-03-03T21:52:01+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0092",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0092"
+}

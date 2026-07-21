@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Became Law without Signature",
+    "occurred_at": "2026-03-09T23:52:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0081",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0081"
+}

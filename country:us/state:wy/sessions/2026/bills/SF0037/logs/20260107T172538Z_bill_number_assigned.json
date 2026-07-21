@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Bill Number Assigned",
+    "occurred_at": "2026-01-07T17:25:38+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0037",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0037"
+}

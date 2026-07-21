@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "S Placed on General File",
+    "occurred_at": "2026-02-25T17:20:58+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0023",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0023"
+}

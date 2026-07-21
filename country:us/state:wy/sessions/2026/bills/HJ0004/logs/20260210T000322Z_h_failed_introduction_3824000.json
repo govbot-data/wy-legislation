@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H Failed Introduction 38-24-0-0-0",
+    "occurred_at": "2026-02-10T00:03:22+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HJ0004",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HJ0004"
+}

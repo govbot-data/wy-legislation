@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Assigned Chapter Number 77",
+    "occurred_at": "2026-03-08T00:27:27+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0066",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0066"
+}

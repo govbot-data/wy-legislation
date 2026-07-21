@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": ":Refer to S10 - Labor",
+    "occurred_at": "2026-02-23T21:30:57+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0117",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0117"
+}

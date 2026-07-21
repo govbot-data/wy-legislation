@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H Appointed JCC01 Members",
+    "occurred_at": "2026-02-24T23:55:06+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0001",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0001"
+}

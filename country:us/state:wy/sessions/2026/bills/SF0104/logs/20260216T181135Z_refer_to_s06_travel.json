@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": ":Refer to S06 - Travel",
+    "occurred_at": "2026-02-16T18:11:35+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0104",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0104"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S 2nd Reading:Passed",
+    "occurred_at": "2026-02-19T17:50:39+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0126",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0126"
+}

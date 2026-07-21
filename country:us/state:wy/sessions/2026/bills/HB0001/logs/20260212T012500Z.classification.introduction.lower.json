@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "H Introduced and Referred to HCOW",
+    "occurred_at": "2026-02-12T01:25:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0001",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0001"
+}

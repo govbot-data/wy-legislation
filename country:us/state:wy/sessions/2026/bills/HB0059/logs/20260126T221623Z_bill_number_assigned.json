@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Bill Number Assigned",
+    "occurred_at": "2026-01-26T22:16:23+00:00",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0059",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0059"
+}

@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "S Introduced and Referred to S10 - Labor 29-0-1-0-1",
+    "occurred_at": "2026-02-10T18:26:18+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0057",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0057"
+}

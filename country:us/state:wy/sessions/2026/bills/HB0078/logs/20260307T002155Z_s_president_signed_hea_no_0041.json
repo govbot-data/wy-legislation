@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "S President Signed HEA No. 0041",
+    "occurred_at": "2026-03-07T00:21:55+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0078",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0078"
+}

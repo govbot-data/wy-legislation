@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "H 3rd Reading:Passed 61-0-1-0-0",
+    "occurred_at": "2026-02-22T04:03:17+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage",
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0083",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0083"
+}

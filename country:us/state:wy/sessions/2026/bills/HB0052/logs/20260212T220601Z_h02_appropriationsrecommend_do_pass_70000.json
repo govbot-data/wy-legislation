@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H02 - Appropriations:Recommend Do Pass 7-0-0-0-0",
+    "occurred_at": "2026-02-12T22:06:01+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0052",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0052"
+}

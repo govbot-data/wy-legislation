@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H Speaker Signed SEA No. 0041",
+    "occurred_at": "2026-03-04T22:13:20+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0107",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0107"
+}

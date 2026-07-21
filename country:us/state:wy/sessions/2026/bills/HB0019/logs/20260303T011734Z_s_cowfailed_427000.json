@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S COW:Failed 4-27-0-0-0",
+    "occurred_at": "2026-03-03T01:17:34+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0019",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0019"
+}

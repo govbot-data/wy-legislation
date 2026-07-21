@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H:Died in Committee Returned Bill Pursuant to HR 5-4",
+    "occurred_at": "2026-03-03T21:53:12+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0082",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0082"
+}

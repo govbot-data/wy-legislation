@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "S Introduced and Referred to S09 - Minerals 26-4-1-0-0",
+    "occurred_at": "2026-02-10T18:14:35+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0054",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0054"
+}

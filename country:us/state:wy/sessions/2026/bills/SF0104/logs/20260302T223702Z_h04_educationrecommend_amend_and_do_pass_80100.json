@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "H04 - Education:Recommend Amend and Do Pass 8-0-1-0-0",
+    "occurred_at": "2026-03-02T22:37:02+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0104",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0104"
+}

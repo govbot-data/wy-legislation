@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Governor Signed SEA No. 0051",
+    "occurred_at": "2026-03-06T23:47:37+00:00",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-signature"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/SF0045",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SF0045"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "S COW:Passed",
+    "occurred_at": "2026-02-24T00:16:12+00:00",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0004",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0004"
+}
