@@ -130,6 +130,26 @@
       }
     },
     {
+      "description": "H COW:H Pursuant to HR 10-7 Failed by Roll Call 13-45-4-0-0",
+      "date": "2026-02-19T18:39:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T06:25:55Z"
+      }
+    },
+    {
+      "description": "H COW:H Pursuant to HR 12-9 Passed by Roll Call 46-11-5-0-0",
+      "date": "2026-02-19T18:39:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T06:25:55Z"
+      }
+    },
+    {
       "description": "H Placed on General File",
       "date": "2026-02-17T17:57:06+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -419,7 +439,7 @@
     "division_id": "ocd-division/country:us/state:wy"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:03:04Z",
+    "logs_latest_update": "2026-08-25T06:25:55Z",
     "text_extraction_latest_update": "2026-07-21T21:37:21.162740Z"
   }
 }

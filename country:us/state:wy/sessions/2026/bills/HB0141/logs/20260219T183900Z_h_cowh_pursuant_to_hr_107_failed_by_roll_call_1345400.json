@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "H COW:H Pursuant to HR 10-7 Failed by Roll Call 13-45-4-0-0",
+    "occurred_at": "2026-02-19T18:39:00+00:00",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://wyoleg.gov/Legislation/2026/HB0141",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB0141"
+}

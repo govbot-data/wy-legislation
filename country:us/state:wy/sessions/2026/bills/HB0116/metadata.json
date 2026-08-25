@@ -132,13 +132,26 @@
       }
     },
     {
-      "description": "H Pursuant to HR 12-11a Passed by Roll Call 47-12-3-0-0",
-      "date": "2026-02-13T18:17:07+00:00",
+      "description": "H Introduced and Referred to H05 - Agriculture Passed by Roll Call 47-12-3-0-0",
+      "date": "2026-02-13T18:15:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T06:25:55Z"
+      }
+    },
+    {
+      "description": "H Pursuant to HR 12-11 (a) Passed by Roll Call 45-14-3-0-0",
+      "date": "2026-02-13T18:04:00+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [],
       "related_entities": [],
       "_processing": {
-        "log_file_created": "2026-07-21T19:03:04Z"
+        "log_file_created": "2026-08-25T06:25:55Z"
       }
     },
     {
@@ -242,7 +255,7 @@
     "division_id": "ocd-division/country:us/state:wy"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:03:04Z",
+    "logs_latest_update": "2026-08-25T06:25:55Z",
     "text_extraction_latest_update": "2026-07-21T21:28:57.642704Z"
   }
 }

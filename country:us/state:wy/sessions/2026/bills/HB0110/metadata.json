@@ -26,6 +26,16 @@
   ],
   "actions": [
     {
+      "description": "H Pursuant to HR 12-11 (a) Failed by Roll Call 38-22-2-0-0",
+      "date": "2026-02-13T17:54:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T06:25:55Z"
+      }
+    },
+    {
       "description": "H Failed Introduction 41-21-0-0-0",
       "date": "2026-02-09T23:20:57+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -126,7 +136,7 @@
     "division_id": "ocd-division/country:us/state:wy"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:03:03Z",
+    "logs_latest_update": "2026-08-25T06:25:55Z",
     "text_extraction_latest_update": "2026-07-21T21:32:35.624017Z"
   }
 }

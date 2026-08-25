@@ -38,6 +38,16 @@
       }
     },
     {
+      "description": "H COW:H Motion to move Bill up for Consideration Failed by Roll Call 21-37-4-0-0",
+      "date": "2026-02-23T15:58:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-08-25T06:25:55Z"
+      }
+    },
+    {
       "description": "H Placed on General File",
       "date": "2026-02-14T02:27:02+00:00",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -272,7 +282,7 @@
     "division_id": "ocd-division/country:us/state:wy"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T19:03:03Z",
+    "logs_latest_update": "2026-08-25T06:25:55Z",
     "text_extraction_latest_update": "2026-07-21T21:17:12.332625Z"
   }
 }
